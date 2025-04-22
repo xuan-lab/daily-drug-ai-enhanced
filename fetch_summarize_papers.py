@@ -11,6 +11,7 @@ MAX_PAPERS_TO_FETCH = 20
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions" # Corrected API endpoint
 DEEPSEEK_MODEL = "deepseek-chat"
 OUTPUT_DIR = "output"
+ARCHIVE_DIR = "archives" # Added archive directory constant
 DAYS_TO_SEARCH = 1
 README_FILE = "README.md"
 README_START_MARKER = "<!-- DAILY_PAPERS_START -->"
@@ -251,6 +252,22 @@ def update_readme(readme_path, start_marker, end_marker, new_content):
         print(f"An unexpected error occurred during README update: {e}")
         return False
 
+def save_archive(archive_dir, date_str, content):
+    """Saves the daily summary content to an archive file."""
+    try:
+        os.makedirs(archive_dir, exist_ok=True)
+        archive_filename = os.path.join(archive_dir, f"{date_str}.md")
+        with open(archive_filename, 'w', encoding='utf-8') as f:
+            f.write(content)
+        print(f"Successfully saved archive to {archive_filename}")
+        return True
+    except IOError as e:
+        print(f"Error writing archive file {archive_filename}: {e}")
+        return False
+    except Exception as e:
+        print(f"An unexpected error occurred during archive saving: {e}")
+        return False
+
 if __name__ == "__main__":
     print("Starting daily paper fetching and summarization process...")
     start_time = datetime.now()
@@ -286,25 +303,8 @@ if __name__ == "__main__":
 
     if not paper_ids:
         print("No new papers found matching the criteria. Exiting.")
-        no_papers_content = f"*No new papers found for '{PUBMED_SEARCH_TERM}' on {today_date}.*"
-        update_readme(README_FILE, README_START_MARKER, README_END_MARKER, no_papers_content)
-        sys.exit(0)
-
-    papers_to_summarize_ids = paper_ids[:MAX_PAPERS_TO_FETCH]
-    papers_data = fetch_pubmed_abstracts(papers_to_summarize_ids)
-
-    if not papers_data:
-        print("Could not fetch abstracts for any of the selected papers. Exiting.")
-        fetch_error_content = f"*Could not fetch paper abstracts on {today_date}. Check workflow logs for details.*"
-        update_readme(README_FILE, README_START_MARKER, README_END_MARKER, fetch_error_content)
-        sys.exit(0)
-
-    markdown_output_for_readme = []
-    markdown_output_for_readme.append(f"### Summary for {today_date}")
-    markdown_output_for_readme.append(f"*Fetched and summarized {len(papers_data)} papers matching '{PUBMED_SEARCH_TERM}'.*\n")
-
-    summarized_count = 0
-    for pmid, data in papers_data.items():
+        no_papers_content = f"### Summary for {today_date}\n*No new papers found for '{PUBMED_SEARCH_TERM}' on {today_date}.*"
+        # Update README with no papers message
         print(f"\nProcessing PMID: {pmid}...")
         print(f"Title: {data['title']}")
 
