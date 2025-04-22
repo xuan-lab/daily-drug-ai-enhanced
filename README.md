@@ -301,4 +301,4 @@
 
 <!-- DAILY_PAPERS_END -->
 
-Other sections...
+今天也要加油哦！
