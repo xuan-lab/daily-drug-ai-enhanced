@@ -300,38 +300,81 @@ if __name__ == "__main__":
 
     paper_ids = search_pubmed(PUBMED_SEARCH_TERM, days=DAYS_TO_SEARCH, retmax=MAX_PAPERS_TO_FETCH * 2)
     today_date = start_time.strftime('%Y-%m-%d')
+    readme_update_successful = False # Initialize flag
 
     if not paper_ids:
         print("No new papers found matching the criteria. Exiting.")
         no_papers_content = f"### Summary for {today_date}\n*No new papers found for '{PUBMED_SEARCH_TERM}' on {today_date}.*"
         # Update README with no papers message
-        print(f"\nProcessing PMID: {pmid}...")
-        print(f"Title: {data['title']}")
+        readme_update_successful = update_readme(
+            README_FILE,
+            README_START_MARKER,
+            README_END_MARKER,
+            no_papers_content
+        )
+        # Also save the "no papers" message to archive
+        save_archive(ARCHIVE_DIR, today_date, no_papers_content)
+        print(f"\nProcess finished in {datetime.now() - start_time}.")
+        # Exit early if no papers found
+        sys.exit(0 if (quote_update_successful and readme_update_successful) else 1)
+    else:
+        # Papers were found, proceed with fetching and summarizing
+        papers = fetch_pubmed_abstracts(paper_ids[:MAX_PAPERS_TO_FETCH]) # Limit fetching
 
-        summary = summarize_text_deepseek(data['abstract'], deepseek_api_key)
+        if not papers:
+            print("Could not fetch abstracts for any papers. Exiting.")
+            no_abstracts_content = f"### Summary for {today_date}\n*Found paper IDs but could not fetch abstracts.*"
+            readme_update_successful = update_readme(
+                README_FILE,
+                README_START_MARKER,
+                README_END_MARKER,
+                no_abstracts_content
+            )
+            save_archive(ARCHIVE_DIR, today_date, no_abstracts_content)
+            print(f"\nProcess finished in {datetime.now() - start_time}.")
+            sys.exit(1) # Exit with error if abstracts couldn't be fetched
 
-        if not summary.startswith("Error:"):
-            pubmed_url = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
-            markdown_output_for_readme.append(f"*   **[{data['title']}]({pubmed_url})** (PMID: {pmid})")
-            summary_lines = summary.split('\n')
-            for line in summary_lines:
-                markdown_output_for_readme.append(f"    *   {line.strip()}")
-            markdown_output_for_readme.append("")
-            summarized_count += 1
-            print(f"Summary generated for PMID: {pmid}")
-        else:
-            print(f"Skipping PMID {pmid} due to summarization error: {summary}")
-            markdown_output_for_readme.append(f"*   **{data['title']}** (PMID: {pmid}) - *Error generating summary: {summary}*")
-            markdown_output_for_readme.append("")
+        # Initialize markdown list and counter *before* the loop
+        markdown_output_for_readme = [f"### Summary for {today_date}"]
+        markdown_output_for_readme.append(f"*Fetched and summarized {len(papers)} papers matching '{PUBMED_SEARCH_TERM}'.*")
+        markdown_output_for_readme.append("") # Add a blank line
+        summarized_count = 0
 
-    readme_update_successful = update_readme(
-        README_FILE,
-        README_START_MARKER,
-        README_END_MARKER,
-        "\n".join(markdown_output_for_readme)
-    )
+        # Loop through fetched papers
+        for pmid, data in papers.items():
+            print(f"\nProcessing PMID: {pmid}...")
+            print(f"Title: {data['title']}")
 
-    end_time = datetime.now()
-    print(f"\nSuccessfully generated summaries for {summarized_count} papers.")
-    print(f"Process finished in {end_time - start_time}.")
-    sys.exit(0 if (quote_update_successful and readme_update_successful) else 1)
+            summary = summarize_text_deepseek(data['abstract'], deepseek_api_key)
+
+            if not summary.startswith("Error:"):
+                pubmed_url = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
+                markdown_output_for_readme.append(f"*   **[{data['title']}]({pubmed_url})** (PMID: {pmid})")
+                summary_lines = summary.split('\n')
+                for line in summary_lines:
+                    markdown_output_for_readme.append(f"    *   {line.strip()}")
+                markdown_output_for_readme.append("")
+                summarized_count += 1
+                print(f"Summary generated for PMID: {pmid}")
+            else:
+                print(f"Skipping PMID {pmid} due to summarization error: {summary}")
+                # Append error message to README for this paper
+                markdown_output_for_readme.append(f"*   **{data['title']}** (PMID: {pmid}) - *Error generating summary: {summary}*")
+                markdown_output_for_readme.append("")
+
+        # Now update the README with the generated summaries
+        readme_update_successful = update_readme(
+            README_FILE,
+            README_START_MARKER,
+            README_END_MARKER,
+            "\n".join(markdown_output_for_readme)
+        )
+
+        # Save the successful summary to archive
+        archive_content = "\n".join(markdown_output_for_readme)
+        save_archive(ARCHIVE_DIR, today_date, archive_content)
+
+        end_time = datetime.now()
+        print(f"\nSuccessfully generated summaries for {summarized_count} papers.")
+        print(f"Process finished in {end_time - start_time}.")
+        sys.exit(0 if (quote_update_successful and readme_update_successful) else 1)
