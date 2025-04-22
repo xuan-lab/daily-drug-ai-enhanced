@@ -7,7 +7,7 @@ import re
 
 PUBMED_SEARCH_TERM = "pharmacy OR pharmaceutical sciences OR drug interactions OR traditional Chinese medicine"
 MAX_PAPERS_TO_FETCH = 20
-DEEPSEEK_API_URL = "https://api.deepseek.com"
+DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions" # Corrected API endpoint
 DEEPSEEK_MODEL = "deepseek-chat"
 OUTPUT_DIR = "output"
 DAYS_TO_SEARCH = 1
