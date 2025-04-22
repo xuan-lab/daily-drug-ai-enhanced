@@ -1,6 +1,6 @@
 # Daily Drug Discovery Papers
 
-Some introductory text...
+欢迎阅读:)
 
 ## Daily Paper Summaries
 
