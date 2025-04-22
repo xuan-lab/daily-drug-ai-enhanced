@@ -115,18 +115,17 @@ def summarize_text_deepseek(text, api_key):
         "Authorization": f"Bearer {api_key}"
     }
     prompt = (
-        "Please provide a concise summary (around 2-3 sentences) "
-        "of the following academic paper abstract, focusing on the key findings and relevance "
-        "to pharmacy or pharmaceutical sciences:\n\n"
+        "请提供以下学术论文摘要的简明中文总结（约3-5句话），"
+        "重点关注其关键发现及其与药学或药物科学的相关性：\n\n"
         f"{text}"
     )
     data = {
         "model": DEEPSEEK_MODEL,
         "messages": [
-            {"role": "system", "content": "You are an expert assistant specializing in summarizing biomedical research papers for pharmacists and pharmaceutical scientists."},
+            {"role": "system", "content": "你是一位专门为药剂师和药物科学家总结生物医学研究论文的专家助手。请用中文回答。"},
             {"role": "user", "content": prompt}
         ],
-        "max_tokens": 200,
+        "max_tokens": 300, # Increased max_tokens slightly for Chinese output
         "temperature": 0.3,
         "stream": False
     }
