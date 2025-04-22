@@ -6,7 +6,7 @@ import sys
 import re
 
 # Broadened search term for wider scope and newer trends
-PUBMED_SEARCH_TERM = "pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine"
+PUBMED_SEARCH_TERM = "network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine"
 MAX_PAPERS_TO_FETCH = 20
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions" # Corrected API endpoint
 DEEPSEEK_MODEL = "deepseek-chat"
@@ -283,13 +283,20 @@ if __name__ == "__main__":
         print(f"Failed to generate daily quote: {daily_quote}. Proceeding without quote.")
         daily_quote_content = "*Failed to generate daily quote.*"
     else:
-        quote_lines = daily_quote.split('\n')
+        # Attempt to split into Chinese and English parts, stripping whitespace and removing empty lines
+        quote_lines = [line.strip() for line in daily_quote.strip().split('\n') if line.strip()]
+
         if len(quote_lines) >= 2:
-            # Combine Chinese and English on one line, separated by ' / '
-            daily_quote_content = f"*{quote_lines[0].strip()}* / *{quote_lines[1].strip()}*"
+            # Assume first line is Chinese, second is English
+            chinese_quote = quote_lines[0]
+            english_translation = quote_lines[1]
+            daily_quote_content = f"*{chinese_quote}* / *{english_translation}*"
+            print(f"Formatted quote with translation: {daily_quote_content}")
         else:
-            # Fallback if format is unexpected, keep original behavior
-            daily_quote_content = f"*{daily_quote}*"
+            # Fallback if format is unexpected (less than 2 non-empty lines)
+            print(f"Warning: Quote format unexpected. Expected 'Chinese\nEnglish', received: '{daily_quote}'. Using raw output.")
+            # Display only the received content without the ' / ' separator
+            daily_quote_content = f"*{daily_quote.strip()}*" # Use the original stripped quote
 
     quote_update_successful = update_readme(
         README_FILE,
