@@ -268,8 +268,10 @@ if __name__ == "__main__":
     else:
         quote_lines = daily_quote.split('\n')
         if len(quote_lines) >= 2:
-            daily_quote_content = f"*{quote_lines[0]}*\n\n*{quote_lines[1]}*"
+            # Combine Chinese and English on one line, separated by ' / '
+            daily_quote_content = f"*{quote_lines[0].strip()}* / *{quote_lines[1].strip()}*"
         else:
+            # Fallback if format is unexpected, keep original behavior
             daily_quote_content = f"*{daily_quote}*"
 
     quote_update_successful = update_readme(
@@ -278,8 +280,6 @@ if __name__ == "__main__":
         README_QUOTE_END_MARKER,
         daily_quote_content
     )
-    if not quote_update_successful:
-        print("Warning: Could not update the daily quote section in README.md.")
 
     paper_ids = search_pubmed(PUBMED_SEARCH_TERM, days=DAYS_TO_SEARCH, retmax=MAX_PAPERS_TO_FETCH * 2)
     today_date = start_time.strftime('%Y-%m-%d')
