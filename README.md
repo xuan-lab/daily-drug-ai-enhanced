@@ -4,7 +4,7 @@
 
 <!-- DAILY_QUOTE_START -->
 
-*中文佳句* / *学如春起之苗，不见其增，日有所长。*
+*中文佳句* / *学海无涯，寸心如舟*
 
 <!-- DAILY_QUOTE_END -->
 
@@ -13,69 +13,76 @@
 <!-- DAILY_PAPERS_START -->
 
 ### Summary for 2025-04-22
-*Fetched and summarized 19 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine'.*
+*Fetched and summarized 19 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
 *   **[Wait or Drill? Shared Decision-making in Adolescents With Stable Osteochondritis Dissecans of the Knee.](https://pubmed.ncbi.nlm.nih.gov/40260663/)** (PMID: 40260663)
-    *   本研究通过选择联合分析调查了青少年膝关节稳定型剥脱性骨软骨炎（OCD）患者家属对治疗方式的偏好。关键发现显示：474名参与者最关注治疗失败风险（46.3%）和后续手术可能性（22.4%），90.8%的家长倾向于选择早期钻孔手术而非保守治疗，主要考虑因素是避免二次手术和恢复期。在药学相关性方面，该研究揭示了患者价值观对治疗决策的重要影响，为开发个性化治疗决策工具提供了依据，提示临床药学实践中需要加强医患共同决策，特别是针对需要长期药物治疗或手术干预的骨关节疾病。不同性别对治疗属性的重视程度存在差异（女性更关注恢复时间，男性更重视费用），这对制定个体化药物治疗方案具有参考价值。
+    *   本研究通过选择联合分析调查了青少年膝关节稳定型剥脱性骨软骨炎（OCD）患者家属对治疗方式的偏好。关键发现显示：474名参与者最关注治疗失败风险（46.3%）和后续手术可能性（22.4%），90.8%的家长倾向选择早期钻孔手术而非保守治疗，主要为了规避二次手术风险。在药学实践意义上，该研究揭示了患者价值观对治疗决策的重要影响，强调需要开发包含个体化偏好的共同决策工具，这对临床药学服务和治疗依从性研究具有启示作用。不同性别对治疗属性的重视程度存在差异（女性更关注恢复时间，男性更重视费用），这为个性化药物治疗方案的制定提供了参考依据。
+
+*   **[Measuring Direct Oral Anticoagulant (DOAC) Levels: Applications, Limitations, and Future Directions.](https://pubmed.ncbi.nlm.nih.gov/40260639/)** (PMID: 40260639)
+    *   这篇综述文章探讨了直接口服抗凝药（DOAC）抗凝效果监测面临的挑战，包括缺乏标准治疗范围、常规凝血检测不准确等问题。作者通过文献综述和案例说明，总结了常用检测方法的关键原则，提出了测量DOAC血药浓度的潜在适应症，并为结果解读提供了临床指导建议。文章特别指出，虽然DOAC通常不需要常规监测，但在某些紧急和非紧急临床情况下，测定血浆药物浓度可能对治疗决策具有重要价值。该研究为临床合理使用DOAC提供了重要的药学实践指导。
 
 *   **[Izalontamab (SI-B001), a novel EGFRxHER3 bispecific antibody in patients with Locally Advanced or Metastatic Epithelial Tumor: Results from first-in-human phase I/Ib study.](https://pubmed.ncbi.nlm.nih.gov/40260627/)** (PMID: 40260627)
-    *   本研究首次在人体中评估了新型EGFR×HER3双特异性抗体izalontamab（SI-B001）的安全性和药代动力学特征。关键发现包括：
-    *   1. 在60例晚期上皮肿瘤患者（主要为非小细胞肺癌）中，izalontamab表现出可耐受的安全性特征，最常见不良反应为皮疹（42%）和甲沟炎（25%），无药物相关死亡；
-    *   2. 药代动力学分析显示在≥6mg/kg剂量时呈现非线性特征，稳态清除率趋于剂量无关；
-    *   3. 观察到2例确认的部分缓解（NSCLC和头颈癌各1例）和18例疾病稳定，推荐II期剂量为9-16mg/kg每周给药。
+    *   本研究首次评估了新型EGFR×HER3双特异性抗体izalontamab（SI-B001）在局部晚期或转移性上皮肿瘤患者中的安全性和药代动力学特征。关键发现包括：
+    *   1. 在60例患者（主要为非小细胞肺癌）中显示出可耐受的安全性特征，最常见不良反应为皮疹（42%）和甲沟炎（25%），未发生药物相关死亡；
+    *   2. 药代动力学分析显示在6mg/kg及以上剂量时呈现非线性特征，稳态清除率趋于剂量无关；
+    *   3. 在NSCLC和头颈癌患者中观察到2例确认的部分缓解，推荐II期剂量为9-16mg/kg每周给药。
     *   
-    *   该研究为izalontamab作为联合治疗候选药物提供了初步临床依据，目前III期研究正在进行中，对开发针对EGFR/HER3通路的新型靶向疗法具有重要药学价值。
+    *   该研究为izalontamab作为联合治疗候选药物提供了重要依据，其针对EGFR/HER3双靶点的特性对开发新型肿瘤靶向疗法具有重要药学价值，目前III期研究正在进行中。
+
+*   **[Straightforward Access to 4-Sulfenylated Isocoumarins via Sulfoxides/MOMCl-Enabled Regioselective Cleavage and Reconfiguration of C-S Bonds.](https://pubmed.ncbi.nlm.nih.gov/40260622/)** (PMID: 40260622)
+    *   该研究首次发现亚砜与MOMCl（甲氧基甲基氯）的组合可介导亲电环化反应，通过区域选择性断裂和重构C-S键，在异香豆素骨架上引入多种硫基团。值得注意的是，MOMCl作为一种温和易得的烷基氯，在中性条件下作为不可或缺的活化剂发挥了关键作用，从而拓展了酸敏感底物的适用范围。这一发现为药物化学中硫修饰杂环化合物的合成提供了新策略，特别是对开发含硫药物分子具有重要意义。
+
+*   **[ZIF-8 composite nanofibrous membranes loaded with bFGF: a new approach for tendon adhesion prevention and repair.](https://pubmed.ncbi.nlm.nih.gov/40260599/)** (PMID: 40260599)
+    *   本研究通过一锅法制备了负载碱性成纤维细胞生长因子(bFGF)的ZIF-8纳米晶，并采用静电纺丝技术构建了双层纳米纤维膜。该复合膜在肌腱损伤部位可实现bFGF和Zn2+的持续释放（体外40天累计释放率达35.02%±4.27%），同时保持bFGF的生物活性。体内外实验证实，该递药系统能有效促进肌腱分化、防止粘连并改善修复质量，为肌腱损伤治疗提供了新型药物递送策略和理论指导。这一发现对开发长效局部给药系统具有重要药学价值。
+
+*   **[Efficacy and safety of calcium polystyrene sulphonate and sodium zirconium cyclosilicate as potassium binders for chronic hyperkalemia in hemodialysis patients: A prospective study.](https://pubmed.ncbi.nlm.nih.gov/40260596/)** (PMID: 40260596)
+    *   本研究比较了环硅酸锆钠(SZC)和聚苯乙烯磺酸钙(CPS)对维持性血液透析(HD)患者高钾血症的疗效。结果显示：12周治疗后，SZC组血钾水平(4.94±0.44 mmol/L)显著低于CPS组(5.12±0.49 mmol/L)，且81%的SZC组患者达到血钾<5.3 mmol/L的目标值(CPS组为65%)。SZC在2周内即显示出更快的血钾控制效果，且未出现严重不良反应。该研究表明SZC在长期控制慢性高钾血症方面具有更优的疗效和安全性，为临床用药选择提供了重要依据。
 
 *   **[An eco-friendly HPLC method for the sustainable analysis of the newly approved combinations of Alfuzosin and Tamsulosin, with Tadalafil in organic-solvent-free mixed-micellar systems.](https://pubmed.ncbi.nlm.nih.gov/40260593/)** (PMID: 40260593)
-    *   本研究开发了一种新型环保的无有机溶剂混合胶束液相色谱法，用于同时分析治疗良性前列腺增生(BPH)的α-1阻滞剂(阿夫唑嗪和他达拉非)与磷酸二酯酶-5抑制剂(他达拉非)。该方法采用绿色混合溶剂体系，通过响应面法优化色谱条件，在5-100 μg/mL范围内具有良好的线性关系，检测限和定量限符合要求，并成功应用于药品含量测定。环保评估显示该方法具有优越的绿色性(AGREE评分0.76)和适用性(BAGI评分82.5)，为BPH联合用药的质量控制提供了更环保高效的分析方案，对药物研发和制剂质量控制具有重要意义。
+    *   本研究开发了一种新型环保的无有机溶剂混合胶束液相色谱法，可同时分析良性前列腺增生(BPH)联合治疗药物α-1阻滞剂(阿夫唑嗪和他达拉非)与磷酸二酯酶-5抑制剂(他达拉非)。该方法采用绿色表面活性剂体系，通过响应面法优化色谱条件，在5-100 μg/mL范围内具有良好的线性关系，检测限低于1.6 μg/mL。方法成功应用于药品含量测定，其环保性(AGREE评分0.76)和实用性(BAGI评分82.5)均优于现有方法。该技术为BPH联合用药的质量控制提供了更环保、可靠的分析方案，对药物研发和生产具有重要应用价值。
 
 *   **[Self-Assembly Oligomeric Anthocyanin-Based Core-Shell Structure of Nanoparticles Enhances the Delivery and Efficacy of Berberine in Osteoarthritis.](https://pubmed.ncbi.nlm.nih.gov/40260578/)** (PMID: 40260578)
-    *   本研究开发了一种由小檗碱(BBR)和低聚原花青素(OPAs)自组装形成的纳米颗粒(BBR-OPAs NPs)，用于治疗骨关节炎(OA)。关键发现包括：(1)OPAs作为天然载体不仅改善了BBR的水溶性和递送效率，其本身还具有治疗作用；(2)形成的核壳结构纳米颗粒表现出良好的缓释特性，能有效抑制炎症和细胞凋亡；(3)体内实验证实该纳米系统可减轻滑膜炎症并保护软骨细胞。这项研究为天然药物载体在OA治疗中的应用提供了新思路，通过"药辅合一"策略同时解决了药物递送和治疗效果的双重问题，在改善疏水性药物疗效方面具有重要药学意义。
+    *   本研究开发了一种由小檗碱(BBR)和低聚原花青素(OPAs)自组装形成的核壳结构纳米颗粒(BBR-OPAs NPs)，用于治疗骨关节炎(OA)。该纳米递送系统通过药物-辅料一体化策略，既解决了BBR水溶性差的问题，又发挥了OPAs自身的治疗作用。实验证实该纳米颗粒具有长效释放特性，能有效抑制炎症和细胞凋亡，减轻滑膜炎症并保护软骨细胞，在OA治疗中展现出良好应用前景。
+    *   
+    *   （关键药学意义：1）创新性地利用天然产物OPAs同时作为药物载体和治疗成分；2）通过纳米技术改善了难溶性药物BBR的递送效率；3）为OA治疗提供了具有双重治疗机制的新型纳米药物候选）
 
 *   **[Computer-Aided Technology for Bioactive Protein Design and Clinical Application.](https://pubmed.ncbi.nlm.nih.gov/40260555/)** (PMID: 40260555)
-    *   这篇综述总结了计算机辅助蛋白质设计(CAPD)领域的最新进展及其在药学中的应用。关键发现包括：(1) 深度学习与生成模型的结合显著改善了蛋白质药物的结合亲和力、特异性和免疫原性；(2) CAPD技术在单克隆抗体、疫苗抗原设计和药物递送载体优化方面展现出重要价值。尽管面临模型过拟合和罕见蛋白质数据不足等挑战，但计算方法的持续进步将推动蛋白质工程和个性化药物开发。该技术有望革新生物制药领域，特别是在蛋白质类治疗药物的理性设计方面具有重大前景。
+    *   这篇综述总结了计算机辅助蛋白质设计（CAPD）在药学领域的重要应用与进展。核心发现包括：（1）深度学习与生成模型的结合显著提升了蛋白质药物的结合亲和力、特异性并降低免疫原性；（2）CAPD技术在单克隆抗体、疫苗抗原设计和药物递送蛋白聚合物优化方面展现出关键价值；（3）尽管面临模型过拟合和稀有蛋白数据不足等挑战，但计算方法的发展将持续推动蛋白质工程和个体化药物研发。该技术有望革新生物制药领域，特别是在靶向治疗和精准医疗方向具有重要前景。
 
 *   **[Polypept(o)ide-Based Core-Shell Bottlebrush Polymers: A Versatile Platform for Drug Encapsulation.](https://pubmed.ncbi.nlm.nih.gov/40260554/)** (PMID: 40260554)
-    *   本研究通过"接枝聚合"策略合成了以聚赖氨酸为骨架、聚(γ-苄基-L-谷氨酸)-嵌段-聚肌氨酸为侧链的核壳结构圆柱状瓶刷聚合物(CSBs)。该纳米颗粒具有17-70 nm的可控流体力学半径和1320-4000 kg mol-1的分子量（分散指数≈1.3），能通过π-π相互作用有效负载抗癌药物达沙替尼（载药率10%）。实验证明该载药系统可实现72小时缓释，并能被胶质母细胞瘤(U-87 MG)细胞有效摄取，展现治疗潜力。这种可精确调控的核壳纳米结构为药物递送系统开发提供了新平台，尤其在肿瘤靶向治疗领域具有应用前景。
+    *   本研究通过"接枝聚合"策略合成了以聚赖氨酸为主链、聚(γ-苄基-L-谷氨酸)-嵌段-聚肌氨酸为侧链的核壳结构圆柱状瓶刷聚合物(CSBs)。该纳米颗粒具有17-70 nm的可控流体力学半径和1320-4000 kg mol-1的分子量（分散指数≈1.3），能通过π-π相互作用有效负载抗癌药物达沙替尼（载药率10%）。实验证明该载药系统具有72小时缓释特性，可被胶质母细胞瘤(U-87 MG)细胞摄取并展现药效，为纳米药物递送系统开发提供了新平台。研究特别展示了通过聚合物合成精确调控纳米颗粒特性的优势，虽然共价载药方式可能进一步优化释放性能。
 
 *   **[Crocin extends lifespan by mitigating oxidative stress and regulating lipid metabolism through the DAF-16/FOXO pathway.](https://pubmed.ncbi.nlm.nih.gov/40260541/)** (PMID: 40260541)
-    *   本研究以线虫为模型，发现藏红花主要活性成分藏红花素（crocin）通过激活DAF-16/FOXO通路发挥抗衰老作用。关键发现包括：（1）显著延长寿命并增强氧化应激抗性，同时减少老年色素沉积；（2）上调抗氧化基因（gst-4/sod-3/hsp-16.2）和脂代谢相关基因（lipl-3/fat-6等）表达；（3）特异性增加不饱和脂肪酸含量。这些发现揭示了藏红花素通过双重调节氧化应激和脂代谢延缓衰老的分子机制，为开发抗衰老药物和预防年龄相关疾病提供了新型候选分子，特别在代谢性疾病和神经退行性疾病的干预策略方面具有重要药学价值。
+    *   本研究以线虫为模型发现藏红花素（crocin）通过激活DAF-16/FOXO通路发挥抗衰老作用：1）显著延长寿命并增强氧化应激抗性，其效应依赖DAF-16介导的抗氧化基因（gst-4/sod-3等）上调；2）特异性减少脂肪沉积，调控脂质动员（lipl-3/atgl-1等）和不饱和脂肪酸合成（fat-6/elo-2等）相关基因表达，提升C18:1n9等有益脂肪酸水平。这些发现揭示了藏红花素通过协同调节氧化应激和脂代谢延缓衰老的分子机制，为开发抗衰老药物提供了新型候选分子和明确作用靶点。
 
 *   **[FTY720 Modulating Microglia-Mediated Cholesterol Recycling via TREM2 Promotes Remyelination Following Ischemic Damage.](https://pubmed.ncbi.nlm.nih.gov/40260538/)** (PMID: 40260538)
-    *   本研究主要发现：FTY720通过靶向小胶质细胞的TREM2受体，促进胆固醇转运蛋白ABCA1从溶酶体向细胞膜转移，从而增强胆固醇外排并减少细胞内胆固醇和脂滴积累。在体外共培养实验中，FTY720通过TREM2介导机制促进小胶质细胞向少突胶质细胞的胆固醇转移，进而支持髓鞘再生。这些发现为缺血性白质损伤提供了新的治疗靶点，表明调节小胶质细胞胆固醇代谢可能是促进髓鞘修复的有效药理学策略。
+    *   本研究主要发现：FTY720通过靶向小胶质细胞TREM2受体，促进胆固醇转运蛋白ABCA1从溶酶体向细胞膜转移，从而增强胆固醇外排并减少细胞内脂滴积累。在慢性脑缺血模型中，FTY720显著改善认知功能并促进髓鞘再生，但该效应在TREM2基因敲除小鼠中消失。体外实验进一步证实FTY720通过TREM2介导小胶质细胞向少突胶质细胞的胆固醇转移，促进髓鞘形成。
+    *   
+    *   药学相关性：
+    *   1. 揭示了FTY720（一种已获批的多发性硬化症治疗药物）促进髓鞘修复的新机制
+    *   2. 提出TREM2-ABCA1胆固醇代谢通路可作为缺血性脑白质损伤的新治疗靶点
+    *   3. 为开发通过调节小胶质细胞胆固醇代谢来促进髓鞘再生的药物提供了理论依据
+
+*   **[Sodium aescinate protects renal ischemia-reperfusion and pyroptosis through AKT/NLRP3 signaling pathway.](https://pubmed.ncbi.nlm.nih.gov/40260531/)** (PMID: 40260531)
+    *   本研究通过小鼠肾缺血再灌注损伤(RIRI)模型证实七叶皂苷钠(SA)具有肾功能保护作用。关键发现表明：SA通过抑制AKT/NLRP3信号通路显著降低细胞焦亡相关蛋白(GSDMD、NLRP3、IL-1β)的表达，从而减轻肾脏损伤。该研究首次系统阐明了SA通过抗细胞焦亡途径发挥肾保护作用的分子机制，为开发治疗急性肾损伤的靶向药物提供了新思路，特别提示NLRP3炎症小体通路可作为药物干预的重要靶点。
+
+*   **[Friend or foe? The role of SIRT6 on macrophage polarized to M2 subtype in acute kidney injury to chronic kidney disease.](https://pubmed.ncbi.nlm.nih.gov/40260529/)** (PMID: 40260529)
+    *   这篇论文主要探讨了急性肾损伤(AKI)向慢性肾病(CKD)转变过程中巨噬细胞极化的关键作用及其调控机制。研究发现：1) M1型巨噬细胞在损伤初期促进炎症反应，而M2型则参与组织修复，但持续M2型极化会导致纤维化；2) 去乙酰化酶SIRT6通过调控巨噬细胞从M1向M2型转化发挥肾脏保护作用，但过度激活可能增加纤维化风险。这些发现为开发靶向SIRT6和巨噬细胞极化的新型抗纤维化药物提供了重要理论依据，对防治AKI向CND进展具有重要药学意义。
+
+*   **[Incidence of cytomegalovirus infection after kidney transplantation in the modern era of immunosuppression: the VINTAGE study.](https://pubmed.ncbi.nlm.nih.gov/40260519/)** (PMID: 40260519)
+    *   本研究针对未接受抗病毒预防的成人肾移植受者开展，发现：1）CMV抗原血症（AG）12个月累积发生率高达59.4%，其中供体阳性/受体阴性（D+/R-）组风险最高（81.3%）；2）CMV血清状态风险等级（HR=2.65）和受者年龄（每增加10岁HR=1.37）是AG的独立危险因素；3）AG显著增加抗体介导排斥反应风险（HR=21.40）并损害肾功能。药学启示强调：移植后前3个月是CMV感染高风险期，建议至少进行6个月监测（尤其采用抢先治疗策略的机构），这对优化免疫抑制方案和抗病毒干预时机具有重要临床指导意义。
 
 *   **[Effect of new bioactive substances obtained from possible probiotic bacteria on miRNA expression by in vitro cocultivation in colorectal cancer cells.](https://pubmed.ncbi.nlm.nih.gov/40260513/)** (PMID: 40260513)
-    *   本研究评估了潜在益生菌（如鼠李糖乳杆菌和罗伊氏乳杆菌）及其衍生的副益生菌/后生元对结直肠癌细胞（HT-29和Caco-2）的细胞毒性和miRNA表达影响。关键发现显示：1）益生菌对成纤维细胞有增殖作用，但对癌细胞具有细胞毒性；2）后生元比副益生菌表现出更强的抗癌效果。该研究的药学意义在于：通过比较新型药物生物制剂（pharmabiotics）与活菌的活性，克服了传统益生菌在储存期和存活率方面的局限性，为开发新型商业化产品提供了可能，尤其为免疫抑制患者提供了更安全的替代方案。
+    *   本研究评估了益生菌（如鼠李糖乳杆菌和罗伊氏乳杆菌）及其衍生物（副益生菌/后生元）对结直肠癌细胞（HT-29和Caco-2）的细胞毒性和miRNA表达影响。关键发现包括：1）益生菌对成纤维细胞有增殖作用，但对癌细胞具有细胞毒性；2）后生元比副益生菌表现出更强的抗癌效果。该研究的药学意义在于：通过比较新型药物生物制剂（pharmabiotics）与活菌的活性，克服了益生菌在储存期和存活率方面的局限性，为开发新型商业化产品提供了可能。此外，后生元可为免疫抑制患者提供更安全的替代方案，并规避益生菌的多种缺点。
+
+*   **[Unveiling the complexity of vaccine hesitancy: A narrative review focusing on dengue vaccination.](https://pubmed.ncbi.nlm.nih.gov/40260512/)** (PMID: 40260512)
+    *   该研究总结了登革热疫苗推广面临的主要挑战，特别是安全顾虑导致的接种犹豫问题。通过系统分析发现，"信心不足"和"自满情绪"是影响接种率的两大关键因素，不同地区的接受率差异显著（53%-95%）。研究提出了4个概念模型和5种评估工具，指出理解疫苗效力、安全性等影响因素对提高接种率、支持登革热防控至关重要。这些发现为疫苗推广策略的制定提供了科学依据，对疫苗研发和公共卫生实践具有指导意义。
 
 *   **[The impact of ivermectin-loaded solid lipid nanoparticles on the enteric phase of experimental trichinellosis.](https://pubmed.ncbi.nlm.nih.gov/40260506/)** (PMID: 40260506)
-    *   本研究探讨了使用固体脂质纳米颗粒(SLNs)负载伊维菌素(IVM-SLNs)治疗旋毛虫病肠道期的效果。关键发现表明：IVM-SLNs与阿苯达唑联用可显著降低成虫负荷、炎症细胞浸润和细胞凋亡，并降低COX-2表达，同时改善肝肾指标。在药学意义上，该研究证实单次口服IVM-SLNs具有强效杀旋毛虫作用，为解决现有抗寄生虫药物生物利用度低和耐药性问题提供了纳米技术解决方案，为开发新型抗寄生虫制剂提供了重要参考。
+    *   本研究探讨了固体脂质纳米颗粒（SLNs）负载伊维菌素（IVM-SLNs）对旋毛虫病肠道期的治疗效果。关键发现表明：1）IVM-SLNs与阿苯达唑联用可显著减少成虫负荷、炎症细胞浸润和细胞凋亡；2）该治疗方案能显著降低环氧合酶-2（COX-2）表达，并改善肝肾功指标；3）单次口服IVM-SLNs即显示出强效杀虫作用。在药学意义上，该研究证实纳米技术可有效提高抗寄生虫药物的生物利用度，为解决现有药物耐药性和生物利用度不足的问题提供了新策略，为开发新型纳米制剂联合疗法提供了重要依据。
 
 *   **[Abnormal nucleoli architecture and aggregate formation in Nucleophosmin mutated Acute Myeloid Leukaemia.](https://pubmed.ncbi.nlm.nih.gov/40260502/)** (PMID: 40260502)
-    *   该研究发现，急性髓系白血病（AML）中最常见的NPM1基因突变会导致突变蛋白从核仁错误定位到细胞质，并破坏核仁边缘结构的完整性。关键的是，这种异常的核仁表型是可逆的，且与核仁功能变化相关——NPM1突变细胞的rRNA合成活性增加。研究首次描述了NPM1突变蛋白形成的特殊聚集体，揭示了核仁组织异常在NPM1驱动AML中的分子机制，为开发靶向核仁结构的新型AML治疗策略提供了理论依据。
-
-*   **[An indolium-based near-infrared fluorescent probe for non-invasive real-time monitoring of gastric pH in vitro and in vivo.](https://pubmed.ncbi.nlm.nih.gov/40260500/)** (PMID: 40260500)
-    *   本研究开发了一种名为Hcy-pH的近红外荧光探针，通过将对二甲氨基苯基团与吲哚荧光团共轭连接而成。该探针在PBS缓冲液中显示出820nm的近红外荧光和240nm的大斯托克斯位移，其荧光强度在pH 2.5-4.0范围内随酸度增加而递减（pKa=2.98）。该探针具有良好的生物相容性，成功实现了体外HeLa细胞和活体小鼠胃内pH变化的可视化监测，为胃相关疾病研究和药物疗效评估提供了重要工具。这一成果在胃病诊断和药物研发领域具有重要应用价值，特别是为胃酸相关药物的体内评价提供了非侵入性监测手段。
-
-*   **[TRUB1 is a novel biomarker for promoting malignancy in colorectal cancer via NFκB signaling.](https://pubmed.ncbi.nlm.nih.gov/40260225/)** (PMID: 40260225)
-    *   该研究发现TRUB1（假尿苷合成酶）在结直肠癌(CRC)组织和细胞系中显著高表达，具有诊断价值和预后预测意义（高表达患者生存期更短）。机制研究表明，TRUB1通过调控NFκB信号通路中的BIRC3基因抑制癌细胞凋亡，敲低TRUB1可增加凋亡相关蛋白并减少假尿苷修饰。这些发现表明TRUB1可作为CRC潜在的诊断标志物和治疗靶点，为开发靶向RNA修饰的抗癌药物提供了新方向。
-
-*   **[Youth Should Be Part of African Pharma Industry-A Perspective.](https://pubmed.ncbi.nlm.nih.gov/40260045/)** (PMID: 40260045)
-    *   本文总结了非洲医药产业面临的挑战及青年群体的关键作用。关键发现包括：1）非洲70%以上药品和90%疫苗依赖进口，导致药品短缺和假药风险；2）非洲青年具备创新能力和人工智能技术应用潜力，可推动本地医药研发和质量控制；3）当前教育资源和导师体系不足限制了青年参与。药学相关性体现在：通过建立产学研国际合作，可充分发挥青年人才在提升非洲本土制药能力、减少进口依赖方面的战略价值，这对保障药品供应安全和质量具有重要现实意义。
-
-*   **[Alopecia Areata: Pathogenesis, Diagnosis, and Therapies.](https://pubmed.ncbi.nlm.nih.gov/40260013/)** (PMID: 40260013)
-    *   这篇综述论文探讨了斑秃(AA)的发病机制与治疗进展。关键发现包括：1) AA是由免疫失调、遗传易感性和环境因素共同驱动的复杂炎症性疾病；2) 目前对AA分子机制的理解仍存在重大空白；3) 文章系统评估了包括生物制剂和小分子药物在内的多种治疗选择。在药学相关性方面，该研究为开发新型靶向治疗药物提供了理论基础，特别是针对免疫介导机制的生物制剂和小分子药物具有重要研发价值。这篇综述整合了当前AA研究的多方面知识，对指导未来药物研发和临床实践具有重要意义。
-
-*   **[Novel Trispecific Neutralizing Antibodies With Enhanced Potency and Breadth Against Pan-Sarbecoviruses.](https://pubmed.ncbi.nlm.nih.gov/40260012/)** (PMID: 40260012)
-    *   本研究开发了两种新型三特异性抗体Tri-1和Tri-2，通过将高效抗体PW5-570的单链可变片段与两种广谱抗体（PW5-5和PW5-535）的双特异性抗体Fc区融合而成。实验表明，这两种抗体对SARS-CoV、SARS-CoV-2野生型及Omicron XBB.1.16等多种冠状病毒变体表现出更强的结合亲和力，并能有效中和所有测试的SARS样冠状病毒（包括穿山甲-GD、RaTG13等），其效力和广谱性均优于亲本抗体。这一发现为开发针对当前和未来SARS样冠状病毒的多价抗病毒药物提供了新思路，在广谱抗冠状病毒药物研发领域具有重要应用价值。
-
-*   **[A patent review of anti-coronavirus agents targeting the spike-ACE2 interaction (2019-present).](https://pubmed.ncbi.nlm.nih.gov/40259874/)** (PMID: 40259874)
-    *   本文综述了ACE2受体与新冠病毒S蛋白的相互作用机制及其在药物开发中的关键作用。研究发现，针对ACE2-S蛋白界面的抑制剂（包括虚拟筛选、共价蛋白结合和肽修饰策略开发的药物）具有广谱抗冠状病毒潜力，但临床转化仍面临挑战。文章强调需要采用多学科策略优化靶向该界面的药物研发，这对控制当前疫情和预防未来冠状病毒大流行具有重要意义，为抗病毒药物开发提供了重要方向。
-
-*   **[trans-Tiliroside and (+)-pinoresinol: polyphenols against albumin glycation, α-glucosidase activity and ROS formation, with in silico pharmacokinetic evaluation.](https://pubmed.ncbi.nlm.nih.gov/40259866/)** (PMID: 40259866)
-    *   本研究通过体外和计算机模拟方法评估了传统糖尿病药用植物中的黄酮类化合物trans-Tiliroside和木脂素(+)-pinoresinol的抗糖尿病活性。关键发现表明：trans-Tiliroside在抑制蛋白质糖化方面表现突出（对葡萄糖、果糖和核糖诱导糖化的IC50值分别为113.6、71.03和95.73 μM），并显示出比(+)-pinoresinol更强的抗氧化能力。两种化合物在0.1-100 μM浓度范围内均未表现细胞毒性，但α-葡萄糖苷酶抑制活性较弱。计算机模拟药代动力学研究显示trans-Tiliroside具有较好的生物利用度。这些发现为开发新型抗糖尿病药物（特别是针对蛋白质糖化相关并发症）提供了潜在候选化合物，具有重要的药物研发价值。
-
-*   **[Sleep During Pandemic Times: Summary of Findings and Future Outlook Through the Lens of the International COVID Sleep Study (ICOSS).](https://pubmed.ncbi.nlm.nih.gov/40259865/)** (PMID: 40259865)
-    *   本研究总结了国际COVID-19睡眠研究(ICOSS)项目关于疫情对睡眠和昼夜节律影响的发现。这项覆盖四大洲14-16个国家、共4万余名参与者的跨国研究发现：1) 疫情显著改变了人群睡眠模式并增加了睡眠障碍患病率；2) 揭示了不同昼夜节律类型人群的差异表现；3) 发现了睡眠与免疫系统的相互作用机制。这些发现为药学领域提供了重要启示：睡眠紊乱可能影响免疫功能和药物代谢，提示需要开发针对性药物干预方案，特别是针对长期COVID患者的睡眠障碍治疗策略。该研究为理解重大公共卫生事件下的睡眠药理学影响提供了大规模实证数据。
+    *   该研究发现，急性髓系白血病（AML）中最常见的NPM1基因突变会导致突变蛋白从核仁错误定位到细胞质，并破坏核仁边缘结构的完整性。关键的是，这种异常的核仁结构是可逆的，且与核仁功能变化相关——突变细胞的rRNA合成活性增加。研究首次描述了NPM1突变蛋白形成的特殊聚集体，揭示了核仁组织异常在NPM1驱动AML中的分子机制，为开发靶向核仁结构异常的新疗法提供了潜在靶点。（该发现为针对NPM1突变AML开发新型核仁靶向药物提供了理论依据）
 
 
 <!-- DAILY_PAPERS_END -->
