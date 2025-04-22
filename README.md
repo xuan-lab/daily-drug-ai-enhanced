@@ -2,6 +2,10 @@
 
 欢迎阅读:)
 
+<!-- DAILY_QUOTE_START -->
+<!-- Placeholder for the daily quote -->
+<!-- DAILY_QUOTE_END -->
+
 ## Daily Paper Summaries
 
 <!-- DAILY_PAPERS_START -->

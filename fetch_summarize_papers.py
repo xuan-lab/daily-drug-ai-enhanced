@@ -5,7 +5,8 @@ from datetime import datetime, timedelta
 import sys
 import re
 
-PUBMED_SEARCH_TERM = "pharmacy OR pharmaceutical sciences OR drug interactions OR traditional Chinese medicine"
+# Broadened search term for wider scope and newer trends
+PUBMED_SEARCH_TERM = "pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR digital health OR nanomedicine OR biotechnology drugs OR regulatory science OR personalized medicine OR drug interactions OR traditional Chinese medicine"
 MAX_PAPERS_TO_FETCH = 20
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions" # Corrected API endpoint
 DEEPSEEK_MODEL = "deepseek-chat"
@@ -14,6 +15,9 @@ DAYS_TO_SEARCH = 1
 README_FILE = "README.md"
 README_START_MARKER = "<!-- DAILY_PAPERS_START -->"
 README_END_MARKER = "<!-- DAILY_PAPERS_END -->"
+# Added markers for the daily quote
+README_QUOTE_START_MARKER = "<!-- DAILY_QUOTE_START -->"
+README_QUOTE_END_MARKER = "<!-- DAILY_QUOTE_END -->"
 
 def search_pubmed(query, days=DAYS_TO_SEARCH, retmax=MAX_PAPERS_TO_FETCH * 2):
     print(f"Searching PubMed for '{query}' in the last {days} day(s)...")
@@ -159,6 +163,65 @@ def summarize_text_deepseek(text, api_key):
         print(f"An unexpected error occurred during summarization: {e}")
         return f"Error: An unexpected error occurred - {e}"
 
+def generate_classical_quote(api_key):
+    if not api_key:
+        print("Error: DEEPSEEK_API_KEY not found.")
+        return "Error: API key not configured."
+
+    print("Generating classical quote with DeepSeek...")
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {api_key}"
+    }
+    prompt = (
+        "请创作一句关于知识、发现或日常学习的古典风格优美短句，并提供英文翻译。"
+        "请确保句子简洁、典雅。格式如下：\n"
+        "中文佳句\n"
+        "English Translation"
+    )
+    data = {
+        "model": DEEPSEEK_MODEL,
+        "messages": [
+            {"role": "system", "content": "你是一位精通中英文古典文学的AI助手。"},
+            {"role": "user", "content": prompt}
+        ],
+        "max_tokens": 100,
+        "temperature": 0.7, # Slightly higher temperature for creativity
+        "stream": False
+    }
+
+    try:
+        response = requests.post(DEEPSEEK_API_URL, headers=headers, json=data, timeout=30)
+        response.raise_for_status()
+        result = response.json()
+
+        if "choices" in result and len(result["choices"]) > 0 and "message" in result["choices"][0] and "content" in result["choices"][0]["message"]:
+            quote = result["choices"][0]["message"]["content"].strip()
+            print("Quote generation successful.")
+            if "\n" in quote:
+                return quote
+            else:
+                print("Warning: Generated quote format might be incorrect. Using as is.")
+                return quote
+        else:
+            print("Error: Unexpected response format from DeepSeek API for quote generation.")
+            print("Response:", result)
+            return "Error: Could not get quote from API response."
+
+    except requests.exceptions.Timeout:
+        print("Error: DeepSeek API request for quote timed out.")
+        return "Error: API request timed out."
+    except requests.exceptions.RequestException as e:
+        print(f"Error calling DeepSeek API for quote: {e}")
+        error_details = ""
+        if hasattr(e, 'response') and e.response is not None:
+             error_details = f" Status Code: {e.response.status_code}, Response Text: {e.response.text[:200]}..."
+        print(error_details)
+        return f"Error: API request failed - {e}"
+    except Exception as e:
+        print(f"An unexpected error occurred during quote generation: {e}")
+        return f"Error: An unexpected error occurred - {e}"
+
 def update_readme(readme_path, start_marker, end_marker, new_content):
     try:
         with open(readme_path, 'r', encoding='utf-8') as f:
@@ -197,8 +260,28 @@ if __name__ == "__main__":
         print("FATAL ERROR: DEEPSEEK_API_KEY environment variable not set.")
         sys.exit(1)
 
-    paper_ids = search_pubmed(PUBMED_SEARCH_TERM, days=DAYS_TO_SEARCH, retmax=MAX_PAPERS_TO_FETCH * 2)
+    # Generate the daily quote
+    daily_quote = generate_classical_quote(deepseek_api_key)
+    if daily_quote.startswith("Error:"):
+        print(f"Failed to generate daily quote: {daily_quote}. Proceeding without quote.")
+        daily_quote_content = "*Failed to generate daily quote.*"
+    else:
+        quote_lines = daily_quote.split('\n')
+        if len(quote_lines) >= 2:
+            daily_quote_content = f"*{quote_lines[0]}*\n\n*{quote_lines[1]}*"
+        else:
+            daily_quote_content = f"*{daily_quote}*"
 
+    quote_update_successful = update_readme(
+        README_FILE,
+        README_QUOTE_START_MARKER,
+        README_QUOTE_END_MARKER,
+        daily_quote_content
+    )
+    if not quote_update_successful:
+        print("Warning: Could not update the daily quote section in README.md.")
+
+    paper_ids = search_pubmed(PUBMED_SEARCH_TERM, days=DAYS_TO_SEARCH, retmax=MAX_PAPERS_TO_FETCH * 2)
     today_date = start_time.strftime('%Y-%m-%d')
 
     if not paper_ids:
@@ -251,4 +334,4 @@ if __name__ == "__main__":
     end_time = datetime.now()
     print(f"\nSuccessfully generated summaries for {summarized_count} papers.")
     print(f"Process finished in {end_time - start_time}.")
-    sys.exit(0 if readme_update_successful else 1)
+    sys.exit(0 if (quote_update_successful and readme_update_successful) else 1)
