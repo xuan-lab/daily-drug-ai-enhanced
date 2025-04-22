@@ -6,7 +6,7 @@ import sys
 import re
 
 # Broadened search term for wider scope and newer trends
-PUBMED_SEARCH_TERM = "pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR digital health OR nanomedicine OR biotechnology drugs OR regulatory science OR personalized medicine OR drug interactions OR traditional Chinese medicine"
+PUBMED_SEARCH_TERM = "pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine"
 MAX_PAPERS_TO_FETCH = 20
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions" # Corrected API endpoint
 DEEPSEEK_MODEL = "deepseek-chat"
