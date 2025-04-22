@@ -1,5 +1,5 @@
 # .github/workflows/daily_papers.yml
-name: Daily Paper Fetch and Summarize
+name: Daily Paper Fetch, Summarize, and Deploy # Updated name
 
 on:
   schedule:
@@ -8,10 +8,17 @@ on:
   workflow_dispatch: # 允许手动触发
 
 jobs:
-  fetch_and_summarize:
+  build_and_deploy: # Renamed job
     runs-on: ubuntu-latest
-    permissions: # Add this block
-      contents: write # Grant write permission to repository contents
+    permissions: # Updated permissions
+      contents: write # To checkout code, commit, push
+      pages: write    # To deploy to Pages
+      id-token: write # To verify the deployment originates from an authentic source
+
+    environment: # Define deployment environment
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -26,7 +33,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Run script
+      - name: Run script to fetch and update content # Changed step name slightly
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }} # 从 Secrets 注入 API Key
         run: |
@@ -38,12 +45,36 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
       - name: Commit and push changes
+        id: commit_push # Added id
         run: |
-          git add . # Adds all changes made by the script, including README.md
+          git add . # Adds all changes made by the script (README.md, archives/*)
           # Check if there are changes to commit
           if git diff --staged --quiet; then
-            echo "No changes to commit."
+            echo "No content changes to commit."
+            echo "changes_committed=false" >> $GITHUB_OUTPUT
           else
-            git commit -m "Update papers and README"
+            git commit -m "Update papers, README, and archives" # Updated commit message
             git push
+            echo "changes_committed=true" >> $GITHUB_OUTPUT
           fi
+
+      # --- Add GitHub Pages deployment steps ---
+      - name: Setup Pages
+        # Only run if changes were committed OR if manually triggered
+        if: steps.commit_push.outputs.changes_committed == 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        # Only run if changes were committed OR if manually triggered
+        if: steps.commit_push.outputs.changes_committed == 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload entire repository, GitHub Pages will render README.md by default
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        # Only run if changes were committed OR if manually triggered
+        if: steps.commit_push.outputs.changes_committed == 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/deploy-pages@v4
+        # No 'with' section needed if deploying the artifact uploaded in the previous step
