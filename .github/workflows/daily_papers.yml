@@ -1,0 +1,31 @@
+# .github/workflows/daily_papers.yml
+name: Daily Paper Fetch and Summarize
+
+on:
+  schedule:
+    # 每天 UTC 时间 00:00 运行
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  fetch_and_summarize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10' # 或者你希望使用的 Python 版本
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run script
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }} # 从 Secrets 注入 API Key
+        run: |
+          python scripts/fetch_summarize_papers.py
