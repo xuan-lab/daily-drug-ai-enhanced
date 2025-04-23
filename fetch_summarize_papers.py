@@ -127,7 +127,7 @@ def summarize_text_deepseek(text, api_key):
     data = {
         "model": DEEPSEEK_MODEL,
         "messages": [
-            {"role": "system", "content": "你是一位专门为药剂师和药物科学家总结生物医学研究论文的专家助手。请用中文回答。"},
+            {"role": "system", "content": "你是一位专门为药剂师和药物科学家总结生物医学研究论文的专家助手,你能完整准确地解读一篇文献。请用中文回答。"},
             {"role": "user", "content": prompt}
         ],
         "max_tokens": 500, # Increased max_tokens slightly for Chinese output
