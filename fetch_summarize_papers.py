@@ -7,7 +7,7 @@ import re
 
 # Broadened search term for wider scope and newer trends
 PUBMED_SEARCH_TERM = "network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy"
-MAX_PAPERS_TO_FETCH = 20
+MAX_PAPERS_TO_FETCH = 30
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions" # Corrected API endpoint
 DEEPSEEK_MODEL = "deepseek-chat"
 OUTPUT_DIR = "output"
@@ -120,8 +120,8 @@ def summarize_text_deepseek(text, api_key):
         "Authorization": f"Bearer {api_key}"
     }
     prompt = (
-        "请提供以下学术论文摘要的简明中文总结（约4-6句话），"
-        "重点关注其关键发现及其与药学或药物科学的相关性,请额外列出创新性总结和药学启示\n\n"
+        "请提供以下学术论文摘要的简明中文总结（约4-7句话），"
+        "重点关注其关键发现及其与药物科学的相关性,请额外列出创新性总结和药学启示\n\n"
         f"{text}"
     )
     data = {
@@ -130,7 +130,7 @@ def summarize_text_deepseek(text, api_key):
             {"role": "system", "content": "你是一位专门为药剂师和药物科学家总结生物医学研究论文的专家助手。请用中文回答。"},
             {"role": "user", "content": prompt}
         ],
-        "max_tokens": 300, # Increased max_tokens slightly for Chinese output
+        "max_tokens": 500, # Increased max_tokens slightly for Chinese output
         "temperature": 0.3,
         "stream": False
     }
