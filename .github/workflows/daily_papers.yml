@@ -3,8 +3,8 @@ name: Daily Paper Fetch, Summarize, and Deploy # Updated name
 
 on:
   schedule:
-    # 每天 UTC 时间 04:00 运行
-    - cron: '0 4 * * *'
+    # 每天 UTC 时间 21:00 运行 (对应东八区时间次日凌晨 5:00)
+    - cron: '0 21 * * *'
   workflow_dispatch: # 允许手动触发
 
 jobs:
