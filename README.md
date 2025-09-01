@@ -4,7 +4,7 @@
 
 <!-- DAILY_QUOTE_START -->
 
-*月明花影动，风静水声幽。* / *Under the moon, flower shadows sway; in the calm, water murmurs low.*
+*花影横窗，书香入梦。* / *Flower shadows cross the window, the scent of books enters dreams.*
 
 <!-- DAILY_QUOTE_END -->
 
@@ -13,323 +13,348 @@
 <!-- DAILY_PAPERS_START -->
 
 ### Summary for 2025-09-01
-*Fetched and summarized 23 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
+*Fetched and summarized 24 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Structural and mechanical alterations of the medial head of the gastrocnemius after stroke assessed by high-frequency ultrasound: a prospective study.](https://pubmed.ncbi.nlm.nih.gov/40886379/)** (PMID: 40886379)
-    *   中文总结：
-    *   本研究采用高频超声技术评估脑卒中后偏瘫患者下肢康复效果。研究发现患侧腓肠肌内侧头的羽状角（PA）和肌束长度（FL）在康复治疗后显著改善，且改善程度与Fugl-Meyer评分呈正相关。该技术可量化区分瘫痪与非瘫痪肢体，并能识别对康复治疗有反应的患者群体。这些超声参数可作为评估神经肌肉功能恢复的客观生物标志物。
+*   **[Post-injection delirium/sedation syndrome from long-acting olanzapine intramuscular injection is rapidly reversed with physostigmine and rivastigmine.](https://pubmed.ncbi.nlm.nih.gov/40889148/)** (PMID: 40889148)
+    *   本文报告两例长效奥氮平肌注后出现的注射后谵妄/镇静综合征，使用乙酰胆碱酯酶抑制剂毒扁豆碱和利斯的明成功治疗。关键发现包括：静脉注射毒扁豆碱数分钟内快速缓解谵妄症状，经皮利斯的明维持治疗有效预防复发，且所需剂量低于单纯抗胆碱能谵妄的常规用量。其中一例患者血浆奥氮平浓度显著升高，而苯二氮䓬类药物在胆碱酯酶抑制剂使用前无效。
     *   
-    *   创新性总结：
-    *   • 首次将高频超声应用于脑卒中早期下肢康复的功能评估
-    *   • 发现羽状角和肌束长度与运动功能改善存在显著相关性
-    *   • 建立基于超声参数的康复效果预测模型
+    *   【创新性总结】
+    *   1. 首次提出乙酰胆碱酯酶抑制剂可作为奥氮平注射后综合征的特异性治疗手段
+    *   2. 发现该综合征存在剂量依赖性的抗胆碱能机制
+    *   3. 建立毒扁豆碱静脉注射+利斯的明经皮给药的序贯治疗方案
     *   
-    *   药学启示：
-    *   • 为神经修复类药物疗效评估提供客观量化指标
-    *   • 可作为康复辅助药物临床试验的终点评估工具
-    *   • 为个体化康复治疗方案制定提供参考依据
+    *   【药学启示】
+    *   1. 乙酰胆碱酯酶抑制剂应作为抗胆碱能型谵妄的一线治疗选择
+    *   2. 需重新评估长效抗精神病药物的不良反应管理方案
+    *   3. 建议治疗药物监测与胆碱能药物干预的协同应用
+    *   4. 为抗精神病药物所致中枢抗胆碱能综合征提供新的治疗路径
 
-*   **[Phenotypic screening for new heart failure therapeutics: scalable animal modeling in zebrafish.](https://pubmed.ncbi.nlm.nih.gov/40886377/)** (PMID: 40886377)
-    *   本文主要探讨利用斑马鱼体内表型筛选技术开发心力衰竭（HF）治疗药物的新策略。关键发现表明，基于斑马鱼的表型筛选能够有效识别多系统复杂疾病（如不同类型心衰）的强效抑制因子，其成功关键在于建立具有人类疾病忠实度的机制模型和量化筛选终点。该技术突破了传统细胞药物发现方法的局限性，可捕捉系统性生物学特征。
-    *   
-    *   创新性总结：
-    *   1. 首创将斑马鱼表型筛选系统应用于多系统复杂疾病的心衰药物发现
-    *   2. 建立了可扩展的标准化心衰表型筛选实验体系
-    *   
-    *   药学启示：
-    *   1. 为复杂慢性病的药物发现提供了新的体内筛选范式
-    *   2. 斑马鱼模型可作为临床前药物筛选的重要转化平台
-    *   3. 表型驱动方法有助于发现作用于新型通路的心血管治疗药物
-
-*   **[Glial Activation Enhances Spinal TRPV1 Receptor Sensitivity in a Paclitaxel Model of Neuropathic Pain.](https://pubmed.ncbi.nlm.nih.gov/40886376/)** (PMID: 40886376)
-    *   中文总结：
-    *   本研究探讨了紫杉醇诱导神经病理性疼痛的机制，发现紫杉醇通过激活TLR4通路导致TRPV1受体敏化，引起脊髓突触传递异常和持续性痛觉超敏。实验表明小胶质细胞抑制剂米诺环素的预处理（而非急性给药）能有效逆转紫杉醇诱导的痛觉敏化，恢复TRPV1受体正常功能。而MIF拮抗剂ISO-1则未显示保护作用。这些发现揭示了神经炎症介质、胶质细胞激活与TRPV1受体敏化之间的复杂相互作用。
-    *   
-    *   创新性总结：
-    *   1. 首次阐明紫杉醇通过TLR4-TRPV1轴介导中枢敏化的具体机制
-    *   2. 发现米诺环素的时间依赖性效应：预处理有效而急性给药无效
-    *   3. 证实胶质细胞激活在紫杉醇诱导神经病变中的核心作用
-    *   
-    *   药学启示：
-    *   1. 支持开发靶向胶质细胞的神经保护剂
-    *   2. 强调预防性给药策略在化疗神经毒性管理中的重要性
-    *   3. 为联合用药（化疗+神经保护剂）方案提供理论依据
-
-*   **[Pathophysiology of Clopidogrel in Ischemic Stroke, Role of Platelet microRNAs.](https://pubmed.ncbi.nlm.nih.gov/40886375/)** (PMID: 40886375)
+*   **[Utility of non-specific symptoms in early detection of Russell's viper (Daboia russelii) envenoming following snakebite in rural Sri Lanka.](https://pubmed.ncbi.nlm.nih.gov/40889144/)** (PMID: 40889144)
     *   **中文总结：**
-    *   本研究探讨了缺血性卒中患者对氯吡格雷反应差异的机制。研究发现CYP2C19*2/*2基因型（慢代谢型）患者相比野生型（*1/*1）表现出miR-126-3p和miR-185-5p表达升高的趋势（约1.5-1.7倍），提示血小板microRNA可能通过表观遗传机制调节抗血小板治疗反应。尽管组间miRNA表达无统计学显著差异，但慢代谢型患者可能通过上调特定miRNA来代偿氯吡格雷代谢障碍。
+    *   本研究评估了非特异性全身症状（呕吐、头痛或腹痛）单独或联合20分钟全血凝固试验（20WBCT）对鉴别圆斑蝰蛇咬伤中毒的诊断价值。研究发现，在216例蛇咬伤患者中，圆斑蝰蛇咬伤患者出现非特异性症状的比例（70%）显著高于其他蛇种。单独使用腹痛症状诊断的敏感性为63%，而"腹痛或20WBCT阳性"的组合诊断方式对圆斑蝰蛇中毒的敏感性达82%，特异性达99%；"任何非特异性症状或20WBCT阳性"的组合敏感性更高（88%），特异性为91%。
     *   
     *   **创新性总结：**
-    *   1. 首次在氯吡格雷治疗背景下同时分析CYP2C19基因型与血小板miRNA表达的关联
-    *   2. 发现慢代谢型患者存在特定miRNA上调的补偿机制
-    *   3. 提出表观遗传调控可能是影响抗血小板治疗反应的新机制
+    *   1. 首次系统评估非特异性症状与20WBCT联合诊断模式在蛇伤中的应用价值
+    *   2. 发现腹痛是圆斑蝰蛇中毒最具诊断价值的单一非特异性症状
+    *   3. 建立了一种简单易行的复合诊断标准，显著提高诊断准确性
     *   
     *   **药学启示：**
-    *   1. 临床需加强CYP2C19基因型检测以实现氯吡格雷个体化用药
-    *   2. miRNA表达谱可能成为监测抗血小板治疗反应的新型生物标志物
-    *   3. 为开发针对表观遗传调控机制的辅助疗法提供理论依据
-    *   4. 提示需综合考虑遗传和表观遗传因素优化抗血栓治疗方案
+    *   1. 为医疗资源匮乏地区提供了更可靠的抗蛇毒血清使用决策依据
+    *   2. 腹痛可作为蛇伤急诊分诊的重要临床标志物
+    *   3. 联合诊断模式可减少抗蛇毒血清的误用和延迟使用
+    *   4. 为开发基于症状的蛇伤快速诊断流程提供实证依据
 
-*   **[Effects of Astaxanthin on Chronic Exercise Fatigue.](https://pubmed.ncbi.nlm.nih.gov/40886374/)** (PMID: 40886374)
-    *   中文总结：
-    *   本研究通过大鼠慢性运动疲劳模型发现，虾青素能显著延长力竭时间（p<0.001），并通过提升抗氧化酶活性（CAT、GSH-Px等）和改善线粒体功能（MMP、ST3/ST4）来缓解运动性疲劳。同时显著降低肌肉损伤指标（BUN、CK）并加速能量物质恢复（肝糖原、NEFA）。该研究为运动疲劳的营养干预策略提供了实验依据。
+*   **[A metagenomic approach to One Health surveillance of antimicrobial resistance in a UK veterinary centre.](https://pubmed.ncbi.nlm.nih.gov/40889140/)** (PMID: 40889140)
+    *   本研究利用宏基因组学对英国伦敦一家伴侣动物医院进行抗菌素耐药性（AMR）基因监测，发现医疗准备室、犬病房和手术准备室等动物集中区域携带最高浓度的AMR基因。关键发现包括：aph、sul、bla CARB等耐药基因高频出现，临床分离株对β-内酰胺类药物呈现高表型耐药率，且宏基因组检测与表型药敏结果存在64%的物种匹配度。
     *   
     *   创新性总结：
-    *   1. 首次系统验证虾青素通过线粒体功能调控改善慢性运动疲劳的新机制
-    *   2. 建立多指标评价体系（抗氧化-线粒体-代谢物）综合评估疲劳恢复
+    *   1. 首次建立伴侣动物医院环境的AMR宏基因组监测模型
+    *   2. 揭示动物聚集区域与AMR基因富集的直接关联
+    *   3. 实现纳米孔测序技术对医院环境耐药组的多维度解析
     *   
     *   药学启示：
-    *   1. 虾青素可作为运动营养补充剂的潜在活性成分
-    *   2. 为开发抗疲劳功能食品/药物提供新的作用靶点（线粒体功能调节）
-    *   3. 抗氧化-能量代谢双重机制为疲劳管理提供新思路
+    *   1. 为制定兽医环境的AMR监测标准提供数据支撑
+    *   2. 提示需加强动物医疗区域消毒规程的执行频率
+    *   3. 证实环境宏基因组学可作为药敏试验的补充监测手段
+    *   4. 为开发针对动物医院特定耐药基因的消毒方案提供靶点
 
-*   **[Prevention of the Progression of lupus Nephritis in MRL/lpr Mice by Modulating miR-9-5p/Foxo1 Axis.](https://pubmed.ncbi.nlm.nih.gov/40886372/)** (PMID: 40886372)
-    *   本文研究发现狼疮性肾炎（LN）患者中miR-9-5p表达上调，通过靶向抑制肾脏保护因子Foxo1促进疾病进展。实验证实调控miR-9-5p水平可影响肾系膜细胞活性，动物模型中miR激动剂（agomirs）会加重肾功能损伤，而拮抗剂则通过上调Foxo1改善肾脏病理特征。
-    *   
-    *   【创新性总结】
-    *   1. 首次揭示miR-9-5p/Foxo1轴在狼疮性肾炎中的关键调控作用
-    *   2. 证实miR-9-5p拮抗剂具有治疗潜力
-    *   
-    *   【药学启示】
-    *   1. miR-9-5p可作为狼疮性肾炎的新型生物标志物
-    *   2. 开发miR-9-5p拮抗剂或为肾脏保护治疗提供新策略
-    *   3. Foxo1信号通路成为药物干预的潜在靶点
-
-*   **[Protective Effects of Teucrium Polium Leaf Ethanolic Extract Against Nicotine-Induced Nephrotoxicity in Mice.](https://pubmed.ncbi.nlm.nih.gov/40886371/)** (PMID: 40886371)
-    *   中文总结：
-    *   本研究探讨了Teucrium polium叶提取物对尼古丁诱导的急性肾损伤的保护作用和抗氧化特性。实验发现尼古丁使小鼠肾脏生物标志物（尿素、尿酸、肌酐）显著升高50%-207%，表明明显肾毒性。而T. polium提取物治疗使这些指标改善77%-83%，有效逆转尼古丁引起的氧化应激指标异常。组织病理学分析进一步证实该提取物能保持肾脏结构完整性，通过调节氧化应激和抗氧化防御机制发挥肾脏保护作用。
+*   **[Fluconazole resistance and CDR1 expression in Candida albicans mediated by the hyperactive Tac1-5 transcriptional activator requires Tlo proteins.](https://pubmed.ncbi.nlm.nih.gov/40889133/)** (PMID: 40889133)
+    *   本文研究发现白色念珠菌的TLO基因家族（特别是α和β亚型）通过调控转录因子Tac1的活性，显著影响唑类外排泵CDR1的表达及氟康唑耐药性。实验证实缺失TLO基因会降低CDR1表达和唑类药物耐药性，而回补α/β型TLO可恢复耐药表型，γ型则无此功能。机制上Tloα1直接结合Tac1靶向的CDR1启动子区药物反应元件。
     *   
     *   创新性总结：
-    *   • 首次系统评估T. polium提取物对尼古丁肾毒性的保护作用
-    *   • 通过GC-MS鉴定出16种活性化合物，明确物质基础
-    *   • 多维度验证机制（生化指标、氧化应激参数、组织病理）
+    *   1. 首次揭示Mediator复合物尾部组分TLO基因家族对Tac1介导的唑类耐药性的调控作用
+    *   2. 发现TLO不同进化枝（α/β与γ）功能存在显著分化
+    *   3. 阐明Tloα1通过染色质结合直接参与CDR1启动子调控的分子机制
     *   
     *   药学启示：
-    *   • 为开发天然产物来源的肾保护剂提供候选物质
-    *   • 为尼古丁相关肾损伤的防治提供新策略
-    *   • 提示抗氧化机制可作为药物开发的靶向途径
+    *   1. TLOα/β亚型可作为逆转唑类耐药的新靶点
+    *   2. 为开发Mediator-Tac1-CDR1通路抑制剂提供理论依据
+    *   3. 提示真菌耐药调控存在亚型特异性，需精准靶向设计
 
-*   **[Trimethylamine N-oxide Induced Chronic Kidney Injury by Triggering PANoptosis.](https://pubmed.ncbi.nlm.nih.gov/40886370/)** (PMID: 40886370)
-    *   中文总结：
-    *   本研究探讨了氧化三甲胺（TMAO）通过调节性细胞死亡途径导致慢性肾损伤的具体机制。实验发现TMAO处理组小鼠的肾功能指标（肌酐和尿素氮）显著升高，肾脏纤维化面积明显增加。Western blot结果显示多种细胞死亡相关蛋白（Caspase-8、NLRP3、IL-1β、GSDMD等）表达显著上调，同时铁代谢相关蛋白（TFR1、FTH等）也发生明显变化。研究表明TMAO可能通过同时激活细胞焦亡、凋亡和坏死性凋亡的PANoptosis途径导致慢性肾损伤。
+*   **[Genomic resistance in historical clinical isolates increased in frequency and mobility after the age of antibiotics.](https://pubmed.ncbi.nlm.nih.gov/40889132/)** (PMID: 40889132)
+    *   本文关键发现总结：
+    *   1. 通过对英国国家菌种保藏中心1885年以来的1817个基因组分析发现，抗生素耐药基因在抗生素时代前就已存在于病原体和环境样本中
+    *   2. 耐药基因在抗生素使用前较为罕见，但随着临床使用频率显著增加
+    *   3. 耐药元件随时间推移表现出更强的移动性，且常嵌套于多个移动元件中
     *   
     *   创新性总结：
-    *   1. 首次揭示TMAO通过PANoptosis（细胞焦亡、凋亡和坏死性凋亡复合途径）诱导肾损伤
-    *   2. 发现TMAO可同时调控多重细胞死亡通路关键蛋白表达
-    *   3. 明确TMAO与铁代谢相关蛋白的调控关系
+    *   • 首次利用历史菌种库系统追溯抗生素使用前的耐药基因进化史
+    *   • 证实人类抗生素使用直接驱动了耐药基因的传播与进化
     *   
     *   药学启示：
-    *   1. 为TMAO相关肾病治疗提供新的靶点（PANoptosis通路蛋白）
-    *   2. 提示针对多重细胞死亡通路的联合用药策略可能更有效
-    *   3. 铁代谢调节剂可能成为TMAO诱导肾损伤的潜在治疗方向
-    *   4. 为开发阻断TMAO致病通路的新型肾病治疗药物提供理论依据
+    *   • 新药研发需提前评估潜在耐药风险
+    *   • 应建立基于进化史的耐药性预测模型
+    *   • 需加强抗生素合理使用以减缓耐药性传播
 
-*   **[AGEs Inducing EPCs Apoptosis via ROS and p38 MAPK/JNK Pathways in Diabetic Vascular Complications.](https://pubmed.ncbi.nlm.nih.gov/40886369/)** (PMID: 40886369)
-    *   本文研究发现晚期糖基化终末产物（AGEs）通过诱导氧化应激和激活MAPK通路（JNK/p38）导致内皮祖细胞（EPC）凋亡，且呈现浓度和时间依赖性。关键表现为促凋亡蛋白Bax上调、抗凋亡蛋白Bcl-2下调，而抗氧化剂NAC及MAPK抑制剂可逆转此过程。
-    *   
-    *   【创新性总结】
-    *   1. 首次明确AGEs通过氧化应激-MAPK通路介导EPC凋亡的机制
-    *   2. 揭示JNK/p38MAPK磷酸化在糖尿病血管损伤中的关键作用
-    *   3. 建立AGEs浓度/时间与细胞凋亡的量化关系模型
-    *   
-    *   【药学启示】
-    *   1. 抗氧化剂（如NAC）可作为糖尿病血管并发症的潜在治疗策略
-    *   2. JNK/p38MAPK抑制剂具有保护内皮祖细胞的药理价值
-    *   3. 为开发靶向AGEs-ROS-MAPK轴的新型心血管保护药物提供理论依据
-
-*   **[Role of Carvedilol in Inhibiting the Proliferation and Migration of Vascular Smooth Muscle Cells by Upregulating microRNA-145 Expression.](https://pubmed.ncbi.nlm.nih.gov/40886367/)** (PMID: 40886367)
-    *   本研究证实卡维地洛通过上调miR-145表达抑制血管平滑肌细胞（VSMC）增殖与迁移，其机制涉及miR-145直接靶向抑制转录因子KLF4的表达。实验通过细胞转染、荧光素酶报告基因等技术验证了miR-145对VSMC生物学行为的调控作用，并发现抑制miR-145会减弱卡维地洛的治疗效果。
-    *   
-    *   【创新性总结】
-    *   1. 首次揭示卡维地洛通过miR-145/KLF4轴调控VSMC的分子机制
-    *   2. 明确miR-145直接靶向KLF4的调控关系
-    *   3. 证实miR-145是卡维地洛抑制再狭窄的关键介质
-    *   
-    *   【药学启示】
-    *   1. miR-145可作为预防PCI术后再狭窄的新靶点
-    *   2. 卡维地洛的血管保护作用具有表观遗传调控维度
-    *   3. 为开发基于miRNA的再狭窄治疗策略提供理论依据
-
-*   **[Platelet Membrane-Camouflaged Biomimetic Drug Delivery Systems for Ischemia-Reperfusion Injury: Targeted Therapeutic Strategies.](https://pubmed.ncbi.nlm.nih.gov/40886365/)** (PMID: 40886365)
-    *   本文总结了血小板膜包被仿生药物递送系统在治疗各类缺血再灌注损伤中的应用进展。该系统利用血小板特有的靶向性、黏附性和免疫逃逸特性，能够将抗氧化剂、抗炎药、溶栓剂和神经保护剂等治疗药物精准递送至缺血组织，同时兼具诊断功能。然而该技术从实验室向临床转化仍面临规模化生产、生物活性维持及潜在副作用等挑战。未来研究需重点提升系统的可扩展性、稳定性和安全性，并根据具体治疗需求优化递送策略的选择与整合。
+*   **[Investigating factors driving shifts in subtype dominance within H5Nx clade 2.3.4.4b high pathogenicity avian influenza viruses.](https://pubmed.ncbi.nlm.nih.gov/40889128/)** (PMID: 40889128)
+    *   本文研究了H5Nx高致病性禽流感病毒（H5N1和H5N8亚型）在鸭类宿主中的病毒适应性和免疫反应差异。研究发现，虽然两种亚型病毒脱落动态相似，但H5N8表现出更强的致病性。抗原分析显示血凝素蛋白在2.3.4.4b分支病毒中抗原性相似，但神经氨酸酶蛋白存在交叉反应差异。预暴露实验表明，即使未发生血清转化，不同亚型的预先暴露也会导致后续感染的临床结局差异。
     *   
     *   创新性总结：
-    *   1. 首创性整合血小板膜仿生特性与多种纳米载体技术
-    *   2. 实现治疗-诊断一体化的多功能递送平台构建
+    *   1. 首次系统比较H5N1和H5N8在鸭类宿主中的适应性差异
+    *   2. 揭示神经氨酸酶蛋白的交叉反应特性对免疫应答的影响
+    *   3. 建立预暴露-再攻击模型验证免疫记忆对临床结局的调节作用
     *   
     *   药学启示：
-    *   1. 为缺血性疾病提供新型靶向递送解决方案
-    *   2. 启示天然细胞膜功能化修饰的药物载体开发
-    *   3. 推动个体化精准给药系统的创新设计
+    *   1. 为禽流感疫苗设计需同时考虑血凝素和神经氨酸酶的抗原特性
+    *   2. 提示需要开发针对多亚型的广谱禽流感疫苗
+    *   3. 为抗病毒药物靶点选择提供新的理论依据
+    *   4. 对家禽养殖业的疫苗免疫策略具有指导意义
 
-*   **[Risk factors of linezolid-associated hyponatremia from a retrospective case-control study: decreased serum albumin as a selective predictor in elder patients.](https://pubmed.ncbi.nlm.nih.gov/40886330/)** (PMID: 40886330)
-    *   中文总结：
-    *   本研究通过回顾性分析发现利奈唑胺相关低钠血症发生率达20%，在老年患者中尤为显著。关键风险因素包括心血管疾病史、肾功能指标(eGFR)和用药持续时间。特别发现治疗期间血清白蛋白(ALB)下降比基线ALB更能预测低钠血症发生。该研究强调在使用利奈唑胺期间需密切监测血钠和白蛋白水平，以预防严重不良反应。
+*   **[Models of Surfactant Replacement Therapy in Neonatal Lungs.](https://pubmed.ncbi.nlm.nih.gov/40889126/)** (PMID: 40889126)
+    *   本文综述了肺部模型在肺表面活性物质替代疗法（SRT）研究中的进展与应用。关键发现表明：计算流体动力学模拟、台式气道模型和芯片肺器官等模型系统深化了对肺部药物输送机制的理解，但现有模型仍无法完全模拟真实肺部的动态顺应性。动物模型（如离体大鼠肺）在验证生理相关性方面具有不可替代的作用。通过多模型整合策略，可显著优化气管内给药技术和雾化/液体表面活性剂疗法的开发。
     *   
     *   创新性总结：
-    *   • 首次发现治疗期间ALB动态下降与利奈唑胺致低钠血症的特异性关联
-    *   • 建立老年患者特异性风险预测指标体系
-    *   • 通过严格匹配对照揭示多因素协同作用机制
+    *   • 系统评估了从计算模型到器官芯片的多种肺部研究平台
+    *   • 揭示了不同模型在模拟肺部生物力学特性方面的互补性
     *   
     *   药学启示：
-    *   • 临床用药需加强治疗药物监测(TDM)和电解质管理
-    *   • 老年患者应优化利奈唑胺疗程并个体化给药
-    *   • 建议修订利奈唑胺用药指南，增加白蛋白监测指标
-    *   • 为开发低钠血症预防策略提供循证依据
+    *   • 为肺靶向给药系统的优化提供多尺度研究范式
+    *   • 推动呼吸系统疾病治疗剂的剂型设计和给药策略创新
 
-*   **[Alkaloid derivatives in Qing-Luo-Yin alleviated experimental arthritis in rodents by activating PPARγ.](https://pubmed.ncbi.nlm.nih.gov/40886329/)** (PMID: 40886329)
-    *   中文总结：
-    *   本研究探讨了中药复方清络饮（QLY）通过激活PPARγ受体发挥抗风湿作用的机制。实验发现QLY及其活性生物碱（苦参碱、槐果碱和青藤碱）能有效激活PPARγ信号通路，显著改善关节炎小鼠的炎症反应和脂代谢异常。机制研究表明这些生物碱通过促进脂肪酸积累，抑制p65磷酸化，从而减少炎症因子TNF-α、IL-6和IL-1β的分泌。该发现揭示了QLY同时改善免疫和代谢微环境的双重作用机制。
+*   **[Quantifying Neuromuscular and Pressure Force Dynamics in Obstructive Sleep Apnea: A Novel Computational Fluid Dynamics Approach Using Airway Wall Acceleration.](https://pubmed.ncbi.nlm.nih.gov/40889124/)** (PMID: 40889124)
+    *   ### 中文总结
+    *   本研究针对阻塞性睡眠呼吸暂停（OSA）的病理机制，开发了一种结合加速度指标的计算流体动力学（CFD）模拟新方法。通过分析患者气道壁加速度与气流压力的关系，发现吸气时气道塌陷先于负压峰值出现，表明神经肌肉激活不足；呼气时则存在显著的神经肌肉驱动运动。压力-加速度的非线性关系揭示了呼吸周期中内力的动态变化特性。该方法可区分被动塌陷与主动神经肌肉运动，为OSA精准分型提供新工具。
+    *   
+    *   ### 创新性总结
+    *   1. 首创将气道壁加速度量化指标整合于CFD模拟
+    *   2. 通过压力-加速度关系解析神经肌肉动力学的时空特征
+    *   3. 建立动态内力（神经激活+组织弹性）的间接计算方法
+    *   
+    *   ### 药学启示
+    *   1. 为OSA靶向药物研发提供新型生物力学标志物
+    *   2. 支持神经肌肉调节剂（如血清素能药物）的精准用药决策
+    *   3. 推动表型导向的个体化治疗方案开发
+    *   4. 为气道力学相关药物疗效评估提供量化工具
+
+*   **[Efficacy and Safety of Neuroendoscopy versus Craniotomy for Spontaneous Supratentorial Intracerebral Hemorrhage: An Updated Meta-Analysis of Randomized and Non-Randomized Studies.](https://pubmed.ncbi.nlm.nih.gov/40889123/)** (PMID: 40889123)
+    *   这篇系统综述和荟萃分析比较了神经内镜（NE）与传统开颅术（CR）治疗自发性脑出血（ICH）的安全性和有效性。研究发现，NE在神经功能恢复（RR=1.59）、死亡率降低（RR=0.62）、血肿清除率提高（WMD=7.17%）、手术时间缩短（102分钟）、出血量减少（255.5mL）以及住院/ICU时间缩短等方面均显著优于CR，同时并发症发生率显著降低（感染RR=0.49，脑膜炎RR=0.58），但再出血率无显著差异。
     *   
     *   创新性总结：
-    *   1. 首次系统阐明清络饮中特定生物碱成分通过PPARγ通路发挥抗风湿作用的分子机制
-    *   2. 发现中药成分通过调节脂代谢影响免疫炎症反应的新机制
-    *   3. 建立"成分-靶点-通路-效应"的完整证据链
+    *   1. 首次通过大规模荟萃分析（28项研究/9437例患者）系统比较NE与CR的全面临床指标
+    *   2. 采用随机效应模型和敏感性分析确保结果可靠性
+    *   3. 发现NE在多重维度（疗效/安全性/康复指标）同时具有优势
     *   
     *   药学启示：
-    *   1. PPARγ可作为风湿性疾病治疗的新靶点
-    *   2. 苦参碱、槐果碱等生物碱具有开发为新型PPARγ激动剂的潜力
-    *   3. 为中药复方现代化研究提供了"代谢-免疫"双调节的创新研究思路
-    *   4. 为开发具有双重调节作用的抗风湿创新药物提供新方向
+    *   1. 支持神经内镜手术相关药物（如止血剂、抗生素）的优化使用方案
+    *   2. 为术后抗感染药物和神经保护剂的用药周期缩短提供依据
+    *   3. 提示需要开发更适合微创手术的配套药剂（如专用冲洗溶液、局部止血材料）
 
-*   **[Cationic Peptoids for Systemic In Vivo Cartilage-Targeting.](https://pubmed.ncbi.nlm.nih.gov/40886326/)** (PMID: 40886326)
-    *   中文总结：
-    *   本研究开发了一类新型阳离子拟肽化合物（Nlys-拟肽），其富含N-取代丁基氨基甘氨酸残基，能够特异性结合软骨组织中的聚阴离子糖胺聚糖（GAG）链。这些化合物在体外实验中可穿透并保留在毫米级深度的软骨组织中，且因其非天然序列特性可抵抗蛋白酶降解，解决了现有软骨结合肽（如八精氨酸）血清稳定性低的问题。通过静脉注射后，该化合物能在活体小鼠和斑马鱼全身软骨中富集，成功实现新生儿小鼠骨骼发育的全身体三维成像，以及老年小鼠膝关节和类风湿关节炎踝关节中GAG丢失的活体检测。该化合物同时展现出良好的软骨细胞安全性和生物相容性。
+*   **[Development of ROS-responsive liposomes toward targeted drug delivery.](https://pubmed.ncbi.nlm.nih.gov/40889121/)** (PMID: 40889121)
+    *   本文总结了活性氧（ROS）响应型脂质体在靶向药物递送中的应用价值。关键发现表明，通过脂质开关氧化设计的ROS响应型脂质体能够在病理性的高ROS浓度下发生结构变化，实现药物的靶向释放、前药激活及光动力治疗等功能。这类递送系统通过区分病变细胞与健康细胞的ROS浓度差异，显著提高了药物递送的选择性。
     *   
     *   创新性总结：
-    *   1. 首次报道具有蛋白酶抗性的阳离子拟肽用于软骨靶向
-    *   2. 突破传统肽类化合物血清稳定性差的技术瓶颈
-    *   3. 实现活体水平全身软骨的多维度分子成像
+    *   1. 利用脂质开关氧化机制实现ROS浓度依赖性药物释放
+    *   2. 整合前药策略和程序化细胞递送激活功能
+    *   3. 建立区分病理/生理ROS浓度的智能响应窗口
     *   
     *   药学启示：
-    *   1. 为骨关节炎和类风湿关节炎提供新型靶向递送载体
-    *   2. 开辟GAG靶向分子影像诊断新途径
-    *   3. 为软骨相关疾病的靶向治疗和生物材料开发提供新策略
+    *   1. 为氧化应激相关疾病（如肿瘤、炎症）提供精准治疗新策略
+    *   2. 需平衡脂质体循环稳定性与病灶部位激活特性的设计矛盾
+    *   3. 推动响应型纳米药物向临床转化需解决规模化生产和疗效验证问题
 
-*   **[Three-Channel Electron Engineered Fe-88A@CeO2/CDs Nanozyme with Enhanced Oxidase-Like Activity for Efficient Biomimetic Catalysis.](https://pubmed.ncbi.nlm.nih.gov/40886324/)** (PMID: 40886324)
-    *   本研究开发了一种三通道电子工程化的Fe-88A@CeO2/碳点纳米酶，通过将CeO2和碳点整合到Fe-88A的孔隙结构中，显著提升了仿生催化性能。关键发现表明：该纳米酶通过Fe(II)/Fe(III)和Ce(III)/Ce(IV)双氧化还原对以及碳点形成的三重电子传递通道，大幅加速电子转移过程并增加活性位点，从而显著增强其氧化酶样活性，能够高效催化氧气产生超氧阴离子并氧化TMB显色。
-    *   
-    *   创新性总结：
-    *   1. 首创三通道电子工程策略构建复合纳米酶
-    *   2. 实现Fe/Ce双金属氧化还原协同与碳点电子传输的多元耦合
-    *   
-    *   药学启示：
-    *   1. 为高活性纳米酶设计提供新思路
-    *   2. 在生物传感领域具有应用潜力（如葡萄球菌肠毒素B检测）
-    *   3. 为开发新型仿生催化平台提供技术参考
-
-*   **[MRI-Derived Lymph Nodes Morphological and Topological Structure (LNs-MTS) Model for Evaluating Immune Status and Prognosis in Rectal Cancer.](https://pubmed.ncbi.nlm.nih.gov/40886317/)** (PMID: 40886317)
+*   **[MCAMEF-BERT: an efficient deep learning method for RNA N7-methylguanosine site prediction via multi-branch feature integration.](https://pubmed.ncbi.nlm.nih.gov/40889118/)** (PMID: 40889118)
     *   **中文总结：**
-    *   本研究针对直肠癌治疗中缺乏淋巴结免疫状态无创评估方法的临床痛点，开发了基于MRI的淋巴结形态拓扑结构（LNs-MTS）模型。通过分析1,156例I-II期直肠癌患者的多中心数据，发现距离原发肿瘤≥5cm且尺寸≥0.5cm的非转移淋巴结具有增强免疫激活特性。模型通过量化7,030个淋巴结的总体积（tLNV）和引流距离（tLND）将患者分为高风险（小tLNV+近tLND）、中风险和低风险（大tLNV+远tLND）亚型，其中低风险亚型显示显著免疫细胞浸润和优异5年生存率。
+    *   本研究开发了一种名为MCAMEF-BERT的新型深度学习模型，用于精确预测RNA中N7-甲基鸟苷（m7G）修饰位点。该模型通过整合预训练DNABERT-2分支与传统特征编码分支的并行架构，实现了多视角序列特征提取，并采用多通道注意力模块解决特征融合冗余问题。在m7GHub数据集上表现出超越现有分类器的准确性和有效性，同时通过饱和突变实验验证了模型的可解释性和 motif 识别鲁棒性。该模型在多种RNA修饰位点预测任务中均展现出良好的泛化能力。
     *   
     *   **创新性总结：**
-    *   1. 首次建立基于MRI的淋巴结形态拓扑量化评估体系
-    *   2. 发现淋巴结空间分布与免疫激活的定量关系
-    *   3. 实现从影像特征到肿瘤微环境免疫状态的跨尺度解析
+    *   1. 首创并行架构整合预训练模型与传统特征编码
+    *   2. 引入多通道注意力机制解决特征融合冗余问题
+    *   3. 首次在m7G预测中同时实现高精度与强可解释性
+    *   4. 验证模型在多种RNA修饰任务中的跨任务适应性
     *   
     *   **药学启示：**
-    *   1. 为免疫调节剂患者筛选提供新型生物标志物
-    *   2. 指导辅助化疗的精准应用（避免II期低风险患者过度治疗）
-    *   3. 为I期高风险患者早期干预提供决策依据
-    *   4. 推动影像组学指导个体化用药方案的发展
+    *   1. 为RNA表观遗传调控研究提供高精度工具
+    *   2. 有助于发现肿瘤发生发展的新型调控靶点
+    *   3. 为开发靶向RNA修饰的抗肿瘤药物提供新思路
+    *   4. 增强对RNA修饰生物学功能机制的理解深度
 
-*   **[Hot Topic In Thoracic Surgery: Can Sublobar Anatomical Resections Be Non-Inferior To Lobectomies For Small, Peripheral Non-Small-Cell Lung Cancer (NSCLC)? 9 Year Experience In A Single Center.](https://pubmed.ncbi.nlm.nih.gov/40886304/)** (PMID: 40886304)
-    *   中文总结：
-    *   本研究通过单中心回顾性分析比较了肺段切除术与肺叶切除术治疗早期周围型非小细胞肺癌（Tis/1a-bN0M0期）的疗效。研究采用配对设计，最终纳入32例患者进行对比分析。结果显示肺段切除术组无病生存期为27个月，复发率为19%；肺叶切除术组分别为31个月和12.5%。研究表明肺段切除术在保留肺功能和未来再切除可能性方面具有优势，但需要更大样本量研究来证实其非劣效性。
-    *   
-    *   创新性总结：
-    *   1. 采用加权配对分析方法（年龄15%、病灶大小50%、随访时间35%）
-    *   2. 建立标准化比较模型消除组间差异
-    *   3. 针对2cm以下无胸膜侵犯的N0期肺癌进行精准对比
-    *   
-    *   药学启示：
-    *   1. 为肺癌微创手术的术后药物治疗策略提供依据
-    *   2. 肺功能保留方案可能影响术后辅助药物的选择和使用时机
-    *   3. 为开发针对保肺手术患者的个性化用药方案提供临床参考
-    *   4. 提示需要进一步研究不同手术方式与靶向药物/免疫治疗的协同效应
-
-*   **[Long-Term Impact Of Permanent Pacing After Mitral Valve Surgery: A Scoping Review Of Current Literature.](https://pubmed.ncbi.nlm.nih.gov/40886302/)** (PMID: 40886302)
-    *   中文总结：
-    *   本研究通过范围综述分析了二尖瓣手术后永久起搏器植入对远期预后的影响。研究发现二尖瓣手术后永久起搏器植入率为4.2%-11.8%，高龄、合并手术、房颤病史等因素会增加植入风险。现有证据未能证实永久起搏器植入与术后远期心力衰竭或死亡率存在明确相关性。研究结果对心脏术后患者的长期药物治疗策略具有重要参考价值。
-    *   
-    *   创新性总结：
-    *   • 首次系统评估二尖瓣手术后起搏器植入对远期预后的影响
-    *   • 整合了超4.9万例患者的大规模临床数据
-    *   • 明确了术后起搏器植入的风险因素谱系
-    *   
-    *   药学启示：
-    *   • 为术后抗心律失常药物选择提供循证依据
-    *   • 提示需要针对高风险患者制定个体化用药方案
-    *   • 强调术后电传导异常的多因素特性需多学科管理
-
-*   **[Real World Applicability Of Voyager-Pad According To Oac3pad Score.](https://pubmed.ncbi.nlm.nih.gov/40886300/)** (PMID: 40886300)
-    *   中文总结：
-    *   本研究通过回顾性分析652例接受下肢血运重建术的患者数据，评估了基于OAC3PAD评分系统的出血风险分层。结果显示，约35%的患者存在中高至高出血风险，仅67.6%符合VOYAGER PAD试验中利伐沙班联合阿司匹林的双通路抑制(DPI)治疗标准。特别值得注意的是，慢性肢体威胁性缺血(CLTI)患者出血风险显著高于既往认知，近半数患者可能因出血风险需谨慎使用DPI方案。
-    *   
-    *   创新性总结：
-    *   • 首次在真实世界临床环境中验证OAC3PAD评分对血运重建术后患者出血风险的分层能力
-    *   • 揭示真实世界CLTI患者出血风险特征与临床试验人群存在显著差异
-    *   • 建立基于出血风险的抗栓治疗适用性量化评估模型
-    *   
-    *   药学启示：
-    *   • DPI方案需个体化实施，OAC3PAD评分可作为重要决策工具
-    *   • 临床药师应参与抗栓治疗风险评估，特别关注高龄CLTI患者
-    *   • 需重新审视现行指南在真实世界患者中的适用边界
-    *   • 未来抗血栓药物研发需兼顾疗效与出血风险平衡
-
-*   **[Prosthetic Graft Infection in Femoropopliteal Bypass.](https://pubmed.ncbi.nlm.nih.gov/40886297/)** (PMID: 40886297)
-    *   本文总结了股腘动脉旁路手术中人工血管移植感染的临床特征与防治策略。研究发现人工血管感染发生率约为2.6%，表皮葡萄球菌是最常见病原体，金黄色葡萄球菌和铜绿假单胞菌也是重要致病菌。研究强调早期微生物学诊断对指导治疗至关重要，推荐采用抗生素联合手术（包括移植物取出）的综合治疗方案，同时围术期预防性抗生素使用对降低感染风险具有关键作用。
-    *   
-    *   【创新性总结】
-    *   1. 系统量化了股腘动脉旁路手术人工血管感染的具体发生率（2.6%）
-    *   2. 明确了该领域病原菌的分布特征和诊断治疗的时间敏感性
-    *   3. 建立了集预防-诊断-治疗于一体的多学科管理框架
-    *   
-    *   【药学启示】
-    *   1. 需开发针对葡萄球菌属和革兰氏阴性菌的围术期预防性抗生素方案
-    *   2. 强调根据微生物学检测结果指导抗菌药物精准选择的重要性
-    *   3. 提示需要研究人工血管材料表面抗菌改性技术以降低感染风险
-    *   4. 为抗菌药物临床试验终点设置提供了发病率参考基准
-
-*   **[Orogastric Tube Use in Patients Undergoing Cardiac Surgery, A Pilot Study.](https://pubmed.ncbi.nlm.nih.gov/40886296/)** (PMID: 40886296)
-    *   本研究探讨了经口胃管（OGT）对冠状动脉搭桥手术患者术后恢复的影响。关键发现显示，OGT组患者术后阿片类镇痛药使用量显著增加（33.3% vs 7.7%），但两组在主要术后并发症发生率上无显著差异。虽然OGT组术后恶心呕吐发生率有升高趋势，但未达到统计学显著性。
-    *   
-    *   创新性总结：
-    *   1. 首次通过随机对照试验评估OGT在心脏手术中的实际临床影响
-    *   2. 揭示了OGT使用与术后镇痛需求之间的潜在关联
-    *   
-    *   药学启示：
-    *   1. OGT使用可能增加术后镇痛药物需求，需优化疼痛管理方案
-    *   2. 建议重新评估常规使用OGT的临床必要性
-    *   3. 为术后镇痛药物的精准使用提供循证依据
-
-*   **[Dietary monounsaturated fatty acids in relation to risk of gastric cancer.](https://pubmed.ncbi.nlm.nih.gov/40886262/)** (PMID: 40886262)
-    *   【关键发现总结】
-    *   本研究通过越南医院的病例对照研究（1182例胃癌患者与2965名对照）发现，单不饱和脂肪酸（MUFA）摄入量与胃癌风险呈显著负相关。随着MUFA摄入量增加（每标准差增量），胃癌风险降低25%（OR=0.75, 95%CI 0.67-0.84）。摄入量最高五分位组相比最低组风险降低57%（OR=0.43），该保护效应在不同性别和年龄组中均保持一致。
-    *   
-    *   【创新性总结】
-    *   • 首次在东南亚人群中系统评估MUFA与胃癌风险的剂量反应关系
-    *   • 采用经过验证的半定量食物频率问卷实现精准营养学评估
-    *   • 揭示MUFA的保护效应在不同人口学特征中的普适性
-    *   
-    *   【药学启示】
-    *   • 为营养干预策略提供证据支持：MUFA可作为胃癌化学预防的膳食补充方向
-    *   • 提示MUFA制剂在胃癌高风险人群预防中的开发潜力
-    *   • 为资源有限地区的胃癌防控提供成本效益显著的营养学方案
-    *   • 推动基于地域饮食特色的精准营养药学发展
-
-*   **[Clinical outcomes and complications in Latarjet versus free bone block procedures for anterior shoulder instability: a meta-analysis of comparative studies.](https://pubmed.ncbi.nlm.nih.gov/40886260/)** (PMID: 40886260)
+*   **[Significantly enhancing human antibody affinity via deep learning and computational biology-guided single-point mutations.](https://pubmed.ncbi.nlm.nih.gov/40889116/)** (PMID: 40889116)
     *   **中文总结：**
-    *   本研究通过荟萃分析比较Latarjet手术与游离骨块（FBB）技术治疗肩关节不稳的临床效果。结果显示两种技术在复发率（RR=1.05）、患者报告结局（ASES/Rowe/WOSI等评分）、再手术率及关节活动度（外展/旋转/前屈）方面均无显著差异（P=0.87）。纳入的10项研究（含3项RCT）共665例患者，平均随访37个月。尽管存在研究异质性高和偏倚风险，但未发现发表偏倚（Egger's P=0.15）。
+    *   本研究开发了一种整合深度学习与多尺度计算模拟的创新方法，用于高效筛选抗体亲和力增强突变。该方法通过MicroMutate等模型预测微环境特异性突变，并结合分子动力学评估结合概率。实验验证中，针对H7N9血凝素抗体的单点突变使亲和力提升4.62倍，针对死亡受体5抗体的突变提升2.07倍，且均保持亚纳摩尔级初始亲和力。该策略突破了传统突变筛选的局限性，为抗体药物优化提供了高效精准的通用平台。
     *   
     *   **创新性总结：**
-    *   1. 首次通过荟萃分析证实Latarjet手术的"吊带效应"动态稳定机制并未比单纯骨性阻挡的FBB技术带来额外临床优势
-    *   2. 采用多维度评价指标（客观复发率+主观PROMs+关节功能），增强结论可靠性
+    *   1. 首次整合进化约束、统计势、分子动力学与深度学习模型，实现多维度协同预测；
+    *   2. 开发MicroMutate等专用深度学习工具，实现微环境水平突变精准预测；
+    *   3. 突破传统随机突变或组合库筛选的低效瓶颈，显著降低实验验证成本。
     *   
     *   **药学启示：**
-    *   1. 为骨科手术方案选择提供循证依据，FBB技术可作为Latarjet的等效替代方案
-    *   2. 提示未来关节稳定装置研发可聚焦于骨性阻挡机制而非动态稳定设计
-    *   3. 强调需要更高质量RCT研究支持临床决策（当前证据等级：III级）
+    *   1. 加速高亲和力抗体药物的开发进程，降低治疗剂量与副作用风险；
+    *   2. 为复杂靶点（如病毒蛋白、死亡受体）的抗体优化提供普适性策略；
+    *   3. 强调计算驱动与实验验证的结合，推动AI在生物制药领域的产业化应用。
+
+*   **[A photoactivatable nano-liposome containing tripartite therapeutics for photothermal-triggered chemotherapy.](https://pubmed.ncbi.nlm.nih.gov/40889113/)** (PMID: 40889113)
+    *   中文总结：
+    *   本研究开发了一种新型光激活纳米脂质体系统（IGT@NPs），包含缺氧响应前药替拉扎明（TPZ）、葡萄糖氧化酶（GOx）和吲哚菁绿（ICG）。该系统在近红外激光照射下可产生光热效应，实现药物的按需释放。GOx催化消耗肿瘤内葡萄糖和氧气，加剧缺氧微环境，从而激活TPZ的化疗作用。在皮下4T1乳腺癌模型中，该系统有效抑制了原发肿瘤生长和转移瘤发生。
+    *   
+    *   创新性总结：
+    *   1. 首创将光热治疗与缺氧激活化疗相结合的三元协同纳米系统
+    *   2. 利用肿瘤微环境特性实现药物的精准激活释放
+    *   3. 通过葡萄糖氧化酶调控肿瘤代谢增强治疗效果
+    *   
+    *   药学启示：
+    *   1. 为克服化疗耐药性和毒副作用提供了新策略
+    *   2. 展示了纳米载体在联合治疗中的设计潜力
+    *   3. 为开发肿瘤微环境响应型智能给药系统提供重要参考
+
+*   **[Portable NIR spectroscopy for on-site origin discrimination and alkaloid quantification in Stephania tetrandra roots.](https://pubmed.ncbi.nlm.nih.gov/40889109/)** (PMID: 40889109)
+    *   中文总结：
+    *   本研究开发了一种基于便携式近红外光谱技术的系统，结合多种化学计量学方法，实现了药用植物根茎地理起源的无损快速鉴别和生物碱成分定量预测。以粉防己为例，LightGBM分类器在地理起源鉴别中达到100%准确率，三种生物碱成分（木兰花碱、防己诺林碱和粉防己碱）分别通过最优模型实现精准定量预测。配对T检验显示预测值与实际值无显著差异（p>0.05），证实该便携系统可作为药材产业链质量控制的可靠工具。
+    *   
+    *   创新性总结：
+    *   1. 首创将便携式NIR光谱与多算法组合模型应用于药材全流程质量控制
+    *   2. 实现田间现场同时完成地理溯源和多种生物碱定量分析的双重功能
+    *   3. 针对不同生物碱成分建立定制化预处理-模型组合方案
+    *   
+    *   药学启示：
+    *   1. 为药材种植采收、市场监管提供实时质量监测技术支撑
+    *   2. 建立基于化学成分实测值的药材质量评价新范式
+    *   3. 推动中药材质量控制从实验室向现场快速检测转型
+
+*   **[Paracetamol Concentrations and Time-Course of Ductus Arteriosus Diameter in Extremely Preterm Neonates: A Population Pharmacokinetic-Pharmacodynamic Analysis.](https://pubmed.ncbi.nlm.nih.gov/40889095/)** (PMID: 40889095)
+    *   关键发现总结：
+    *   本研究建立了对乙酰氨基酚在极早产儿动脉导管未闭预防治疗中的药代动力学-药效学模型。研究发现存在两个不同药效响应的亚群：10名患者达到99%最大抑制效果，19名患者仅达到42%最大抑制。较高剂量方案（25mg/kg负荷剂量后每6小时10mg/kg）能使90%以上患者在治疗第一天就达到95%最大抑制阈值，且氧气使用情况和机械通气状态会显著影响药物效应室的转移速率常数。
+    *   
+    *   创新性总结：
+    *   • 首次建立对乙酰氨基酚治疗动脉导管未闭的PKPD模型
+    *   • 识别出存在显著药效学差异的两个患者亚群
+    *   • 量化了临床因素（氧疗和通气支持）对药效动力学参数的影响
+    *   
+    *   药学启示：
+    *   • 支持对乙酰氨基酚作为吲哚美辛和布洛芬的替代治疗方案
+    *   • 推荐临床采用25mg/kg负荷剂量+10mg/kg维持剂量的优化方案
+    *   • 为极低出生体重早产儿的个体化给药提供模型依据
+    *   • 提示需要根据患者呼吸支持状况调整给药策略
+
+*   **[Colchicine for the Secondary Prevention of Cardiovascular Diseases: A Cumulative-Dose Meta-analysis of Randomized Controlled Trials including 31,397 Subjects Worldwide.](https://pubmed.ncbi.nlm.nih.gov/40889093/)** (PMID: 40889093)
+    *   中文总结：
+    *   本研究通过荟萃分析评估秋水仙碱在心血管疾病二级预防中的作用。研究发现秋水仙碱能显著降低主要不良心血管事件（MACE）风险（OR 0.80），特别是在累积剂量≥90 mg-days时保护效果更明显（OR 0.66）。该药物还能显著降低C反应蛋白水平，且不会增加全因死亡率。研究证实每日0.5mg持续至少6个月的给药方案具有最佳获益风险比。
+    *   
+    *   创新性总结：
+    *   1. 首次采用累积剂量分析方法揭示剂量-效应关系
+    *   2. 发现90 mg-days为显著获益的临界剂量阈值
+    *   3. 证实疗效跨种族一致性
+    *   4. 明确区分了心血管保护作用与死亡率效应的差异性
+    *   
+    *   药学启示：
+    *   1. 为秋水仙碱的临床给药方案优化提供循证依据
+    *   2. 支持长期低剂量（0.5mg/日）维持治疗的合理性
+    *   3. 炎症标志物（CRP）降低为其抗炎机制提供佐证
+    *   4. 安全性特征支持其在二级预防中的长期应用价值
+
+*   **[International Trends in Opioid Prescribing by Age and Sex from 2001 to 2019: An Observational Study Using Population-Based Databases from 18 Countries and One Special Administrative Region.](https://pubmed.ncbi.nlm.nih.gov/40889082/)** (PMID: 40889082)
+    *   本文研究了2001-2019年18个国家及地区阿片类镇痛药的处方模式。研究发现全球阿片类药物处方率存在显著地域差异（日本2.7% vs 冰岛19.7%），且呈现女性及老年群体处方率更高的特点。值得注意的是，美国Medicaid项目呈现年降幅1.53%的负增长，而韩国则呈现1.24%的正增长。
+    *   
+    *   创新性总结：
+    *   1. 首次基于18国2.48亿人群数据揭示阿片类药物处方的跨国差异
+    *   2. 通过多变量模型量化了性别与年龄对处方率的独立影响
+    *   3. 发现新处方患者比例(4.9%)高于持续用药患者(3.7%)的特殊现象
+    *   
+    *   药学启示：
+    *   1. 需建立区域化阿片类药物合理使用指南
+    *   2. 应关注女性及老年患者的个体化用药方案
+    *   3. 可借鉴韩国正向增长模式优化疼痛管理策略
+    *   4. 需加强用药依从性及适应症规范的监测体系
+
+*   **[Serum biomarkers of delirium in critical illness: a systematic review of mechanistic and diagnostic evidence.](https://pubmed.ncbi.nlm.nih.gov/40889075/)** (PMID: 40889075)
+    *   本文对危重症患者谵妄的血清生物标志物研究进行了系统性综述，发现中枢神经系统损伤标志物（S100β和NfL）与谵妄存在最稳定的关联，而炎症标志物（如IL-6、CRP）虽被广泛研究但结果不一致。研究揭示了谵妄涉及星形胶质细胞损伤、轴突损伤及免疫激活等多重病理机制，但现有研究存在评估方法和时间点缺乏标准化等局限性。
+    *   
+    *   【创新性总结】
+    *   1. 首次提出谵妄机制内型化的概念框架，整合多模式生物标志物与临床表型
+    *   2. 系统梳理了6大机制通路的54种生物标志物证据
+    *   3. 明确了中枢神经系统损伤标志物在谵妄中的核心地位
+    *   
+    *   【药学启示】
+    *   1. 为开发谵妄靶向治疗药物提供机制依据（如针对星形胶质细胞保护剂）
+    *   2. 推动伴随诊断试剂的开发（S100β/NfL检测试剂盒）
+    *   3. 指导个体化用药策略：通过生物标志物分层实现精准干预
+    *   4. 强调未来研究需注重采样时间标准化和纵向监测方案设计
+
+*   **[Optimized formulation of a three-component extract mixture from Moroccan Crocus sativus L. (Stigmas, leaves, and Tepals) for enhanced antioxidant activity.](https://pubmed.ncbi.nlm.nih.gov/40889063/)** (PMID: 40889063)
+    *   本研究评估了源自藏红花柱头、叶片和花被片的三组分混合物的抗氧化潜力，旨在开发利用这些未充分利用的副产品。通过HPLC-DAD化学分析鉴定出主要生物活性成分包括藏花素(11.04%)、芦丁(22.32%)和鞣花酸(62.47%)。DPPH和ABTS抗氧化测定显示IC50值分别在88.67-291.41 µg/mL和116.76-286.87 µg/mL范围内。采用单纯形-重心混合设计确定了最佳配比：DPPH最佳组合(43%柱头:35%叶片:22%花被片)的IC50为97.36 µg/mL，ABTS最佳组合(45%:35%:20%)的IC50为110.59 µg/mL，两种组合的抗氧化效果均优于BHT和抗坏血酸标准品。
+    *   
+    *   【创新性总结】
+    *   1. 首次系统评估藏红花三种副产物的协同抗氧化效应
+    *   2. 应用混合实验设计方法优化生物活性成分配比
+    *   3. 实现农业废弃物高值化利用的创新途径
+    *   
+    *   【药学启示】
+    *   1. 为开发天然抗氧化剂提供新的原料来源
+    *   2. 混合组分显示出优于单一标准品的协同效应
+    *   3. 在药物制剂中可作为天然防腐剂替代合成抗氧化剂
+    *   4. 符合绿色药学理念，支持循环经济发展模式
+
+*   **[The Role of Next-Generation Probiotics in Colorectal Cancer Pathways: Mechanisms and Therapeutic Potential.](https://pubmed.ncbi.nlm.nih.gov/40889060/)** (PMID: 40889060)
+    *   本文总结了新一代益生菌（NGP）在结直肠癌（CRC）防治中的潜在应用价值。研究发现，通过调节肠道菌群组成，NGP能够恢复微生物群落平衡，产生免疫调节代谢物，从而抑制肿瘤发展并激活抗炎、抗癌和免疫调节通路。关键菌种包括脆弱拟杆菌、阿克曼氏菌和丙酸杆菌等，临床前研究已证实其对CRC的预防和治疗效果。
+    *   
+    *   **创新性总结：**
+    *   - 提出"药物-free"抗癌新策略，通过微生物干预替代或增强传统疗法
+    *   - 阐明NGP通过代谢物-免疫-炎症多维通路作用的新机制
+    *   - 发现特定菌株（如阿克曼氏菌）具有靶向调节肿瘤微环境的能力
+    *   
+    *   **药学启示：**
+    *   - 为CRC防治提供新型微生物制剂开发方向
+    *   - 需建立菌株特异性质量控制标准和给药方案
+    *   - 未来需开展菌群-药物联合治疗的协同效应研究
+    *   - 推动活菌制剂从食品向治疗性生物制品转化
+
+*   **[TMT-based proteomics analysis identifies RPLP1 as a key protein target in ursolic acid Inhibition of colorectal cancer.](https://pubmed.ncbi.nlm.nih.gov/40889039/)** (PMID: 40889039)
+    *   中文总结：
+    *   本研究揭示了熊果酸（UA）通过靶向核糖体蛋白RPLP1抑制结直肠癌发展的新机制。与同源化合物齐墩果酸和槲皮素相比，UA表现出更强的抗结直肠癌细胞活性。蛋白质组学分析发现UA干预后804个差异表达蛋白，其中RPLP1被确认为关键靶点。UA通过抑制RPLP1表达显著降低癌细胞增殖、迁移和侵袭能力，且RPLP1敲除与UA治疗具有协同增效作用。
+    *   
+    *   创新性总结：
+    *   1. 首次系统鉴定UA在结直肠癌细胞中的蛋白质组学响应谱
+    *   2. 发现RPLP1作为UA抗结直肠癌作用的新靶点
+    *   3. 证实UA与靶基因敲除的协同治疗效应
+    *   
+    *   药学启示：
+    *   1. UA可作为结直肠癌治疗的先导化合物进行深度开发
+    *   2. RPLP1蛋白可作为抗结直肠癌药物研发的新靶标
+    *   3. 为中药白花蛇舌草的抗肿瘤机制提供现代科学依据
+    *   4. 为开发基于天然产物的联合治疗方案提供新思路
+
+*   **[Yttrium-90 selective internal radiation therapy for right hepatic malignancies: a clinical outcome study.](https://pubmed.ncbi.nlm.nih.gov/40889027/)** (PMID: 40889027)
+    *   **中文总结：**
+    *   本研究评估钇-90选择性内放射治疗（90Y-SIRT）对右肝肿瘤的控制效果及其诱导左肝代偿性增生的作用。结果显示治疗后肿瘤体积显著减少（3个月减少206mL），同时左肝体积明显增生（3个月增加127mL），未来残余肝体积比例提升11.9%。客观缓解率达78.4%，14例患者成功降期接受手术/移植，且肝功能指标（ICG-R15）保持稳定。
+    *   
+    *   **创新性总结：**
+    *   1. 首次系统验证90Y-SIRT兼具双重作用：肿瘤杀伤与功能性肝组织增生诱导
+    *   2. 通过影像学与功能学（ICG-R15）双重指标证实治疗安全性
+    *   3. 建立从不可切除到可手术转化的新临床路径
+    *   
+    *   **药学启示：**
+    *   1. 放射性栓塞疗法可作为手术桥接治疗的新选择
+    *   2. 需关注钇-90微球剂量与肝增生效应的量效关系
+    *   3. 为肝靶向放射药物联合手术治疗提供实践依据
+    *   4. 提示放射治疗后肝功能监测指标的重要性
+
+*   **[Beyond black boxes: using explainable causal artificial intelligence to separate signal from noise in pharmacovigilance.](https://pubmed.ncbi.nlm.nih.gov/40889016/)** (PMID: 40889016)
+    *   中文总结：
+    *   人工智能（AI）特别是机器学习（ML）正通过改善病例分诊和信号检测显著影响药物警戒领域。研究表明AI工具在优先处理报告和识别潜在安全问题方面表现优异，其F1分数高且与专家评估结果一致。然而，当前大多数AI模型存在"黑箱"问题，缺乏决策过程的透明性，且可能放大自发报告系统中固有的偏见。新兴的可解释AI（XAI）和因果AI虽能提供更具解释性和因果意义的输出，但在药物警戒中的应用仍面临数据质量、验证标准等挑战。
+    *   
+    *   创新性总结：
+    *   1. 首次系统分析AI在药物警戒中应用的双面性（效率提升vs黑箱风险）
+    *   2. 提出将因果推断融入AI工作流程的创新框架
+    *   3. 建立四维优化方向：因果整合、基准数据集、临床逻辑对齐、验证标准
+    *   
+    *   药学启示：
+    *   1. 需开发符合监管要求的可解释AI工具
+    *   2. 应建立药物安全信号的因果验证机制
+    *   3. 人机协同将成为未来药物警戒新范式
+    *   4. 需要制定AI辅助决策的临床验证标准体系
+
+*   **[ADHD prescribing: national findings of children and adolescents attending mental health services in Ireland.](https://pubmed.ncbi.nlm.nih.gov/40889015/)** (PMID: 40889015)
+    *   本文研究了爱尔兰儿童及青少年ADHD（注意缺陷多动障碍）药物的处方模式及超说明书用药情况。研究发现，在专科精神卫生服务机构就诊的未成年患者中，53%使用了ADHD药物，其中98.5%为ADHD适应症用药，仅1.5%存在超说明书用药现象（主要用于抑郁和行为障碍症状）。男孩的ADHD药物处方率显著高于女孩，11-13岁为最常见用药年龄段。
+    *   
+    *   【创新性总结】
+    *   1. 首次针对爱尔兰ADHD药物超说明书使用现状开展实证研究
+    *   2. 建立了基于精神卫生服务体系的处方监测方法
+    *   3. 揭示了ADHD药物在非ADHD精神症状中的实际应用特征
+    *   
+    *   【药学启示】
+    *   1. 临床实践高度遵循药品说明书适应症，超说明书用药比例极低
+    *   2. 需建立持续监测机制以追踪超说明书用药趋势演变
+    *   3. 为ADHD药物在儿童精神健康领域的合理使用提供循证依据
+    *   4. 强调以患者为中心的处方决策的重要性
 
 
 <!-- DAILY_PAPERS_END -->
