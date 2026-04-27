@@ -13,131 +13,136 @@
 <!-- DAILY_PAPERS_START -->
 
 ### Summary for 2026-04-27
-*Fetched and summarized 25 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
+*Fetched and summarized 15 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[A dot-array magnetic enrichment strategy for rapid, multiplexed detection of viable bacteria via ATP bioluminescence.](https://pubmed.ncbi.nlm.nih.gov/42037523/)** (PMID: 42037523)
+*   **[Simultaneous In-Depth Single-Cell Proteomic and Metabolomic Analysis.](https://pubmed.ncbi.nlm.nih.gov/42043857/)** (PMID: 42043857)
+    *   ### 简明中文总结（关键发现与药物科学相关性）
     *   
-
-*   **[Dynamics of particles suspended in field-enhanced microscale flows.](https://pubmed.ncbi.nlm.nih.gov/42037513/)** (PMID: 42037513)
-    *   
-
-*   **[Crosstalk of peripheral cytokine-white matter alteration-insomnia during methadone maintenance treatment.](https://pubmed.ncbi.nlm.nih.gov/42037510/)** (PMID: 42037510)
-    *   这是一份关于该学术论文的简明中文总结。
-    *   
-    *   ### 核心发现总结
-    *   本研究针对接受美沙酮维持治疗（MMT）的阿片类药物使用障碍（OUD）患者的失眠问题，发现了关键的病理机制轴。通过对比影像学和血液指标，研究发现MMT患者存在广泛的白质（WM）微结构损伤，并伴随外周免疫细胞及细胞因子的失衡。核心发现是，部分中介分析揭示了一条“**干扰素-γ（IFN-γ）-白质损伤-失眠**”的介导通路：IFN-γ水平升高可能通过损害大脑白质完整性，进而加剧了MMT患者的失眠症状。这一发现为药物科学提供了明确的干预靶点，表明调节IFN-γ水平可能是改善该人群失眠的有效药理策略。
+    *   本研究提出了一种名为hybrid-scPMA的单细胞多组学分析策略，通过在同一液相色谱-质谱（LC-MS）运行中交替使用数据非依赖采集（DIA）分析蛋白质肽段和数据依赖采集（DDA）分析代谢物，实现了对单个细胞蛋白质组和代谢组的高深度联合鉴定。结合自动化单细胞捕获、简化样品预处理等优化流程，该方法在单个HepG2细胞中平均鉴定出3510个蛋白组和255个代谢物，鉴定深度远超以往技术。研究进一步将该方法应用于索拉非尼药物干预的HepG2单细胞时间分辨分析，成功解析了单细胞水平的药物响应异质性，并从蛋白质-代谢组学视角为药物作用机制提供了多组学证据。该技术为精准理解药物疗效与耐药性的细胞基础、以及单细胞层面的药物机制研究提供了有力工具。
     *   
     *   ### 创新性总结
-    *   -   **发现新通路**：首次在多模态数据整合下，揭示了MUD患者失眠背后“外周炎症（IFN-γ）驱动中枢白质损伤”的特异性介导通路。
-    *   -   **因果推断验证**：不仅限于相关性分析，还创新性地引入孟德尔随机化分析方法，从遗传学角度强化了阿片类药物使用障碍与脑白质异常之间的因果联系。
-    *   -   **明确康复基线**：通过对比短期戒断和长期戒断（10个月）的患者，证实白质损伤在长期戒断后可恢复，从而确立了MMT相关神经损伤的可逆性背景。
-    *   
-    *   ### 药学启示
-    *   -   **靶向治疗潜力**：明确指向IFN-γ可作为治疗MMT患者失眠的药理学关键靶点，
+    *   - 首次在单次LC-MS分析中实现DIA与DDA混合模式切换，同时深度覆盖蛋白质组与代谢组。
+    *   - 建立了集成化单细胞多组学工作流，大幅提升鉴定深度（蛋白组3510个、代谢物255个）。
+    *   - 在单细胞层面实现了时间
 
-*   **[Targeted Biomimetic Stem Cell Membrane-Exosome Composite Delivery System for the Treatment of Bone Defects.](https://pubmed.ncbi.nlm.nih.gov/42037505/)** (PMID: 42037505)
-    *   以下是该论文摘要的简明中文总结：
-    *   
-    *   本研究针对MC3T3-E1细胞来源外泌体（M-Exos）成骨效率低、骨靶向性差的瓶颈，开发了“HAMA + BM-Exo138”治疗系统。该系统将装载有重组核酸药物MSA-anti-138的外泌体包裹在骨髓间充质干细胞膜中，制成具有增强骨靶向能力的BM-Exo138复合物，再利用甲基丙烯酸化透明质酸（HAMA）水凝胶作为骨填充材料实现其缓释。体内外实验证实，该系统能显著促进成骨分化和骨缺损修复。RNA测序分析表明，其治疗作用是通过激活TGF-β信号通路实现的。该研究为克服外泌体疗法的现有局限、推动其在骨缺损治疗
+*   **[Visible-Light-Promoted Continuous-Flow Iodination of Primary C(sp3)-H Bonds: An Undirected and Regioselective Approach.](https://pubmed.ncbi.nlm.nih.gov/42043848/)** (PMID: 42043848)
+    *   ### 简明中文总结
+    *   该研究报道了一种在可见光照射下，利用廉价易得的碘、亚硝酸钠和盐酸为试剂，在四氯化碳溶剂中通过连续流反应实现烷烃伯碳（C(sp³)-H）键区域选择性碘化的方法。该方法克服了伯碳氢键键能高、伯自由基中间体不稳定导致的直接功能化难题，能够选择性地功能化伯碳氢键，而非通常更活泼的仲碳、叔碳甚至苄位氢。该方法适用于多种线性、支
 
-*   **[Relationship Between PTBP1 and Pancreatic Cancer Based on microRNA and Behavior During TYMS-Mediated Carcinogenesis.](https://pubmed.ncbi.nlm.nih.gov/42037503/)** (PMID: 42037503)
-    *   
-
-*   **[Cognitive reserve in non-affective first-episode psychosis: contributions of polygenic scores, early clinical features, and environment.](https://pubmed.ncbi.nlm.nih.gov/42037495/)** (PMID: 42037495)
-    *   
-
-*   **[H2SO4-catalyzed one-step synthesis of β,β'-carbon-bridged bisBODIPYs from BODIPYs and aldehydes.](https://pubmed.ncbi.nlm.nih.gov/42037494/)** (PMID: 42037494)
-    *   
-
-*   **[Iloperidone treatment mitigates the Juvenile Huntington's Disease phenotype possibly via Sigma-1 Receptor Modulation.](https://pubmed.ncbi.nlm.nih.gov/42037491/)** (PMID: 42037491)
-    *   
-
-*   **[Characterizing executive dysfunctions in patients with schizo-obsessive comorbidity: comparing schizophrenia with obsessive-compulsive disorder.](https://pubmed.ncbi.nlm.nih.gov/42037477/)** (PMID: 42037477)
-    *   **摘要总结**
-    *   该研究比较了分裂-强迫共病(SOC)、精神分裂症(SCZ)和强迫症(OCD)患者的执行功能缺陷模式。采用机器学习分析发现，三组均显著区别于健康对照，但特定缺陷成分不同：SCZ的核心特征是在线更新能力受损，OCD的关键标志是去抑制和在线更新双重缺陷，而SOC则表现为在线更新、计划和去抑制三者的共同受损。机器学习可较好区分SOC与OCD，但难以区分SOC与SCZ，提示SOC的执行功能特征更接近SCZ。这些发现为理解共病的独特认知表型提供了依据。
+*   **[Toward a Common Set of Interface Requirements for Genomic Data Management: Scoping Review.](https://pubmed.ncbi.nlm.nih.gov/42043847/)** (PMID: 42043847)
+    *   **中文简明总结**
+    *   本综述着眼于整合基因组数据与医疗数据以推动精准医学，但这一过程面临数据量大、标准化不足和安全保护等挑战。通过系统检索2014-2024年文献，最终纳入53项研究，识别出26项界面功能需求（分为通用数据管理、数据处理分析、数据可视化与报告三类）和20项非功能需求（分为通信支持、技术基础设施、用户体验、安全合规四类）。关键发现是：三大功能需求需由安全技术基础设施和治理机制等非功能需求支撑，以促进合规的数据处理与共享。该研究为设计标准化健康与基因组数据管理平台提供了用户视角的明确需求清单，有助于提升药物科学中的数据交互效率。
     *   
     *   **创新性总结**
-    *   首次运用机器学习揭示SOC特有的执行功能障碍组合（在线更新+计划+去抑制），突破了传统组间均值比较的局限，并发现SOC与SCZ的认知表型高度相似，暗示两者可能共享更核心的病理机制。
-    *   
-    *   **药学启示
-
-*   **[Use of sGC stimulators in heart failure therapy - a mode of action perspective.](https://pubmed.ncbi.nlm.nih.gov/42037446/)** (PMID: 42037446)
-    *   
-
-*   **[NIR excitation-driven conformational isomerizations of thymol and carvacrol isolated in a nitrogen cryomatrix.](https://pubmed.ncbi.nlm.nih.gov/42037423/)** (PMID: 42037423)
-    *   
-
-*   **[Regional-local urinary antibiograms for long-term care homes: a population-wide cross-sectional study.](https://pubmed.ncbi.nlm.nih.gov/42037421/)** (PMID: 42037421)
-    *   该研究摘要的核心内容总结如下：
-    *   
-    *   **中文总结**
-    *   这项横断面研究针对加拿大安大略省长期护理机构的尿液样本，比较了标准抗菌谱与一种新型“区域-局部”混合模型抗菌谱的差异。研究发现，由于许多机构样本量少，传统方法只能为54.2%的机构生成机构特异性抗菌谱，或使用全省均值，导致敏感性估计范围宽泛（如复方新诺明范围为37%-90%）。而区域-局部方法使用部分池化逻辑混合模型，能够为全部627家机构创建特异性抗菌谱，并显著缩窄了敏感性估计范围（复方新诺明为57%-77%）。此法降低了对高敏感性药物的误判，使符合某抗生素超80%敏感性阈值的机构数从119家锐减至11家。结果还导致首选经验性抗生素的排序发生变化，从标准法的阿莫西林-克拉维酸转为区域-局部法的复方新诺明。该研究表明区域-局部抗菌谱可提供更精准、误导性变异更小的药敏估计。
-    *   
-    *   **创新性总结**
-    *   - **方法论创新**：首次将“部分池化”的混合效应模型应用于长期护理机构的抗菌谱
-
-*   **[A Delphi consensus for implementing genomic testing in unresectable or metastatic urothelial cancer.](https://pubmed.ncbi.nlm.nih.gov/42037417/)** (PMID: 42037417)
-    *   
-
-*   **[SARS-CoV-2 3CLpro mutations T21I and E166A confer differential resistance to simnotrelvir, bofutrelvir, and ensitrelvir.](https://pubmed.ncbi.nlm.nih.gov/42037412/)** (PMID: 42037412)
-    *   该研究首次揭示了抗新冠药物先诺特韦（simnotrelvir）的耐药特征，发现新冠病毒3CL蛋白酶（3CLpro）的T21I/E166A双突变在药物压力下出现，并导致对先诺特韦、奈玛特韦和恩赛特韦的交叉耐药，但博福特韦（bofutrelvir）仍保持有效。结构分析表明，E166A突变破坏了抑制剂γ-内酰胺环（P1）周围的氢键网络，并重塑了S2亚位点，形成不同于E166V的新耐药机制。计算模拟显示博福特韦的醛基共价弹头在S2位点改变后仍能维持强结合亲和力，可部分克服耐药。动物实验证实先诺特韦和博福特韦对携带该突变的病毒变异株均具有体内治疗效果。这些发现加深了对3CLpro耐药谱系与分子机制的理解，突显开发多样化抗病毒策略的紧迫性。
-    *   
-    *   **创新性总结：**
-    *   1. 首次系统阐明先诺特韦的体外耐药突变谱，证实T21I/E166A可诱导产生
-    *   2. 发现E166A突变
-
-*   **[EV-D68 exploits clathrin-mediated endocytosis and compensatory macropinocytosis for cellular entry.](https://pubmed.ncbi.nlm.nih.gov/42037410/)** (PMID: 42037410)
-    *   
-
-*   **[Concanavalin A targets phylogenetically conserved N-linked glycans on coronavirus spike proteins for broad-spectrum antiviral activity.](https://pubmed.ncbi.nlm.nih.gov/42037405/)** (PMID: 42037405)
-    *   
-
-*   **[Overcoming inconsistent DNA extraction recovery across tissue types in qPCR assays supporting biodistribution studies.](https://pubmed.ncbi.nlm.nih.gov/42037403/)** (PMID: 42037403)
-    *   **摘要总结**
-    *   本研究系统评估并优化了从复杂生物样本中提取载体DNA和基因组DNA的关键参数，发现蛋白酶K孵育、RNase用量、组织投入量及DNA结合磁珠体积是显著影响回收率的核心因素。通过优化这些条件，在小鼠、兔和非人灵长类的脑、肝、脊髓等多种组织类型中均实现了稳定且高效的DNA回收。该发现为基因与细胞治疗产品的生物分布研究中的DNA提取步骤提供了关键优化依据，直接关乎后续定量分析的可靠性与准确性。
-    *   
-    *   **创新性总结**
-    *   -   首次跨多种组织与物种（小鼠、兔、非人灵长类）系统性地识别并验证了影响DNA提取回收率的四个关键参数。
-    *   -   建立了通过掺加已知量DNA至替代基质来精准评估回收率的优化方法，为标准化提取方案提供了框架。
+    *   首次从最终用户（临床医生、数据分析师）视角系统梳理并绘制了基因组数据管理平台的功能与非功能需求，弥补了将利益相关者需求转化为设计规范的空白。
     *   
     *   **药学启示**
-    *   -   直接提升基因治疗载体（如AAV、慢病毒）生物分布研究的准确性，对药代动力学和安全性评价至关重要。
-    *   -   为制定可靠的DNA提取标准操作程序（SOP）提供了科学依据，有助于减少实验变异性，增强监管申报数据的可信度。
+    *   该平台需求映射可指导开发标准化数据平台，加速药物基因组学数据在临床试验和个体化用药中的合规共享，推动靶向药物研发与精准治疗，同时确保数据安全与管理合规。
 
-*   **[Differential impact of Tafenoquine and Primaquine on Plasmodium vivax recurrence: the role of CYP2D6 variants.](https://pubmed.ncbi.nlm.nih.gov/42037398/)** (PMID: 42037398)
+*   **[Electrochemical Modulation of Laser-Induced Covalent Functionalization of Graphene.](https://pubmed.ncbi.nlm.nih.gov/42043836/)** (PMID: 42043836)
+    *   **简明中文总结**
+    *   该研究提出一种光电化学驱动策略，通过结合空间分辨的激光活化前体与电化学反应门控，实现了对石墨烯共价功能化程度的连续调控。在特定电位窗口内，改变施加偏压可独立于激光条件调节共价加成程度，其中负电位促进反应、正电位抑制反应，并支持活性/非活性状态的可逆切换。该方法具有“电化学关断”功能，可在前体溶液中无损进行原位拉曼表征，从而实现对功能化过程的实时、逐步监测。这一双控制平台集成激光引导的精准图案化与电压调节的反应调控，为未来石墨烯的精密化学修饰提供了新途径。在药物科学中，该方法可应用于设计可控的纳米药物递送系统、生物传感器表面功能化以及石墨烯基治疗剂的精准修饰。
     *   
-
-*   **[Surveillance for invasive candidiasis in China (CHIF-NET 2018-2021): rising antifungal resistance observed in a nationwide longitudinal study.](https://pubmed.ncbi.nlm.nih.gov/42037397/)** (PMID: 42037397)
-    *   **中文总结：**
-    *   这项为期12年（2009-2021）的中国多中心监测研究显示，侵袭性念珠菌感染的病原菌种分布保持稳定，以白念珠菌（46.0%）为主，其次为热带念珠菌、近平滑念珠菌和光滑念珠菌。然而，耐药问题日益严峻，尤其是非白念珠菌的唑类耐药率显著升高，例如引起念珠菌血症的热带念珠菌对氟康唑和伏立康唑的耐药率分别高达42.5%和38.9%，并观察到普遍的交叉及多重耐药现象。这对常规经验性抗真菌治疗构成直接威胁，要求临床医生和药师必须依赖准确的菌种鉴定和药敏结果
-
-*   **[Restoration of daptomycin sensitivity with adjunctive cefazolin is associated with C-terminal MprF mutations in MRSA bacteremia isolates.](https://pubmed.ncbi.nlm.nih.gov/42037396/)** (PMID: 42037396)
+    *   **创新性总结**
+    *   1. 首次将空间分辨激光活化与电化学反应门控协同集成，实现石墨烯功能化程度在空间和能量上的独立双参数调控。
+    *   2. 提出“电化学开/关”概念，利用电位正负切换可逆控制共价加成，避免了传统方法中反应与表征相互干扰的问题。
+    *   3. 建立了一种可原位、无中断监测功能化进程的拉曼表征技术，为精密石墨烯化学提供了实时反馈工具。
     *   
+    *   **药学启示**
+    *   1. 可用于构建具有响应性（如电位触发）的药物释放平台，通过精确控制功能化程度实现药物的按需可控释放。
+    *   2. 该策略有助于开发高灵敏度生物传感器，通过局部化学修饰提高
 
-*   **[Evaluating acridones as novel therapeutics for human babesiosis.](https://pubmed.ncbi.nlm.nih.gov/42037395/)** (PMID: 42037395)
+*   **[Efficacy and Safety of Vemircopan in Generalized Myasthenia Gravis: A Randomized Clinical Trial.](https://pubmed.ncbi.nlm.nih.gov/42043793/)** (PMID: 42043793)
+    *   这项II期随机对照试验评估了口服选择性补体因子D抑制剂vemircopan在乙酰胆碱受体抗体阳性全身性重症肌无力（AChR-Ab+ gMG）患者中的疗效与安全性。研究发现，180mg或120mg每日两次的vemircopan治疗组在主要终点（MG-ADL评分连续4周改善≥2分）上与安慰剂组无显著差异（分别为57%、57% vs 64%），且次要终点也未显示统计学意义。安全性方面，未报告脑膜炎球菌感染，但出现1例肝衰竭死亡和1例单纯疱疹脑膜炎导致的停药。该研究因未达到预设疗效阈值而提前终止。
     *   
+    *   **创新性总结**：首次尝试通过口服选择性抑制补体替代途径（因子D）治疗gMG，旨在保留经典和凝集素途径的免疫功能以降低感染风险，但未能验证临床疗效。
+    *   
+    *   **药学启示**：
+    *   1. 口服补体替代途径抑制剂在gMG中的有效性尚未确立，可能需优化剂量或患者选择。
+    *   2. 因子D抑制的局部补体阻断效果可能不足以控制gMG的神经肌肉接头损伤，提示替代途径靶点的局限性。
+    *   3. 安全性优势（无脑膜炎球菌感染）值得关注，但肝毒性和感染风险仍需进一步评估。
+    *   4. 未来药物开发需在保留免疫保护与疗效之间寻找更优平衡，或探索联合疗法。
 
-*   **[Synergistic antiviral effects of structure-guided peptides and a mutagenic base analog on SARS-CoV-2 replication.](https://pubmed.ncbi.nlm.nih.gov/42037394/)** (PMID: 42037394)
+*   **[Phase I trial of Ipatasertib plus Atezolizumab enhances PI3K/AKT pathway immune responses in solid tumors and refractory glioblastoma.](https://pubmed.ncbi.nlm.nih.gov/42043781/)** (PMID: 42043781)
     *   ### 简明中文总结
-    *   为应对疫苗保护力有限及病毒变异问题，本研究探索了一种结合结构导向肽与致死性诱变的双重抗病毒策略。研究团队依据新冠病毒复制复合体的晶体结构，设计了可干扰病毒校阅和RNA加帽过程的抑制肽P1和P6，同时评估了诱变剂5-氟尿嘧啶的效果。结果显示，P1和P6具有强效抗病毒活性且毒性低，而5-氟尿嘧啶能降低病毒特异感染
-
-*   **[2-Mercaptophenylboronic acid: a superior alternative to 2-mercaptoethanol for thioester hydrolysis.](https://pubmed.ncbi.nlm.nih.gov/42037391/)** (PMID: 42037391)
-    *   **摘要总结**
-    *   本文报道了2-巯基苯硼酸
-
-*   **[The LEDGIN GS-9822 inhibits HIV-2 infection and enhances HIV-2 latency.](https://pubmed.ncbi.nlm.nih.gov/42037386/)** (PMID: 42037386)
-    *   以下是该论文摘要的简明中文总结：
+    *   本研究探索了PI3K/AKT通路抑制剂ipatasertib联合PD-L1抑制剂atezolizumab在复发胶质母细胞瘤和晚期实体瘤中的临床潜力。1b期临床试验显示，该联合方案耐受性良好，未出现剂量限制性毒性，推荐2期剂量为ipatasertib 400 mg/天联合atezolizumab 1200 mg每3周一次。药效学分析证实，联合治疗可显著降低肿瘤微环境中的FOXP3+调节性T细胞，并增加CD8+效应T细胞的浸润。部分难治性或复发胶质母细胞瘤患者观察到持久的显著响应。这是首个在临床样本中证明ipatasertib能有效消耗调节性T细胞并增强效应T细胞浸润的研究。
     *   
-    *   本研究验证了新一代LEDGIN（LEDGF/p75-整合酶相互作用抑制剂）GS-9822对HIV-2和SIV的抑制活性。通过分子优化，GS-9822克服了早期LEDGIN仅针对HIV-1的局限性，在纳摩尔水平即可阻断HIV-2和SIV的整合酶与宿主辅助因子LEDGF/p75的结合，从而抑制整合。关键发现是，GS-9822不仅能减少整合事件，还能将残余的HIV-2前病毒引导至转录沉默的染色质区域，诱导更深度的潜伏状态，并抵抗再激活。这首次在HIV-2上证实了“阻断与锁定”的潜伏促进效应，为功能性治愈策略提供了新证据。尽管GS-9822本身因尿路上皮毒性限制无法用于非人灵长类动物模型，但该研究为设计安全有效的新型LEDGIN、利用动物模型验证“阻断与锁定”功能性治愈策略铺平了道路。
+    *   ### 创新性总结
+    *   - 首次在临床样本中证实ipatasertib可通过消耗FOXP3+调节性T细胞并促进CD8+效应T细胞浸润，逆转免疫抑制微环境。
+    *   - 揭示了PI3K/AKT抑制与PD-L1阻断在胶质母细胞瘤中的协同抗肿瘤免疫机制。
     *   
-    *   **创新性总结：
+    *   ### 药学启示
+    *   - 联合靶向PI3K/AKT通路与免疫检查点抑制剂可能是克服免疫治疗耐药（特别是胶质母细胞瘤）的有效策略。
+    *   - 药效学生物标志物（如T细胞亚群变化）可指导患者分层及疗效监测。
+    *   - 该联合方案的安全性数据支持后续临床开发，值得在更大规模队列中验证疗效。
 
-*   **[Multiple prophage acquisition events over the course of an outbreak drive lysogenic conversion of capsular polysaccharides produced by carbapenem-resistant Acinetobacter baumannii isolates.](https://pubmed.ncbi.nlm.nih.gov/42037385/)** (PMID: 42037385)
+*   **[Tozasertib + cisplatin inhibits proliferation, migration, and induces apoptosis in esophageal carcinoma cells.](https://pubmed.ncbi.nlm.nih.gov/42043774/)** (PMID: 42043774)
+    *   ### 简明中文总结
+    *   该研究探讨了Aurora激酶抑制剂Tozasertib与顺铂（CDDP）联用对食管癌细胞的作用。实验发现，联合用药能显著抑制TE-1和KYSE150细胞的增殖和迁移（增殖率分别降至41.6%和38.2%，迁移率降至7.3%和8.5%），并促进凋亡（凋亡率分别达44.6%和42.3%），效果优于单药治疗。联合用药还通过上调cleaved PARP和caspase-3，下调p-ERK、MMP-2、VEGF等蛋白表达，抑制人脐静脉内皮细胞管形成（血管生成）。机制上，联合用药通过抑制ERK通路诱导细胞衰老和周期阻滞。这一发现为克服顺铂耐药和降低全身毒性提供了新策略。
+    *   
+    *   ### 创新性总结
+    *   - 首次揭示Aurora激酶抑制剂Tozasertib通过抑制ERK通路与顺铂协同诱导食管癌细胞衰老，而非传统凋亡。
+    *   - 发现联合用药能显著抑制血管生成（通过降低VEGF和MMP-2），提示其抗肿瘤微环境作用。
+    *   - 明确了联合用药对细胞周期蛋白Cyclin B1及c-Myc的下调，为周期阻滞机制提供新证据。
+    *   
+    *   ### 药学启示
+    *   - 联合用药方案（Tozasertib + 低剂量顺铂）可能通过协同增效降低顺铂用量，减少系统毒性。
+    *   - Aurora激酶抑制剂作为化疗增敏剂，为食管癌耐药患者提供潜在治疗选择。
+    *   - 作用机制涉及多条信号通路（ERK、凋亡、血管生成），提示多靶点干预优于单靶点药物。
+
+*   **[The central role of mitochondrial dysfunction in neurodegeneration: implications for therapy.](https://pubmed.ncbi.nlm.nih.gov/42043769/)** (PMID: 42043769)
+    *   ### 简明中文总结
+    *   本综述聚焦神经退行性疾病（如阿尔茨海默病、帕金森病等）中线粒体功能障碍的共同病理机制，包括能量代谢受损、钙稳态失调、动力学异常、自噬不足及活性氧过度产生。作者系统总结了针对线粒体的治疗策略，如靶向抗氧化剂、线粒体移植、运动干预、饮食调整及纳米递送系统，并指出这些方法在实验模型中能降低氧化应激、稳定膜电位并部分恢复ATP生成。然而，临床试验结果不一致，提示疗效高度依赖疾病阶段、患者异质性和具体的线粒体缺陷类型。该综述整合了机制与治疗证据，为开发共享与疾病特异性线粒体干预措施提供了结构化视角。
+    *   
+    *   ### 创新性总结
+    *   - **多疾病共性机制整合**：首次系统对比多种神经退行性疾病中线粒体功能障碍的共享与特异性特征，突破单一疾病研究局限。
+    *   - **治疗策略全景评估**：涵盖传统（运动/饮食）与前沿（纳米递送、线粒体移植）干预，强调机制与
+
+*   **[Treatment Characteristics and Healthcare Resource Utilization Among Patients with Myasthenia Gravis Initiating Rozanolixizumab: A US Claims Database Analysis.](https://pubmed.ncbi.nlm.nih.gov/42043767/)** (PMID: 42043767)
+    *   **简明中文总结**
+    *   本研究是一项美国真实世界回顾性队列研究，评估了rozanolixizumab（一种新生儿Fc受体拮抗剂）在全身性重症肌无力（MG）成人患者中的治疗模式和医疗资源利用（HCRU）。共纳入719例患者，其中287例随访≥1年，平均治疗周期为2.9个（低于III期研究的4
+
+*   **[Medicinal plants as alternative and adjunct antimicrobial agents in ear, nose, and throat (ENT) Infections.](https://pubmed.ncbi.nlm.nih.gov/42043716/)** (PMID: 42043716)
+    *   **简明中文总结**：
+    *   该综述系统总结了2020–2025年间药用植物在耳鼻喉（ENT）疾病（如外耳炎、中耳炎、耳鸣、眩晕、过敏性鼻炎、咽炎和喉炎）中的实验与临床证据。常用的植物包括薰衣草、百里香、姜黄、生姜、牛至、甘草、薄荷、洋甘菊和丁香等，这些植物及其提取物或精油在体外显示出针对上呼吸道和口腔/ENT感染相关病原体的抗菌、抗真菌或抗病毒活性，甚至能抑制多重耐药性呼吸道和咽部细菌。然而，现有研究在临床验证、制剂标准化和安全性评估方面仍存在明显缺口。该综述通过比较表格突出有前景的植物类群和制备类型，为未来开发新型植物源ENT抗菌药物提供了研究框架。
+    *   
+    *   **创新性总结**：
+    *   - 首次系统整合2020–2025年间ENT相关药用植物证据，突出多重耐药菌的抑制作用。
+    *   - 以比较表格形式呈现不同植物的活性谱及制剂类型，为筛选候选物种提供结构化参考。
+    *   - 明确指出现有研究在临床转化、标准化和质量控制方面的不足，为后续药理学和植物化学研究指明方向。
+    *   
+    *   **药学启示**：
+    *   - 药用植物提取物和精油可作为应对ENT多重耐药菌感染的新型抗菌药物候选来源。
+    *   - 需加强植物制剂标准化（如活性成分含量、
+
+*   **[Boswellia serrata dry extract with intestinal anti-inflammatory properties also accelerates gastric ulcer healing in rats.](https://pubmed.ncbi.nlm.nih.gov/42043715/)** (PMID: 42043715)
+    *   **简明中文总结**
+    *   本研究评估了乳香干提取物（BSDE）对乙酸诱导的胃溃疡和溃疡性结肠炎的治疗效果。在胃溃疡模型中，口服BSDE（100 mg/kg最有效）能加速溃疡愈合，增加胃粘蛋白含量，并降低氧化应激指标（如GSH、MDA等）。在结肠炎模型中，BSDE（100、300 mg/kg）可减轻宏观和微观结肠损伤，保护隐窝结构，减少炎症浸润。质谱分析显示BSDE含有α-乳香酸等六种化合物，计算研究提示其潜在靶点包括COX-1、COX-2和iNOS。结果表明BSDE通过抗氧化和粘膜保护机制发挥胃肠保护与抗炎作用，支持其传统用途，并展示了良好的药物相似性和安全性。
+    *   
+    *   **
+
+*   **[Network pharmacology and in vivo experimental analysis for validating the antifibrotic potential of Punica granatum leaves against skin scleroderma: the role of oxidative stress, inflammation and TGF-β1/Snail 1/p-Smad 3 signaling pathway.](https://pubmed.ncbi.nlm.nih.gov/42043714/)** (PMID: 42043714)
     *   **简明中文总结：**
-    *   本研究揭示了前噬菌体如何通过改变鲍曼不动杆菌的荚膜多糖结构来驱动细菌演化。研究人员在耐药菌株BAL114中发现了两个位于不同前噬菌体上的基因，它们能提供替代的荚膜多糖聚合酶，从而压制原有聚合酶功能并改变多糖单元间的连接方式。这种结构改变可能影响细菌毒力及对噬菌体疗法的敏感性。系统发育分析显示，在同一暴发谱系中，这种前噬菌体的多次独立获取在短时间内频繁发生，且这些修饰基因可通过前噬菌体在不同菌株间转移。该发现强调在追踪细菌暴发和进化时，必须同时考虑可移动的辅助基因组（如原噬菌体）对关键毒力因子的影响。
+    *   本研究通过网络药理学和体内实验，探讨了石榴叶乙醇提取物（PGEL）缓解博来霉素诱导的大鼠皮肤纤维化的机制。PGEL口服给药（200和400 mg/kg）3周后，显著降低了皮肤中的髓过氧化物
+
+*   **[Metformin for knee osteoarthritis in overweight and obese adults: a systematic review and meta-analysis of efficacy, safety, and disease-modifying anti-inflammatory potential.](https://pubmed.ncbi.nlm.nih.gov/42043713/)** (PMID: 42043713)
+    *   **简明中文总结**
+    *   本系统综述与荟萃分析评估了二甲双胍对超重或肥胖膝骨关节炎（OA）患者的疗效与安全性。汇总7项研究（含6项随机对照试验）的数据显示，二甲双胍显著减轻了患者膝关节疼痛（标准化均数差SMD=-0.42，高证据质量），同时增加了轻度、非严重的胃肠道不良事件风险（风险比RR=1.97，中等证据质量）。该结果支持二甲双胍作为针对代谢复杂性OA表型的潜在疾病缓解药物，尤其适用于伴有超重/肥胖的患者，但需注意其胃肠道耐受性。未来应开展更长疗程、以结构结局为终点的临床试验以进一步验证。
     *   
-    *   **创新性总结：**
-    *   首次发现并验证了前噬菌体通过水平获取替代
+    *   **创新性总结**
+    *   - 首次通过系统评价与荟萃分析，整合多项高质量随机对照试验证据，
+
+*   **[Signaling Pathways Triggering Therapeutical Potential of Marine-Derived Polysaccharides in Alzheimer's Disease: A Recent Review.](https://pubmed.ncbi.nlm.nih.gov/42043700/)** (PMID: 42043700)
+    *   ### 简明中文总结（4-6句）
+    *   阿尔茨海默病（AD）是一种进行性神经退行性疾病，其病理机制复杂，涉及β-淀粉样蛋白沉积、tau蛋白过度磷酸化、氧化应激、线粒体功能障碍和慢性神经炎症等。目前临床药物仅能缓解症状，无法阻止疾病进展，因此多靶点天然活性化合物备受关注。海洋来源的多糖（如褐藻糖胶、海藻酸盐、卡拉胶、壳聚糖、绿藻多糖、硫酸软骨素和透明质酸）具有抗氧化、抗炎、抗淀粉样蛋白聚集和神经保护作用，可通过调控NF-κB、MAPK、PI3K/Akt/
+
+*   **[A consolidated framework for implementation research (CFIR) informed exploration of a primary care intervention to support deprescribing for problematic polypharmacy in older adults living with frailty (DEPPLOY) in England: a qualitative study.](https://pubmed.ncbi.nlm.nih.gov/42043692/)** (PMID: 42043692)
+    *   ### 简明中文总结（4-6句，重点：关键发现与药物科学相关性）
+    *   
+    *   本研究通过定性访谈探究了英国一家全科诊所中，将减量处方（deprescribing）纳入结构化药物审查（SMR）的实施情况。关键发现包括：正式培训、国家议程下的财务激励、与现有处方流程的契合度、患者对减量处方目标的理解以及团队协作，是影响实施成功的重要因素。结构化药物审查被认为是与患者共同讨论并做出减量处方决策的合适机制，而支持患者的资源能够提升参与度和满意度。从药物科学角度看，该研究强调了药师在老年人初级保健中主导减量处方、优化用药、减少不良事件及提高生活质量的核心角色。同时，研究指出需识别并解决实施中的障碍与促进因素，以实现干预的规模化推广和持续改进。
+    *   
+    *   ### 创新性总结
+    *   - **理论框架应用**：首次采用整合实施研究框架（CF
 
 
 <!-- DAILY_PAPERS_END -->
