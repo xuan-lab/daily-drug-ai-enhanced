@@ -12,69 +12,8 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-09-16
-*Fetched and summarized 20 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
-
-*   **[Development and Temporal External Validation of a Parsimonious, Interpretable Machine Learning Model for Predicting 6-Month Mortality in Long-Term Care Facilities: A Retrospective Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42748398/)** (PMID: 42748398)
-    *   
-
-*   **[Factor XIa Inhibitors for Secondary Prevention After Noncardioembolic Stroke: A Systematic Review and Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/42748394/)** (PMID: 42748394)
-    *   
-
-*   **[Linking Military Blast Exposure to Veterans Health Administration Diagnoses: Chronic Health Outcomes in the Millennium Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42748386/)** (PMID: 42748386)
-    *   
-
-*   **[The Relationship of Therapeutic Positive Airway Pressure and Upper Airway Collapsibility During Drug-Induced Sleep Endoscopy.](https://pubmed.ncbi.nlm.nih.gov/42748373/)** (PMID: 42748373)
-    *   
-
-*   **[Evaluation of Vamana and Virechana as Interventions to Decelerate the Aging Process in Healthy Adult Volunteers: Protocol for an Exploratory Single-Arm Clinical Trial.](https://pubmed.ncbi.nlm.nih.gov/42748372/)** (PMID: 42748372)
-    *   
-
-*   **[Staphylococcus pettenkoferi: an underrecognized species with clinically relevant antimicrobial resistance. A comprehensive genomic European study.](https://pubmed.ncbi.nlm.nih.gov/42748359/)** (PMID: 42748359)
-    *   
-
-*   **[Differential pathogenesis and antiviral treatment outcomes of MPXV clade Ib and clade IIb in a BALB/c mouse model.](https://pubmed.ncbi.nlm.nih.gov/42748357/)** (PMID: 42748357)
-    *   
-
-*   **[Pulmonary Function Test Order Redesign: A Quality Improvement Initiative.](https://pubmed.ncbi.nlm.nih.gov/42748326/)** (PMID: 42748326)
-    *   
-
-*   **[Injectable Hydrogels With Modular Functionalities Enabled by Hydrazone Formation.](https://pubmed.ncbi.nlm.nih.gov/42748324/)** (PMID: 42748324)
-    *   
-
-*   **[Ethical and Legal Considerations in the Collection and Analysis of Mental Health Lived Experience Narratives: Reflections on 4 Case Studies of Research Practice.](https://pubmed.ncbi.nlm.nih.gov/42748284/)** (PMID: 42748284)
-    *   
-
-*   **[Fentanyl purity and overdose decline: A reexamination of geographic trends.](https://pubmed.ncbi.nlm.nih.gov/42748263/)** (PMID: 42748263)
-    *   
-
-*   **[Renal-clearable fluorescent probe for early detection of pancreatic cancer in living murine models.](https://pubmed.ncbi.nlm.nih.gov/42748261/)** (PMID: 42748261)
-    *   
-
-*   **[Microbiota-derived indole limits Campylobacter jejuni colonization by inhibiting respiration and metabolism.](https://pubmed.ncbi.nlm.nih.gov/42748259/)** (PMID: 42748259)
-    *   
-
-*   **[PAX3-SIX2 muscle stem cell heterogeneity drives muscle-specific repair dynamics diversification.](https://pubmed.ncbi.nlm.nih.gov/42748246/)** (PMID: 42748246)
-    *   
-
-*   **[Quantum coherent dynamics in allophycocyanin trimer complex.](https://pubmed.ncbi.nlm.nih.gov/42748244/)** (PMID: 42748244)
-    *   
-
-*   **[Endothelial C/EBPβ/AEP pathway drives vascular deterioration and systemic aging.](https://pubmed.ncbi.nlm.nih.gov/42748238/)** (PMID: 42748238)
-    *   
-
-*   **[Symmetry-based pulsed DNP and EPR sequences.](https://pubmed.ncbi.nlm.nih.gov/42748237/)** (PMID: 42748237)
-    *   
-
-*   **[Metabolic sensor AMPK licenses intestinal CD103+ DCs to induce Treg responses.](https://pubmed.ncbi.nlm.nih.gov/42748228/)** (PMID: 42748228)
-    *   
-
-*   **[Antibodies against HLA-E-VL9 enhance NK cell and CD8+ T cell cytotoxicity against tumor cells and HIV-infected CD4+ T cells.](https://pubmed.ncbi.nlm.nih.gov/42748220/)** (PMID: 42748220)
-    *   
-
-*   **[The molecular landscape of hypertrophic cardiomyopathy across disease stages and genotypes.](https://pubmed.ncbi.nlm.nih.gov/42748219/)** (PMID: 42748219)
-    *   
-
+### Summary for 2026-09-17
+*No new papers found for 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy' on 2026-09-17.*
 
 <!-- DAILY_PAPERS_END -->
 
