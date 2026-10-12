@@ -12,79 +12,79 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-10-11
+### Summary for 2026-10-12
 *Fetched and summarized 24 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Modular Construction of Cyclic and Linear Quaternary Carbon Centers through Visible-Light-Induced Triplet Nitrene Transfer Reaction.](https://pubmed.ncbi.nlm.nih.gov/42856091/)** (PMID: 42856091)
+*   **[Multi-Scale 3D Printing of Magnetic Polymer Nanocomposites with Controlled Particle Dispersion and Hyperthermic Response.](https://pubmed.ncbi.nlm.nih.gov/42859996/)** (PMID: 42859996)
     *   
 
-*   **[Topological Engineering of NIR-II Emissive Conjugated Oligomers With Unexpected Excited-State Manifolds for Efficient Phototheranostics and Cancer Immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/42856090/)** (PMID: 42856090)
+*   **[Liquid Metal Multi-Functional Droplets Enabled High-Performance Tumor Therapy With Four Synergistic Mechano-Thermal-Chemo-Freezing Effects.](https://pubmed.ncbi.nlm.nih.gov/42859993/)** (PMID: 42859993)
     *   
 
-*   **[Not Just Th2: Eosinophil-Associated Proteomic Networks Reveal Fundamental Differences Between COPD and Asthma.](https://pubmed.ncbi.nlm.nih.gov/42856088/)** (PMID: 42856088)
+*   **[[Successful treatment of hypokalemic cardiac arrest with massive potassium replacement in a patient with Bricker urinary diversion].](https://pubmed.ncbi.nlm.nih.gov/42859976/)** (PMID: 42859976)
     *   
 
-*   **[Targeting KIT and PDGFRA mutations in advanced gist: current and future clinical implications.](https://pubmed.ncbi.nlm.nih.gov/42856081/)** (PMID: 42856081)
+*   **[Artificial intelligence and machine learning in immunohematology: an expert overview of emerging tools for precision transfusion medicine.](https://pubmed.ncbi.nlm.nih.gov/42859974/)** (PMID: 42859974)
     *   
 
-*   **[Antioxidant Therapy, N-acetyl-L-cysteine, Effects on Pancreatic Beta Cells: Therapeutic Promise or Potential Harm?](https://pubmed.ncbi.nlm.nih.gov/42856074/)** (PMID: 42856074)
+*   **[Antibodies to human leukocyte antigens and eplet patterns associated with platelet transfusion refractoriness in Hispanic patients.](https://pubmed.ncbi.nlm.nih.gov/42859970/)** (PMID: 42859970)
     *   
 
-*   **[Brequinar Exerts Antiviral Effects Against Aquareovirus via Host Pyrimidine Metabolism Modulation.](https://pubmed.ncbi.nlm.nih.gov/42856057/)** (PMID: 42856057)
+*   **[Dynamic Covalent Prodrug Nanocomplex for Ultrasound-Triggered Oxidative Stress Amplification and Synergistic Sonochemotherapy.](https://pubmed.ncbi.nlm.nih.gov/42859969/)** (PMID: 42859969)
     *   
 
-*   **[Pregnancy outcomes following exposure to galcanezumab: Analysis of cases from the galcanezumab clinical trials and postmarketing database.](https://pubmed.ncbi.nlm.nih.gov/42856055/)** (PMID: 42856055)
+*   **[[Premature mortality attributable to preventable risk factors in Hungary].](https://pubmed.ncbi.nlm.nih.gov/42859967/)** (PMID: 42859967)
     *   
 
-*   **[Systemic RVX-208 Attenuates Experimental Periodontitis Through Inflammatory Host Modulation.](https://pubmed.ncbi.nlm.nih.gov/42856046/)** (PMID: 42856046)
+*   **[TXNDC11 is associated with poor prognosis and promotes stress-associated survival in acute myeloid leukemia.](https://pubmed.ncbi.nlm.nih.gov/42859958/)** (PMID: 42859958)
     *   
 
-*   **[From oncogenesis to approval: the lentiviral gene therapy revolution in Wiskott-Aldrich syndrome.](https://pubmed.ncbi.nlm.nih.gov/42856044/)** (PMID: 42856044)
+*   **[Shedding light on the cancer cell death mechanism in photodynamic therapy.](https://pubmed.ncbi.nlm.nih.gov/42859936/)** (PMID: 42859936)
     *   
 
-*   **[Remote-Controlled Genetic Circuits: Light, Ultrasound, and Magnetic Fields for Programmable Gene Regulation.](https://pubmed.ncbi.nlm.nih.gov/42856039/)** (PMID: 42856039)
+*   **[Effects of nighttime graduated compression tights on overnight changes in lower-limb circumference in healthy young women with subjective leg swelling: A randomized crossover trial.](https://pubmed.ncbi.nlm.nih.gov/42859930/)** (PMID: 42859930)
     *   
 
-*   **[Boron Monofluoride Complexes Bearing π-Expanded Coumarin Subunits: Facile Synthesis, Crystal Structure, and Solid-State Enhanced Emission.](https://pubmed.ncbi.nlm.nih.gov/42856033/)** (PMID: 42856033)
+*   **[Nano-engineered phytochemicals in cancer therapy: mechanistic insights into apoptosis, ferroptosis, tumor microenvironment modulation and drug resistance reversal.](https://pubmed.ncbi.nlm.nih.gov/42859929/)** (PMID: 42859929)
     *   
 
-*   **[Human or AI-generated voiceover for chemotherapy education video? Evidence from knowledge and practice tests improvement among cancer patients by pharmacists.](https://pubmed.ncbi.nlm.nih.gov/42856027/)** (PMID: 42856027)
+*   **[Structural Vulnerability and the Pandemic: Widening Gaps in Nursing Home Antipsychotic Prescribing.](https://pubmed.ncbi.nlm.nih.gov/42859926/)** (PMID: 42859926)
     *   
 
-*   **[Complementing Engel Classification: Postoperative Scalp EEG as an Objective Indicator in SEEG-Guided Radiofrequency Thermocoagulation-A Seizure-Onset Pattern-Based Stratified Analysis.](https://pubmed.ncbi.nlm.nih.gov/42856023/)** (PMID: 42856023)
+*   **[Pharmacogenomics of cancer therapy-related cardiomyopathy in childhood cancer survivors.](https://pubmed.ncbi.nlm.nih.gov/42859923/)** (PMID: 42859923)
     *   
 
-*   **[Rat Hepatitis E Virus (RHEV) in Mus musculus and Rattus norvegicus in Northwestern Italy.](https://pubmed.ncbi.nlm.nih.gov/42856010/)** (PMID: 42856010)
+*   **[Evaluating early systemic therapies in the neoadjuvant setting for the treatment of urological cancers.](https://pubmed.ncbi.nlm.nih.gov/42859906/)** (PMID: 42859906)
     *   
 
-*   **[The implementability of healthcare professional-led physical activity promotion interventions for people living with multiple sclerosis: A scoping review.](https://pubmed.ncbi.nlm.nih.gov/42856007/)** (PMID: 42856007)
+*   **[The complete chloroplast genome of Mesosphaerum suaveolens (L.) Kuntze and phylogenetic position in the Lamiaceae family.](https://pubmed.ncbi.nlm.nih.gov/42859905/)** (PMID: 42859905)
     *   
 
-*   **[High Prevalence and Clinical Burden of Bleeding Disorder of Unknown Cause in Adolescents With Heavy Menstrual Bleeding: Application of New Definition by the International Society on Thrombosis and Haemostasis.](https://pubmed.ncbi.nlm.nih.gov/42855996/)** (PMID: 42855996)
+*   **[Pentosan polysulfate sodium and retinal safety: reconciling conflicting evidence and defining a pragmatic clinical pharmacology framework.](https://pubmed.ncbi.nlm.nih.gov/42859900/)** (PMID: 42859900)
     *   
 
-*   **[Protective effects of icariin in atherosclerotic cardiovascular disease: mechanistic basis, post-ischemic protection and translational limitations.](https://pubmed.ncbi.nlm.nih.gov/42855993/)** (PMID: 42855993)
+*   **[Critical factors influencing the precise ultrasound-mediated production of lipid nanoparticles.](https://pubmed.ncbi.nlm.nih.gov/42859867/)** (PMID: 42859867)
     *   
 
-*   **[Case Report: Botulinum Toxin Type A Injection for Bruxism Following Left Basal Ganglia Hemorrhage.](https://pubmed.ncbi.nlm.nih.gov/42855873/)** (PMID: 42855873)
+*   **[DSCrisk: A dual-view and substructure aware based method for drug-drug interaction risk-level prediction enhanced by contrastive learning.](https://pubmed.ncbi.nlm.nih.gov/42859417/)** (PMID: 42859417)
     *   
 
-*   **[NGS-Guided Discovery of Cross-Reactive TfR1 VHH Antibodies with Distinct Brain Localization Profiles.](https://pubmed.ncbi.nlm.nih.gov/42855849/)** (PMID: 42855849)
+*   **[Isoforms of cysteine peptidases and osmotins instead of chitinases and peptidase inhibitors drive antifungal activity but occur as distinct isoforms in latex and callus tissues of Calotropis procera.](https://pubmed.ncbi.nlm.nih.gov/42859264/)** (PMID: 42859264)
     *   
 
-*   **[[Advances in the functional classification of intraocular lenses].](https://pubmed.ncbi.nlm.nih.gov/42855789/)** (PMID: 42855789)
+*   **[Consensus-based perspectives on integrating IPX203 into Parkinson's disease management.](https://pubmed.ncbi.nlm.nih.gov/42859237/)** (PMID: 42859237)
     *   
 
-*   **[[Clinical applications and future perspectives of ultra-widefield swept-source optical coherence tomography angiography in ophthalmology].](https://pubmed.ncbi.nlm.nih.gov/42855788/)** (PMID: 42855788)
+*   **[An efficient and versatile reverse genetics system for bovine coronavirus facilitates antiviral evaluation.](https://pubmed.ncbi.nlm.nih.gov/42859170/)** (PMID: 42859170)
     *   
 
-*   **[[Effects of asiatic acid on angiogenesis and Slit-Robo signaling in retinal microvascular endothelial cells induced by high glucose].](https://pubmed.ncbi.nlm.nih.gov/42855782/)** (PMID: 42855782)
+*   **[Multiple discrimination at work and depressive symptoms in young adults.](https://pubmed.ncbi.nlm.nih.gov/42859160/)** (PMID: 42859160)
     *   
 
-*   **[[Analysis of clinical features and related factors of three types of capsule-related complications after phacoemulsification].](https://pubmed.ncbi.nlm.nih.gov/42855780/)** (PMID: 42855780)
+*   **[Cardiovascular health in transgender and gender diverse individuals: an expert opinion on gender-affirming hormone therapy, risk assessment and clinical management.](https://pubmed.ncbi.nlm.nih.gov/42858955/)** (PMID: 42858955)
     *   
 
-*   **[[Efficacy and safety of trabeculotome tunnelling trabeculoplasty with versus without phacoemulsification in patients with primary open-angle glaucoma and cataract].](https://pubmed.ncbi.nlm.nih.gov/42855778/)** (PMID: 42855778)
+*   **[Nanostructured Quercetin-Lipid Carrier on 3D Printed Scaffolds for Improved Bone Regeneration.](https://pubmed.ncbi.nlm.nih.gov/42858318/)** (PMID: 42858318)
     *   
 
 
