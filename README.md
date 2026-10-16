@@ -12,76 +12,76 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-10-15
+### Summary for 2026-10-16
 *Fetched and summarized 23 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Pharmacokinetics of Metoprolol in Cisgender Males, Cisgender Females, and Transgender Women Receiving Gender-Affirming Hormone Therapy: An Exploratory Pilot Study.](https://pubmed.ncbi.nlm.nih.gov/42878231/)** (PMID: 42878231)
+*   **[Associations between methodological quality and representation in clinical trials of systemic lupus erythematosus therapies.](https://pubmed.ncbi.nlm.nih.gov/42886897/)** (PMID: 42886897)
     *   
 
-*   **[Enoxaparin dose assessment in paediatric cardiology patients.](https://pubmed.ncbi.nlm.nih.gov/42878213/)** (PMID: 42878213)
+*   **[Practical Review of Role and Usage of Corticosteroids in Modern Neuro-Oncology Care.](https://pubmed.ncbi.nlm.nih.gov/42886883/)** (PMID: 42886883)
     *   
 
-*   **[Knowledge, attitudes, and practices of patients with diminished ovarian reserve regarding traditional Chinese medicine treatment: structural equation modelling analysis.](https://pubmed.ncbi.nlm.nih.gov/42878211/)** (PMID: 42878211)
+*   **[Recommendations for the Management of Spontaneous Intracranial Hypotension With Spinal Longitudinal Epidural CSF Collection: A Delphi Study.](https://pubmed.ncbi.nlm.nih.gov/42886874/)** (PMID: 42886874)
     *   
 
-*   **[Advancing Pregnancy and Pediatric Science through the NIH Transporter Elucidation Network.](https://pubmed.ncbi.nlm.nih.gov/42878204/)** (PMID: 42878204)
+*   **[Outcome selection and reporting transparency in ClinicalTrials.gov-registered chronic spontaneous urticaria trials: a registry-publication linkage study.](https://pubmed.ncbi.nlm.nih.gov/42886863/)** (PMID: 42886863)
     *   
 
-*   **[A Nanodelivery Platform Harnessing Synthetic Lethality and Efferocytosis Inhibition for Synergistically Enhanced Immunotherapy of Triple-Negative Breast Cancer.](https://pubmed.ncbi.nlm.nih.gov/42878202/)** (PMID: 42878202)
+*   **[Opioid prescribing and hospital outcomes after trauma in patients with substance use disorder: An analysis of the michigan trauma quality improvement project.](https://pubmed.ncbi.nlm.nih.gov/42886858/)** (PMID: 42886858)
     *   
 
-*   **[Escherichia coli hns and methylglyoxal link gut microbial metabolism to host neuronal gene regulation in Parkinson's disease.](https://pubmed.ncbi.nlm.nih.gov/42878179/)** (PMID: 42878179)
+*   **[Construction of Divergent Enantioenriched 3D-Fluoro Scaffolds via Ni(0) π-Lewis Base-Mediated Umpolung of Fluorodienes.](https://pubmed.ncbi.nlm.nih.gov/42886826/)** (PMID: 42886826)
     *   
 
-*   **[BiotaPredictor: A machine learning framework for predicting drug depletion by the human gut microbiota.](https://pubmed.ncbi.nlm.nih.gov/42878173/)** (PMID: 42878173)
+*   **[Glycome remodeling programs pathogenic γδ T17 cell responses in autoimmunity.](https://pubmed.ncbi.nlm.nih.gov/42886820/)** (PMID: 42886820)
     *   
 
-*   **[DNA ligase LigE increases bacterial transformation with damaged extracellular DNA.](https://pubmed.ncbi.nlm.nih.gov/42878156/)** (PMID: 42878156)
+*   **[Malfunction Reporting Patterns in Life-Supporting Versus Noninvasive Ventilators: A Stratified Text-Mining Analysis of the FDA Device MAUDE Database.](https://pubmed.ncbi.nlm.nih.gov/42886815/)** (PMID: 42886815)
     *   
 
-*   **[Animal models of anemia of inflammation: Methodological advances, limitations, and translational applications.](https://pubmed.ncbi.nlm.nih.gov/42878149/)** (PMID: 42878149)
+*   **[TONSL/TONSOKU binding to histone H3.1 is required for DNA repair.](https://pubmed.ncbi.nlm.nih.gov/42886812/)** (PMID: 42886812)
     *   
 
-*   **[Programmed photocontrol of polymer materials with multiple stimuli for fabrication and degradation.](https://pubmed.ncbi.nlm.nih.gov/42878145/)** (PMID: 42878145)
+*   **[Photocatalytic covalent retention MRI for precision guidance of phototherapy.](https://pubmed.ncbi.nlm.nih.gov/42886806/)** (PMID: 42886806)
     *   
 
-*   **[A new isoflavone isolated from Brachypterum eriocarpum (F.C.How) Adema and Sirich. and its hypolipidemic activity.](https://pubmed.ncbi.nlm.nih.gov/42878132/)** (PMID: 42878132)
+*   **[MFN2-associated astrocyte dysfunction contributes to neuronal hyperexcitability and depressive-like behaviors.](https://pubmed.ncbi.nlm.nih.gov/42886804/)** (PMID: 42886804)
     *   
 
-*   **[Finasteride and depression: the high cost of failed regulation.](https://pubmed.ncbi.nlm.nih.gov/42878119/)** (PMID: 42878119)
+*   **[PINK1-mediated mitophagy supports lung cancer initiation and limits the efficacy of KRAS-targeted therapy.](https://pubmed.ncbi.nlm.nih.gov/42886799/)** (PMID: 42886799)
     *   
 
-*   **[Comparative Proteomic Quantification Reveals Novel Longevity Regulators.](https://pubmed.ncbi.nlm.nih.gov/42878115/)** (PMID: 42878115)
+*   **[Programmable and selective silencing of oncogenic fusion transcripts by CRISPR-Cas13b via breakpoint sequence recognition.](https://pubmed.ncbi.nlm.nih.gov/42886793/)** (PMID: 42886793)
     *   
 
-*   **[Distinguishing the endotypes of Chronic rhinosinusitis: the emerging roles of macrophages.](https://pubmed.ncbi.nlm.nih.gov/42878110/)** (PMID: 42878110)
+*   **[Latent effector capacity governs reversible T cell exhaustion: A theoretical mathematical model of PD-1 blockade response.](https://pubmed.ncbi.nlm.nih.gov/42886782/)** (PMID: 42886782)
     *   
 
-*   **[Sepsis-associated endothelial dysfunction: clinical phenotypes, biomarkers, bedside evidence, and translational implications.](https://pubmed.ncbi.nlm.nih.gov/42878083/)** (PMID: 42878083)
+*   **[Chemogenetic ubiquitin E1 inhibitor TAK-243 CRISPR screen uncovers HAPSTR1/HUWE1 axis in chromatin proteostasis and cell cycle control.](https://pubmed.ncbi.nlm.nih.gov/42886777/)** (PMID: 42886777)
     *   
 
-*   **[Edited HSPCs rescue frataxin deficiency and inflammation-driven multisystemic pathology in Friedreich's ataxia mice.](https://pubmed.ncbi.nlm.nih.gov/42878077/)** (PMID: 42878077)
+*   **[Substrate-bound structures of yeast ALA synthase reveal protein dynamics initiating heme biosynthesis.](https://pubmed.ncbi.nlm.nih.gov/42886775/)** (PMID: 42886775)
     *   
 
-*   **[Selective estrogen receptor degraders and their effect on the breast cancer immune microenvironment.](https://pubmed.ncbi.nlm.nih.gov/42878076/)** (PMID: 42878076)
+*   **[Computational deconvolution of drug sensitivity via single-cell-to-bulk transcriptome mapping.](https://pubmed.ncbi.nlm.nih.gov/42886762/)** (PMID: 42886762)
     *   
 
-*   **[Multimodal assessment of exceptional responders refines subtyping-directed precision treatment in HR+/HER2- breast cancer.](https://pubmed.ncbi.nlm.nih.gov/42878074/)** (PMID: 42878074)
+*   **[The mechanosensitive channel TMEM63B contributes to noxious heat sensation in the dorsal root ganglia.](https://pubmed.ncbi.nlm.nih.gov/42886758/)** (PMID: 42886758)
     *   
 
-*   **[IRF2BP2-FOSL2 interaction regulates SOX9-mediated cartilage regeneration in osteoarthritis models.](https://pubmed.ncbi.nlm.nih.gov/42878073/)** (PMID: 42878073)
+*   **[Quantifying the diagnostic time gap in precision oncology: A retrospective analysis of potential time savings from same-day cartridge-based molecular testing versus next-generation sequencing in cytology specimens.](https://pubmed.ncbi.nlm.nih.gov/42886752/)** (PMID: 42886752)
     *   
 
-*   **[Nucleic Acid Therapeutics in an Age of Artificial Intelligence.](https://pubmed.ncbi.nlm.nih.gov/42878061/)** (PMID: 42878061)
+*   **[Revisiting the impact of synthetic ORF sequences on engineered LINE-1 retrotransposition.](https://pubmed.ncbi.nlm.nih.gov/42886742/)** (PMID: 42886742)
     *   
 
-*   **[Biased signaling of endothelial GPCRs as a therapeutic frontier in atherosclerosis.](https://pubmed.ncbi.nlm.nih.gov/42878053/)** (PMID: 42878053)
+*   **[Immune-mediated remodelling of tissue architecture in Post-Kala-Azar Dermal Leishmaniasis (PKDL).](https://pubmed.ncbi.nlm.nih.gov/42886727/)** (PMID: 42886727)
     *   
 
-*   **[Innovative Approach Reveals How Receptors Control G Protein State Equilibria.](https://pubmed.ncbi.nlm.nih.gov/42878031/)** (PMID: 42878031)
+*   **[Reliability and validity of the Japanese version of the Sleep Problem Acceptance Questionnaire.](https://pubmed.ncbi.nlm.nih.gov/42886717/)** (PMID: 42886717)
     *   
 
-*   **[Retrospective Study on the Power and Interpretation of Chiral Amphetamine Analysis in Hair for Forensic Applications.](https://pubmed.ncbi.nlm.nih.gov/42878028/)** (PMID: 42878028)
+*   **[Controlled functionalization of cellulose nanocrystals directs polymer-specific protein coronas and immune cell interactions.](https://pubmed.ncbi.nlm.nih.gov/42886715/)** (PMID: 42886715)
     *   
 
 
