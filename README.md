@@ -12,77 +12,99 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-10-16
-*Fetched and summarized 23 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
+### Summary for 2026-10-17
+*Fetched and summarized 24 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Associations between methodological quality and representation in clinical trials of systemic lupus erythematosus therapies.](https://pubmed.ncbi.nlm.nih.gov/42886897/)** (PMID: 42886897)
+*   **[Gedatolisib after CDK4/6 inhibition in HR-Positive/HER2-negative advanced breast cancer: pharmacology, phase iii evidence, and therapeutic positioning.](https://pubmed.ncbi.nlm.nih.gov/42888943/)** (PMID: 42888943)
     *   
 
-*   **[Practical Review of Role and Usage of Corticosteroids in Modern Neuro-Oncology Care.](https://pubmed.ncbi.nlm.nih.gov/42886883/)** (PMID: 42886883)
+*   **[Revitalization Treatment in Endodontics: A State-Of-The-Art Review.](https://pubmed.ncbi.nlm.nih.gov/42888941/)** (PMID: 42888941)
+    *   **简明总结（4-6句）**
+    *   该综述总结了过去十年牙髓再生/血运重建治疗从实验
+
+*   **[Efficacy of measurement-based care (MBC) in routine child and youth behavioral therapy: A pragmatic randomized controlled trial.](https://pubmed.ncbi.nlm.nih.gov/42888930/)** (PMID: 42888930)
     *   
 
-*   **[Recommendations for the Management of Spontaneous Intracranial Hypotension With Spinal Longitudinal Epidural CSF Collection: A Delphi Study.](https://pubmed.ncbi.nlm.nih.gov/42886874/)** (PMID: 42886874)
+*   **[Clinical Immunogenicity Assessment of HIV/AIDS Vaccines: Current Progress and Future Perspectives.](https://pubmed.ncbi.nlm.nih.gov/42888914/)** (PMID: 42888914)
+    *   **简明总结（约5句）**
+    *   1. 该综述指出，开发安全有效的HIV-1疫苗仍是终结AIDS大流行的关键，但病毒遗传多样性极高且缺乏通用保护相关物（CoP），构成重大障碍。
+    *   2. 随着疫苗设计从蛋白亚基迭代到mRNA及种系靶向平台，免疫原性评价也从传统血清学检测转向高维、全面的免疫分析。
+    *   3. 文章系统梳理RV144、HVTN系列及AMP等里程碑临床试验，总结体液免疫和细胞免疫评价进展，并评述BAMA、假病毒中和、ELISpot和ICS等核心方法。
+    *   4. 关键评价逻辑发生转变：不再仅关注中和抗体滴度
+
+*   **[Heroin overdose risk profiles following long-term heroin dependence: Findings from the 18- to 20-year follow-up of the Australian treatment outcome study.](https://pubmed.ncbi.nlm.nih.gov/42888913/)** (PMID: 42888913)
     *   
 
-*   **[Outcome selection and reporting transparency in ClinicalTrials.gov-registered chronic spontaneous urticaria trials: a registry-publication linkage study.](https://pubmed.ncbi.nlm.nih.gov/42886863/)** (PMID: 42886863)
+*   **[Tumour-proximal deep serum proteomics identifies biomarkers associated with ovarian cancer.](https://pubmed.ncbi.nlm.nih.gov/42888903/)** (PMID: 42888903)
     *   
 
-*   **[Opioid prescribing and hospital outcomes after trauma in patients with substance use disorder: An analysis of the michigan trauma quality improvement project.](https://pubmed.ncbi.nlm.nih.gov/42886858/)** (PMID: 42886858)
+*   **[The Serotonergic and Cholinergic Signaling Pathways Drive Gastric Precancerous Lesions and Its Potential Mechanism.](https://pubmed.ncbi.nlm.nih.gov/42888890/)** (PMID: 42888890)
     *   
 
-*   **[Construction of Divergent Enantioenriched 3D-Fluoro Scaffolds via Ni(0) π-Lewis Base-Mediated Umpolung of Fluorodienes.](https://pubmed.ncbi.nlm.nih.gov/42886826/)** (PMID: 42886826)
+*   **[A natural compound derivative targeting HADHA disrupts mitochondrial homeostasis and suppresses renal cell carcinoma.](https://pubmed.ncbi.nlm.nih.gov/42888849/)** (PMID: 42888849)
+    *   **简明中文总结（约6句）**
+    *   1. 转移性肾细胞癌（RCC）仍缺乏
+
+*   **[The allogeneic eDN70(-) CAR-T Cells Without TCR or MHC Editing Exhibit Enhanced Persistence and Function.](https://pubmed.ncbi.nlm.nih.gov/42888846/)** (PMID: 42888846)
+    *   **简明总结（约5句）**
+    *   该研究针对异体CAR-T面临的移植物抗宿主排斥（GVH）和
+
+*   **[VPS13A Disease (Chorea-Acanthocytosis) in Puerto Rico; New Genetic and Clinical Observations.](https://pubmed.ncbi.nlm.nih.gov/42888836/)** (PMID: 42888836)
     *   
 
-*   **[Glycome remodeling programs pathogenic γδ T17 cell responses in autoimmunity.](https://pubmed.ncbi.nlm.nih.gov/42886820/)** (PMID: 42886820)
+*   **[Life-threatening diffuse alveolar hemorrhage associated with Rhinovirus infection and the potential role of corticosteroids in immunocompetent patients: Case reports.](https://pubmed.ncbi.nlm.nih.gov/42888641/)** (PMID: 42888641)
+    *   **简明总结（5句）**
+    *   本文报告2例免疫正常患者感染鼻病毒后发生危及生命的弥漫性肺泡出血（DAH），均表现为严重低氧血症、咯血及胸部CT弥漫磨玻璃影和实变。支气管肺泡灌洗液呈渐进性血性，多重病毒PCR仅检出鼻病毒，自身免疫血清学阴性，提示鼻病毒可能是DAH的感染性触发因素。两例均接受高流量氧疗、经验性抗生素和全身糖皮质激素治疗（甲泼尼龙1 mg/kg/日；或500 mg/日×3天后减量）。治疗后患者临床和影像学迅速改善，低氧血症缓解并于10天内出院。作者认为，对 selected 重症DAH患者可考虑
+
+*   **[Peritoneal catheter fixation versus nonfixation in open surgery: A meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42888640/)** (PMID: 42888640)
     *   
 
-*   **[Malfunction Reporting Patterns in Life-Supporting Versus Noninvasive Ventilators: A Stratified Text-Mining Analysis of the FDA Device MAUDE Database.](https://pubmed.ncbi.nlm.nih.gov/42886815/)** (PMID: 42886815)
+*   **[Trends in HIV-related mortality by sex, race, age, and region in the United States, 1999-2023: A retrospective CDC WONDER database study.](https://pubmed.ncbi.nlm.nih.gov/42888635/)** (PMID: 42888635)
     *   
 
-*   **[TONSL/TONSOKU binding to histone H3.1 is required for DNA repair.](https://pubmed.ncbi.nlm.nih.gov/42886812/)** (PMID: 42886812)
+*   **[Association between timely and standardized nursing pain management and outcomes in terminal cancer patients: A retrospective cohort study.](https://pubmed.ncbi.nlm.nih.gov/42888634/)** (PMID: 42888634)
+    *   **简明总结（4-6句）**
+    *   本研究为回顾性队列研究，纳入724例以疼痛为主诉就诊急诊的终末期癌症患者，评估护理流程指标与镇痛结局的关系。结果显示，58.2%患者获得有效镇痛（1小时内NRS评分下降≥2分）；及时疼痛评估（OR=1.84）、30分钟内给予镇痛药（OR=2.24）、使用阿片类药物（OR=1.52）及记录疼痛再
+
+*   **[Integrated network toxicology, transcriptomic, and Mendelian randomization analyses explore potential molecular links between acrylamide exposure and clear cell renal cell carcinoma.](https://pubmed.ncbi.nlm.nih.gov/42888631/)** (PMID: 42888631)
+    *   ## 简明中文总结
+    *   
+    *   该研究采用计算毒理学、网络靶点预测、TCGA转录组分析、LASSO-Cox建模和双样本孟德尔随机化，探讨丙烯酰胺相关靶点与透明细胞肾细胞癌（ccRCC）的分子
+
+*   **[Association between frailty and multisite chronic pain in middle-aged and older adults: A population-based cross-sectional study with mediation analysis.](https://pubmed.ncbi.nlm.nih.gov/42888628/)** (PMID: 42888628)
+    *   **简明中文总结（4–6句）**
+    *   该研究基于中国健康与退休追踪研究（CHARLS）2011年基线数据，纳入≥45岁中老年人，采用修正版衰弱指数（CMFI）评估多维健康损害累积，并分析其与慢性疼痛的关系。结果显示，CMFI
+
+*   **[Persistent hyperparathyroidism and its predictive factors in end-stage renal disease patients after kidney transplantation: A prospective study.](https://pubmed.ncbi.nlm.nih.gov/42888627/)** (PMID: 42888627)
     *   
 
-*   **[Photocatalytic covalent retention MRI for precision guidance of phototherapy.](https://pubmed.ncbi.nlm.nih.gov/42886806/)** (PMID: 42886806)
+*   **[Contributions of smoking behaviour to lung cancer subtypes: A two-sample Mendelian randomization study.](https://pubmed.ncbi.nlm.nih.gov/42888622/)** (PMID: 42888622)
     *   
 
-*   **[MFN2-associated astrocyte dysfunction contributes to neuronal hyperexcitability and depressive-like behaviors.](https://pubmed.ncbi.nlm.nih.gov/42886804/)** (PMID: 42886804)
+*   **[Repetitive transcranial magnetic stimulation for the treatment of restless legs syndrome: A meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42888613/)** (PMID: 42888613)
+    *   **简明中文总结（约5句）**
+    *   该研究通过Meta分析评估重复经颅磁刺激（rTMS）治疗不宁腿综合征（RLS）的疗效，共纳入4项与假刺激对照的研究。结果显示，rTMS可显著降低国际RLS评定量表（IRLS-RS）评分（MD=6.46）和匹兹堡睡眠质量指数（PS
+
+*   **[Acute ischemic stroke despite NOAC therapy in atrial fibrillation: Clinical factors associated with AIS in a 2-center observational case-control study.](https://pubmed.ncbi.nlm.nih.gov/42888612/)** (PMID: 42888612)
     *   
 
-*   **[PINK1-mediated mitophagy supports lung cancer initiation and limits the efficacy of KRAS-targeted therapy.](https://pubmed.ncbi.nlm.nih.gov/42886799/)** (PMID: 42886799)
+*   **[Numerical investigation of the impact of neural stem cells on brain tumors.](https://pubmed.ncbi.nlm.nih.gov/42888611/)** (PMID: 42888611)
     *   
 
-*   **[Programmable and selective silencing of oncogenic fusion transcripts by CRISPR-Cas13b via breakpoint sequence recognition.](https://pubmed.ncbi.nlm.nih.gov/42886793/)** (PMID: 42886793)
+*   **[Additive effects of active vitamin D3 or vitamin E administration on therapeutic lower-limb home exercise for knee osteoarthritis: A pilot prospective randomized controlled trial.](https://pubmed.ncbi.nlm.nih.gov/42888606/)** (PMID: 42888606)
     *   
 
-*   **[Latent effector capacity governs reversible T cell exhaustion: A theoretical mathematical model of PD-1 blockade response.](https://pubmed.ncbi.nlm.nih.gov/42886782/)** (PMID: 42886782)
+*   **[Research on the student-centered research feedback experimental teaching model to enhance the effectiveness of pharmacology experimental teaching.](https://pubmed.ncbi.nlm.nih.gov/42888603/)** (PMID: 42888603)
+    *   **简明中文总结：**
+    *   该研究比较了传统药理实验教学模式（TPETM）与研究反馈药理实验教学模式（RFPETM）在中西医临床专业本科生中的教学效果。结果显示，两组学生基线构成无差异，但RFPETM在不同阶段显著提高了学生的药理实验课程成绩。RFPETM组学生的课堂表现评分与最终成绩呈显著相关，而传统组无此相关，提示其成绩提升与课堂参与表现有关。问卷调查表明，多数学生认为RFPETM有助于知识获取，并肯定其在教学方法、学习体验和创新能力培养方面的作用。研究结论认为，RFPETM有利于药理实验教学并促进学生创新能力培养。其与药物科学的相关性主要在于为药理学实验教学和药学创新人才培养提供了可参考的教学改革模式。
     *   
+    *   **创新性总结：**
+    *   - 将“研究反馈”机制引入药理实验教学，突破传统
 
-*   **[Chemogenetic ubiquitin E1 inhibitor TAK-243 CRISPR screen uncovers HAPSTR1/HUWE1 axis in chromatin proteostasis and cell cycle control.](https://pubmed.ncbi.nlm.nih.gov/42886777/)** (PMID: 42886777)
-    *   
-
-*   **[Substrate-bound structures of yeast ALA synthase reveal protein dynamics initiating heme biosynthesis.](https://pubmed.ncbi.nlm.nih.gov/42886775/)** (PMID: 42886775)
-    *   
-
-*   **[Computational deconvolution of drug sensitivity via single-cell-to-bulk transcriptome mapping.](https://pubmed.ncbi.nlm.nih.gov/42886762/)** (PMID: 42886762)
-    *   
-
-*   **[The mechanosensitive channel TMEM63B contributes to noxious heat sensation in the dorsal root ganglia.](https://pubmed.ncbi.nlm.nih.gov/42886758/)** (PMID: 42886758)
-    *   
-
-*   **[Quantifying the diagnostic time gap in precision oncology: A retrospective analysis of potential time savings from same-day cartridge-based molecular testing versus next-generation sequencing in cytology specimens.](https://pubmed.ncbi.nlm.nih.gov/42886752/)** (PMID: 42886752)
-    *   
-
-*   **[Revisiting the impact of synthetic ORF sequences on engineered LINE-1 retrotransposition.](https://pubmed.ncbi.nlm.nih.gov/42886742/)** (PMID: 42886742)
-    *   
-
-*   **[Immune-mediated remodelling of tissue architecture in Post-Kala-Azar Dermal Leishmaniasis (PKDL).](https://pubmed.ncbi.nlm.nih.gov/42886727/)** (PMID: 42886727)
-    *   
-
-*   **[Reliability and validity of the Japanese version of the Sleep Problem Acceptance Questionnaire.](https://pubmed.ncbi.nlm.nih.gov/42886717/)** (PMID: 42886717)
-    *   
-
-*   **[Controlled functionalization of cellulose nanocrystals directs polymer-specific protein coronas and immune cell interactions.](https://pubmed.ncbi.nlm.nih.gov/42886715/)** (PMID: 42886715)
-    *   
+*   **[Comparative efficacy of two novel bioceramic root canal sealers in the treatment of chronic apical periodontitis.](https://pubmed.ncbi.nlm.nih.gov/42888600/)** (PMID: 42888600)
+    *   **简明总结（约5句）**
+    *   1. 该回顾性队列研究比较了C-Root SP与iRoot SP两种硅酸钙基生物陶瓷根管封闭剂，用于成人慢性根尖周炎（CAP）根管充填后的疗效，最终纳入209例（C-Root SP 101例，iRoot SP 108例）。
+    *   2. 按严格复合成功终点（临床消退+影像学愈合），C-Root SP组成功率高于iRoot SP组（86.1% vs 74.1%，P=0.030），影像学愈合率也
 
 
 <!-- DAILY_PAPERS_END -->
