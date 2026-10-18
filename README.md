@@ -12,99 +12,102 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-10-17
-*Fetched and summarized 24 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
+### Summary for 2026-10-18
+*Fetched and summarized 25 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Gedatolisib after CDK4/6 inhibition in HR-Positive/HER2-negative advanced breast cancer: pharmacology, phase iii evidence, and therapeutic positioning.](https://pubmed.ncbi.nlm.nih.gov/42888943/)** (PMID: 42888943)
-    *   
-
-*   **[Revitalization Treatment in Endodontics: A State-Of-The-Art Review.](https://pubmed.ncbi.nlm.nih.gov/42888941/)** (PMID: 42888941)
+*   **[Multifunctional Magneto‑Thermal Probe Enhances the Efficacy of Tumor Therapy as a Tumor Nanovaccine.](https://pubmed.ncbi.nlm.nih.gov/42893588/)** (PMID: 42893588)
     *   **简明总结（4-6句）**
-    *   该综述总结了过去十年牙髓再生/血运重建治疗从实验
+    *   本研究设计了一种新型磁热探针PSRNP，将抗PD-L1抗体和RS09肽偶联于超顺磁性氧化铁纳米颗粒表面，用于增强磁热疗法（MHT）的抗肿瘤免疫效应。PSRNP
 
-*   **[Efficacy of measurement-based care (MBC) in routine child and youth behavioral therapy: A pragmatic randomized controlled trial.](https://pubmed.ncbi.nlm.nih.gov/42888930/)** (PMID: 42888930)
+*   **[DNA Nanostructures for Overcoming Cancer Drug Resistance: Mechanisms, Therapeutic Strategies, and Translational Challenges.](https://pubmed.ncbi.nlm.nih.gov/42893568/)** (PMID: 42893568)
+    *   **简明中文总结（约4–6句）**
+    *   该综述指出，癌症耐药由胞内药物蓄积减少、药物外排增强、适应性生存信号、DNA修复增强及氧化还原/代谢重塑等多重屏障共同导致，是化疗失败的重要原因。近年来，可编程DNA纳米结构为构建多功能纳米治疗平台提供了新机会。文章系统分析DNA纳米结构特征如何影响药物递送、分子调控和耐药调节，并比较四面体框架核酸、DNA折纸、DNA纳米花、球形核酸及杂合DNA组装等平台的治疗调控作用。综述进一步强调这些平台在克服细胞摄取低效、药物外排、凋亡逃逸、DNA修复激活和生化适应等耐药相关屏障方面的应用。文章还讨论了稳定性、胞内递送、肿瘤蓄积、免疫安全性和可规模化制造等转化挑战，并提出未来方向。总体而言，DNA纳米结构有望成为下一代可编程纳米药物平台，实现对癌症耐药的多层级干预。
+    *   
+    *   **创新性总结**
+    *   - 将DNA纳米结构的结构特征与癌症耐药的多重屏障干预系统关联。
+    *   - 整合多种DNA纳米平台，强调可编程、多功能和耐药调节能力。
+    *   - 从递送、分子调控和生化适应等多层级提出抗耐药纳米治疗策略
+
+*   **[From data to personas: a multi-source approach to tailored online health information recommendation for ovarian cancer patients and caregivers.](https://pubmed.ncbi.nlm.nih.gov/42893544/)** (PMID: 42893544)
     *   
 
-*   **[Clinical Immunogenicity Assessment of HIV/AIDS Vaccines: Current Progress and Future Perspectives.](https://pubmed.ncbi.nlm.nih.gov/42888914/)** (PMID: 42888914)
-    *   **简明总结（约5句）**
-    *   1. 该综述指出，开发安全有效的HIV-1疫苗仍是终结AIDS大流行的关键，但病毒遗传多样性极高且缺乏通用保护相关物（CoP），构成重大障碍。
-    *   2. 随着疫苗设计从蛋白亚基迭代到mRNA及种系靶向平台，免疫原性评价也从传统血清学检测转向高维、全面的免疫分析。
-    *   3. 文章系统梳理RV144、HVTN系列及AMP等里程碑临床试验，总结体液免疫和细胞免疫评价进展，并评述BAMA、假病毒中和、ELISpot和ICS等核心方法。
-    *   4. 关键评价逻辑发生转变：不再仅关注中和抗体滴度
+*   **[Targeting the Gut Microbiota-Metabolism Axis: Novel Pharmacological Mechanisms and Translational Application Strategies for Oral Antidiabetic Drugs.](https://pubmed.ncbi.nlm.nih.gov/42893515/)** (PMID: 42893515)
+    *   **简明中文总结（约5句）**
+    *   2型糖尿病（T2DM）全球高发，现有降糖药虽可通过不同机制降低血糖，但个体疗效差异显著。该综述指出，肠道菌群（GM）
 
-*   **[Heroin overdose risk profiles following long-term heroin dependence: Findings from the 18- to 20-year follow-up of the Australian treatment outcome study.](https://pubmed.ncbi.nlm.nih.gov/42888913/)** (PMID: 42888913)
+*   **[Tubocapsenolide A Overcomes Oxaliplatin Resistance in Colorectal Cancer by Targeting PLK1 to Impair CEP55-ESCRT-Associated Vesicular Damage Clearance.](https://pubmed.ncbi.nlm.nih.gov/42893509/)** (PMID: 42893509)
     *   
 
-*   **[Tumour-proximal deep serum proteomics identifies biomarkers associated with ovarian cancer.](https://pubmed.ncbi.nlm.nih.gov/42888903/)** (PMID: 42888903)
+*   **[From Structural Modification to Diverse Pharmacological Activities: Recent Advances and Future Perspectives of Bile Acids.](https://pubmed.ncbi.nlm.nih.gov/42893506/)** (PMID: 42893506)
     *   
 
-*   **[The Serotonergic and Cholinergic Signaling Pathways Drive Gastric Precancerous Lesions and Its Potential Mechanism.](https://pubmed.ncbi.nlm.nih.gov/42888890/)** (PMID: 42888890)
+*   **[A Chiral Virus-Like Nanoplatform That Broadly Mediates Antibiotic Delivery to the Brain for Bacterial Meningitis Therapy.](https://pubmed.ncbi.nlm.nih.gov/42893501/)** (PMID: 42893501)
     *   
 
-*   **[A natural compound derivative targeting HADHA disrupts mitochondrial homeostasis and suppresses renal cell carcinoma.](https://pubmed.ncbi.nlm.nih.gov/42888849/)** (PMID: 42888849)
-    *   **简明中文总结（约6句）**
-    *   1. 转移性肾细胞癌（RCC）仍缺乏
+*   **[[Integrated use of ketamine in emergency care].](https://pubmed.ncbi.nlm.nih.gov/42893496/)** (PMID: 42893496)
+    *   **简明中文总结**
+    *   该综述系统检索并叙述性整合了82项研究，评估氯胺酮在急诊医学中的应用。结果显示，氯胺酮在急性镇痛、程序镇静、躁动管理和快速序贯插管（RSI）中有效且安全，且起效快、血流动力学较稳定。不良反应多为轻度且可控；传统上对颅脑损伤患者的禁忌正受到国际文献质疑。作者认为氯胺酮的急诊应用已有循证基础，契合现代多学科急诊流程。鉴于匈牙利现行监管仍主要限于麻醉适应症，建议依据国际实践更新国家推荐。对药物科学而言，该文提示需重新审视氯胺酮的急诊适应症、风险管理和政策可及性。
+    *   
+    *   **创新性总结**
+    *   - 以匈牙利监管背景为切入点，系统整合氯胺酮在急诊镇痛、镇静、躁动和RSI中的证据。
+    *   - 挑战颅脑损伤患者使用氯胺酮的传统禁忌观念。
+    *   - 提出将循
 
-*   **[The allogeneic eDN70(-) CAR-T Cells Without TCR or MHC Editing Exhibit Enhanced Persistence and Function.](https://pubmed.ncbi.nlm.nih.gov/42888846/)** (PMID: 42888846)
-    *   **简明总结（约5句）**
-    *   该研究针对异体CAR-T面临的移植物抗宿主排斥（GVH）和
-
-*   **[VPS13A Disease (Chorea-Acanthocytosis) in Puerto Rico; New Genetic and Clinical Observations.](https://pubmed.ncbi.nlm.nih.gov/42888836/)** (PMID: 42888836)
+*   **[Symptom-Driven Prediction of Chronic Multimorbidity with a Macro-Micro Heterogeneous Graph Neural Network.](https://pubmed.ncbi.nlm.nih.gov/42893488/)** (PMID: 42893488)
     *   
 
-*   **[Life-threatening diffuse alveolar hemorrhage associated with Rhinovirus infection and the potential role of corticosteroids in immunocompetent patients: Case reports.](https://pubmed.ncbi.nlm.nih.gov/42888641/)** (PMID: 42888641)
-    *   **简明总结（5句）**
-    *   本文报告2例免疫正常患者感染鼻病毒后发生危及生命的弥漫性肺泡出血（DAH），均表现为严重低氧血症、咯血及胸部CT弥漫磨玻璃影和实变。支气管肺泡灌洗液呈渐进性血性，多重病毒PCR仅检出鼻病毒，自身免疫血清学阴性，提示鼻病毒可能是DAH的感染性触发因素。两例均接受高流量氧疗、经验性抗生素和全身糖皮质激素治疗（甲泼尼龙1 mg/kg/日；或500 mg/日×3天后减量）。治疗后患者临床和影像学迅速改善，低氧血症缓解并于10天内出院。作者认为，对 selected 重症DAH患者可考虑
-
-*   **[Peritoneal catheter fixation versus nonfixation in open surgery: A meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42888640/)** (PMID: 42888640)
+*   **[Harnessing Methylselenol (CH3SeH): A Highly Effective Platform for Stimuli-Responsive Delivery With Therapeutic Potential.](https://pubmed.ncbi.nlm.nih.gov/42893486/)** (PMID: 42893486)
     *   
 
-*   **[Trends in HIV-related mortality by sex, race, age, and region in the United States, 1999-2023: A retrospective CDC WONDER database study.](https://pubmed.ncbi.nlm.nih.gov/42888635/)** (PMID: 42888635)
-    *   
-
-*   **[Association between timely and standardized nursing pain management and outcomes in terminal cancer patients: A retrospective cohort study.](https://pubmed.ncbi.nlm.nih.gov/42888634/)** (PMID: 42888634)
-    *   **简明总结（4-6句）**
-    *   本研究为回顾性队列研究，纳入724例以疼痛为主诉就诊急诊的终末期癌症患者，评估护理流程指标与镇痛结局的关系。结果显示，58.2%患者获得有效镇痛（1小时内NRS评分下降≥2分）；及时疼痛评估（OR=1.84）、30分钟内给予镇痛药（OR=2.24）、使用阿片类药物（OR=1.52）及记录疼痛再
-
-*   **[Integrated network toxicology, transcriptomic, and Mendelian randomization analyses explore potential molecular links between acrylamide exposure and clear cell renal cell carcinoma.](https://pubmed.ncbi.nlm.nih.gov/42888631/)** (PMID: 42888631)
+*   **[Antithrombin III use in pediatric and neonatal ECMO: A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42893484/)** (PMID: 42893484)
     *   ## 简明中文总结
     *   
-    *   该研究采用计算毒理学、网络靶点预测、TCGA转录组分析、LASSO-Cox建模和双样本孟德尔随机化，探讨丙烯酰胺相关靶点与透明细胞肾细胞癌（ccRCC）的分子
+    *   该系统综述与meta分析纳入25项研究，评估儿童ECMO中抗凝血酶（AT）补充的监测、替代策略及临床结局，但现有证据以回顾性单中心队列为主，异质性显著。AT补充可提高AT活性、改善抗Xa水平，并在部分研究中减少普通肝素需求，但实验室指标改善未一致转化为临床获益。Meta分析显示，AT补充与血栓（OR 1.10，95%CI 0.54–2.24）、出血（OR 1.15，95%CI 0.85–1.54）或死亡（OR 1.24，95%CI 0.63–2.43）均无
 
-*   **[Association between frailty and multisite chronic pain in middle-aged and older adults: A population-based cross-sectional study with mediation analysis.](https://pubmed.ncbi.nlm.nih.gov/42888628/)** (PMID: 42888628)
-    *   **简明中文总结（4–6句）**
-    *   该研究基于中国健康与退休追踪研究（CHARLS）2011年基线数据，纳入≥45岁中老年人，采用修正版衰弱指数（CMFI）评估多维健康损害累积，并分析其与慢性疼痛的关系。结果显示，CMFI
-
-*   **[Persistent hyperparathyroidism and its predictive factors in end-stage renal disease patients after kidney transplantation: A prospective study.](https://pubmed.ncbi.nlm.nih.gov/42888627/)** (PMID: 42888627)
+*   **[Therapeutic Peptide-Programmed Liquid-Crystalline Topology Switching for pH-Gated Postoperative Cancer Immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/42893475/)** (PMID: 42893475)
     *   
 
-*   **[Contributions of smoking behaviour to lung cancer subtypes: A two-sample Mendelian randomization study.](https://pubmed.ncbi.nlm.nih.gov/42888622/)** (PMID: 42888622)
+*   **[Full-spectrum LED screen-bar lighting as an adjunct to artificial tears in visual display terminal-related dry eye: a randomized study.](https://pubmed.ncbi.nlm.nih.gov/42893472/)** (PMID: 42893472)
     *   
 
-*   **[Repetitive transcranial magnetic stimulation for the treatment of restless legs syndrome: A meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42888613/)** (PMID: 42888613)
-    *   **简明中文总结（约5句）**
-    *   该研究通过Meta分析评估重复经颅磁刺激（rTMS）治疗不宁腿综合征（RLS）的疗效，共纳入4项与假刺激对照的研究。结果显示，rTMS可显著降低国际RLS评定量表（IRLS-RS）评分（MD=6.46）和匹兹堡睡眠质量指数（PS
-
-*   **[Acute ischemic stroke despite NOAC therapy in atrial fibrillation: Clinical factors associated with AIS in a 2-center observational case-control study.](https://pubmed.ncbi.nlm.nih.gov/42888612/)** (PMID: 42888612)
+*   **[PBPK Modeling of Varenicline: Relating Variable Pharmacokinetics to Genomics.](https://pubmed.ncbi.nlm.nih.gov/42893471/)** (PMID: 42893471)
     *   
 
-*   **[Numerical investigation of the impact of neural stem cells on brain tumors.](https://pubmed.ncbi.nlm.nih.gov/42888611/)** (PMID: 42888611)
+*   **[Global Distribution and Co-occurrence of Antimicrobial, Biocide, and Metal Resistance Genes in 11,921 Acinetobacter baumannii Genomes.](https://pubmed.ncbi.nlm.nih.gov/42893470/)** (PMID: 42893470)
     *   
 
-*   **[Additive effects of active vitamin D3 or vitamin E administration on therapeutic lower-limb home exercise for knee osteoarthritis: A pilot prospective randomized controlled trial.](https://pubmed.ncbi.nlm.nih.gov/42888606/)** (PMID: 42888606)
+*   **[Perception and practice of herbal medicine use among people living with HIV in Bushenyi health Centre IV, Western Uganda.](https://pubmed.ncbi.nlm.nih.gov/42893458/)** (PMID: 42893458)
     *   
 
-*   **[Research on the student-centered research feedback experimental teaching model to enhance the effectiveness of pharmacology experimental teaching.](https://pubmed.ncbi.nlm.nih.gov/42888603/)** (PMID: 42888603)
+*   **[Harnessing the ion transportome to treat cancer.](https://pubmed.ncbi.nlm.nih.gov/42893449/)** (PMID: 42893449)
     *   **简明中文总结：**
-    *   该研究比较了传统药理实验教学模式（TPETM）与研究反馈药理实验教学模式（RFPETM）在中西医临床专业本科生中的教学效果。结果显示，两组学生基线构成无差异，但RFPETM在不同阶段显著提高了学生的药理实验课程成绩。RFPETM组学生的课堂表现评分与最终成绩呈显著相关，而传统组无此相关，提示其成绩提升与课堂参与表现有关。问卷调查表明，多数学生认为RFPETM有助于知识获取，并肯定其在教学方法、学习体验和创新能力培养方面的作用。研究结论认为，RFPETM有利于药理实验教学并促进学生创新能力培养。其与药物科学的相关性主要在于为药理学实验教学和药学创新人才培养提供了可参考的教学改革模式。
-    *   
-    *   **创新性总结：**
-    *   - 将“研究反馈”机制引入药理实验教学，突破传统
+    *   尽管癌症早诊和治疗取得进展，治疗抵抗与转移仍是降低癌症死亡率的主要障碍，部分局限性疾病患者在接受手术、化疗和放疗后仍会复发并产生耐药。离子转运组（离子通道、溶质转运体和
 
-*   **[Comparative efficacy of two novel bioceramic root canal sealers in the treatment of chronic apical periodontitis.](https://pubmed.ncbi.nlm.nih.gov/42888600/)** (PMID: 42888600)
-    *   **简明总结（约5句）**
-    *   1. 该回顾性队列研究比较了C-Root SP与iRoot SP两种硅酸钙基生物陶瓷根管封闭剂，用于成人慢性根尖周炎（CAP）根管充填后的疗效，最终纳入209例（C-Root SP 101例，iRoot SP 108例）。
-    *   2. 按严格复合成功终点（临床消退+影像学愈合），C-Root SP组成功率高于iRoot SP组（86.1% vs 74.1%，P=0.030），影像学愈合率也
+*   **[Astrocyte-Associated ABCA1/APOE Responses Accompany Hippocampal Lipid Remodeling and Ectopic Neuronal Accumulation During Epileptogenesis.](https://pubmed.ncbi.nlm.nih.gov/42893447/)** (PMID: 42893447)
+    *   
+
+*   **[Prenatal microplastic exposure-induced testicular developmental toxicity and its long-term hazards in male rat offspring.](https://pubmed.ncbi.nlm.nih.gov/42893446/)** (PMID: 42893446)
+    *   
+
+*   **[Foundation Model-Enabled Pathology-Informed MRI Model for Preoperative Prediction of Vessels Encapsulating Tumor Clusters in Resectable Hepatocellular Carcinoma: A Multicenter Retrospective Study.](https://pubmed.ncbi.nlm.nih.gov/42893439/)** (PMID: 42893439)
+    *   
+
+*   **[Oral Astilbin Nanogels Modulate Senescence-Associated CD4+ T Cells and Promote Treg Induction in Aged Mice with Colitis.](https://pubmed.ncbi.nlm.nih.gov/42893426/)** (PMID: 42893426)
+    *   
+
+*   **[Written exposure therapy augmented with transcranial direct current stimulation for posttraumatic stress disorder: A pilot randomized clinical trial.](https://pubmed.ncbi.nlm.nih.gov/42893417/)** (PMID: 42893417)
+    *   **简明总结（约4–6句）：**
+    *   该研究开展了一项小样本试点随机临床试验（N=25），将书面暴露疗法（WET）与经颅直流电刺激（tDCS）联合用于PTSD治疗，tDCS靶点为背外侧前额叶皮层，并设活性tDCS与假刺激对照。所有受试者接受5次WET；1个月随访时，活性tDCS组与假刺激组在CAPS-5和PCL-5评估
+
+*   **[A Micropeptide Component of the OGDH Complex Modulates ATP Production in the TCA Cycle.](https://pubmed.ncbi.nlm.nih.gov/42893408/)** (PMID: 42893408)
+    *   
+
+*   **[Molecular Signatures of HIV-Induced Neuroinflammation and Neurodegeneration in Human Cerebral Organoids: Identification of Therapeutic Targets for NeuroHIV.](https://pubmed.ncbi.nlm.nih.gov/42893406/)** (PMID: 42893406)
+    *   
+
+*   **[qcGEM: A Graph-Based Molecular Representation With Quantum Chemistry Awareness.](https://pubmed.ncbi.nlm.nih.gov/42893405/)** (PMID: 42893405)
+    *   ### 简明中文总结
+    *   该论文指出，主流分子表示缺乏物理基础信息，限制了AI模型在药物发现中的性能、
 
 
 <!-- DAILY_PAPERS_END -->
