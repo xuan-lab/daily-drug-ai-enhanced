@@ -15,94 +15,85 @@
 ### Summary for 2026-10-20
 *Fetched and summarized 23 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Generative AI for Personalized Learning Platforms in Otolaryngology-Head and Neck Surgery Education: Scoping Review.](https://pubmed.ncbi.nlm.nih.gov/42896157/)** (PMID: 42896157)
-    *   **简明中文总结（4–6句）**
-    *   该范围综述系统梳理了2017–2026年间耳鼻咽喉头颈外科专业教育中生成式AI/大语言模型的应用研究，最终纳入42项2023–2026年发表的研究，其中多数为模型输出或题库表现评价，而非真实学习者干预。应用场景涵盖知识检索、复习与考题练习、自适应评估、AI虚拟人教学及手术规划支持，并归纳出教育支持、学习效果、模型性能、考试评估、可靠性安全、实施障碍及未来教育设计等七大主题。较新模型在部分结构化知识任务上表现较强，但性能随任务类型、难度、模态和推理要求显著变化。总体证据异质且偏重基准测试，仅3项教育干预研究，对持续学习、临床推理和真实世界结局的支持有限；幻觉
-
-*   **[Incorporating Data From Text Messages and Email Into Psychotherapy: Randomized Controlled Trial.](https://pubmed.ncbi.nlm.nih.gov/42896155/)** (PMID: 42896155)
-    *   **简明总结（约5句）**
-    *   该随机对照试验纳入101例以抑郁或焦虑为主诉、接受心理治疗的门诊/部分住院成人及老年患者，比较“电子媒体增强治疗（EME，回顾患者个性化短信并汇总至HIPAA合规临床仪表盘）”与常规治疗（TAU）。结果显示
-
-*   **[Practice Effects on Repeated Self-Administered Digital Cognitive Assessments in Cognitively Intact Older Adults from the Framingham Heart Study: Longitudinal Observational Study.](https://pubmed.ncbi.nlm.nih.gov/42896150/)** (PMID: 42896150)
-    *   **简明中文总结（约5句）**
-    *   该研究评估认知完整的老年人在1年内每3个月远程自施一次FDA-cleared DANA数字认知任务时是否出现练习效应（PE），并探讨人口学因素是否调节PE。717名
-
-*   **[Total Syntheses and Biological Evaluation of Lamellolactones A and B via Direct Butenolide Functionalization.](https://pubmed.ncbi.nlm.nih.gov/42896125/)** (PMID: 42896125)
+*   **[Potentiated Skin Permeation and Antitumor Efficacy of Fulvestrant-Loaded High-Permeation Vesicles for Localized Breast Cancer Treatment.](https://pubmed.ncbi.nlm.nih.gov/42900870/)** (PMID: 42900870)
     *   
 
-*   **[Mechanical Stress Induces Nuclear Envelope Rupture in Melanoma Cells to Reorganize Tumor-Stromal Interactions.](https://pubmed.ncbi.nlm.nih.gov/42896122/)** (PMID: 42896122)
+*   **[Selection and Management of Patients With Resectable Gastric or Gastroesophageal Junction Cancer Receiving Perioperative FLOT: A Modified Delphi Consensus Approach.](https://pubmed.ncbi.nlm.nih.gov/42900867/)** (PMID: 42900867)
     *   
 
-*   **[Vitamin D Supplementation and Improvement in Insomnia Symptoms Among Malaysian Women With Vitamin D Deficiency: Protocol for a Randomized Controlled Trial.](https://pubmed.ncbi.nlm.nih.gov/42896117/)** (PMID: 42896117)
+*   **[Association of Circulating Eosinophils With Systemic Immune Activation and Reduced Recurrence in Hormone Receptor-Positive/Human Epidermal Growth Factor Receptor 2-Negative Breast Cancer.](https://pubmed.ncbi.nlm.nih.gov/42900864/)** (PMID: 42900864)
     *   
 
-*   **[Predictive performance of the Saint Elian Wound Score System adjusted for age for major amputation in diabetic foot: A competing risks analysis.](https://pubmed.ncbi.nlm.nih.gov/42896096/)** (PMID: 42896096)
+*   **[Association Between Systemic Fluoroquinolones and Risk of Peripheral Neuropathy.](https://pubmed.ncbi.nlm.nih.gov/42900857/)** (PMID: 42900857)
     *   
 
-*   **[mechanoLight: A genetically encoded fluorescent biosensor for visualizing 5-HT2AR mechanotransduction in live cells.](https://pubmed.ncbi.nlm.nih.gov/42896065/)** (PMID: 42896065)
-    *   **简明中文总结（约5句）**
-    *   该研究开发了基因编码红色荧光生物传感器 mechanoLight，用于在活细胞中报告 5-HT2A 受体（5-HT2AR）的机械激活。通过将环化排列的 mApple 插入 5-HT2AR 第三胞内环并优化连接肽，mechanoLight 能选择性检测流体剪切应力诱导的受体构象变化，而对 5-HT 配体激活反应较弱。与主要检测配体激活的绿色传感器 psychLight2 对比，提示 5-HT2AR 存在不同的机械与配
-
-*   **[Ferroptosis in Breast Cancer: Linking Iron Metabolism, Intertumoral Heterogeneity, and Predictive Biomarkers of Clinical Response.](https://pubmed.ncbi.nlm.nih.gov/42896032/)** (PMID: 42896032)
-    *   **简明总结（4–6句）**
-    *   该文是一篇叙述性综述，系统总结乳腺癌中铁死亡的调控机制及其治疗潜力。铁死亡是铁依赖、以脂质过氧化为特征的调节性细胞死亡，连接铁代谢、氧化应激与肿瘤侵袭性。细胞内铁蓄积可增加活性氧生成并提高癌细胞对铁死亡的敏感性，而GPX4-GSH和FSP1-CoQ10抗氧化系统通过中和脂质过氧化物、维持膜完整性发挥核心保护作用。这些通路失调会导致氧化还原失衡并促进疾病进展。乳腺癌亚型间铁死亡敏感性不同：三阴性乳腺癌因氧化活性较高、保护酶表达较低而更敏感，Luminal型和HER2阳性型相对抵抗。可控诱导铁死亡可能清除耐药细胞并增强疗效，提示其作为乳腺癌治疗靶点及连接代谢、氧化应激和程序性死亡的关键轴。
-    *   
-    *   **创新性总结**
-    *   - 将铁代谢、氧化应激、脂质过氧化及两大抗氧化防御轴整合为乳腺癌铁
-
-*   **[Metal Hypersensitivity Reactions Following Spinal Implants: A Systematic Review.](https://pubmed.ncbi.nlm.nih.gov/42896016/)** (PMID: 42896016)
+*   **[Differential Trajectories of Brain Atrophy in Multiple Sclerosis, MOGAD, and AQP4 + NMOSD: The Role of Disease Activity in MOGAD.](https://pubmed.ncbi.nlm.nih.gov/42900856/)** (PMID: 42900856)
     *   
 
-*   **[Radiation Vasculopathy of the Coronary Arteries: State-of-the Art Review.](https://pubmed.ncbi.nlm.nih.gov/42895999/)** (PMID: 42895999)
+*   **[Association Between Dynamic Changes in the Sling-Pubis Gap and Urinary Symptoms After Tension-Free Vaginal Tape Surgery: Protocol for a Prospective Observational Pilot Study.](https://pubmed.ncbi.nlm.nih.gov/42900852/)** (PMID: 42900852)
+    *   **简明中文总结（约4–6句）**
+    *   该文是一项前瞻性、非干预性观察性预试验方案，拟纳入55例接受耻骨后无张力阴道吊带术的应激性尿失禁女性，评估动态经会阴超声吊带参数
+
+*   **[Current Advances in Antioxidant Nanozymes for Liver Diseases.](https://pubmed.ncbi.nlm.nih.gov/42900801/)** (PMID: 42900801)
     *   
 
-*   **[Norfentanyl detection after negative confirmatory testing following heavy illicit fentanyl exposure: A two-patient case series.](https://pubmed.ncbi.nlm.nih.gov/42895990/)** (PMID: 42895990)
-    *   **简明总结（4–6句）
+*   **[Characterisation and anti-cancer activities of polysaccharides obtained from Punica granatum L. by different extraction methods.](https://pubmed.ncbi.nlm.nih.gov/42900794/)** (PMID: 42900794)
+    *   **简明总结（4-6句）**
+    *   该研究以石榴加工副产物石榴皮为原料，采用热水提取（HWE）和酶辅助提取（EAE）制备粗多糖，并经脱色、脱蛋白纯化。两种工艺所得石榴皮多糖在分子量和单糖组成等理化特征上存在差异。体外抗肿瘤实验显示，HWE-PPPs和EAE-PPPs对MDA-MB-231乳腺癌细胞和HCT116结直肠癌细胞均具有强抑制作用。在最高测试浓度1 mg/mL下，HWE-PPPs对两株细胞的抑制率分别为95.28%和97.18%，EAE-PPPs分别为94.50%和97.03%。研究提示
 
-*   **[Isolated Bilateral Periocular Lupus Miliaris Disseminatus Faciei: A Clinicopathological Mimicker of Granulomatosis With Polyangiitis.](https://pubmed.ncbi.nlm.nih.gov/42895954/)** (PMID: 42895954)
-    *   
-
-*   **[Syrosingopine: An optimal treatment approach for lactate transport in a nonlinear differential system.](https://pubmed.ncbi.nlm.nih.gov/42895943/)** (PMID: 42895943)
-    *   **简明总结（约5句）**
-    *   该文提出一个描述乳酸跨细胞膜及毛细血管转运机制的数学模型。模型认为Syrosingopine可能有助于将体内乳酸水平控制在合理范围。作者利用微分方程组和最优控制理论，研究Syrosingopine对乳酸转运的影响，并对给药剂量和治疗方案作出合理估计。该研究将生物学与数学建模结合，服务于未来更个性化的精准医学。与药物科学的相关性在于，它为药物剂量优化、治疗策略评估及Syrosingopine作用机制研究提供了理论框架，但摘要未给出具体实验或临床验证结果。
-    *   
-    *   **创新性总结**
-    *   - 将微分方程建模与最优控制理论用于研究药物对乳酸转运的调控及剂量/治疗估计。
-    *   - 以Syrosingopine为对象，探索通过调节乳酸转运改善健康的数学建模范式。
-    *   - 强调生物学与数学交叉，面向精准医学和个体化治疗。
-    *   
-    *   **药学启示**
-    *   - 可用于支持药物剂量个体化和治疗方案优化的理论探索。
-    *   - 提示Syrosingopine在乳酸调控方面可能具有研究价值，但需实验和临床验证。
-    *   - 数学模型可作为机制假设生成和跨学科药物研发
-
-*   **[The Potential Role of Gut Microbiota in Combating Mycobacterium tuberculosis Infection.](https://pubmed.ncbi.nlm.nih.gov/42895926/)** (PMID: 42895926)
-    *   **简明中文总结（约4-6句）**
-    *   该文综述了结核病患者肠道菌群变化及其与结核分枝杆菌（M.TB）感染之间的可能关系。肠道菌群是参与代谢、免疫调节和维持宿主健康平衡的复杂生态系统。现有研究提示，肠道菌群可通过“肠-肺轴”调节肺结核相关免疫过程，而M.TB感染也可破坏肠道菌群稳定性并影响宿主健康。文章进一步总结了肠道菌群在结核病治疗中的潜在应用价值，认为
-
-*   **[Metabolite profiling and pharmacological evaluation of Lablab purpureus seed coat: a rich source of antioxidant, antibacterial and anticancer metabolites.](https://pubmed.ncbi.nlm.nih.gov/42895924/)** (PMID: 42895924)
-    *   
-
-*   **[Microneedle-based drug delivery for inflammatory and immune-mediated ocular diseases: current applications and future perspectives.](https://pubmed.ncbi.nlm.nih.gov/42895906/)** (PMID: 42895906)
+*   **[Identification of Novel CD52+ Fibroblasts in Nodular Prostatic Hyperplasia.](https://pubmed.ncbi.nlm.nih.gov/42900792/)** (PMID: 42900792)
     *   ### 简明中文总结（约5句）
-    *   该综述聚焦炎症性和免疫介导性眼病，指出其由免疫-炎症反应失调驱动，具有慢性、易复发和可致眼组织损伤及视功能损害的特点，免疫细胞亚群失衡是其核心发病机制之一。目前糖皮质激素和免疫抑制剂仍是主要治疗手段，但存在生物利用度和靶向性差、给药方式繁琐或侵入性强，以及眼压升高、白内障、青光眼等副作用，尤其频繁给药时更突出。微针作为一种创新眼用递药系统，较传统滴眼液和玻璃体腔注射可增强药物穿透与靶向、实现缓释并减少不必要药物暴露。该综述重点讨论微针在非感染性葡萄膜炎、角膜炎症性疾病、炎症相关角膜新生血管和过敏性结膜炎中的应用潜力。文章还系统讨论了眼部安全性与毒性、生产与标准化、监管挑战及未来前景，提示微针在炎症/免疫性眼病治疗中具有较大转化潜力，但仍需
+    *   1
 
-*   **[Bruce suppresses autophagy-regulated caspase activity and wing tissue growth in Drosophila.](https://pubmed.ncbi.nlm.nih.gov/42895886/)** (PMID: 42895886)
+*   **[Toward Cadaveric Proteomics: A Theoretical Framework for Mass Spectrometry Analysis of Embalmed Human Tissues.](https://pubmed.ncbi.nlm.nih.gov/42900780/)** (PMID: 42900780)
     *   
 
-*   **[Geometry-Dependent Properties of Physically Crosslinked PPy-PVA Hydrogels Enable Tunable Iontophoretic Drug Delivery.](https://pubmed.ncbi.nlm.nih.gov/42895875/)** (PMID: 42895875)
+*   **[Predictors of Type 2 Diabetes Remission and Relapse After Metabolic-Bariatric Surgery or Medical-Lifestyle Therapy in the ARMMS-T2D Study.](https://pubmed.ncbi.nlm.nih.gov/42900776/)** (PMID: 42900776)
+    *   ## 简明中文总结
+    *   
+    *   该研究基于ARMMS-T2D多中心随机队列（262例2型糖尿病患者，随访中位11年、最长14年），比较代谢减重手术（MBS）与强化医学-生活方式干预对糖尿病缓解及复发的影响。结果显示，MBS组糖尿病缓解率为58%，而医学-生活方式组仅3%。单因素预测缓解的因素包括糖尿病病程较短、未使用胰岛素、降糖药类别较少、体重较高、空腹C肽和胰岛素较高
+
+*   **[Integration of scRNA-Seq and scATAC-Seq Revealed the Role of lncRNA RP11-661C8.2 by Promoting EMT in Clear Cell Renal Cell Carcinoma.](https://pubmed.ncbi.nlm.nih.gov/42900771/)** (PMID: 42900771)
     *   
 
-*   **[Predicting Plastic Surgery Residency Match Tier From Publication Metrics: A Machine Learning Analysis.](https://pubmed.ncbi.nlm.nih.gov/42895867/)** (PMID: 42895867)
+*   **[Improving optogenetic control over Gi/o-coupled receptor signaling by optimized GIRK channel expression.](https://pubmed.ncbi.nlm.nih.gov/42900704/)** (PMID: 42900704)
     *   
 
-*   **[Scaffold-mediated phosphatase regulation in EGFR family signaling.](https://pubmed.ncbi.nlm.nih.gov/42895863/)** (PMID: 42895863)
+*   **[A PRMT5-ANGPTL4 axis in brain endothelial cells regulates cerebellar inhibitory synaptogenesis and motor coordination.](https://pubmed.ncbi.nlm.nih.gov/42900703/)** (PMID: 42900703)
+    *   **简明中文总结**
+    *   
+    *   该研究发现脑血管内皮细胞中的精氨酸甲基转移酶PRMT5是维持小脑抑制性突触发生和运动
+
+*   **[GC-MS and 1H-NMR chemical analyses of unexplored Dhofarense Launaea essential oil (Oman): Launaea almahrahensis N.Kilian.](https://pubmed.ncbi.nlm.nih.gov/42900682/)** (PMID: 42900682)
+    *   ### 简明中文总结
+    *   本研究首次对阿曼产未探索物种 *Launaea almahrahensis* 的精油进行化学成分分析，采用 GC-MS 和 ¹H-NMR 两种方法。结果显示，该精油以单萜烃类为主（78.69 ± 4.11%），其中柠檬烯（41.27 ± 2.17%）和 β-月桂烯（35.56 ± 1.87%）为最主要成分。其他成分约占 9.96 ± 0.45%，其中 dillapiole（3.03 ± 0
+
+*   **[Vimentin neutralizing antibody ameliorate inflammatory bowel disease by inhibiting fibrosis and inflammatory cell death.](https://pubmed.ncbi.nlm.nih.gov/42900677/)** (PMID: 42900677)
+    *   **简明总结（4–6句）**
+    *   该研究聚焦炎症性肠病（IBD）中慢性炎症、纤维化与坏死性凋亡相互交织，以及波形蛋白（vimentin）在IBD组织中升高的问题。作者在DSS诱导的C57BL6小鼠结肠炎模型中，反复腹腔注射抗vimentin抗体（3 mg/kg，每3天一次），发现其可降低结肠组织总vimentin及细胞表面vimentin水平。抗vimentin抗体改善了体重下降和结肠缩短，减轻结肠炎严重程度，并减少表达纤维化标志物、炎症细胞因子和
+
+*   **[Selective persistence of HIV-1-infected T cell clones can occur through immune reprogramming driven by defective, transcriptionally active proviruses.](https://pubmed.ncbi.nlm.nih.gov/42900669/)** (PMID: 42900669)
     *   
 
-*   **[The conserved NUS-1/DHDDS-1 complex links N-glycosylation to lipid and lysosomal homeostasis in C. elegans.](https://pubmed.ncbi.nlm.nih.gov/42895853/)** (PMID: 42895853)
+*   **[Plasma proteomic signatures of subclinical atherosclerosis progression for cardiovascular risk stratification: A cohort study.](https://pubmed.ncbi.nlm.nih.gov/42900662/)** (PMID: 42900662)
     *   
 
-*   **[Fleming Fund Implementation in Kenya: What Have We Learned About Strengthening One Health Antimicrobial Resistance Surveillance for Decision-making?](https://pubmed.ncbi.nlm.nih.gov/42895841/)** (PMID: 42895841)
+*   **[The Pallidothalamic Tract in Functional Neurosurgery: A Systematic Review.](https://pubmed.ncbi.nlm.nih.gov/42900661/)** (PMID: 42900661)
+    *   
+
+*   **[When Insulin Must Wait: The Role of Renal Replacement Therapy in Refractory Hypokalemia During Severe Diabetic Ketoacidosis.](https://pubmed.ncbi.nlm.nih.gov/42900653/)** (PMID: 42900653)
+    *   **简明中文总结（约5句）**
+    *   本病例报告一名37岁
+
+*   **[Promising targets to overcome radioresistance in glioblastoma: current status and future perspectives.](https://pubmed.ncbi.nlm.nih.gov/42900616/)** (PMID: 42900616)
+    *   **简明中文总结：**
+    *   GBM对标准放疗仍高度抵抗，其放疗抵抗由DNA损伤修复（DDR）、缺氧、抗氧化网络、酪氨酸激酶信号异常及免疫抑制微环境等多重分子和细胞机制共同驱动。DDR可修复致死性和亚致死性DNA双链断裂，限制放疗细胞毒性；缺氧、抗氧化系统和失调的酪氨酸激酶进一步维持照射后的生存信号和细胞周期推进。肿瘤相关巨噬细胞（TAMs）、髓源性抑制细胞（MDSCs）及其共抑制信号通路塑造免疫抑制间质，耗竭抗肿瘤免疫细胞并促进肿瘤生长和转移。因此，联合靶向这些放疗抵抗介质可能产生更强、更持久的抗肿瘤效果。该综述梳理了GBM放疗增敏的
+
+*   **[Protocol for isolation and culture establishment of adult murine neural stem cells using tissue grinder and dissociator-based mechanical dissociation.](https://pubmed.ncbi.nlm.nih.gov/42900586/)** (PMID: 42900586)
+    *   **简明中文总结（5句）**
+    *   该论文提出一种名为TIGR-MD的无酶工作流，用于分离小鼠成体神经干细胞（aNSCs）。流程包括齿状回和室下区的解剖、基于组织研磨器和解离器的机械解离、细胞回收以及原代神经球培养的建立。作者还给出了神经球维持、传代和
+
+*   **[Jet-injected combinational adjuvants potentiate naked mRNA vaccines for protection against respiratory viral infections in mice.](https://pubmed.ncbi.nlm.nih.gov/42900556/)** (PMID: 42900556)
     *   
 
 
