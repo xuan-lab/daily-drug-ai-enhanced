@@ -12,100 +12,97 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-10-21
+### Summary for 2026-10-22
 *Fetched and summarized 25 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Study protocol of a prospective, non-interventional cohort study evaluating the benefits of transjugular intrahepatic portosystemic shunt in patients with hepatocellular carcinoma receiving first-line atezolizumab plus bevacizumab (NISTIPS TRITICC-4, IKF092).](https://pubmed.ncbi.nlm.nih.gov/42902603/)** (PMID: 42902603)
-    *   **简明总结（约4–6句）**
-    *   该研究关注晚期肝细胞癌（HCC）一线阿替利珠单抗联合贝伐珠单抗治疗中，肝硬化及临床显著门静脉高压（CSPH）对结局和治疗持续性的影响，尤其是贝伐珠单抗相关出血风险及腹水、静脉曲张出血等并发症。NISTIPS TRITICC-4是一项在德国最多25个中心开展的前瞻性、多中心、非干预性队列研究，计划纳入350例接受该一线联合方案的肝硬化、不可切除或转移性HCC成人患者。患者按常规临床实践分为“TIPS
-
-*   **[Long-term outcome of stenting for the iliac vein stenosis with ipsilateral arterio-venous graft; a case series.](https://pubmed.ncbi.nlm.nih.gov/42902602/)** (PMID: 42902602)
+*   **[Interpretable Deep Learning for Opportunistic Screening of Left Ventricular Dysfunction Screening Using Chest Radiographs.](https://pubmed.ncbi.nlm.nih.gov/42905014/)** (PMID: 42905014)
     *   
 
-*   **[Bilateral peripheral CT venography for evaluating central venous lesions in dysfunctional arteriovenous fistulas: feasibility, safety, and radiation dose in hemodialysis patients.](https://pubmed.ncbi.nlm.nih.gov/42902599/)** (PMID: 42902599)
-    *   **简明中文总结（4–6句）**
-    *   本研究回顾性纳入46例动静脉内瘘（AVF）失功的血液透析患者，评估双侧外周CT静脉造影用于中心静脉评估的可行性、安全性、辐射剂量及解剖学表现。结果显示技术成功率为100%，平均操作时间仅4分钟；轻微不良事件包括1例（2.2%）对比剂外渗和3例（6.5%）轻度过敏反应，无严重操作相关并发症。平均CTDIvol为11.87 mGy、DLP为784.15 mGy·cm；95.7%患者
+*   **[Characterization and Application of a Novel Gellan Carbohydrate Binding Module from the CBM96 Family.](https://pubmed.ncbi.nlm.nih.gov/42905011/)** (PMID: 42905011)
+    *   **简明总结（约5句）**
+    *   该研究首次从推定结冷胶裂解酶中重组表达并鉴定了碳水化合物结合模块ClCBM96。ClCBM
 
-*   **[Oral Versus Injectable Incretin-Based Anti-Obesity Therapies: An Integrated Computational and Evidence-Based Comparison of Orforglipron, Semaglutide, and Tirzepatide.](https://pubmed.ncbi.nlm.nih.gov/42902597/)** (PMID: 42902597)
+*   **[The Effect of Stevioside on Hepatic Steatosis in Metabolic Dysfunction-Associated Steatotic Liver Disease.](https://pubmed.ncbi.nlm.nih.gov/42905007/)** (PMID: 42905007)
     *   
 
-*   **[China's Order 818: A New Commercialization Pathway Reshaping Cell and Gene Therapy.](https://pubmed.ncbi.nlm.nih.gov/42902587/)** (PMID: 42902587)
-    *   **简明中文总结（约4-6句）**
-    *   该文系统分析了中国前沿生物医学技术监管的里程碑框架，即《新生物医学技术临床研究与临床转化应用管理规定》，并梳理了该框架下前九批共112个已备案临床研究项目。研究指出，中国建立了将新生物医学技术与常规药品、医疗器械相区分的小“双轨制”监管体系。其核心治理思路是“宽进严出”和“创新与安全平衡”，即在促进细胞治疗、基因编辑、再生医学等前沿技术临床转化的同时强化安全退出与风险控制。作者认为，这一监管范式对全球健康创新具有变革性意义。对药物科学而言，该文有助于理解前沿生物技术产品在临床研究、转化应用及药械监管边界上的合规路径。
+*   **[Unreported Phenolic Glycoside from Strychnos nux-vomica Branches Attenuates Acute Liver Injury with the Participation of the Nrf2 Pathway.](https://pubmed.ncbi.nlm.nih.gov/42905004/)** (PMID: 42905004)
     *   
-    *   **创新性总结**
-    *   - 首次系统梳理中国新生物医学技术监管框架及前九批112个备案项目。
-    *   - 明确提出并阐释“双轨制”监管与“宽进严出、创新与安全平衡”的治理范式。
-    *   - 将中国前沿生物技术监管经验置于全球健康创新语境中进行分析。
-    *   
-    *   **药学启示**
-    *   - 细胞治疗、
 
-*   **[Analytical Detection and Sample Preparation Techniques for Selected New Psychoactive Substances: Advances, Critical Limitations, and Future Perspectives.](https://pubmed.ncbi.nlm.nih.gov/42902583/)** (PMID: 42902583)
+*   **[Size-Dependent Zinc Delivery and Nanozyme-Mediated Stress Alleviation by ZnO Nanoparticles in Zinc-Deficient Tomato.](https://pubmed.ncbi.nlm.nih.gov/42904998/)** (PMID: 42904998)
+    *   
+
+*   **[PK/PD Modeling of a Novel Pleuromutilin Derivative Pleuro2-4 against Mycoplasma gallisepticum in Chicks.](https://pubmed.ncbi.nlm.nih.gov/42904995/)** (PMID: 42904995)
+    *   
+
+*   **[A Novel Ca2+-Dependent O-Methyltransferase Involved in Flavonoid Methylation in Tartary Buckwheat.](https://pubmed.ncbi.nlm.nih.gov/42904992/)** (PMID: 42904992)
+    *   **简明总结（4–6句）**
+    *   本研究以苦荞品种“Y324”为材料，系统分析了瘦果发育过程中甲氧基黄酮的积累与空间分布，发现多数甲氧基黄酮随发育逐步积累并特异富集于壳部。基于代谢谱，作者鉴定出FtOMT19，属于真CCoAOMT亚家族的Ca²⁺依赖型O-甲基转移酶。体外酶活与毛状根过表达实验表明，FtOMT19底物谱宽，可高效甲基化含邻二羟基的黄酮类，尤其偏好槲皮素，并能催化6-、7-、8-、3'-、4'-和5'-位羟基甲基化；过表达毛状根中
+
+*   **[Discovery of Novel Pyrazole-4-Carboxamide and Aromatic Carboxamide Derivatives Containing a Trans-2-(Trifluoromethyl)cyclopropyl Moiety as Potential SDHIs.](https://pubmed.ncbi.nlm.nih.gov/42904990/)** (PMID: 42904990)
+    *   **简明总结（4–6句）**
+    *   该研究设计并合成了一系列含反式-2-(三氟甲基)环丙基的吡唑-4-甲酰胺及芳香甲酰胺类化合物，作为潜在琥珀酸脱氢酶抑制剂（SDHIs），并评价其体外和体内抗真菌活性。先导化合物 **10h** 对立枯丝核菌和稻瘟病菌表现出强活性，EC50分别为0.04和1.59 mg/L。在5 mg/L下，10h对水稻纹枯病和大豆锈病的防效分别为77.8%和88.9%，优于flux
+
+*   **[Insights into the Osteoprotective Potential of Chemically Modified Natural Polysaccharides for Animal Skeletal Health: A Narrative Review.](https://pubmed.ncbi.nlm.nih.gov/42904986/)** (PMID: 42904986)
+    *   **简明中文总结：**
+    *   该综述聚焦化学修饰多糖在集约化畜牧中促进动物骨骼健康的研究进展。天然多糖具骨保护潜力，但受高分子量、低溶解度和骨靶向性差限制，化学修饰可增强其内源成骨活性，并可引入骨诱导功能基团。作者系统提出其“双重保护机制”：直接作用包括调控成骨细胞分化、抑制异常破骨细胞激活、促进微血管生成和骨基质
+
+*   **[Recombinant Lactococcus lactis Expressing IFN-γ Alleviates Viral Enteritis via Microbial and Metabolic Modulation.](https://pubmed.ncbi.nlm.nih.gov/42904985/)** (PMID: 42904985)
+    *   **简明总结（4-6句）**
+    *   1. 病毒性
+
+*   **[Fermentation-Promoting Peptides Enhance Yeast Robustness during Very High Gravity Fermentation by Reinforcing Antioxidant Defenses and Modulating Intracellular Metabolism.](https://pubmed.ncbi.nlm.nih.gov/42904984/)** (PMID: 42904984)
+    *   **简明中文总结（5句）**
+    *   该
+
+*   **[Natural Polysaccharides in Health and Targeting TGF-β/Smad Signaling Therapy in Chronic Diseases.](https://pubmed.ncbi.nlm.nih.gov/42904982/)** (PMID: 42904982)
+    *   ## 简明中文总结
+    *   慢性病
+
+*   **[Evaluation of Acute Pharmacokinetics and Liver Metabolic Response of L-Se-Methylselenocysteine in Mice Using UPLC-QqQ-MS/MS and Untargeted Metabolomics.](https://pubmed.ncbi.nlm.nih.gov/42904980/)** (PMID: 42904980)
+    *   **简明总结（4–6句）**
+    *   该研究采用UPLC-QqQ-MS/MS表征天然有机硒化合物L-SeMC在H22荷瘤小鼠中的急性药代动力学和组织分布，并结合非靶向代谢组学评估急性给药后的肝脏代谢反应。结果显示L-SeMC吸收迅速，血浆和肿瘤峰浓度分别约在5 min和30 min达到；肝脏和肿瘤中暴露相对较高，而母体L-SeMC在2880 min（48 h
+
+*   **[Oleanolic Acid Alleviates Diabetic Nephropathy by Inhibiting Ferroptosis Involving the Activation of the NRF2/HO-1 Pathway.](https://pubmed.ncbi.nlm.nih.gov/42904976/)** (PMID: 42904976)
+    *   
+
+*   **[Magnoflorine Ameliorates Metabolic Dysfunction-Associated Steatotic Liver Disease by Targeting the NDUFV1 Subunit of Complex I to Regulate the ROS/AMPK Signaling Pathway.](https://pubmed.ncbi.nlm.nih.gov/42904973/)** (PMID: 42904973)
     *   ## 简明总结
-    *   
-    *   该综述系统评估了2020—2026年间41项关于新型精神活性物质（NPS）样品前处理与分析检测策略的原创研究，重点覆盖合成阿片类、合成卡西酮类、合成大麻素类和设计苯二氮䓬类。文章指出，仅提高分析灵敏度并不足以保证可靠鉴定，检测性能实际取决于提取选择性、基质兼容性、分析物稳定性、代谢物选择、色谱分离度及仪器筛查范围等多因素交互。靶向方法适合已知化合物的确认与定量，而高分辨质谱
+    *   MASLD缺乏有效治疗药物，天然生物碱MAG虽可改善MASLD，但其直接靶点此前不清。该研究整合热蛋白组分析与疾病靶点数据库，鉴定线粒体复合物I核心亚基ND
 
-*   **[Preoperative predictors of graft retear following arthroscopic superior capsule reconstruction with long head of biceps tendon autograft: a pilot retrospective case-control study.](https://pubmed.ncbi.nlm.nih.gov/42902578/)** (PMID: 42902578)
-    *   
-
-*   **[Deep learning assessment of visualization in rotator cuff repair: a secondary analysis of a randomized controlled trial comparing epinephrine irrigation and intravenous tranexamic acid.](https://pubmed.ncbi.nlm.nih.gov/42902577/)** (PMID: 42902577)
+*   **[Structure-Guided Engineering of Xylitol 4-dehydrogenase Unlocks Efficient L-Xylulose Biosynthesis: Mechanistic Insights into Catalytic Enhancement.](https://pubmed.ncbi.nlm.nih.gov/42904969/)** (PMID: 42904969)
     *   
 
-*   **[Diagnostic Performance of the Radiographic Assessment of Lung Edema Score for Acute Respiratory Distress Syndrome-Post Hoc Analysis of the "Validating Acute Lung Injury Biomarkers for Diagnosis" Study.](https://pubmed.ncbi.nlm.nih.gov/42902574/)** (PMID: 42902574)
+*   **[Scientific Output in Septic Shock According to Country Income and Gender: A Meta-Epidemiological Study.](https://pubmed.ncbi.nlm.nih.gov/42904954/)** (PMID: 42904954)
+    *   **简明中文总结（约5句）**
+    *   该研究系统检索2014—2024年“脓毒性休克”相关同行评议文献，共纳入10,352篇，分析作者国家收入水平、性别与期刊声望趋势。结果显示，中低收入国家（LMIC）第一作者比例从2014年18%升至2024年37%，增长显著，但跨收入合作仍较少。女性第一作者和最后作者分别占35.6%和25.0%，LMIC中女性作者比例高于高收入国家（HIC）。高收入国家中男性主导的文章更常发表于高SJR期刊，而LMIC作者中未观察到明显性别差异。总体而言，LMIC贡献和女性代表性有所改善，但全球危重症研究仍存在显著不公平，影响脓毒性
+
+*   **[Fungicide co-exposure influences ibuprofen accumulation, distribution and phytotoxicological responses in zucchini (Cucurbita pepo).](https://pubmed.ncbi.nlm.nih.gov/42904950/)** (PMID: 42904950)
     *   
 
-*   **[Proenkephalin A and Heterogeneity of Hydrocortisone Treatment Effect in Septic Shock: A Post Hoc Analysis of the VANISH Trial.](https://pubmed.ncbi.nlm.nih.gov/42902572/)** (PMID: 42902572)
+*   **[Furosemide Stress Test in Adults and Children With Acute Kidney Injury: A Systematic Review and Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/42904937/)** (PMID: 42904937)
     *   
 
-*   **[8-Chloro-cyclic AMP mediates growth inhibition of breast cancer cells via regulation of Yin-Yang 1 and estrogen receptor α levels.](https://pubmed.ncbi.nlm.nih.gov/42902568/)** (PMID: 42902568)
+*   **[Delay From Hypotension Onset to Appropriate Antifungal Therapy Initiation Is the Critical Determinant of Outcome in Candida Septic Shock.](https://pubmed.ncbi.nlm.nih.gov/42904906/)** (PMID: 42904906)
     *   
 
-*   **[Cosolvents induce sharp softening and RNA-like twist-stretch coupling of RNA-DNA hybrid.](https://pubmed.ncbi.nlm.nih.gov/42902563/)** (PMID: 42902563)
+*   **[Cuproptosis-based nanomedicine targeting metabolic vulnerabilities for cancer therapy.](https://pubmed.ncbi.nlm.nih.gov/42904902/)** (PMID: 42904902)
+    *   **简明总结（约6句）**
+    *   1. 癌症尤其是转移性肿瘤仍是全球主要致死原因，肿瘤异质性和治疗耐药
+
+*   **[Physicochemical characterization of a bioactive Minthostachys verticillata nanoemulsion with enhanced antibacterial efficacy against veterinary pathogens.](https://pubmed.ncbi.nlm.nih.gov/42904900/)** (PMID: 42904900)
+    *   **简明总结（4–6句）**
+    *   1. 本研究针对畜禽病原菌耐药问题，开发了含 *Minthostachys verticillata* 精油的水包油纳米乳，并完成理化表征、生物相容性及抗菌效果评价。
+    *   2. 精油经水蒸气蒸馏获得（得率4.8% v/w），GC-MS显示为胡薄荷酮-
+
+*   **[Nursing Ethics in an Era of Changing Global Political Ideologies.](https://pubmed.ncbi.nlm.nih.gov/42904898/)** (PMID: 42904898)
+    *   **简明中文总结（约4–6句）**
+    *   该文指出，护士作为患者和家庭倡导者，在战争、灾害、大规模流离失所及资源短缺等情境下常面临伦理困境：组织要求、监管指令与患者最佳利益或护士自身价值观之间可能冲突。文章通过多个国家的护理同仁案例，探讨护士在患者权利或福祉可能受损、或被要求以可能妥协照护结局的方式提供照护时如何回应。结论认为，这类“良知危机”并非孤立事件，而是护理实践中常见且跨文化的现象，反映共享的伦理张力。其实践意义在于，这些案例折射全球护理真实处境，提示需持续关注危机
+
+*   **[Bioinformatics and network pharmacological characterization of xanomeline for therapeutic intervention in areca nut dependence.](https://pubmed.ncbi.nlm.nih.gov/42904896/)** (PMID: 42904896)
     *   
 
-*   **[Characterizing the unfolding activation barrier of c-MYC G-quadruplex by temperature-dependent single-molecule force spectroscopy.](https://pubmed.ncbi.nlm.nih.gov/42902562/)** (PMID: 42902562)
+*   **[Real-world analysis of infusion-related reactions in patients receiving subcutaneous daratumumab in Nova Scotia, Canada.](https://pubmed.ncbi.nlm.nih.gov/42904873/)** (PMID: 42904873)
     *   
-
-*   **[Progress in research on the bidirectional relationship between circadian rhythm and depression: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42902550/)** (PMID: 42902550)
-    *   **简明中文总结（4-6句）**
-    *   该研究利用VOSviewer和CiteSpace对Web of Science核心合集2015年1月至2025年4月间444篇“昼夜节律与抑郁”相关文献进行文献计量分析。结果显示，2017年前发文量较低，2018年后显著增长，美国贡献最大；Ian B. Hickie和Joanne S. Carpenter为最高产作者，匹兹堡大学和《Chronobiology International》分别为最活跃机构和期刊。McClung、Dubocovich和Logan为主要高共被引作者，高频关键词包括“expression”“sleep”“circadian rhythms”和“melatonin”。这些发现表明昼夜节
-
-*   **[Contrast-Associated Acute Kidney Injury in Oncology Patients During Active Chemotherapy: A Saudi Arabian Retrospective Study.](https://pubmed.ncbi.nlm.nih.gov/42902549/)** (PMID: 42902549)
-    *   
-
-*   **[Assessing health related quality of life of patients on maintenance hemodialysis in north-western Morocco.](https://pubmed.ncbi.nlm.nih.gov/42902536/)** (PMID: 42902536)
-    *   
-
-*   **[Bipolar Disorder and the Risk of Cardiovascular Diseases: A Systematic Review and Meta-Analysis of Observational Studies.](https://pubmed.ncbi.nlm.nih.gov/42902526/)** (PMID: 42902526)
-    *   **简明中文总结（5句）**
-    *   该研究通过系统综述和荟萃分析整合32项观察性研究，评估双相障碍（BD）成人患者心血管疾病（CVD）的患病率和发病率。汇总结果显示，BD患者CVD总患病率为7.70%，其中冠心病6.89%、脑血管病4.45%、外周动脉疾病3.30%，但异质性极高，应视为绝对负担的宽泛指标而非精确估计。在设有对照的发病率研究中，BD与CVD发病风险升高相关（IRR 1.66，95% CI 1.32–2.08），冠脉
-
-*   **[Abscopal effect-induced acephalic spermatozoa and testicular dysfunction implicate Cep112 and PI3K/Akt-mTOR signaling.](https://pubmed.ncbi.nlm.nih.gov/42902524/)** (PMID: 42902524)
-    *   **简明中文总结（4–6句）**
-    *   本研究聚焦局部放疗诱导的远隔效应（abscopal effect）对睾丸功能的脱靶损伤及其机制。研究发现远隔效应可导致明显的睾丸损伤表型，包括减数分裂异常、血睾屏障完整性受损和精子细胞方向异常，并首次报道其可诱导无头精子（acephalic spermatozoa）。转录分析显示中心体蛋白表达失调，而RNAi敲低Cep112证明该蛋白对精子发生至关重要。机制上，Cep112与PI3K/Akt及mTOR/rpS6信号通路密切相关，并通过这些通路参与睾丸细胞骨架组织和精子形成。研究提示Cep
-
-*   **[MZF1 Inhibits TGFβ-1/SMAD Signaling by Transcriptionally Activating SnoN to Augment Tumorigenic Potential in Colon Cancer.](https://pubmed.ncbi.nlm.nih.gov/42902510/)** (PMID: 42902510)
-    *   
-
-*   **[Saponin extract from Astragalus membranaceus (Fisch.) Bunge regulates gut-brain axis through intestinal Escherichia coli to reduce cerebral oxidative stress to treat vascular dementia in rodents.](https://pubmed.ncbi.nlm.nih.gov/42902504/)** (PMID: 42902504)
-    *   
-
-*   **[Population pharmacokinetics of levetiracetam in term neonates with hypoxic-ischemic encephalopathy and therapeutic hypothermia: The LEVNEONAT-1 study.](https://pubmed.ncbi.nlm.nih.gov/42902502/)** (PMID: 42902502)
-    *   
-
-*   **[TRPM4 promotes ErSO-mediated oncosis-like cell death in prostate cancer cells.](https://pubmed.ncbi.nlm.nih.gov/42902494/)** (PMID: 42902494)
-    *   
-
-*   **[Coordination Chemistry of Single-Atom Catalysts in Expediating Kinetics for Advanced Lithium-Sulfur Batteries.](https://pubmed.ncbi.nlm.nih.gov/42902475/)** (PMID: 42902475)
-    *   
-
-*   **[EXPRESS: Quantification of arterial hemodynamics in steno-occlusive disease using time-resolved MRI-based angiography.](https://pubmed.ncbi.nlm.nih.gov/42902470/)** (PMID: 42902470)
-    *   
-
-*   **[Dual-Targeting Nanomicelles Co-Loading Sorafenib and Artesunate Combats Hepatocellular Carcinoma via the Synergistically Enhanced Ferroptosis Strategy.](https://pubmed.ncbi.nlm.nih.gov/42902458/)** (PMID: 42902458)
-    *   **简明中文总结（5句）**
-    *   该研究针对肝细胞癌（HCC）常规单药疗效有限的问题，构建了共载索拉非尼（SOR）和青蒿琥酯（ART）的双靶向聚合物胶束 S&A@TPD/HG
 
 
 <!-- DAILY_PAPERS_END -->
