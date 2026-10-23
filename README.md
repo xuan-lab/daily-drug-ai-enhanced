@@ -12,96 +12,96 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-10-22
-*Fetched and summarized 25 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
+### Summary for 2026-10-23
+*Fetched and summarized 24 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Interpretable Deep Learning for Opportunistic Screening of Left Ventricular Dysfunction Screening Using Chest Radiographs.](https://pubmed.ncbi.nlm.nih.gov/42905014/)** (PMID: 42905014)
+*   **[Virtual Reality for Delirium Prevention in Intensive Care Unit Nurses and Mechanically Ventilated Patients: Descriptive Qualitative Study.](https://pubmed.ncbi.nlm.nih.gov/42913474/)** (PMID: 42913474)
     *   
 
-*   **[Characterization and Application of a Novel Gellan Carbohydrate Binding Module from the CBM96 Family.](https://pubmed.ncbi.nlm.nih.gov/42905011/)** (PMID: 42905011)
-    *   **简明总结（约5句）**
-    *   该研究首次从推定结冷胶裂解酶中重组表达并鉴定了碳水化合物结合模块ClCBM96。ClCBM
-
-*   **[The Effect of Stevioside on Hepatic Steatosis in Metabolic Dysfunction-Associated Steatotic Liver Disease.](https://pubmed.ncbi.nlm.nih.gov/42905007/)** (PMID: 42905007)
-    *   
-
-*   **[Unreported Phenolic Glycoside from Strychnos nux-vomica Branches Attenuates Acute Liver Injury with the Participation of the Nrf2 Pathway.](https://pubmed.ncbi.nlm.nih.gov/42905004/)** (PMID: 42905004)
-    *   
-
-*   **[Size-Dependent Zinc Delivery and Nanozyme-Mediated Stress Alleviation by ZnO Nanoparticles in Zinc-Deficient Tomato.](https://pubmed.ncbi.nlm.nih.gov/42904998/)** (PMID: 42904998)
-    *   
-
-*   **[PK/PD Modeling of a Novel Pleuromutilin Derivative Pleuro2-4 against Mycoplasma gallisepticum in Chicks.](https://pubmed.ncbi.nlm.nih.gov/42904995/)** (PMID: 42904995)
-    *   
-
-*   **[A Novel Ca2+-Dependent O-Methyltransferase Involved in Flavonoid Methylation in Tartary Buckwheat.](https://pubmed.ncbi.nlm.nih.gov/42904992/)** (PMID: 42904992)
-    *   **简明总结（4–6句）**
-    *   本研究以苦荞品种“Y324”为材料，系统分析了瘦果发育过程中甲氧基黄酮的积累与空间分布，发现多数甲氧基黄酮随发育逐步积累并特异富集于壳部。基于代谢谱，作者鉴定出FtOMT19，属于真CCoAOMT亚家族的Ca²⁺依赖型O-甲基转移酶。体外酶活与毛状根过表达实验表明，FtOMT19底物谱宽，可高效甲基化含邻二羟基的黄酮类，尤其偏好槲皮素，并能催化6-、7-、8-、3'-、4'-和5'-位羟基甲基化；过表达毛状根中
-
-*   **[Discovery of Novel Pyrazole-4-Carboxamide and Aromatic Carboxamide Derivatives Containing a Trans-2-(Trifluoromethyl)cyclopropyl Moiety as Potential SDHIs.](https://pubmed.ncbi.nlm.nih.gov/42904990/)** (PMID: 42904990)
-    *   **简明总结（4–6句）**
-    *   该研究设计并合成了一系列含反式-2-(三氟甲基)环丙基的吡唑-4-甲酰胺及芳香甲酰胺类化合物，作为潜在琥珀酸脱氢酶抑制剂（SDHIs），并评价其体外和体内抗真菌活性。先导化合物 **10h** 对立枯丝核菌和稻瘟病菌表现出强活性，EC50分别为0.04和1.59 mg/L。在5 mg/L下，10h对水稻纹枯病和大豆锈病的防效分别为77.8%和88.9%，优于flux
-
-*   **[Insights into the Osteoprotective Potential of Chemically Modified Natural Polysaccharides for Animal Skeletal Health: A Narrative Review.](https://pubmed.ncbi.nlm.nih.gov/42904986/)** (PMID: 42904986)
-    *   **简明中文总结：**
-    *   该综述聚焦化学修饰多糖在集约化畜牧中促进动物骨骼健康的研究进展。天然多糖具骨保护潜力，但受高分子量、低溶解度和骨靶向性差限制，化学修饰可增强其内源成骨活性，并可引入骨诱导功能基团。作者系统提出其“双重保护机制”：直接作用包括调控成骨细胞分化、抑制异常破骨细胞激活、促进微血管生成和骨基质
-
-*   **[Recombinant Lactococcus lactis Expressing IFN-γ Alleviates Viral Enteritis via Microbial and Metabolic Modulation.](https://pubmed.ncbi.nlm.nih.gov/42904985/)** (PMID: 42904985)
-    *   **简明总结（4-6句）**
-    *   1. 病毒性
-
-*   **[Fermentation-Promoting Peptides Enhance Yeast Robustness during Very High Gravity Fermentation by Reinforcing Antioxidant Defenses and Modulating Intracellular Metabolism.](https://pubmed.ncbi.nlm.nih.gov/42904984/)** (PMID: 42904984)
-    *   **简明中文总结（5句）**
-    *   该
-
-*   **[Natural Polysaccharides in Health and Targeting TGF-β/Smad Signaling Therapy in Chronic Diseases.](https://pubmed.ncbi.nlm.nih.gov/42904982/)** (PMID: 42904982)
-    *   ## 简明中文总结
-    *   慢性病
-
-*   **[Evaluation of Acute Pharmacokinetics and Liver Metabolic Response of L-Se-Methylselenocysteine in Mice Using UPLC-QqQ-MS/MS and Untargeted Metabolomics.](https://pubmed.ncbi.nlm.nih.gov/42904980/)** (PMID: 42904980)
-    *   **简明总结（4–6句）**
-    *   该研究采用UPLC-QqQ-MS/MS表征天然有机硒化合物L-SeMC在H22荷瘤小鼠中的急性药代动力学和组织分布，并结合非靶向代谢组学评估急性给药后的肝脏代谢反应。结果显示L-SeMC吸收迅速，血浆和肿瘤峰浓度分别约在5 min和30 min达到；肝脏和肿瘤中暴露相对较高，而母体L-SeMC在2880 min（48 h
-
-*   **[Oleanolic Acid Alleviates Diabetic Nephropathy by Inhibiting Ferroptosis Involving the Activation of the NRF2/HO-1 Pathway.](https://pubmed.ncbi.nlm.nih.gov/42904976/)** (PMID: 42904976)
-    *   
-
-*   **[Magnoflorine Ameliorates Metabolic Dysfunction-Associated Steatotic Liver Disease by Targeting the NDUFV1 Subunit of Complex I to Regulate the ROS/AMPK Signaling Pathway.](https://pubmed.ncbi.nlm.nih.gov/42904973/)** (PMID: 42904973)
-    *   ## 简明总结
-    *   MASLD缺乏有效治疗药物，天然生物碱MAG虽可改善MASLD，但其直接靶点此前不清。该研究整合热蛋白组分析与疾病靶点数据库，鉴定线粒体复合物I核心亚基ND
-
-*   **[Structure-Guided Engineering of Xylitol 4-dehydrogenase Unlocks Efficient L-Xylulose Biosynthesis: Mechanistic Insights into Catalytic Enhancement.](https://pubmed.ncbi.nlm.nih.gov/42904969/)** (PMID: 42904969)
-    *   
-
-*   **[Scientific Output in Septic Shock According to Country Income and Gender: A Meta-Epidemiological Study.](https://pubmed.ncbi.nlm.nih.gov/42904954/)** (PMID: 42904954)
-    *   **简明中文总结（约5句）**
-    *   该研究系统检索2014—2024年“脓毒性休克”相关同行评议文献，共纳入10,352篇，分析作者国家收入水平、性别与期刊声望趋势。结果显示，中低收入国家（LMIC）第一作者比例从2014年18%升至2024年37%，增长显著，但跨收入合作仍较少。女性第一作者和最后作者分别占35.6%和25.0%，LMIC中女性作者比例高于高收入国家（HIC）。高收入国家中男性主导的文章更常发表于高SJR期刊，而LMIC作者中未观察到明显性别差异。总体而言，LMIC贡献和女性代表性有所改善，但全球危重症研究仍存在显著不公平，影响脓毒性
-
-*   **[Fungicide co-exposure influences ibuprofen accumulation, distribution and phytotoxicological responses in zucchini (Cucurbita pepo).](https://pubmed.ncbi.nlm.nih.gov/42904950/)** (PMID: 42904950)
-    *   
-
-*   **[Furosemide Stress Test in Adults and Children With Acute Kidney Injury: A Systematic Review and Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/42904937/)** (PMID: 42904937)
-    *   
-
-*   **[Delay From Hypotension Onset to Appropriate Antifungal Therapy Initiation Is the Critical Determinant of Outcome in Candida Septic Shock.](https://pubmed.ncbi.nlm.nih.gov/42904906/)** (PMID: 42904906)
-    *   
-
-*   **[Cuproptosis-based nanomedicine targeting metabolic vulnerabilities for cancer therapy.](https://pubmed.ncbi.nlm.nih.gov/42904902/)** (PMID: 42904902)
-    *   **简明总结（约6句）**
-    *   1. 癌症尤其是转移性肿瘤仍是全球主要致死原因，肿瘤异质性和治疗耐药
-
-*   **[Physicochemical characterization of a bioactive Minthostachys verticillata nanoemulsion with enhanced antibacterial efficacy against veterinary pathogens.](https://pubmed.ncbi.nlm.nih.gov/42904900/)** (PMID: 42904900)
-    *   **简明总结（4–6句）**
-    *   1. 本研究针对畜禽病原菌耐药问题，开发了含 *Minthostachys verticillata* 精油的水包油纳米乳，并完成理化表征、生物相容性及抗菌效果评价。
-    *   2. 精油经水蒸气蒸馏获得（得率4.8% v/w），GC-MS显示为胡薄荷酮-
-
-*   **[Nursing Ethics in an Era of Changing Global Political Ideologies.](https://pubmed.ncbi.nlm.nih.gov/42904898/)** (PMID: 42904898)
+*   **[Impact of a Simulation-Based Training Program on Cup Detachment During Vacuum-Assisted Vaginal Birth: Protocol for a Multicenter Quasi-Experimental Before-and-After Study.](https://pubmed.ncbi.nlm.nih.gov/42913463/)** (PMID: 42913463)
     *   **简明中文总结（约4–6句）**
-    *   该文指出，护士作为患者和家庭倡导者，在战争、灾害、大规模流离失所及资源短缺等情境下常面临伦理困境：组织要求、监管指令与患者最佳利益或护士自身价值观之间可能冲突。文章通过多个国家的护理同仁案例，探讨护士在患者权利或福祉可能受损、或被要求以可能妥协照护结局的方式提供照护时如何回应。结论认为，这类“良知危机”并非孤立事件，而是护理实践中常见且跨文化的现象，反映共享的伦理张力。其实践意义在于，这些案例折射全球护理真实处境，提示需持续关注危机
+    *   该研究是一项在西班牙19家产科医院开展的多中心准实验前后对照研究，旨在评估标准化模拟培训对真空辅助阴道分娩中“杯脱离（pop off）”发生率的影响。研究将杯脱离设为唯一主要结局，
 
-*   **[Bioinformatics and network pharmacological characterization of xanomeline for therapeutic intervention in areca nut dependence.](https://pubmed.ncbi.nlm.nih.gov/42904896/)** (PMID: 42904896)
+*   **[Menopause and Neurology: Clinical Essentials.](https://pubmed.ncbi.nlm.nih.gov/42913453/)** (PMID: 42913453)
+    *   ### 简明中文总结
+    *   本综述指出，绝经是伴随显著激素变化的神经生物学转变，雌激素下降及雌激素/孕激素比例波动会影响认知、癫痫、偏头痛、多发性硬化（MS）和卒中等多种神经系统疾病的表现与治疗。围绝经期常见主观认知抱怨，多与低雌激素及睡眠、血管舒缩症状和情绪变化相关，通常短暂且少有客观神经心理缺陷。癫痫中内源性和外源性激素可影响发作易感性及抗癫痫药物代谢；偏头痛常在围绝经期加重、绝经后稳定；MS则面临年龄相关与疾病相关症状叠加及残疾进展可能加速。绝经后缺血性卒中
+
+*   **[In-Hospital Outcomes of Acyclovir With or Without Corticosteroid for Herpes Simplex Encephalitis: A Nationwide Retrospective Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42913452/)** (PMID: 42913452)
     *   
 
-*   **[Real-world analysis of infusion-related reactions in patients receiving subcutaneous daratumumab in Nova Scotia, Canada.](https://pubmed.ncbi.nlm.nih.gov/42904873/)** (PMID: 42904873)
+*   **[Managing Plexiform Neurofibroma and Other Complications of Neurofibromatosis Type 1 in the Adult Neurology Clinic: A Review.](https://pubmed.ncbi.nlm.nih.gov/42913451/)** (PMID: 42913451)
+    *   
+
+*   **[Feasibility of a Co-Designed Personalized Cognitive Reablement Program Delivered via Digital Voice Assistants for Older Adults Living With Early-Stage Dementia or Mild Cognitive Impairment: Pilot Randomized Controlled Trial.](https://pubmed.ncbi.nlm.nih.gov/42913442/)** (PMID: 42913442)
+    *   **简明总结（约5句）**
+    *   该试点非盲随机对照试验评估了通过语音控制数字语音助手（DVA）递送的个性化认知再适应项目VOICE-COG，对早期痴呆或轻度认知障碍（MCI）老年人的可行性和初步效果。研究纳入30名
+
+*   **[The Impact of Telemedicine Interventions on Maternal and Fetal Outcomes in Women With Gestational Diabetes: Systematic Review and Meta-Analysis of Randomized Controlled Trials.](https://pubmed.ncbi.nlm.nih.gov/42913437/)** (PMID: 42913437)
+    *   **简明中文总结**
+    *   
+    *   该研究纳入23项随机对照试验、共3055例妊娠期糖尿病（GDM）女性，评估远程医疗对血糖控制和妊娠相关结局的影响。汇总结果显示，远程医疗可能降低空腹血糖（MD -0.26）、餐后2小时血糖（MD -0.50）和孕期增重（MD -0.78），并可能降低剖宫产、
+
+*   **[New Horizons for Incretin-Based Therapeutics.](https://pubmed.ncbi.nlm.nih.gov/42913426/)** (PMID: 42913426)
+    *   
+
+*   **[Decoding Atrial Fibrillation Heterogeneity: A Nationwide Phenome-Wide Association Study in England.](https://pubmed.ncbi.nlm.nih.gov/42913336/)** (PMID: 42913336)
+    *   **摘要总结（约4–6句）**
+    *   该研究基于英国全国临床实践研究数据链与住院统计，纳入1998–2016年新诊断房颤成人199,433例，并按年龄和性别1:1匹配非房颤对照，采用表型全关联研究（Phe-WAS）分析诊断后5年的初级和二级医疗交互。结果显示，房颤患者心血管及非心血管疾病负担均显著升高，且存在明显性别和年龄差异：女性更多见出血并发症、肺炎、艰难梭菌肠炎、胆管炎和电解质紊乱；男性更多见酒精相关障碍、室性心律失常、心脏骤停和心肌病。年轻房颤患者（<50岁）更多见酒精相关精神行为障碍、痛风和扩张型心肌病，老年患者（>60岁）更多见心衰、缺血性卒中、肾
+
+*   **[Spatial pharmacometabolomic profiling of two antipsychotics reveals region-specific neurochemical alterations in the rat brain.](https://pubmed.ncbi.nlm.nih.gov/42913320/)** (PMID: 42913320)
+    *   
+
+*   **[Intranasal neuropeptide Y suppresses food intake, reduces sucrose preference and increases circulating corticosterone in obese mice.](https://pubmed.ncbi.nlm.nih.gov/42913319/)** (PMID: 42913319)
+    *   
+
+*   **[Exploring the student perspective on the implementation and impact of patient voice in an entry to practice doctor of pharmacy program.](https://pubmed.ncbi.nlm.nih.gov/42913302/)** (PMID: 42913302)
+    *   **简明中文总结（约5句）**
+    *   该研究从学生视角探讨药学教育中“患者声音”（真实患者参与教学）的纳入方式及其感知影响与价值。研究邀请不列颠哥伦比亚大学2023—2024冬季Entry-to-Practice PharmD项目全体学生参与问卷和访谈，共76人完成问卷、12人参与访谈。84%的受访学生记得在项目中经历过患者声音教学；该教学有助于学生理解减少污名（92%）、促进以患者为中心照护（88%）、提高同理心（84%）、改善文化敏感性（66%）和增强沟通信心（62%）。访谈提炼出动机、学习影响、对患者体验的洞察、对未来实践的影响及实施相关要素等主题。学生报告了人际技能增强、对未来角色更深入反思以及对课堂内容情境理解加深等收益
+
+*   **[High-throughput mass spectrometry-based metabolomics for large-scale population studies: technical barriers and recent innovations.](https://pubmed.ncbi.nlm.nih.gov/42913296/)** (PMID: 42913296)
+    *   **简明中文总结（4–6句）**
+    *   该综述指出，大规模代谢组学研究对生物标志物发现、验证及精准医学转化至关重要，但非靶向质谱代谢组学仍受低样本通量、覆盖有限、数据处理复杂、标准化不足和运行成本高等限制，并因此加剧可重复性危机。多数已报道生物标志物难以独立复现，原因涉及研究设计、样本前处理、仪器方法和数据预处理流程差异。综述重点讨论高通量质谱平台与人工智能/机器学习计算软件的新进展，这些工具更可扩展、更快速且
+
+*   **[Is psychomotor retardation a sixth domain of negative symptoms?](https://pubmed.ncbi.nlm.nih.gov/42913281/)** (PMID: 42913281)
+    *   
+
+*   **[Low-grade serous ovarian cancer: 2026 expert consensus report.](https://pubmed.ncbi.nlm.nih.gov/42913278/)** (PMID: 42913278)
+    *   **简明中文总结：**
+    *   1. 该文更新了低级别浆液性卵巢癌（LGSOC）的国际专家共识，强调其MAPK通路改变、激素受体表达、化疗相对耐药及长病程复发特征。
+    *   2. 关键实践更新是NRG-GY019支持II–IV期患者术后采用含化疗方案作为当前参考治疗，仅在特定情形下可个体化选择内分泌单药降
+
+*   **[Evaluation of Pirfenidone for Recurrent Acute Pancreatitis: Protocol for a Randomized Trial.](https://pubmed.ncbi.nlm.nih.gov/42913268/)** (PMID: 42913268)
+    *   
+
+*   **[Estimating progress on hepatitis C elimination targets among people in contact with drug services in Scotland: National retrospective cohort study.](https://pubmed.ncbi.nlm.nih.gov/42913206/)** (PMID: 42913206)
+    *   
+
+*   **[Perceptions of risk among GHB users: A rapid qualitative evidence synthesis.](https://pubmed.ncbi.nlm.nih.gov/42913205/)** (PMID: 42913205)
+    *   **简明中文总结（5句）**
+    *   1. GHB相关危害指标正在上升，已有定量研究揭示GHB使用的人口学模式和危害风险因素，但使用者自身如何感知风险仍不清楚。
+    *   2. 该研究采用快速定性证据综合，通过电子文献检索纳入11项研究并进行主题分析，聚焦GHB使用者对风险的感知及风险缓解方式。
+
+*   **[Monitored, unmonitored, and solitary opioid use among overdose survivors in San Francisco and Boston.](https://pubmed.ncbi.nlm.nih.gov/42913204/)** (PMID: 42913204)
+    *   
+
+*   **[Consensus on current clinical workflow and future use of 3D models in parotid gland tumor surgery: A Delphi study.](https://pubmed.ncbi.nlm.nih.gov/42913203/)** (PMID: 42913203)
+    *   
+
+*   **[Ginsenoside Re attenuates ferroptosis induced by hepatic ischemia-reperfusion injury via the BAP1/SLC7A11 axis.](https://pubmed.ncbi.nlm.nih.gov/42913195/)** (PMID: 42913195)
+    *   **中文总结（约5句）**
+    *   该研究聚焦肝缺血-再灌注损伤（HIRI）中铁死亡的关键作用，发现人参皂苷Re在体内HIRI和体外缺氧/复氧模型中具有最佳治疗窗，可显著减轻肝细胞损伤、炎症反应和氧化应激。机制上，Re抑制铁死亡，表现为减少铁沉积和脂质过氧化，并恢复GPX4与SLC7A11
+
+*   **[DOTMP induces nephrotoxicity via the Hsp90β/PI3K signaling axis.](https://pubmed.ncbi.nlm.nih.gov/42913194/)** (PMID: 42913194)
+    *   **简明中文总结（4-6句）**
+    *   1. 骨转移常伴疼痛和病理性骨折，靶向放射性核素诊疗是重要手段，但治疗中DOTMP经肾排泄引起的剂量限制性肾毒性严重缩小其临床治疗窗。
+    *   2. 该研究从系统毒理学角度解析DOTMP肾毒性机制，通过网络毒理学和拓扑分析锁定HSP90AB1、PIK3CA、SRC、MTOR等候选枢纽基因。
+    *   3. 分子对接显示DOTMP与Hsp90β结合评分最佳，100 ns分子动力学模拟支持该结合构象稳定，CETSA进一步提示DOTMP可热稳定内
+
+*   **[Tremella fuciformis-derived extracellular vesicles promote cutaneous regeneration through modulation of inflammatory microenvironment and regenerative responses.](https://pubmed.ncbi.nlm.nih.gov/42913193/)** (PMID: 42913193)
+    *   **简明中文总结（4–6句）**
+    *   该研究探讨了银耳发酵液来源的细胞外囊泡（TFB-EVs）用于皮肤创面愈合的治疗潜力，旨在解决传统哺乳动物细胞来源EV疗法制造成本高、规模化受限的问题。在小鼠全层皮肤创口模型中，TFB-EV治疗显著加速创面闭合，第14天残余创面面积降至6.87±2.95%，显著低于对照组的21.63±4.82%（p<0.001）。组织学显示再上皮化增强、胶原沉积更有序，提示创面组织质量改善。机制上，TFB-EVs在修复早期减轻炎症和氧化应激，重塑期促进再生，并与Nrf2相关细胞保护信号及IL-17/TNF通路抑制相关；
+
+*   **[Therapeutic role of cell signalling pathways and immunomodulatory approaches for recovery of spinal cord injury in dogs and cats.](https://pubmed.ncbi.nlm.nih.gov/42913148/)** (PMID: 42913148)
     *   
 
 
