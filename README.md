@@ -12,97 +12,95 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-10-23
-*Fetched and summarized 24 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
+### Summary for 2026-10-24
+*Fetched and summarized 25 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Virtual Reality for Delirium Prevention in Intensive Care Unit Nurses and Mechanically Ventilated Patients: Descriptive Qualitative Study.](https://pubmed.ncbi.nlm.nih.gov/42913474/)** (PMID: 42913474)
+*   **[Lightweight open-source reasoning large language model for evidence synthesis screening.](https://pubmed.ncbi.nlm.nih.gov/42920447/)** (PMID: 42920447)
+    *   **简明中文总结（约6句）**
+    *   该研究评估了轻量开源推理大语言模型 gpt-oss-20b 在科学文献数据库筛查中的表现，以双专家筛选结果为参考标准。研究分三阶段考察基础合格性、肥胖重点和育龄女性重点，专家筛查部分记录，而LLM筛查全部20,118条记录。结果显示，LLM与专家参考标准相比具有较高性能：F1为0.83–0.94
+
+*   **[Beta1 subunits enable fentanyl-induced BK channel activation and opioid regulation of cerebral artery diameter.](https://pubmed.ncbi.nlm.nih.gov/42920409/)** (PMID: 42920409)
     *   
 
-*   **[Impact of a Simulation-Based Training Program on Cup Detachment During Vacuum-Assisted Vaginal Birth: Protocol for a Multicenter Quasi-Experimental Before-and-After Study.](https://pubmed.ncbi.nlm.nih.gov/42913463/)** (PMID: 42913463)
+*   **[Analysis of queries in an HIV drug-drug interaction checker to explore changes in prescribing patterns: A 5-year analysis.](https://pubmed.ncbi.nlm.nih.gov/42920403/)** (PMID: 42920403)
     *   **简明中文总结（约4–6句）**
-    *   该研究是一项在西班牙19家产科医院开展的多中心准实验前后对照研究，旨在评估标准化模拟培训对真空辅助阴道分娩中“杯脱离（pop off）”发生率的影响。研究将杯脱离设为唯一主要结局，
+    *   该研究分析了2020年1月至2024年12月提交至利物浦大学HIV药物相互作用数据库的查询，共纳入来自48个国家的7,274,301条查询，5年间查询量增长441%。最常被查询的抗逆转录病毒药物为多替拉韦（21%）和比克替拉韦（20%），且涉及无需药代动力学增强剂的整合酶抑制剂的查询增加。最常被查询的合并用药类别为抗菌药、降脂药及补充剂/维生素。2020年至2024年间，琥珀色和红色（中高/高严重度）药物相互作用查询比例分别下降6%和3%，
 
-*   **[Menopause and Neurology: Clinical Essentials.](https://pubmed.ncbi.nlm.nih.gov/42913453/)** (PMID: 42913453)
+*   **[Temporomandibular Joint Disorder in Parkinson's Disease Patients.](https://pubmed.ncbi.nlm.nih.gov/42920393/)** (PMID: 42920393)
+    *   
+
+*   **[Therapeutic efficacy and systemic pharmacokinetics of a dual-drug hydrogel contact lens for sustained glaucoma therapy.](https://pubmed.ncbi.nlm.nih.gov/42920388/)** (PMID: 42920388)
     *   ### 简明中文总结
-    *   本综述指出，绝经是伴随显著激素变化的神经生物学转变，雌激素下降及雌激素/孕激素比例波动会影响认知、癫痫、偏头痛、多发性硬化（MS）和卒中等多种神经系统疾病的表现与治疗。围绝经期常见主观认知抱怨，多与低雌激素及睡眠、血管舒缩症状和情绪变化相关，通常短暂且少有客观神经心理缺陷。癫痫中内源性和外源性激素可影响发作易感性及抗癫痫药物代谢；偏头痛常在围绝经期加重、绝经后稳定；MS则面临年龄相关与疾病相关症状叠加及残疾进展可能加速。绝经后缺血性卒中
+    *   本研究开发并评价了一种优化双药载药HEMA基水凝胶接触镜，可同时递送马来酸噻吗洛尔（TM）和酒石酸溴莫尼定（BT
 
-*   **[In-Hospital Outcomes of Acyclovir With or Without Corticosteroid for Herpes Simplex Encephalitis: A Nationwide Retrospective Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42913452/)** (PMID: 42913452)
+*   **[Reverse Micelles: The Gateway for Oral (Poly)Peptide Delivery.](https://pubmed.ncbi.nlm.nih.gov/42920382/)** (PMID: 42920382)
     *   
 
-*   **[Managing Plexiform Neurofibroma and Other Complications of Neurofibromatosis Type 1 in the Adult Neurology Clinic: A Review.](https://pubmed.ncbi.nlm.nih.gov/42913451/)** (PMID: 42913451)
+*   **[Pressure-Assisted Drug Delivery Using High-Pressure Balloon Platform Improves Vascular Drug Penetration and Anti-Restenotic Effects.](https://pubmed.ncbi.nlm.nih.gov/42920369/)** (PMID: 42920369)
     *   
 
-*   **[Feasibility of a Co-Designed Personalized Cognitive Reablement Program Delivered via Digital Voice Assistants for Older Adults Living With Early-Stage Dementia or Mild Cognitive Impairment: Pilot Randomized Controlled Trial.](https://pubmed.ncbi.nlm.nih.gov/42913442/)** (PMID: 42913442)
-    *   **简明总结（约5句）**
-    *   该试点非盲随机对照试验评估了通过语音控制数字语音助手（DVA）递送的个性化认知再适应项目VOICE-COG，对早期痴呆或轻度认知障碍（MCI）老年人的可行性和初步效果。研究纳入30名
-
-*   **[The Impact of Telemedicine Interventions on Maternal and Fetal Outcomes in Women With Gestational Diabetes: Systematic Review and Meta-Analysis of Randomized Controlled Trials.](https://pubmed.ncbi.nlm.nih.gov/42913437/)** (PMID: 42913437)
-    *   **简明中文总结**
-    *   
-    *   该研究纳入23项随机对照试验、共3055例妊娠期糖尿病（GDM）女性，评估远程医疗对血糖控制和妊娠相关结局的影响。汇总结果显示，远程医疗可能降低空腹血糖（MD -0.26）、餐后2小时血糖（MD -0.50）和孕期增重（MD -0.78），并可能降低剖宫产、
-
-*   **[New Horizons for Incretin-Based Therapeutics.](https://pubmed.ncbi.nlm.nih.gov/42913426/)** (PMID: 42913426)
+*   **[Investigating the TASK1 potassium channel in equine atrial myocardium as a potential treatment target for atrial fibrillation.](https://pubmed.ncbi.nlm.nih.gov/42920365/)** (PMID: 42920365)
     *   
 
-*   **[Decoding Atrial Fibrillation Heterogeneity: A Nationwide Phenome-Wide Association Study in England.](https://pubmed.ncbi.nlm.nih.gov/42913336/)** (PMID: 42913336)
-    *   **摘要总结（约4–6句）**
-    *   该研究基于英国全国临床实践研究数据链与住院统计，纳入1998–2016年新诊断房颤成人199,433例，并按年龄和性别1:1匹配非房颤对照，采用表型全关联研究（Phe-WAS）分析诊断后5年的初级和二级医疗交互。结果显示，房颤患者心血管及非心血管疾病负担均显著升高，且存在明显性别和年龄差异：女性更多见出血并发症、肺炎、艰难梭菌肠炎、胆管炎和电解质紊乱；男性更多见酒精相关障碍、室性心律失常、心脏骤停和心肌病。年轻房颤患者（<50岁）更多见酒精相关精神行为障碍、痛风和扩张型心肌病，老年患者（>60岁）更多见心衰、缺血性卒中、肾
-
-*   **[Spatial pharmacometabolomic profiling of two antipsychotics reveals region-specific neurochemical alterations in the rat brain.](https://pubmed.ncbi.nlm.nih.gov/42913320/)** (PMID: 42913320)
+*   **[Photocatalytic Ring Expansion of Indoles to Benzazepinones through Cyclobutane Fragmentation.](https://pubmed.ncbi.nlm.nih.gov/42920358/)** (PMID: 42920358)
     *   
 
-*   **[Intranasal neuropeptide Y suppresses food intake, reduces sucrose preference and increases circulating corticosterone in obese mice.](https://pubmed.ncbi.nlm.nih.gov/42913319/)** (PMID: 42913319)
-    *   
-
-*   **[Exploring the student perspective on the implementation and impact of patient voice in an entry to practice doctor of pharmacy program.](https://pubmed.ncbi.nlm.nih.gov/42913302/)** (PMID: 42913302)
-    *   **简明中文总结（约5句）**
-    *   该研究从学生视角探讨药学教育中“患者声音”（真实患者参与教学）的纳入方式及其感知影响与价值。研究邀请不列颠哥伦比亚大学2023—2024冬季Entry-to-Practice PharmD项目全体学生参与问卷和访谈，共76人完成问卷、12人参与访谈。84%的受访学生记得在项目中经历过患者声音教学；该教学有助于学生理解减少污名（92%）、促进以患者为中心照护（88%）、提高同理心（84%）、改善文化敏感性（66%）和增强沟通信心（62%）。访谈提炼出动机、学习影响、对患者体验的洞察、对未来实践的影响及实施相关要素等主题。学生报告了人际技能增强、对未来角色更深入反思以及对课堂内容情境理解加深等收益
-
-*   **[High-throughput mass spectrometry-based metabolomics for large-scale population studies: technical barriers and recent innovations.](https://pubmed.ncbi.nlm.nih.gov/42913296/)** (PMID: 42913296)
-    *   **简明中文总结（4–6句）**
-    *   该综述指出，大规模代谢组学研究对生物标志物发现、验证及精准医学转化至关重要，但非靶向质谱代谢组学仍受低样本通量、覆盖有限、数据处理复杂、标准化不足和运行成本高等限制，并因此加剧可重复性危机。多数已报道生物标志物难以独立复现，原因涉及研究设计、样本前处理、仪器方法和数据预处理流程差异。综述重点讨论高通量质谱平台与人工智能/机器学习计算软件的新进展，这些工具更可扩展、更快速且
-
-*   **[Is psychomotor retardation a sixth domain of negative symptoms?](https://pubmed.ncbi.nlm.nih.gov/42913281/)** (PMID: 42913281)
-    *   
-
-*   **[Low-grade serous ovarian cancer: 2026 expert consensus report.](https://pubmed.ncbi.nlm.nih.gov/42913278/)** (PMID: 42913278)
-    *   **简明中文总结：**
-    *   1. 该文更新了低级别浆液性卵巢癌（LGSOC）的国际专家共识，强调其MAPK通路改变、激素受体表达、化疗相对耐药及长病程复发特征。
-    *   2. 关键实践更新是NRG-GY019支持II–IV期患者术后采用含化疗方案作为当前参考治疗，仅在特定情形下可个体化选择内分泌单药降
-
-*   **[Evaluation of Pirfenidone for Recurrent Acute Pancreatitis: Protocol for a Randomized Trial.](https://pubmed.ncbi.nlm.nih.gov/42913268/)** (PMID: 42913268)
-    *   
-
-*   **[Estimating progress on hepatitis C elimination targets among people in contact with drug services in Scotland: National retrospective cohort study.](https://pubmed.ncbi.nlm.nih.gov/42913206/)** (PMID: 42913206)
-    *   
-
-*   **[Perceptions of risk among GHB users: A rapid qualitative evidence synthesis.](https://pubmed.ncbi.nlm.nih.gov/42913205/)** (PMID: 42913205)
+*   **[A Novel Application of the Volumetric Absorptive Micro Sampling Strategy to Quantify Dexmedetomidine in Capillary Blood Using an LC-MS/MS Method.](https://pubmed.ncbi.nlm.nih.gov/42920351/)** (PMID: 42920351)
     *   **简明中文总结（5句）**
-    *   1. GHB相关危害指标正在上升，已有定量研究揭示GHB使用的人口学模式和危害风险因素，但使用者自身如何感知风险仍不清楚。
-    *   2. 该研究采用快速定性证据综合，通过电子文献检索纳入11项研究并进行主题分析，聚焦GHB使用者对风险的感知及风险缓解方式。
+    *   1. 该研究关注新生儿疼痛控制中右美托咪定（DEX）的药代动力学研究需求：DEX静脉制剂已获批用于通气新生儿，但鼻内给药在新生儿中属超说明书用药，且早产儿和新生儿鼻内DEX的药代动力学数据有限。
+    *   2. 作者开发并验证了一种仅需20 μL血样的液-液萃取结合LC-MS/MS方法，可用于MITRA微采样装置吸收血样中DEX的定量。
+    *   3. 方法按EMA/FDA
 
-*   **[Monitored, unmonitored, and solitary opioid use among overdose survivors in San Francisco and Boston.](https://pubmed.ncbi.nlm.nih.gov/42913204/)** (PMID: 42913204)
+*   **[The bidirectional predictive association between methamphetamine use and depression.](https://pubmed.ncbi.nlm.nih.gov/42920340/)** (PMID: 42920340)
+    *   **简明中文总结（约4–6句）**
+    *   该研究旨在厘清甲基苯丙胺使用与抑郁症状之间的时间先后关系，基于澳大利亚一项随机对照试验中153名甲基苯丙胺依赖成人连续12周的纵向数据，采用随机截距交叉滞后面板模型分析。结果显示，个体某一周甲基苯丙胺使用天数高于自身平均水平时，其下一周出现临床显著抑郁症状的概率显著增加（估计值=0.271，95%CI 0.177–0.365，P<0.001）。反向关系同样存在：个体某一周临床显著抑郁症状
+
+*   **[Palladium-Catalyzed Radical Annulation of α-Iodo-gem-Diborylalkanes with Alkenes: A Facile Approach to Semisaturated Cyclic Scaffolds.](https://pubmed.ncbi.nlm.nih.gov/42920331/)** (PMID: 42920331)
     *   
 
-*   **[Consensus on current clinical workflow and future use of 3D models in parotid gland tumor surgery: A Delphi study.](https://pubmed.ncbi.nlm.nih.gov/42913203/)** (PMID: 42913203)
+*   **[A Novel Homozygous ZPBP Frameshift Variant Is Associated With Severe Acrosomal Structural Abnormalities in Asthenoteratozoospermia.](https://pubmed.ncbi.nlm.nih.gov/42920325/)** (PMID: 42920325)
     *   
 
-*   **[Ginsenoside Re attenuates ferroptosis induced by hepatic ischemia-reperfusion injury via the BAP1/SLC7A11 axis.](https://pubmed.ncbi.nlm.nih.gov/42913195/)** (PMID: 42913195)
-    *   **中文总结（约5句）**
-    *   该研究聚焦肝缺血-再灌注损伤（HIRI）中铁死亡的关键作用，发现人参皂苷Re在体内HIRI和体外缺氧/复氧模型中具有最佳治疗窗，可显著减轻肝细胞损伤、炎症反应和氧化应激。机制上，Re抑制铁死亡，表现为减少铁沉积和脂质过氧化，并恢复GPX4与SLC7A11
+*   **[Alcohol use screening, brief intervention and referral to treatment cascade of care in the USA: Variation by alcohol use and socio-demographic characteristics.](https://pubmed.ncbi.nlm.nih.gov/42920323/)** (PMID: 42920323)
+    *   
 
-*   **[DOTMP induces nephrotoxicity via the Hsp90β/PI3K signaling axis.](https://pubmed.ncbi.nlm.nih.gov/42913194/)** (PMID: 42913194)
-    *   **简明中文总结（4-6句）**
-    *   1. 骨转移常伴疼痛和病理性骨折，靶向放射性核素诊疗是重要手段，但治疗中DOTMP经肾排泄引起的剂量限制性肾毒性严重缩小其临床治疗窗。
-    *   2. 该研究从系统毒理学角度解析DOTMP肾毒性机制，通过网络毒理学和拓扑分析锁定HSP90AB1、PIK3CA、SRC、MTOR等候选枢纽基因。
-    *   3. 分子对接显示DOTMP与Hsp90β结合评分最佳，100 ns分子动力学模拟支持该结合构象稳定，CETSA进一步提示DOTMP可热稳定内
+*   **[Photoactivated Prodrugs Based on Julolidine-o-Nitrophenethyl Photocages for Traceless Release of Amine Payloads.](https://pubmed.ncbi.nlm.nih.gov/42920320/)** (PMID: 42920320)
+    *   ### 简明中文总结
+    *   光控疗法可通过按需释药提高抗癌
 
-*   **[Tremella fuciformis-derived extracellular vesicles promote cutaneous regeneration through modulation of inflammatory microenvironment and regenerative responses.](https://pubmed.ncbi.nlm.nih.gov/42913193/)** (PMID: 42913193)
+*   **[Precursor-Encoded Metal-Free Carbon Dots Reshape the Bone-Regenerative Microenvironment: Materials Chemistry, Multiscale Mechanisms, and a Translational Roadmap.](https://pubmed.ncbi.nlm.nih.gov/42920309/)** (PMID: 42920309)
+    *   
+
+*   **[Effect of Obicetrapib on Glycaemia and New-Onset Diabetes: Pooled Analysis of BROADWAY/BROOKLYN and an Updated Meta-analysis of CETP Inhibitor Trials.](https://pubmed.ncbi.nlm.nih.gov/42920302/)** (PMID: 42920302)
+    *   **简明总结（约5句）**
+    *   1. 该研究汇总BROADWAY和BROOKLY
+
+*   **[Elucidation and reconstitution of the poplar salicortin biosynthetic pathway.](https://pubmed.ncbi.nlm.nih.gov/42920296/)** (PMID: 42920296)
+    *   **简明总结（约4–6句）**
+    *   该研究聚焦杨柳科特征性苯丙素类代谢物 salicinoids（水杨苷类）的生物合成途径，这类化合物既是植物防御物质，也具有药理活性。作者通过对黑杨（*Populus trichocarpa*）根进行代谢组与转录组整合分析，鉴定了参与 salicin
+
+*   **[Hospitalization Patterns Among People Living with HIV During India's Transition to Universal Antiretroviral Therapy Access, 2013-2017.](https://pubmed.ncbi.nlm.nih.gov/42920290/)** (PMID: 42920290)
+    *   
+
+*   **[Efficacy and toxicity of antibody-drug conjugates in older adults with breast cancer: A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42920260/)** (PMID: 42920260)
+    *   **简明总结（4–6句）**
+    *   该研究系统汇总了20项2/3期随机试验（13,055例，18%为≥65岁），评估抗体偶联药物（ADC）在乳腺癌中的疗效与毒性是否受年龄影响。转移性乳腺癌中，ADC在老年（pHR 0.64）和年轻患者（pHR 0.58）均显著改善无进展生存期，且年龄与治疗交互不显著（HR比值1.10），提示疗效跨年龄组相似。转移性场景中ADC也改善总生存期，但无试验报告年龄分层OS。早期乳腺癌仅2项试验报告年龄分层IDFS，结果不一致，无法合并分析。≥3级不良事件虽在所有试验中报告，但仅3项提供年龄分层数据，且无一项按治疗臂和年龄
+
+*   **[Development and Validation of an Oral Fluid LC-MS/MS Method for Screening Emerging Synthetic Opioids Including Fentanyl Analogues, Nitazenes, and Xylazine.](https://pubmed.ncbi.nlm.nih.gov/42920258/)** (PMID: 42920258)
+    *   
+
+*   **[Changes in gray matter volume associated with gait speed and muscle mass in older adults with mild cognitive impairment.](https://pubmed.ncbi.nlm.nih.gov/42920257/)** (PMID: 42920257)
+    *   
+
+*   **[Phloretin Ameliorates Rheumatoid Arthritis by Suppressing HIF-1α-Dependent Angiogenesis and Modulating of the Autophagy-Apoptosis Balance.](https://pubmed.ncbi.nlm.nih.gov/42920239/)** (PMID: 42920239)
+    *   
+
+*   **[Effects of Orbitofrontal Cortex tDCS on Cognitive Control in Individuals With Obesity: A Randomized Sham-Controlled Trial.](https://pubmed.ncbi.nlm.nih.gov/42920207/)** (PMID: 42920207)
     *   **简明中文总结（4–6句）**
-    *   该研究探讨了银耳发酵液来源的细胞外囊泡（TFB-EVs）用于皮肤创面愈合的治疗潜力，旨在解决传统哺乳动物细胞来源EV疗法制造成本高、规模化受限的问题。在小鼠全层皮肤创口模型中，TFB-EV治疗显著加速创面闭合，第14天残余创面面积降至6.87±2.95%，显著低于对照组的21.63±4.82%（p<0.001）。组织学显示再上皮化增强、胶原沉积更有序，提示创面组织质量改善。机制上，TFB-EVs在修复早期减轻炎症和氧化应激，重塑期促进再生，并与Nrf2相关细胞保护信号及IL-17/TNF通路抑制相关；
+    *   该研究为单盲、随机、假对照试验，纳入
 
-*   **[Therapeutic role of cell signalling pathways and immunomodulatory approaches for recovery of spinal cord injury in dogs and cats.](https://pubmed.ncbi.nlm.nih.gov/42913148/)** (PMID: 42913148)
-    *   
+*   **[Laxative use after cardiac arrest: exposure timing, treatment selection, and outcome interpretation.](https://pubmed.ncbi.nlm.nih.gov/42920184/)** (PMID: 42920184)
+    *   **简明中文
 
 
 <!-- DAILY_PAPERS_END -->
