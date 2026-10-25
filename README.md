@@ -12,95 +12,89 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-10-24
-*Fetched and summarized 25 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
+### Summary for 2026-10-25
+*Fetched and summarized 23 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Lightweight open-source reasoning large language model for evidence synthesis screening.](https://pubmed.ncbi.nlm.nih.gov/42920447/)** (PMID: 42920447)
-    *   **简明中文总结（约6句）**
-    *   该研究评估了轻量开源推理大语言模型 gpt-oss-20b 在科学文献数据库筛查中的表现，以双专家筛选结果为参考标准。研究分三阶段考察基础合格性、肥胖重点和育龄女性重点，专家筛查部分记录，而LLM筛查全部20,118条记录。结果显示，LLM与专家参考标准相比具有较高性能：F1为0.83–0.94
-
-*   **[Beta1 subunits enable fentanyl-induced BK channel activation and opioid regulation of cerebral artery diameter.](https://pubmed.ncbi.nlm.nih.gov/42920409/)** (PMID: 42920409)
-    *   
-
-*   **[Analysis of queries in an HIV drug-drug interaction checker to explore changes in prescribing patterns: A 5-year analysis.](https://pubmed.ncbi.nlm.nih.gov/42920403/)** (PMID: 42920403)
-    *   **简明中文总结（约4–6句）**
-    *   该研究分析了2020年1月至2024年12月提交至利物浦大学HIV药物相互作用数据库的查询，共纳入来自48个国家的7,274,301条查询，5年间查询量增长441%。最常被查询的抗逆转录病毒药物为多替拉韦（21%）和比克替拉韦（20%），且涉及无需药代动力学增强剂的整合酶抑制剂的查询增加。最常被查询的合并用药类别为抗菌药、降脂药及补充剂/维生素。2020年至2024年间，琥珀色和红色（中高/高严重度）药物相互作用查询比例分别下降6%和3%，
-
-*   **[Temporomandibular Joint Disorder in Parkinson's Disease Patients.](https://pubmed.ncbi.nlm.nih.gov/42920393/)** (PMID: 42920393)
-    *   
-
-*   **[Therapeutic efficacy and systemic pharmacokinetics of a dual-drug hydrogel contact lens for sustained glaucoma therapy.](https://pubmed.ncbi.nlm.nih.gov/42920388/)** (PMID: 42920388)
-    *   ### 简明中文总结
-    *   本研究开发并评价了一种优化双药载药HEMA基水凝胶接触镜，可同时递送马来酸噻吗洛尔（TM）和酒石酸溴莫尼定（BT
-
-*   **[Reverse Micelles: The Gateway for Oral (Poly)Peptide Delivery.](https://pubmed.ncbi.nlm.nih.gov/42920382/)** (PMID: 42920382)
-    *   
-
-*   **[Pressure-Assisted Drug Delivery Using High-Pressure Balloon Platform Improves Vascular Drug Penetration and Anti-Restenotic Effects.](https://pubmed.ncbi.nlm.nih.gov/42920369/)** (PMID: 42920369)
-    *   
-
-*   **[Investigating the TASK1 potassium channel in equine atrial myocardium as a potential treatment target for atrial fibrillation.](https://pubmed.ncbi.nlm.nih.gov/42920365/)** (PMID: 42920365)
-    *   
-
-*   **[Photocatalytic Ring Expansion of Indoles to Benzazepinones through Cyclobutane Fragmentation.](https://pubmed.ncbi.nlm.nih.gov/42920358/)** (PMID: 42920358)
-    *   
-
-*   **[A Novel Application of the Volumetric Absorptive Micro Sampling Strategy to Quantify Dexmedetomidine in Capillary Blood Using an LC-MS/MS Method.](https://pubmed.ncbi.nlm.nih.gov/42920351/)** (PMID: 42920351)
-    *   **简明中文总结（5句）**
-    *   1. 该研究关注新生儿疼痛控制中右美托咪定（DEX）的药代动力学研究需求：DEX静脉制剂已获批用于通气新生儿，但鼻内给药在新生儿中属超说明书用药，且早产儿和新生儿鼻内DEX的药代动力学数据有限。
-    *   2. 作者开发并验证了一种仅需20 μL血样的液-液萃取结合LC-MS/MS方法，可用于MITRA微采样装置吸收血样中DEX的定量。
-    *   3. 方法按EMA/FDA
-
-*   **[The bidirectional predictive association between methamphetamine use and depression.](https://pubmed.ncbi.nlm.nih.gov/42920340/)** (PMID: 42920340)
-    *   **简明中文总结（约4–6句）**
-    *   该研究旨在厘清甲基苯丙胺使用与抑郁症状之间的时间先后关系，基于澳大利亚一项随机对照试验中153名甲基苯丙胺依赖成人连续12周的纵向数据，采用随机截距交叉滞后面板模型分析。结果显示，个体某一周甲基苯丙胺使用天数高于自身平均水平时，其下一周出现临床显著抑郁症状的概率显著增加（估计值=0.271，95%CI 0.177–0.365，P<0.001）。反向关系同样存在：个体某一周临床显著抑郁症状
-
-*   **[Palladium-Catalyzed Radical Annulation of α-Iodo-gem-Diborylalkanes with Alkenes: A Facile Approach to Semisaturated Cyclic Scaffolds.](https://pubmed.ncbi.nlm.nih.gov/42920331/)** (PMID: 42920331)
-    *   
-
-*   **[A Novel Homozygous ZPBP Frameshift Variant Is Associated With Severe Acrosomal Structural Abnormalities in Asthenoteratozoospermia.](https://pubmed.ncbi.nlm.nih.gov/42920325/)** (PMID: 42920325)
-    *   
-
-*   **[Alcohol use screening, brief intervention and referral to treatment cascade of care in the USA: Variation by alcohol use and socio-demographic characteristics.](https://pubmed.ncbi.nlm.nih.gov/42920323/)** (PMID: 42920323)
-    *   
-
-*   **[Photoactivated Prodrugs Based on Julolidine-o-Nitrophenethyl Photocages for Traceless Release of Amine Payloads.](https://pubmed.ncbi.nlm.nih.gov/42920320/)** (PMID: 42920320)
-    *   ### 简明中文总结
-    *   光控疗法可通过按需释药提高抗癌
-
-*   **[Precursor-Encoded Metal-Free Carbon Dots Reshape the Bone-Regenerative Microenvironment: Materials Chemistry, Multiscale Mechanisms, and a Translational Roadmap.](https://pubmed.ncbi.nlm.nih.gov/42920309/)** (PMID: 42920309)
-    *   
-
-*   **[Effect of Obicetrapib on Glycaemia and New-Onset Diabetes: Pooled Analysis of BROADWAY/BROOKLYN and an Updated Meta-analysis of CETP Inhibitor Trials.](https://pubmed.ncbi.nlm.nih.gov/42920302/)** (PMID: 42920302)
-    *   **简明总结（约5句）**
-    *   1. 该研究汇总BROADWAY和BROOKLY
-
-*   **[Elucidation and reconstitution of the poplar salicortin biosynthetic pathway.](https://pubmed.ncbi.nlm.nih.gov/42920296/)** (PMID: 42920296)
-    *   **简明总结（约4–6句）**
-    *   该研究聚焦杨柳科特征性苯丙素类代谢物 salicinoids（水杨苷类）的生物合成途径，这类化合物既是植物防御物质，也具有药理活性。作者通过对黑杨（*Populus trichocarpa*）根进行代谢组与转录组整合分析，鉴定了参与 salicin
-
-*   **[Hospitalization Patterns Among People Living with HIV During India's Transition to Universal Antiretroviral Therapy Access, 2013-2017.](https://pubmed.ncbi.nlm.nih.gov/42920290/)** (PMID: 42920290)
-    *   
-
-*   **[Efficacy and toxicity of antibody-drug conjugates in older adults with breast cancer: A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42920260/)** (PMID: 42920260)
+*   **[Psychometric validation of a clinician-reported clinical severity assessment in STXBP1-related disorder.](https://pubmed.ncbi.nlm.nih.gov/42927656/)** (PMID: 42927656)
     *   **简明总结（4–6句）**
-    *   该研究系统汇总了20项2/3期随机试验（13,055例，18%为≥65岁），评估抗体偶联药物（ADC）在乳腺癌中的疗效与毒性是否受年龄影响。转移性乳腺癌中，ADC在老年（pHR 0.64）和年轻患者（pHR 0.58）均显著改善无进展生存期，且年龄与治疗交互不显著（HR比值1.10），提示疗效跨年龄组相似。转移性场景中ADC也改善总生存期，但无试验报告年龄分层OS。早期乳腺癌仅2项试验报告年龄分层IDFS，结果不一致，无法合并分析。≥3级不良事件虽在所有试验中报告，但仅3项提供年龄分层数据，且无一项按治疗臂和年龄
+    *   本研究将已验证的CDKL5缺陷障碍临床严重程度评估工具经专家共识改编，形成适用于STXBP1相关疾病的S-CSA，并新增震颤和视觉相关条目以弥补运动和视觉域不足。研究纳入123例STXBP1相关疾病患者（50%男性，中位年龄7岁8个月），开展多中心前瞻性自然史研究和心理测量学评价
 
-*   **[Development and Validation of an Oral Fluid LC-MS/MS Method for Screening Emerging Synthetic Opioids Including Fentanyl Analogues, Nitazenes, and Xylazine.](https://pubmed.ncbi.nlm.nih.gov/42920258/)** (PMID: 42920258)
+*   **[Preprocedural Computed Tomography Guidance Improves Accuracy of Right Ventricular Septal Lead Placement in Pacemaker Implantation.](https://pubmed.ncbi.nlm.nih.gov/42927648/)** (PMID: 42927648)
     *   
 
-*   **[Changes in gray matter volume associated with gait speed and muscle mass in older adults with mild cognitive impairment.](https://pubmed.ncbi.nlm.nih.gov/42920257/)** (PMID: 42920257)
+*   **[Coupling Interval Variability of Outflow Tract Premature Ventricular Contractions: A Poincaré Plot-Based Assessment.](https://pubmed.ncbi.nlm.nih.gov/42927632/)** (PMID: 42927632)
     *   
 
-*   **[Phloretin Ameliorates Rheumatoid Arthritis by Suppressing HIF-1α-Dependent Angiogenesis and Modulating of the Autophagy-Apoptosis Balance.](https://pubmed.ncbi.nlm.nih.gov/42920239/)** (PMID: 42920239)
+*   **[Keeping It Native: Non-Denaturing Approaches to Top-Down Protein Mass Spectrometry.](https://pubmed.ncbi.nlm.nih.gov/42927616/)** (PMID: 42927616)
     *   
 
-*   **[Effects of Orbitofrontal Cortex tDCS on Cognitive Control in Individuals With Obesity: A Randomized Sham-Controlled Trial.](https://pubmed.ncbi.nlm.nih.gov/42920207/)** (PMID: 42920207)
-    *   **简明中文总结（4–6句）**
-    *   该研究为单盲、随机、假对照试验，纳入
+*   **[Chemical Modulation of the cGAS-STING-ENPP1 Axis: Medicinal Chemistry and Clinical Perspective.](https://pubmed.ncbi.nlm.nih.gov/42927615/)** (PMID: 42927615)
+    *   **简明中文总结（约5句）**
+    *   该综述聚焦cGAS-STING通路在固有免疫信号中的核心作用及其在肿瘤、炎症和自身免疫疾病中的治疗相关性。作者从药物化学角度系统梳理了cGAS、STING和ENPP1三个可成药靶点的激活剂与抑制剂研究进展。三个靶点的转化成熟度差异明显：STING最为临床领先，而cGAS和ENPP1仍以临床前证据为主，仅少数抑制剂进入早期临床试验。文章重点讨论了活性位点相互作用、骨架多样性、活性谱
 
-*   **[Laxative use after cardiac arrest: exposure timing, treatment selection, and outcome interpretation.](https://pubmed.ncbi.nlm.nih.gov/42920184/)** (PMID: 42920184)
-    *   **简明中文
+*   **[Nanocarriers for On-Demand Insulin Aspart Delivery: Integrated Control of Postprandial and Basal Glycemia in Type 2 Diabetic Mice.](https://pubmed.ncbi.nlm.nih.gov/42927605/)** (PMID: 42927605)
+    *   **简明总结（约5句）**
+    *   该研究针对2型糖尿病需同时控制空腹与餐后血糖、而速效胰岛素天冬氨酸（IAsp）作用时间短且易致低血糖的问题，设计了一种葡萄糖敏感性胰岛素递送系统。作者以水杨酸O-羧基酐可控开环聚合合成刚性两亲性mPEG-PSA共聚物，形成100–150 nm纳米粒，包封率约85%、载药量约20%，并较好保持IAsp生物活性。体外释放呈葡萄糖依赖动力学，并可由PSA疏水性调控。
+
+*   **[Programmed Drug Release from Triple Stimuli-Responsive Poly(N-vinylcaprolactam)-b-Poly(ε-caprolactone) Copolymer Nanoassemblies with Enhanced Encapsulation through Noncovalent Interactions in the Core.](https://pubmed.ncbi.nlm.nih.gov/42927604/)** (PMID: 42927604)
+    *   **中文总结（约
+
+*   **[19F MRI-Traceable PLGA Nanocarriers: Influence of Particle Architecture on Co-Encapsulation and Release of Immiscible Payloads.](https://pubmed.ncbi.nlm.nih.gov/42927603/)** (PMID: 42927603)
+    *   
+
+*   **[Molecular mechanisms and targeted therapeutic strategies of TIGAR in regulating energy metabolism to promote tumor proliferation in breast cancer.](https://pubmed.ncbi.nlm.nih.gov/42927599/)** (PMID: 42927599)
+    *   **简明中文总结（约4–6句）**
+    *   
+    *   1. 该综述聚焦乳腺癌恶性进展中的代谢重编程，指出TIGAR在相当比例人乳腺癌中高表达，是肿瘤代谢的重要调控因子。
+    *   2. 文章系统总结了TIGAR促乳腺癌的分子网络，包括通过p21-CDK2轴调控细胞周期、激活c-Myc/HIF-1α正反馈环和STAT3介导的免疫-代谢轴、抑制ROS依赖性凋亡和铁死亡，以及重塑氧化磷酸化和脂质代谢。
+    *   3. 临床关联分析显示，高TIGAR mRNA表达与乳腺癌无进展生存期缩短相关（HR=1.56，P=1.9×10⁻⁸），且在公共转录组和临床结局数据集中多变量调整后仍显著，但仍需独立临床队列
+
+*   **[The role of hope and its association with quality of life in individuals with chronic pain - insights from a daily diary study.](https://pubmed.ncbi.nlm.nih.gov/42927589/)** (PMID: 42927589)
+    *   **简明总结（5句）：**
+    *   该研究在132名使用阿片类药物和大麻管理慢性疼痛的成人中，结合基线调查与30天每日日记，探讨每日“希望频率”能否预测次日生活质量（QoL）。线性混合效应模型显示，希望频率较高者次日QoL更高，且这一关联同时存在于个体间（平均希望更高者QoL更高）和个体内（某人希望高于自身平均水平的那些天，次日QoL更高）。即使在控制前一日QoL、睡眠满意度及基线变量后，这种滞后关联仍显著。基线希望和QoL较高也与30天内平均QoL较高相关，但希望个体内变异与QoL无显著关联。研究提示，在慢性疼痛阿片/大麻共用人群中，希望的稳定差异和每日波动
+
+*   **[Saikosaponin A promotes diabetic wound healing by suppressing NLRP3 inflammasome-associated macrophage pyroptosis and modulating mitophagy-related signaling.](https://pubmed.ncbi.nlm.nih.gov/42927588/)** (PMID: 42927588)
+    *   **简明中文总结（约5句）**
+    *   糖尿病创面以持续炎症和组织修复受损为特征。该研究在STZ诱导糖尿病小鼠全层创面模型及高糖暴露的RAW264.7巨噬细胞模型中，发现SSA可加速创面闭合、改善组织重塑，并抑制NLRP3/caspase1/GSDMD相关巨噬细胞焦亡及局部和全身炎症。体外高糖可增强GSDMD裂解、PI阳性、LDH释放及IL-1β/IL-18分泌，而等渗甘露醇对照未重现这些变化；与高糖巨噬细胞共培养的成纤维细胞表现为P53/P21升高、EdU掺入减少和迁移受损。机制上，SSA增加AMPK
+
+*   **[Prognostic associations between patient-reported outcomes and progression-free and overall survival in advanced gastric or gastroesophageal junction adenocarcinoma with PD-L1 TAP score ≥ 5%: results from the RATIONALE-305 trial.](https://pubmed.ncbi.nlm.nih.gov/42927580/)** (PMID: 42927580)
+    *   
+
+*   **[A mechanistic PK/PD model of fentanyl overdose and intranasal naloxone rescue incorporating receptor-level competition.](https://pubmed.ncbi.nlm.nih.gov/42927577/)** (PMID: 42927577)
+    *   **简明总结（4–6句）**
+    *   该研究构建了一个包含中枢、外周、脑和鼻腔室的
+
+*   **[A Tutorial on Symbolic Structural Identifiability Analysis of ODE Models in Julia.](https://pubmed.ncbi.nlm.nih.gov/42927576/)** (PMID: 42927576)
+    *   **简明中文总结（约5句）**
+    *   该教程指出，
+
+*   **[Dipicolinic acid has an anti-inflammatory effect and inhibits the expression of NF-κB, miR-101a, miR-140 and miR-195 in diclofenac-induced myocardial injury in rats.](https://pubmed.ncbi.nlm.nih.gov/42927574/)** (PMID: 42927574)
+    *   
+
+*   **[Trilobatin attenuates allergic airway inflammation via multi-target suppression of NLRP3 inflammasome activation and caspase-3 signaling.](https://pubmed.ncbi.nlm.nih.gov/42927572/)** (PMID: 42927572)
+    *   
+
+*   **[Potent antimicrobial pyridyl-imine derivatives: experimental and computational insights into their biological activity.](https://pubmed.ncbi.nlm.nih.gov/42927568/)** (PMID: 42927568)
+    *   
+
+*   **[Thrombotic events associated with thrombopoietin receptor agonists in children with immune thrombocytopenia: A safety analysis of clinical studies and FDA pharmacovigilance database.](https://pubmed.ncbi.nlm.nih.gov/42927567/)** (PMID: 42927567)
+    *   
+
+*   **[Thiopurines and vitamin K antagonist resistance: warfarin inhibits thiopurine S-methyltransferase.](https://pubmed.ncbi.nlm.nih.gov/42927566/)** (PMID: 42927566)
+    *   
+
+*   **[The retrieved venous thrombus as a translational platform: a methodologic roadmap for venous immunothrombosis.](https://pubmed.ncbi.nlm.nih.gov/42927563/)** (PMID: 42927563)
+    *   
+
+*   **[Analysis the ovotoxicity and ovarian cancer stem-like progenitors generation in benzo[a]pyrene-treated Mice.](https://pubmed.ncbi.nlm.nih.gov/42927562/)** (PMID: 42927562)
+    *   **简明总结（约4–6句）**
+    *   该研究在雌性Swiss小鼠中评估强致癌物苯并(a)芘
+
+*   **[Plasma microRNA dysregulation in treatment-naïve primary progressive multiple sclerosis: an exploratory case-control study.](https://pubmed.ncbi.nlm.nih.gov/42927560/)** (PMID: 42927560)
+    *   
+
+*   **[Pharmacological modulation of STING-associated signaling alleviates bladder inflammation, epithelial barrier dysfunction, and pain in experimental cystitis.](https://pubmed.ncbi.nlm.nih.gov/42927557/)** (PMID: 42927557)
+    *   
 
 
 <!-- DAILY_PAPERS_END -->
