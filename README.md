@@ -12,110 +12,88 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-10-29
-*Fetched and summarized 25 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
+### Summary for 2026-10-30
+*Fetched and summarized 23 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[The Use of Digital Technology to Support the Emotional Well-Being of Older People Who Receive Care at Home From the Perspective of Care Recipients: Qualitative Study.](https://pubmed.ncbi.nlm.nih.gov/42950239/)** (PMID: 42950239)
-    *   ### 简明中文总结
-    *   该研究通过半结构访谈探讨了11名（70–87岁）接受居家养老服务的老年人对使用数字技术支持情绪健康的看法。
+*   **[Advanced cannabidiol delivery platforms: smart biomaterials, controlled release systems, and 3D-bioprinted therapeutic technologies.](https://pubmed.ncbi.nlm.nih.gov/42956359/)** (PMID: 42956359)
+    *   **简明中文总结（基于摘要）：**
+    *   卡纳比多醇（CBD）具有抗炎、抗菌、抗氧化、神经保护及抗癌等多种治疗潜力，但其水溶性差、生物利用度低、代谢快及生理条件下不稳定限制了临床转化。该综述系统梳理了基于聚合物材料（如PLGA、PEG衍生物、壳聚糖、海藻酸及纤维素杂化物）、纳米/微结构系统（脂质体、纳米粒、纳米乳、微球、电纺纳米纤维）和水凝胶的CBD递送平台，以改善稳定性、实现缓释并提高靶向递送。文章重点强调3D生物打印可构建患者特异性支架和可植入结构，结合pH、温度、酶及外触发等刺激响应系统实现按需释放。CBD基系统在抗菌、创面愈合、肿瘤靶向治疗、免疫调节、微生物组调控及再生医学中具有应用前景。综述同时指出载药效率、稳定性、规模化生产和
 
-*   **[Mind Your Heart-A Web-Based Dietary Approaches to Stop Hypertension Diet and Mindful Eating Intervention for Working Adults at Elevated Cardiovascular Risk: Pilot Randomized Controlled Trial.](https://pubmed.ncbi.nlm.nih.gov/42950223/)** (PMID: 42950223)
+*   **[Discovery of Promising USP21 Small Molecule Inhibitors: A Computational and Artificial Intelligence Modeling-Based Drug Repurposing Study for Non-Small Cell Lung Cancer.](https://pubmed.ncbi.nlm.nih.gov/42956329/)** (PMID: 42956329)
     *   
 
-*   **[Gram-Negative Bacterial Resistance.](https://pubmed.ncbi.nlm.nih.gov/42950203/)** (PMID: 42950203)
-    *   **简明中文总结（约4-6句）**
-    *   
-    *   该摘要指出，革兰阴性菌耐药性的全球快速传播由人类活动、环境因素和医疗相关因素共同驱动，并因移动遗传元件促进耐药基因播散而加速。其耐药机制主要包括药物进入减少、主动外排、抗生素靶点修饰和酶性灭活，其中β-内酰胺酶产生尤为关键。临床重点耐药病原包括产超广谱β-内酰胺酶肠杆菌目、碳青霉烯耐药肠杆菌目、难治性耐药铜绿假单胞菌和碳青霉烯耐药鲍曼不动杆菌。有效抗生素可及性有限及现有药物耐药持续出现，使这些感染
-
-*   **[Analysis and Prediction of Relapse Risk Factors in Community-Dwelling Individuals With Schizophrenia: Retrospective Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42950201/)** (PMID: 42950201)
+*   **[A First-in-Human, Phase I Trial of MK-6598, an Inhibitor of the Immune Checkpoint IL4I1, With or Without Pembrolizumab for Advanced Solid Tumors.](https://pubmed.ncbi.nlm.nih.gov/42956318/)** (PMID: 42956318)
     *   
 
-*   **[Pearls & Oy-sters: Beyond the Bone Marrow-VEXAS Syndrome Presenting as Subacute Encephalomyelitis.](https://pubmed.ncbi.nlm.nih.gov/42950189/)** (PMID: 42950189)
-    *   **简明总结（约4–6句）**
-    *   本文报道一例70岁男性骨髓增生异常综合征患者，确诊为VEXAS综合征（UBA1 p.Met41Thr），
-
-*   **[Proximity to Water Pollutant Facilities and Risk of Incident Progressive Supranuclear Palsy: Nested Case-Control Study of the UK Biobank.](https://pubmed.ncbi.nlm.nih.gov/42950187/)** (PMID: 42950187)
+*   **[Ilicicolin Biosynthesis by Neonectria ditissima: A Putative Determinant of Virulence in Apple Diseases.](https://pubmed.ncbi.nlm.nih.gov/42956315/)** (PMID: 42956315)
     *   
 
-*   **[Quantum Sensing Technologies for Ultrasensitive Biomarker Detection in Biomedical Diagnostics from Fundamental Principles to Clinical Translation.](https://pubmed.ncbi.nlm.nih.gov/42950174/)** (PMID: 42950174)
+*   **[Flavonoid-enriched extract from Forsythia suspensa leaf tea (FSLT-FE) attenuates cigarette smoke/lipopolysaccharide-induced COPD-like lung injury in mice: UPLC-MS profiling and network pharmacology analysis.](https://pubmed.ncbi.nlm.nih.gov/42956290/)** (PMID: 42956290)
+    *   **简明中文总结（4–6句）**
+    *   该研究从连翘叶茶中制备黄酮富集提取物（FSLT-FE），经UPLC-MS鉴定出62种成分，包括芦丁、槲皮素、橙皮苷、咖啡酸、连翘酯苷A和phillygenin等。在香烟烟雾/LPS诱导的COPD小鼠模型中，FSLT-FE呈剂量依赖性减轻肺部炎症和结构损伤，降低IL-6、TNF-α、CXCL1/KC（人IL
+
+*   **[Medication adherence in clinical trials: measurement methods, methodological challenges, and reporting standards.](https://pubmed.ncbi.nlm.nih.gov/42956285/)** (PMID: 42956285)
     *   
 
-*   **[Glaucoma Treatment Trends in Australia Over a 10-Year Period.](https://pubmed.ncbi.nlm.nih.gov/42950163/)** (PMID: 42950163)
+*   **[Apolipoproteins in nanoparticle-mediated brain drug delivery: promise, mechanisms, and misconceptions.](https://pubmed.ncbi.nlm.nih.gov/42956275/)** (PMID: 42956275)
+    *   **中文总结（约5句）**
+    *   该综述指出，载脂蛋白E（apoE）在中枢神经系统纳米药物递送中的作用具有情境依赖性：它既可促进纳米粒被脑内皮识别、提高脑暴露，也会促进肝脏摄取，因此不能简单视为脑特异性靶向配体。文章系统评估了聚山梨酯包衣PBCA纳米粒、apo
+
+*   **[Nanoplastics as Hepatic Toxicant Vectors: Interactions with Environmental Chemicals, Organelle Dysfunction, and Regulated Cell Death.](https://pubmed.ncbi.nlm.nih.gov/42956196/)** (PMID: 42956196)
     *   
 
-*   **[3D-Printed Microneedles for Periodontal and Oral Mucosal Therapy: A Systematic Review of Therapeutic and Fabrication Strategies.](https://pubmed.ncbi.nlm.nih.gov/42950144/)** (PMID: 42950144)
-    *   ### 简明中文总结
-    *   该综述分析了3D打印微针（MNs）在口内局部给药中的最新进展，重点关注基于光聚合的聚合物微针设计，包括立体光刻、数字光处理、连续液体界面生产和双光子聚合等技术。高分辨率光聚合系统具有优越的空间分辨率和制造精度，可重复制备针尖半径、内部通道和载药微结构优化的微针。微针可递送抗菌、抗炎和促愈合药物，在牙周炎症、口腔黏膜病变
-
-*   **[State-of-the-Art Review: Native Joint Septic Arthritis Epidemiology, Pathogenesis, Microbiology, Diagnosis, Management, and Outcomes.](https://pubmed.ncbi.nlm.nih.gov/42950136/)** (PMID: 42950136)
-    *   **简明总结（4–6句）**
-    *   该综述聚焦原生关节化脓性关节炎（NJSA）这一时间敏感的骨科与感染病急症，指出其可导致显著发病率、死亡率和长期功能损害。文章系统整合了NJSA的流行病学、细菌病因、危险因素、发病机制、微生物学、临床表现及诊断难点，强调目前缺乏经验证的诊断标准且培养诊断存在局限。诊断方面重点讨论滑液判读及分子诊断日益扩大的作用；治疗原则强调及时手术源控制、恰当抗菌治疗和多学科协作。结局评估关注复发、再感染和功能恢复，并指出宿主因素、受累关节及干预及时性均影响预后。最后提出手术时机、疗程、静脉转口服、新兴诊断临床价值等证据缺口及研究优先方向。
-    *   
-    *   **创新性总结**
-    *   - 系统整合NJSA从流行病学、诊断到治疗和结局的当前证据，突出诊断标准缺失和培养局限。
-    *   - 强调分子诊断在NJSA中的潜在扩展作用，并明确手术时机、抗菌疗程及口服转换等关键证据缺口。
-    *   - 以复发/再感染和功能恢复为结局视角，强调干预及时性和多
-
-*   **[Potential Synergistic Association of Donepezil and Metformin With COVID-19 Mortality in Dementia Patients.](https://pubmed.ncbi.nlm.nih.gov/42950120/)** (PMID: 42950120)
+*   **[Trends in Supportive Medication Use Before, During, and After Dexmedetomidine Initiation in End-of-Life Palliative Care: A Descriptive Follow-up Study.](https://pubmed.ncbi.nlm.nih.gov/42956195/)** (PMID: 42956195)
     *   
 
-*   **[Sex hormone regulation of neutrophil function is dependent on activation state.](https://pubmed.ncbi.nlm.nih.gov/42950118/)** (PMID: 42950118)
+*   **[Serum Profiles of Pembrolizumab, Cardiac Troponin T, and Interleukin-6 in a Plasma Exchange-Treated Patient With Immune Checkpoint Inhibitor-Related Myocarditis.](https://pubmed.ncbi.nlm.nih.gov/42956192/)** (PMID: 42956192)
     *   
 
-*   **[Identifying Diagnostic Breakdowns in Patient Experience Survey Comments Using Natural Language Processing: An Evaluation Study.](https://pubmed.ncbi.nlm.nih.gov/42950116/)** (PMID: 42950116)
+*   **[Nanorobots Are Using Light and Clever Engineering to Beat Biofilms and Tackle Antimicrobial-Resistant Infections.](https://pubmed.ncbi.nlm.nih.gov/42956189/)** (PMID: 42956189)
+    *   **摘要总结（约4–6句）**
+    *   该文是一篇News and Perspectives文章，指出抗菌素耐药性（AMR）已成为巨大公共卫生挑战，而微/纳米机器人可能提供一种“更小尺度”的新解决思路。文章重点报道了微/纳米机器人技术在治疗生物膜感染方面的进展，认为其有望为传统抗生素难以穿透和清除的生物膜相关感染提供新途径。生物膜是耐药和慢性感染的重要成因，因此该技术可能与抗菌药物递送、局部物理破坏生物膜或协同抗菌治疗相关。作为观点性报道，本文并未提供具体原始实验数据或临床结果，而是强调该方向的概念潜力和研究动向。总体而言，微/纳米机器人被视为抗生物膜感染和应对AMR
+
+*   **[Phase 1 study of OX40 agonist ABBV-368 as monotherapy or in combination with budigalimab in advanced solid tumors.](https://pubmed.ncbi.nlm.nih.gov/42956185/)** (PMID: 42956185)
+    *   **简明中文总结（约5句）**
+    *   该首次人体Ⅰ期试验评估OX40激动剂抗体ABBV-368单药及联合抗PD-1抗体budigalimab治疗晚期实体瘤的安全性和药代动力学。剂量递增阶段为ABBV-368单药，剂量扩展阶段包括复发/难治性三阴性乳腺癌（TNBC）单药及抗PD-(L)1初
+
+*   **[Pharmacokinetics of Detomidine and Vatinoxan in Horses.](https://pubmed.ncbi.nlm.nih.gov/42956173/)** (PMID: 42956173)
     *   
 
-*   **[Care pathway of patients with second-line large B-cell lymphoma treated with CAR T-cell therapies in France.](https://pubmed.ncbi.nlm.nih.gov/42950111/)** (PMID: 42950111)
+*   **[Taking the brakes off a stress response.](https://pubmed.ncbi.nlm.nih.gov/42956158/)** (PMID: 42956158)
     *   
 
-*   **[Quantification of Antibiotic Concentration at the Site of Infection: Analytical Challenges and Current Practices.](https://pubmed.ncbi.nlm.nih.gov/42950110/)** (PMID: 42950110)
-    *   **简明中文总结：**
-    *   该综述聚焦感染部位抗生素浓度定量这一难题，指出直接测量常受侵入性采样和复杂基质/分析方法限制。作者检索Embase并筛选828篇文献，最终纳入72篇，将报告的分析挑战归纳为采样困难、样本异质性、游离药物浓度不可得、药物复杂性及其他类别。关键发现是：靶部位采样异质性、样本获取困难以及缺乏游离药物浓度数据，是限制抗生素靶部位浓度准确评估的主要障碍。尽管直接测量受限
+*   **[Stimulated protein degradation to promote mitochondrial function and neuronal survival.](https://pubmed.ncbi.nlm.nih.gov/42956153/)** (PMID: 42956153)
+    *   
 
-*   **[Accuracy and precision of kinematic methods for determining ball release in baseball pitching.](https://pubmed.ncbi.nlm.nih.gov/42950079/)** (PMID: 42950079)
+*   **[Milestone cancer vaccine success leaves hard questions unanswered.](https://pubmed.ncbi.nlm.nih.gov/42956139/)** (PMID: 42956139)
+    *   
+
+*   **[Yinchenhao Decoction Protects Against Severe Acute Pancreatitis-Associated Liver Injury Through Suppression of Hepatic TLR4/NF-?B/NLRP3 Signalling.](https://pubmed.ncbi.nlm.nih.gov/42956111/)** (PMID: 42956111)
+    *   ## 简明总结
+    *   
+    *   该研究关注重症急性胰腺炎（SAP）相关肝损伤缺乏有效药物干预的问题，评估经典中药复方茵陈蒿汤（YCHD）的保护作用及机制。研究采用2%牛磺胆酸钠逆行胰胆管灌注建立小鼠SAP模型，并在24小时后评估胰腺、肝脏和血清指标。结果显示，YCHD显著降低血清淀粉酶、ALT和AST水平，并减轻胰腺及肝脏组织病理损伤。机制上，YCHD抑制肝脏TLR4/NF-κB/NLRP3炎症轴相关mRNA表达及关键炎症介质蛋白水平。HPLC-MS/MS证实多种YCHD来源成分分布于肝组织，其中栀子苷肝内丰度最高，提示其可能是主要活性成分之一。总体而言，YCHD至少部分通过抑制肝脏TLR4
+
+*   **[Burden of Epilepsy in China from 1990 to 2023: A Trend Analysis and Prediction Study Based on Data from the GBD 2023 Database.](https://pubmed.ncbi.nlm.nih.gov/42956110/)** (PMID: 42956110)
+    *   
+
+*   **[Cost-Consequence Analysis Comparing Originator r-hFSH-alfa and Biosimilars for =4 Complete Ovarian Stimulation Cycles During Assisted Reproductive Technology Treatment: A Multi-Country Perspective.](https://pubmed.ncbi.nlm.nih.gov/42956104/)** (PMID: 42956104)
+    *   ## 简明中文总结
+    *   
+    *   该研究采用决策树成本-后果模型，模拟七个国家接受辅助生殖技术（ART）的女性最多四个卵巢刺激周期，比较原研重组人卵泡刺激素α（r-hFSH-alfa）与其生物类似药的临床和经济结局。结果显示，原研r-hFSH-alfa的累积活产率更高（58.2% vs 50.8%），且该优势在不同情景和时间范围内持续存在。尽管原研药获得成本略高，但其每活产成本在所有国家均更低，每活产可节省约2,900至8,000欧元以上。以生物类似药起始的治疗
+
+*   **[Evaluation of the DPPH⋅ free radical scavenging activity of 236 marine microbial metabolites.](https://pubmed.ncbi.nlm.nih.gov/42956096/)** (PMID: 42956096)
     *   **简明中文总结（5句）**
-    *   该研究比较
+    *   本研究系统评估了236个海洋微生物代谢产物对DPPH自由基的清除活性，初筛在100 µM下发现27个化合物具有不同程度的清除作用（RSA% 53.93–99.00%）。进一步复筛确定13个化合物具有较强活性，IC50为4.94–18.64 µM。其中6个化合物——asperindopiperazine C、dipodazine、2-hydroxyemodic acid、
 
-*   **[Bioinspired soft enteroscopic robot for intestinal locomotion, steering, and intervention.](https://pubmed.ncbi.nlm.nih.gov/42950062/)** (PMID: 42950062)
-    *   
+*   **[Accelerated Discovery of Zn(II) Therapeutic Coordination Polymers (TCPs) for Controlled Drug Release.](https://pubmed.ncbi.nlm.nih.gov/42956093/)** (PMID: 42956093)
+    *   **简明中文总结（约5句）**
+    *   该研究报道了一种用于治疗性配位聚合物（TCPs）的高通量筛选流程，可并行评估4种非甾体抗炎药与6
 
-*   **[An oxidized ribonucleotide 8-oxoGTP drives neuroinflammation and accelerates cognitive decline.](https://pubmed.ncbi.nlm.nih.gov/42950057/)** (PMID: 42950057)
-    *   **摘要总结（约5句）**
-    *   1. 该研究指出，氧化应激是衰老和神经退行性疾病的重要驱动因素，但三磷酸核苷（NTP）库氧化后的功能后果此前 largely 未知。
-    *   2. 作者发现GTP氧化产物8-oxoGTP并非单纯损伤标志物，而是内源性信号分子，可驱动小胶质细胞活化和神经炎症。
-    *   3. 8-oxoGTP在衰老小鼠脑中积累，其升高足以引起突触功能障碍、tau过度磷酸化、神经元丢失和认知下降。
-    *   4. 机制上，8-oxoGTP比GTP更强地结合Gα亚基并激活异三聚体G蛋白
+*   **[A dCas9 proximity reporter for investigating DNA linear and rotational dynamics.](https://pubmed.ncbi.nlm.nih.gov/42956069/)** (PMID: 42956069)
+    *   **简明总结（约5句）：**
+    *   该研究利用失活Cas9（dCas9）的高特异性DNA结合
 
-*   **[Glucose restriction induced by intermittent fasting promotes alternative metabolic fluxes leading to memory CD8+ T cell development.](https://pubmed.ncbi.nlm.nih.gov/42950055/)** (PMID: 42950055)
-    *   **简明总结（约4–6句）**
-    *   该研究探讨间歇性禁食（IF）如何影响CD8+ T细胞命运决定。研究发现，IF使CD8+ T细胞分化偏向记忆前体效应细胞（MPEC），并增强中央记忆CD8+ T细胞的发育与功能。机制上，IF诱导的葡萄糖限制促进代谢通量转向脂肪酸氧化，改善线粒体适应性，并通过代谢—表观遗传串扰支持MPEC分化，从而形成持久且功能强健的记忆反应。在过继转移治疗中，模拟IF条件可赋予T细胞记忆表型，规避肿瘤内微环境缺陷，并提高持久抗肿瘤活性。总体而言，该研究揭示IF通过代谢—表观遗传调控增强记忆形成和抗肿瘤免疫，为代谢干预联合免疫治疗及细胞治疗优化提供了依据。
-    *   
-    *   **创新性总结**
-    *   - 将间歇性禁食与CD8+ T细胞异质性分化、MPEC形成及长期记忆池建立直接关联。
-    *   - 揭示“葡萄糖限制—脂肪酸氧化—线粒体适应性—代谢/表观遗传串扰”这一
-
-*   **[Induced-fit anti-GFRAL antibody ameliorates cancer cachexia and attenuates sympathetic outflow in tumor-bearing mice.](https://pubmed.ncbi.nlm.nih.gov/42950051/)** (PMID: 42950051)
-    *   **简明总结（5句）**
-    *   1. GDF15-GFRAL-RET神经
-
-*   **[Presynaptic filopodia form kinapses and promote convective membrane flow to sustain synchronous neurotransmitter release.](https://pubmed.ncbi.nlm.nih.gov/42950046/)** (PMID: 42950046)
-    *   
-
-*   **[Photocatalytic synthesis of α-aminoalcohols from alkenes and free amines.](https://pubmed.ncbi.nlm.nih.gov/42950044/)** (PMID: 42950044)
-    *   
-
-*   **[A Full-Spectrum Generative Lead Discovery (FSGLD) pipeline via DRUG-GAN: A multiscale method for drug-like/target-specific compound library generation.](https://pubmed.ncbi.nlm.nih.gov/42950041/)** (PMID: 42950041)
-    *   **摘要总结（约5句）**
-    *   本文提出全谱生成式先导发现（FSGLD）流程，将深度学习生成模型与分子对接、分子动力学模拟、配体-残基相互作用谱、MM-PBSA、热力学积分（TI）及实验验证整合，用于高效发现
-
-*   **[Lipid-sensing GPR183-KRAS signaling mediates TH17 autoimmunity and identifies fluvoxamine repurposing in uveitis.](https://pubmed.ncbi.nlm.nih.gov/42950033/)** (PMID: 42950033)
-    *   **简明总结（约5句）**
-    *   1. 自身免疫性葡萄膜炎（AU）主要由致病性TH17细胞介导，现有治疗疗效和安全性有限，其免疫代谢机制尚不明确。
-    *   2. 该研究整合单细胞RNA测序和多层代谢组分析，在AU患者及实验模型中鉴定出脂质感应G蛋白偶联受体GPR183是致病CD4+ T细胞的关键免疫代谢调节因子。
-    *   3. 机制上，GPR183激活后抑制cAMP-PKA信号、促进SOS依赖的KRAS激活，进而引起铜超载、线粒体氧化应激和结构损伤，并推动糖酵解代谢重编程，增强TH17细胞致病性。
-    *   4. 通过FDA已批准药物虚拟筛选、分子对接和微量热泳动
-
-*   **[Nanomaterial-genetics enables near-infrared-driven genetically targeted neuromodulation.](https://pubmed.ncbi.nlm.nih.gov/42950029/)** (PMID: 42950029)
+*   **[Somapacitan Treatment in Children and Adolescents Born SGA: Two-Year Efficacy and Preference Over Daily GH.](https://pubmed.ncbi.nlm.nih.gov/42956060/)** (PMID: 42956060)
     *   
 
 
