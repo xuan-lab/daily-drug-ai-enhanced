@@ -12,89 +12,96 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-10-30
-*Fetched and summarized 23 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
+### Summary for 2026-10-31
+*Fetched and summarized 24 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Advanced cannabidiol delivery platforms: smart biomaterials, controlled release systems, and 3D-bioprinted therapeutic technologies.](https://pubmed.ncbi.nlm.nih.gov/42956359/)** (PMID: 42956359)
-    *   **简明中文总结（基于摘要）：**
-    *   卡纳比多醇（CBD）具有抗炎、抗菌、抗氧化、神经保护及抗癌等多种治疗潜力，但其水溶性差、生物利用度低、代谢快及生理条件下不稳定限制了临床转化。该综述系统梳理了基于聚合物材料（如PLGA、PEG衍生物、壳聚糖、海藻酸及纤维素杂化物）、纳米/微结构系统（脂质体、纳米粒、纳米乳、微球、电纺纳米纤维）和水凝胶的CBD递送平台，以改善稳定性、实现缓释并提高靶向递送。文章重点强调3D生物打印可构建患者特异性支架和可植入结构，结合pH、温度、酶及外触发等刺激响应系统实现按需释放。CBD基系统在抗菌、创面愈合、肿瘤靶向治疗、免疫调节、微生物组调控及再生医学中具有应用前景。综述同时指出载药效率、稳定性、规模化生产和
-
-*   **[Discovery of Promising USP21 Small Molecule Inhibitors: A Computational and Artificial Intelligence Modeling-Based Drug Repurposing Study for Non-Small Cell Lung Cancer.](https://pubmed.ncbi.nlm.nih.gov/42956329/)** (PMID: 42956329)
+*   **[Phytochemical profiling, antioxidant activity, and in vivo wound-healing evaluation of Jordanian Phoenix dactylifera L. seed extracts.](https://pubmed.ncbi.nlm.nih.gov/42962175/)** (PMID: 42962175)
     *   
 
-*   **[A First-in-Human, Phase I Trial of MK-6598, an Inhibitor of the Immune Checkpoint IL4I1, With or Without Pembrolizumab for Advanced Solid Tumors.](https://pubmed.ncbi.nlm.nih.gov/42956318/)** (PMID: 42956318)
+*   **[Maternal and Fetal Safety Outcomes of Thrombolytics for Ischemic Stroke in Pregnancy: A Systematic Review and Aggregated Case Series.](https://pubmed.ncbi.nlm.nih.gov/42962168/)** (PMID: 42962168)
     *   
 
-*   **[Ilicicolin Biosynthesis by Neonectria ditissima: A Putative Determinant of Virulence in Apple Diseases.](https://pubmed.ncbi.nlm.nih.gov/42956315/)** (PMID: 42956315)
+*   **[Can robotic living donor hepatectomy be safely offered to all donors? evidence, experience, and program development.](https://pubmed.ncbi.nlm.nih.gov/42962151/)** (PMID: 42962151)
     *   
 
-*   **[Flavonoid-enriched extract from Forsythia suspensa leaf tea (FSLT-FE) attenuates cigarette smoke/lipopolysaccharide-induced COPD-like lung injury in mice: UPLC-MS profiling and network pharmacology analysis.](https://pubmed.ncbi.nlm.nih.gov/42956290/)** (PMID: 42956290)
+*   **[Assessment of Interpatient and Intrapatient Variability of Dasatinib and Imatinib Concentrations in Patients With Chronic Myeloid Leukemia via Volumetric Absorptive Microsampling at Home.](https://pubmed.ncbi.nlm.nih.gov/42962084/)** (PMID: 42962084)
     *   **简明中文总结（4–6句）**
-    *   该研究从连翘叶茶中制备黄酮富集提取物（FSLT-FE），经UPLC-MS鉴定出62种成分，包括芦丁、槲皮素、橙皮苷、咖啡酸、连翘酯苷A和phillygenin等。在香烟烟雾/LPS诱导的COPD小鼠模型中，FSLT-FE呈剂量依赖性减轻肺部炎症和结构损伤，降低IL-6、TNF-α、CXCL1/KC（人IL
+    *   该研究评估了慢性髓性白血病（CML）患者在家中采用容积吸收微采样（VAMS）进行达沙替尼和伊马替尼治疗药物监测（TDM）的可行性。共纳入49例患者（达沙替尼32例、伊马替尼17例），收到47套家庭采集的VAMS样本；其中90%样本质量良好，重复样本间分析变异可接受。大多数患者对家庭采样体验持正面评价。研究证实两种TKI谷浓度存在明显个体间差异，且个体内谷浓度也可显著波动，尤其达沙替尼。作者认为，基于VAMS的家庭采样用于CML患者TKI的TDM是可行、可靠且受患者欢迎的，谷浓度变异支持TDM在个体化治疗和纵向监测中的潜在价值。
+    *   
+    *   **创新性总结**
+    *   - 将VAMS家庭指尖微采样用于达沙替尼和伊马替尼谷浓度TDM，并验证其可行性与可靠性。
+    *   - 结合患者问卷评价家庭采样体验，体现以患者为中心的TDM模式。
+    *   - 同一患者多次采样揭示TKI谷浓度的
 
-*   **[Medication adherence in clinical trials: measurement methods, methodological challenges, and reporting standards.](https://pubmed.ncbi.nlm.nih.gov/42956285/)** (PMID: 42956285)
+*   **[Promotion of Tanning Behaviors on Instagram: Content Analysis.](https://pubmed.ncbi.nlm.nih.gov/42962080/)** (PMID: 42962080)
+    *   **简明中文总结（4-6句）**
+    *   该研究对100条带有#tanning标签的Instagram帖子进行横断面内容分析，比较“支持晒黑”和“反对晒黑”内容的特征与信息传达。结果显示，大多数帖子（79/100）为支持晒黑内容，且更常由青少年和年轻成人创作者发布，并更常包含推广晒黑产品的购物标签。总体信息主要鼓励晒黑（76%）、将晒黑肤色塑造成美的标准（63%），同时淡化防晒使用（11%）和晒黑相关健康风险（20%）。反对晒黑的帖子则更多聚焦防晒和健康风险。作者认为，临床医生应 urgent 参与热门社交媒体内容创作，以对抗不可靠、不完整甚至误导性信息带来的健康危害。
+    *   与药物科学的相关性在于：该研究揭示了社交媒体商业推广和审美规范如何影响防晒产品使用、健康风险认知及公众行为，这对
+
+*   **[Asymptomatic Tattoo-Associated Cutaneous Nontuberculous Mycobacterial Infection: Case Report.](https://pubmed.ncbi.nlm.nih.gov/42962075/)** (PMID: 42962075)
     *   
 
-*   **[Apolipoproteins in nanoparticle-mediated brain drug delivery: promise, mechanisms, and misconceptions.](https://pubmed.ncbi.nlm.nih.gov/42956275/)** (PMID: 42956275)
-    *   **中文总结（约5句）**
-    *   该综述指出，载脂蛋白E（apoE）在中枢神经系统纳米药物递送中的作用具有情境依赖性：它既可促进纳米粒被脑内皮识别、提高脑暴露，也会促进肝脏摄取，因此不能简单视为脑特异性靶向配体。文章系统评估了聚山梨酯包衣PBCA纳米粒、apo
-
-*   **[Nanoplastics as Hepatic Toxicant Vectors: Interactions with Environmental Chemicals, Organelle Dysfunction, and Regulated Cell Death.](https://pubmed.ncbi.nlm.nih.gov/42956196/)** (PMID: 42956196)
+*   **[Real-World Implementation and Evaluation of a Digital Health Platform for Children Living With Type 1 Diabetes: Protocol for a Real-World Implementation Study.](https://pubmed.ncbi.nlm.nih.gov/42962073/)** (PMID: 42962073)
     *   
 
-*   **[Trends in Supportive Medication Use Before, During, and After Dexmedetomidine Initiation in End-of-Life Palliative Care: A Descriptive Follow-up Study.](https://pubmed.ncbi.nlm.nih.gov/42956195/)** (PMID: 42956195)
+*   **[GD2 Induction by Combination Chromatin-Directed Inhibitors Enhances Targeting of Ewing Sarcoma and Osteosarcoma by CAR T Cells.](https://pubmed.ncbi.nlm.nih.gov/42962070/)** (PMID: 42962070)
     *   
 
-*   **[Serum Profiles of Pembrolizumab, Cardiac Troponin T, and Interleukin-6 in a Plasma Exchange-Treated Patient With Immune Checkpoint Inhibitor-Related Myocarditis.](https://pubmed.ncbi.nlm.nih.gov/42956192/)** (PMID: 42956192)
+*   **[Antibodies to distinct epitopes on MPXV enveloped virion provide additive and complete protection.](https://pubmed.ncbi.nlm.nih.gov/42962053/)** (PMID: 42962053)
     *   
 
-*   **[Nanorobots Are Using Light and Clever Engineering to Beat Biofilms and Tackle Antimicrobial-Resistant Infections.](https://pubmed.ncbi.nlm.nih.gov/42956189/)** (PMID: 42956189)
+*   **[Nuclear NAD+ promotes innate immune memory by inhibiting KDM5A-dependent histone demethylation.](https://pubmed.ncbi.nlm.nih.gov/42962052/)** (PMID: 42962052)
     *   **摘要总结（约4–6句）**
-    *   该文是一篇News and Perspectives文章，指出抗菌素耐药性（AMR）已成为巨大公共卫生挑战，而微/纳米机器人可能提供一种“更小尺度”的新解决思路。文章重点报道了微/纳米机器人技术在治疗生物膜感染方面的进展，认为其有望为传统抗生素难以穿透和清除的生物膜相关感染提供新途径。生物膜是耐药和慢性感染的重要成因，因此该技术可能与抗菌药物递送、局部物理破坏生物膜或协同抗菌治疗相关。作为观点性报道，本文并未提供具体原始实验数据或临床结果，而是强调该方向的概念潜力和研究动向。总体而言，微/纳米机器人被视为抗生物膜感染和应对AMR
+    *   该研究揭示训练免疫（trained immunity）受核内NAD+水平与表观遗传重编程的紧密调控。训练免疫诱导后核内NAD+升高，NAD+直接结合KDM5A并抑制其去甲基化酶活性，从而维持炎症基因启动子区H3K4me3水平和染色质可及性，增强再次刺激时的“免疫记忆”反应。遗传缺失
 
-*   **[Phase 1 study of OX40 agonist ABBV-368 as monotherapy or in combination with budigalimab in advanced solid tumors.](https://pubmed.ncbi.nlm.nih.gov/42956185/)** (PMID: 42956185)
+*   **[Snakebite epidemiology and health-seeking behavior in fringe communities of the Kakum Conservation Area in Ghana.](https://pubmed.ncbi.nlm.nih.gov/42962049/)** (PMID: 42962049)
+    *   
+
+*   **[Engineered Magnetic Nanoparticles for Dual-Modality Cancer Therapy: Advances in Hyperthermia and Magnetically Controlled Drug Delivery.](https://pubmed.ncbi.nlm.nih.gov/42962047/)** (PMID: 42962047)
     *   **简明中文总结（约5句）**
-    *   该首次人体Ⅰ期试验评估OX40激动剂抗体ABBV-368单药及联合抗PD-1抗体budigalimab治疗晚期实体瘤的安全性和药代动力学。剂量递增阶段为ABBV-368单药，剂量扩展阶段包括复发/难治性三阴性乳腺癌（TNBC）单药及抗PD-(L)1初
+    *   该综述聚焦磁性热疗（MHT）联合磁引导药物递送的双模态肿瘤治疗策略，指出其可克服传统治疗中肿瘤微环境介导的耐药、非特异性分布和系统毒性等问题。文章系统梳理了用于该策略的磁性纳米颗粒（MNPs）在设计、合成和理化表征方面的进展，涵盖氧化铁、铁磁合金、镧锶锰氧化物、锆基材料、碳基纳米结构、生物活性玻璃及玻璃陶瓷复合材料等平台。重点讨论了材料结构与磁性能、治疗效应之间的关系，以及交变磁场诱导产热和热触发药物释放的关键机制。综述强调，将居里温度调控在生物安全范围内并结合热响应表面功能化，可实现可控热疗和时空精准释药。整合型纳米平台因此有望提高
 
-*   **[Pharmacokinetics of Detomidine and Vatinoxan in Horses.](https://pubmed.ncbi.nlm.nih.gov/42956173/)** (PMID: 42956173)
+*   **[A randomised feasibility trial of VR-enhanced cue exposure therapy versus neutral VR exposure for cocaine use disorder, with wearable monitoring and JITA-EMA: Feasibility randomised controlled trial protocol.](https://pubmed.ncbi.nlm.nih.gov/42962044/)** (PMID: 42962044)
     *   
 
-*   **[Taking the brakes off a stress response.](https://pubmed.ncbi.nlm.nih.gov/42956158/)** (PMID: 42956158)
-    *   
-
-*   **[Stimulated protein degradation to promote mitochondrial function and neuronal survival.](https://pubmed.ncbi.nlm.nih.gov/42956153/)** (PMID: 42956153)
-    *   
-
-*   **[Milestone cancer vaccine success leaves hard questions unanswered.](https://pubmed.ncbi.nlm.nih.gov/42956139/)** (PMID: 42956139)
-    *   
-
-*   **[Yinchenhao Decoction Protects Against Severe Acute Pancreatitis-Associated Liver Injury Through Suppression of Hepatic TLR4/NF-?B/NLRP3 Signalling.](https://pubmed.ncbi.nlm.nih.gov/42956111/)** (PMID: 42956111)
-    *   ## 简明总结
-    *   
-    *   该研究关注重症急性胰腺炎（SAP）相关肝损伤缺乏有效药物干预的问题，评估经典中药复方茵陈蒿汤（YCHD）的保护作用及机制。研究采用2%牛磺胆酸钠逆行胰胆管灌注建立小鼠SAP模型，并在24小时后评估胰腺、肝脏和血清指标。结果显示，YCHD显著降低血清淀粉酶、ALT和AST水平，并减轻胰腺及肝脏组织病理损伤。机制上，YCHD抑制肝脏TLR4/NF-κB/NLRP3炎症轴相关mRNA表达及关键炎症介质蛋白水平。HPLC-MS/MS证实多种YCHD来源成分分布于肝组织，其中栀子苷肝内丰度最高，提示其可能是主要活性成分之一。总体而言，YCHD至少部分通过抑制肝脏TLR4
-
-*   **[Burden of Epilepsy in China from 1990 to 2023: A Trend Analysis and Prediction Study Based on Data from the GBD 2023 Database.](https://pubmed.ncbi.nlm.nih.gov/42956110/)** (PMID: 42956110)
-    *   
-
-*   **[Cost-Consequence Analysis Comparing Originator r-hFSH-alfa and Biosimilars for =4 Complete Ovarian Stimulation Cycles During Assisted Reproductive Technology Treatment: A Multi-Country Perspective.](https://pubmed.ncbi.nlm.nih.gov/42956104/)** (PMID: 42956104)
-    *   ## 简明中文总结
-    *   
-    *   该研究采用决策树成本-后果模型，模拟七个国家接受辅助生殖技术（ART）的女性最多四个卵巢刺激周期，比较原研重组人卵泡刺激素α（r-hFSH-alfa）与其生物类似药的临床和经济结局。结果显示，原研r-hFSH-alfa的累积活产率更高（58.2% vs 50.8%），且该优势在不同情景和时间范围内持续存在。尽管原研药获得成本略高，但其每活产成本在所有国家均更低，每活产可节省约2,900至8,000欧元以上。以生物类似药起始的治疗
-
-*   **[Evaluation of the DPPH⋅ free radical scavenging activity of 236 marine microbial metabolites.](https://pubmed.ncbi.nlm.nih.gov/42956096/)** (PMID: 42956096)
+*   **[Super-resolution mapping of nuclear stress signaling by probiotic-derived extracellular vesicles in UV-induced skin photodamage.](https://pubmed.ncbi.nlm.nih.gov/42962041/)** (PMID: 42962041)
     *   **简明中文总结（5句）**
-    *   本研究系统评估了236个海洋微生物代谢产物对DPPH自由基的清除活性，初筛在100 µM下发现27个化合物具有不同程度的清除作用（RSA% 53.93–99.00%）。进一步复筛确定13个化合物具有较强活性，IC50为4.94–18.64 µM。其中6个化合物——asperindopiperazine C、dipodazine、2-hydroxyemodic acid、
+    *   该研究聚焦紫外（UV）诱导的光损伤，其可引发氧化应激、DNA损伤和慢性炎症，并导致细胞超微结构及皮肤功能进行性退化。作者利用超分辨荧光显微镜研究植物乳杆菌来源细胞外囊泡（L. plantarum EVs）减轻光损伤的细胞与分子机制。结果显示，UV照射引起广泛细胞器重塑、活性氧升高、DNA损伤信号增强及炎症激活；而EV预处理和后处理均能保护细胞器完整性并恢复天然纳米尺度结构。机制
 
-*   **[Accelerated Discovery of Zn(II) Therapeutic Coordination Polymers (TCPs) for Controlled Drug Release.](https://pubmed.ncbi.nlm.nih.gov/42956093/)** (PMID: 42956093)
-    *   **简明中文总结（约5句）**
-    *   该研究报道了一种用于治疗性配位聚合物（TCPs）的高通量筛选流程，可并行评估4种非甾体抗炎药与6
-
-*   **[A dCas9 proximity reporter for investigating DNA linear and rotational dynamics.](https://pubmed.ncbi.nlm.nih.gov/42956069/)** (PMID: 42956069)
-    *   **简明总结（约5句）：**
-    *   该研究利用失活Cas9（dCas9）的高特异性DNA结合
-
-*   **[Somapacitan Treatment in Children and Adolescents Born SGA: Two-Year Efficacy and Preference Over Daily GH.](https://pubmed.ncbi.nlm.nih.gov/42956060/)** (PMID: 42956060)
+*   **[Mitochondrial metabolic reprogramming by a glutamine antagonist radioenhancer conjugate drives pyroptosis and antitumor immunity.](https://pubmed.ncbi.nlm.nih.gov/42962039/)** (PMID: 42962039)
     *   
+
+*   **[Fluid-driven robotic micromanipulation for assembloid fabrication.](https://pubmed.ncbi.nlm.nih.gov/42962036/)** (PMID: 42962036)
+    *   **简明总结（4–6句）**
+    *   该论文针对细胞球体组装为空间有序assembloid时缺乏标准化制造策略、 precision和可重复性不足的问题，提出机器人微操纵平台FDT-VSC。该平台将多维视觉感知与微流控控制结合，实现多种细胞球体的温和、可编程组装。作者据此自下而上构建了结构明确的异质多细胞组织，并可程序化编排多谱系模型以模拟早期器官发生微环境。关键发现是：该系统在可扩展制造肿瘤-基质assembloid时提高了一致性，从而支持更可靠的药物筛选。总体表明FDT-VSC可推动assembloid在模块化组织工程、发育生物学和药物发现中的应用。
+
+*   **[Photosynthetic chimeric stem cells function as mitochondrial batteries.](https://pubmed.ncbi.nlm.nih.gov/42962029/)** (PMID: 42962029)
+    *   ### 简明中文总结
+    *   该研究构建了“光合作用赋能”的跨界嵌合干细胞（PCSs，即“线粒体电池”）：将植物来源的类囊体人工核及编码FGF21的mRNA导入去核骨髓间充质干细胞。光合活性可增强线粒体向受损细胞的转移，恢复其代谢，并提升合成代谢以增加FGF21产生。持续释放的FGF21进一步促进线粒体生物发生，维持长期细胞能量稳态。小鼠和猪伤口愈合模型显示，PCSs可“充电”细胞能量并加速创面修复。该平台支持模块化mRNA可
+
+*   **[A dual-targeting lipid nanoparticle delivery system for precision phage therapy against multidrug-resistant Gram-negative bacteria.](https://pubmed.ncbi.nlm.nih.gov/42962024/)** (PMID: 42962024)
+    *   **简明总结：**
+    *   针对革兰阴性菌耐药危机，作者构建了双靶向脂质纳米粒-嵌合噬菌体系统AbLCP：将展示抗LPS抗体的基因修饰M13噬菌体与多粘菌素B偶联，并封装于抗LPS抗体功能化脂质纳米粒中。该系统克服传统噬菌体疗法细胞摄取差
+
+*   **[A nematic framework for sprouting angiogenesis.](https://pubmed.ncbi.nlm.nih.gov/42962019/)** (PMID: 42962019)
+    *   
+
+*   **[Decoder-FFPE-seq enables sensitive, genome-wide spatial transcriptomics of archival tissues at single-cell resolution.](https://pubmed.ncbi.nlm.nih.gov/42962014/)** (PMID: 42962014)
+    *   
+
+*   **[Enhanced room-temperature spin transport in a deuterated molecular single crystal.](https://pubmed.ncbi.nlm.nih.gov/42962010/)** (PMID: 42962010)
+    *   
+
+*   **[Human hair-bearing skin organoids reveal cell type-specific susceptibility and innate immune responses to herpes simplex virus 1.](https://pubmed.ncbi.nlm.nih.gov/42962008/)** (PMID: 42962008)
+    *   
+
+*   **[The Fireside Database: Large-scale evidence from 25,419 psychedelic support interactions.](https://pubmed.ncbi.nlm.nih.gov/42962007/)** (PMID: 42962007)
+    *   **摘要总结（中文）**
+    *   该资源介绍了美国“Fireside Database”：在2021年4月至2026年2月期间，由220名受训志愿者在Fireside Project迷幻支持热线完成的25,419次同伴支持互动。数据库整合了结构化互动记录、志愿者编码元数据，以及覆盖五个结局维
+
+*   **[A soft wireless bioelectronic patch for noninvasive modulation of cavernosal microenvironment in diabetic erectile dysfunction.](https://pubmed.ncbi.nlm.nih.gov/42962004/)** (PMID: 42962004)
+    *   **简明中文总结（4-6句）**
+    *   糖尿病诱导的勃起功能障碍（ED）因海绵体微环境长期受损而难以逆转，传统口服或海绵体内注射治疗存在靶向性差、药物分布不均和并发症风险。作者提出一种柔软无线电子贴片SWEED，通过“微电极-药物储库-纳米孔”结构在纳米尺度增强局部电场，实现安全
 
 
 <!-- DAILY_PAPERS_END -->
