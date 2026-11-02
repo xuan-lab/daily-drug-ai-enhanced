@@ -12,105 +12,101 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-10-31
+### Summary for 2026-11-02
 *Fetched and summarized 24 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Fontan-associated liver disease: a Croatian national experience and current clinical practice.](https://pubmed.ncbi.nlm.nih.gov/42964001/)** (PMID: 42964001)
-    *   **简明中文总结（5句）**
-    *   1. 该横断面研究纳入克罗地亚一家国家三级转诊中心2023—2025年随访的37例成人Fontan循环患者，评估Fontan相关肝病（FALD）特征及临床相关性。
-    *   2. 患者中位年龄仅24
+*   **[Food and Drug Administration authorization of spine surgery devices: a 2-decade analysis of clearance trends, regulatory pathways, and market entry.](https://pubmed.ncbi.nlm.nih.gov/42967350/)** (PMID: 42967350)
+    *   **简明中文总结（约4–6句）**
+    *   该研究系统分析了2000—2023年美国FDA对脊柱手术器械的授权趋势，共识别5977件器械，其中脊柱植入物与固定器械占72.4%，但年度占比由78.7%降至50.9%。同期导航器械从0%升至31.3%，2023年达107件，成为第二大
 
-*   **[Trajectory of self-reported alcohol consumption leading up to the initial diagnosis of alcohol-related cirrhosis: a retrospective study.](https://pubmed.ncbi.nlm.nih.gov/42964000/)** (PMID: 42964000)
-    *   **简明总结：**
-    *   该回顾性研究纳入2012—2024年诊断的4332例酒精相关肝硬化成人患者，分析诊断前最近10次就诊中的自报饮酒记录。结果显示，诊断前中位388天时“正在饮酒”比例为59.7%，至诊断前8天降至41.9%；同期“目前未饮酒”从16.7%升至41.3%。持续报告阴性者仅占9.5%，而81.9%的患者报告模式呈波动变化。作者认为，临近诊断时向“戒酒”转变可能反映高利害临床场景下的低报。研究提示应将客观生物标志物纳入酒精相关肝病诊疗，以提高诊断准确性和患者管理。
+*   **[Machine learning-assisted intraoperative hyperspectral imaging in cranial meningioma surgery: interim results of an ongoing study.](https://pubmed.ncbi.nlm.nih.gov/42967340/)** (PMID: 42967340)
     *   
-    *   **创新性总结：**
-    *   - 通过诊断前多次临床接触的纵向自报饮酒模式，量化了酒精相关肝硬化诊断前的报告偏移和潜在低报。
-    *   - 发现多数患者报告不稳定，且仅少数持续否认饮酒，提示单
 
-*   **[Pharmacokinetics of Pradofloxacin in Loggerhead Sea Turtles (Caretta caretta) After Single Intravenous and Subcutaneous Injections.](https://pubmed.ncbi.nlm.nih.gov/42963985/)** (PMID: 42963985)
+*   **[Evaluation of a Standardized Treatment Regimen for Antibody Mediated Rejection Following Lung Transplantation.](https://pubmed.ncbi.nlm.nih.gov/42967314/)** (PMID: 42967314)
+    *   
+
+*   **[Serum sclerostin in relation to insulin resistance and epicardial fat thickness in obese women.](https://pubmed.ncbi.nlm.nih.gov/42967311/)** (PMID: 42967311)
     *   **简明总结（约5句）**
-    *   1
+    *   该病例对照研究纳入90名女性（55名肥胖、35名年龄匹配对照），评估血清硬化蛋白（sclerostin）与胰岛素抵抗及心外膜脂肪厚度（EFT）的关系。结果显示，肥胖女性血清sclerostin显著升高，且与空腹胰岛素、HOMA-IR、甘油三酯及EFT呈正相关；合并胰岛素抵抗的肥胖者sclerostin水平更高。ROC分析提示sclerostin对胰岛素抵抗具有较好判别能力（AUC=0.89），对EFT增高的判别能力中等（AUC=0.80）。多因素分析中，仅BMI而非sclerostin是EFT增高的
 
-*   **[Operationalizing quantitative neuromuscular monitoring in perioperative practice: A pharmacy-led framework for health systems.](https://pubmed.ncbi.nlm.nih.gov/42963984/)** (PMID: 42963984)
-    *   ### 简明中文总结
-    *   该叙述性综述指出，尽管ASA推荐使用定量神经肌肉监测以降低残余神经肌肉阻滞，但不同麻醉场所的实施仍不一致。残余神经肌肉阻滞在约10%的sugammadex拮抗后患者中仍存在，并与术后并发症相关；仅依赖临床或定性评估无法可靠识别。文章提出一个由药师主导的6步实施框架：建立基线并论证变革、选择监测设备、制定教育策略、整合工作流程、故障排除、追踪成功指标。框架强调药师在方案制定、拮抗策略、成本管理、绩效反馈及安全质量改进中的领导作用。其与药物科学的相关性在于通过规范化监测优化肌松拮抗剂使用、减少药物相关围术期风险并提升用药安全。
-    *   
-    *   ### 创新性总结
-    *   - 将定量神经肌肉监测的实施转化为药师主导、可操作的
-
-*   **[Concomitant calcium supplementation does not compromise immunosuppressive dosing in kidney transplant recipients.](https://pubmed.ncbi.nlm.nih.gov/42963953/)** (PMID: 42963953)
+*   **[Biomaterial-assisted culture of mesenchymal stem cells for enhanced extracellular vesicle production and cartilage regeneration: a systematic review.](https://pubmed.ncbi.nlm.nih.gov/42967269/)** (PMID: 42967269)
     *   
 
-*   **[MetabDB: an integrated resource for human metabolic measures, disease associations, and genetic evidence.](https://pubmed.ncbi.nlm.nih.gov/42963951/)** (PMID: 42963951)
+*   **[Genomic and phenotypic characterization of a honey-derived Enterococcus faecium isolate from the Brazilian semiarid region.](https://pubmed.ncbi.nlm.nih.gov/42967257/)** (PMID: 42967257)
     *   
 
-*   **[PROTAC-DB 4.0: an expanded knowledgebase of targeted protein degradation modalities with AI-powered knowledge discovery.](https://pubmed.ncbi.nlm.nih.gov/42963943/)** (PMID: 42963943)
-    *   
-
-*   **[MultiTargetDB: a comprehensive database of multitarget ligands for polypharmacology research and drug discovery.](https://pubmed.ncbi.nlm.nih.gov/42963940/)** (PMID: 42963940)
+*   **[Evaluation of miR-155-5p expression and ovarian histopathological changes in a cyclophosphamide-induced mouse model of premature ovarian insufficiency.](https://pubmed.ncbi.nlm.nih.gov/42967256/)** (PMID: 42967256)
     *   **简明中文总结（4–6句）**
-    *   1. 针对复杂疾病的多靶点药物发现需求增长，但高质量、系统整理的多药理学资源仍十分有限。
-    *   2. 作者构建了 MultiTargetDB，一个整合多靶点配体、综合生物注释及测量层面溯源信息的数据库。
-    *   3. 该库在小分子层面整合化学结构（
+    *   本研究在环磷酰胺诱导的早发性卵巢功能不全（POI）小鼠模型中，评估卵巢组织miR-
 
-*   **[Tenofovir diphosphate intracellular concentration following tenofovir alafenamide administration in bictegravir-containing vs. dolutegravir-containing antiretroviral regimens.](https://pubmed.ncbi.nlm.nih.gov/42963933/)** (PMID: 42963933)
+*   **[The Steroid Symptom Questionnaire Multiple Myeloma (SSQ-MM): translation and cross-cultural adaptation into Danish and Norwegian and initial psychometric evaluation of the Norwegian version.](https://pubmed.ncbi.nlm.nih.gov/42967255/)** (PMID: 42967255)
+    *   **简明中文总结（4-6句）**
+    *   本研究将类固醇症状问卷-多发性骨髓瘤（SSQ-MM）翻译并文化适应为丹麦语和挪威语，并在新诊断、接受每周地塞米松治疗的挪威MM患者中初步评估挪威版
+
+*   **[Circ_0018814 promotes the osteogenic differentiation of mesenchymal stem cells in ankylosing spondylitis by regulating the miR-944/KLF4 axis.](https://pubmed.ncbi.nlm.nih.gov/42967246/)** (PMID: 42967246)
     *   
 
-*   **[Single-Nucleus Transcriptomics Reveal Mechanisms of Cardiovascular Protection Against Ponatinib-Induced Cardiotoxicity Through ROCKs Deletion in Cardiomyocytes.](https://pubmed.ncbi.nlm.nih.gov/42963886/)** (PMID: 42963886)
-    *   **简明中文总结（5句）**
-    *   1. 泊那替尼（Ponatinib）是强效酪氨酸
+*   **[[Testicular teratoma with somatic-type malignancy].](https://pubmed.ncbi.nlm.nih.gov/42967245/)** (PMID: 42967245)
+    *   **简明中文总结（4-6句）**
+    *   该文报告一例51岁男性转移性睾丸癌病例，半睾丸切除标本显示青春期后畸胎瘤内发生横纹肌肉瘤，即睾丸畸胎瘤的体细胞型恶性转化。此类转化少见，文献报道约占3–8%，可表现为癌或肉瘤分化，并与预后不良及对常规治疗耐药相关。患者因转移性疾病接受VIP方案（依托泊苷-异环磷酰胺-顺铂），后因异环磷酰胺不耐受改为EP方案（依托泊苷-顺铂）。作者强调，含横纹肌肉瘤成分的睾丸畸胎瘤
 
-*   **[Poly-β-Hydroxybutyrate Nanoparticles Improve Septic Immunoparalysis and Prognosis by Energy-Refreshing via Controlled Release of β-Hydroxybutyrate.](https://pubmed.ncbi.nlm.nih.gov/42963879/)** (PMID: 42963879)
+*   **[Targeting RIPK1-NF-κB crosstalk: A novel perspective on necroptosis in Alzheimer's Disease.](https://pubmed.ncbi.nlm.nih.gov/42967243/)** (PMID: 42967243)
     *   
 
-*   **[Phyto-progestins for the management of oligomenorrhea and/or endometrial thickening in reproductive-age breast cancer survivors with BRCA mutation: a retrospective, real-world study.](https://pubmed.ncbi.nlm.nih.gov/42963866/)** (PMID: 42963866)
-    *   
+*   **[Oleuropein and punicic acid induce oxidative stress and cytotoxicity in MCF-7 breast cancer cells, with protection by peroxiredoxin antioxidant proteins.](https://pubmed.ncbi.nlm.nih.gov/42967238/)** (PMID: 42967238)
+    *   ### 简明中文总结
+    *   该研究探讨橄榄叶来源的橄榄苦苷（OL）和石榴来源的石榴酸（PA）对MCF-7乳腺癌细胞的抑制作用及过氧化物还原酶（Prdx）抗氧化系统的介导作用。结果表明，OL和PA均以浓度依赖方式降低细胞活力、增加细胞毒性并引起细胞应激/死亡相关形态改变，其中PA在较低浓度下作用更强。两者均显著增加线粒体超氧化物生成，PA还诱导脂质过氧化。采用siRNA短暂抑制Prdx后，细胞对OL和PA的敏感性增强，且PA暴露后的增敏效应更明显。结论提示OL和PA可通过诱导氧化应激和细胞毒性发挥抗乳腺癌细胞作用，而Prdx在癌细胞应答中起保护作用。该研究
 
-*   **[Comparison of HPV Antibodies Measured Prior to Diagnosis of Anal, Cervical, Oropharyngeal, Penile and Vaginal Cancers in the HPV Cancer Cohort Consortium.](https://pubmed.ncbi.nlm.nih.gov/42963861/)** (PMID: 42963861)
-    *   
-
-*   **[Comparative treatment effects of direct oral anticoagulants versus warfarin for nonvalvular atrial fibrillation in clinical practice vary over time due to channelling.](https://pubmed.ncbi.nlm.nih.gov/42963860/)** (PMID: 42963860)
-    *   
-
-*   **[Bayesian Additive Regression Trees modeling of pharmacogenomic and clinical data predicts amlodipine response in hypertension.](https://pubmed.ncbi.nlm.nih.gov/42963859/)** (PMID: 42963859)
-    *   
-
-*   **[Stress signaling and physiological modulation by glycine betaine for cadmium-resilient maize.](https://pubmed.ncbi.nlm.nih.gov/42963845/)** (PMID: 42963845)
-    *   **简明总结（5句）**
-    *   该研究探讨天然渗透保护剂甘氨酸甜菜碱（GB）通过种子引发和叶面喷施两种方式，对镉（Cd）胁迫下
-
-*   **[H-Aggregated Cationic Isomers to Boost ROS Generation for Photodynamic Therapy.](https://pubmed.ncbi.nlm.nih.gov/42963836/)** (PMID: 42963836)
-    *   **简明中文总结：**
-    *   该研究提出并验证了基于H聚集体促进系间窜越（ISC）以增强光动力治疗（PDT）效应的策略：
-
-*   **[Recurrent Reactions to Enzyme Replacement Therapy in Infantile-Onset Pompe Disease: A Case of Immunologic Barriers to Drug Tolerance.](https://pubmed.ncbi.nlm.nih.gov/42963832/)** (PMID: 42963832)
-    *   
-
-*   **[Dose-Response Relationship Between Triglyceride Glucose-Waist Height Ratio Index and Cardiometabolic Multimorbidity Among Chinese Middle-Aged and Older People.](https://pubmed.ncbi.nlm.nih.gov/42963829/)** (PMID: 42963829)
-    *   **中文总结（约4-6句）**
-    *   1. 该研究基于CHARLS队列（2011年基线、201
-
-*   **[Rv0783c of Mycobacterium tuberculosis Acts as a Proton-Motive Force Dependent Multidrug Efflux Transporter Involved in the Efflux of Structurally Unrelated Antibiotics and Enhancing Biofilm Formation.](https://pubmed.ncbi.nlm.nih.gov/42963827/)** (PMID: 42963827)
-    *   
-
-*   **[Microduplication Overlapping YY1 at 14q32.2 Narrows the Candidate Interval for Cortical Malformation and Early-Onset Arterial Ischemic Stroke.](https://pubmed.ncbi.nlm.nih.gov/42963822/)** (PMID: 42963822)
-    *   
-
-*   **[Factors associated with missed video directly observed therapy sessions among persons with TB.](https://pubmed.ncbi.nlm.nih.gov/42963818/)** (PMID: 42963818)
-    *   **简明中文总结（约4-6句）**
-    *   本研究基于乌干达DOT Selfie随机对照试验的二次分析，纳入71名使用视频直接观察治疗（VDOT）的结核患者，旨在识别治疗期间漏交VDOT视频的相关因素。负二项回归显示，HIV合并感染、年龄>30岁、饮酒、已婚以及家庭人口≤4人与漏交VDOT发生率更高相关。调整混杂后，饮酒和HIV合并感染仍是独立影响因素，而婚姻状况和家庭规模也持续显示重要关联，值得进一步研究。该研究提示，数字依从性监测工具的效果受患者临床特征和社会家庭因素影响，在低资源环境中尤其需要针对性支持。对药物科学而言，VDOT漏交可作为结核治疗依从性风险的信号，直接关系到疗效、复发和耐药风险，因此药师应将数字监测与个体化用药支持相结合。
+*   **[Parenteral drug delivery utilizing surface-eroding materials.](https://pubmed.ncbi.nlm.nih.gov/42967231/)** (PMID: 42967231)
+    *   **简明中文总结（约4–6句）**
+    *   该综述聚焦可用于长效肠外给药的可生物降解表面侵蚀材料，指出传统扩散型或本体降解型系统常存在突释、非线性释放、释放不完全及包封药物活性下降等问题。表面侵蚀材料的降解主要局限于材料表面，因而可实现更可预测、依赖几何形状的释放行为，并具有实现零级释放的潜力。文章系统总结了表面侵蚀材料、区分表面侵蚀与本体降解的方法，以及其在肠外控释给药中的应用。尽管该类材料为精准控释提供了机会，但其临床转化仍受表征方法、稳定性及器件制造等挑战限制。作者认为，标准化降解机制评价方法并推进微尺度器件制造，是明确其在肠外给药中临床价值的关键。
     *   
     *   **创新性总结**
-    *   - 在低资源环境（乌干达）的RCT数据中，定量分析VDOT漏交的相关因素。
-    *   - 将HIV合并感染、饮酒等临床因素与婚姻、家庭规模等社会因素共同纳入数字依从性监测框架。
+    *   - 系统整合表面侵蚀型可降解材料用于肠外长效控释的证据与方法学。
+    *   - 强调“表面侵蚀—几何依赖释放—潜在零级释放”
 
-*   **[How do adult migrants with active TB adhere to care in high-income countries? A systematic review.](https://pubmed.ncbi.nlm.nih.gov/42963817/)** (PMID: 42963817)
-    *   该系统综述纳入
+*   **[Liposomal irinotecan and capecitabine plus bevacizumab as second-line therapy in metastatic colorectal cancer: A multicenter, single-arm study.](https://pubmed.ncbi.nlm.nih.gov/42967221/)** (PMID: 42967221)
+    *   **简明总结：**
+    *   该多中心单臂研究评估脂质体伊立替康联合卡培他滨和贝伐珠单抗，作为奥沙利铂一线治疗失败的转移性结直肠癌（mCRC）二线方案。共入组63例患者，在至少完成一次肿瘤评估的患者中，客观缓解率为22.9%，疾病控制率为
 
-*   **[Macronutrient-based interventions and TB treatment outcomes: a scoping review.](https://pubmed.ncbi.nlm.nih.gov/42963816/)** (PMID: 42963816)
-    *   **简明总结（4–6句）**
-    *   该文为一项范围综述，系统梳理了活动性结核病治疗期间基于宏量营养素的营养干预及其与治疗结局、临床恢复的关系。共筛选5,578条记录，最终纳入14项研究、7,298名成人，干预包括食物篮/家庭口粮、即食营养补充剂、营养咨询或其组合，其中蛋白质是最常关注的宏量营养素。评估结局涵盖治疗完成、死亡、治疗失败、失访、治疗成功、治愈、痰涂片/培养转阴及依从性等。总体提示宏量营养素干预可能改善结核治疗结局并支持临床恢复，但现有研究在设计、干预内容和结局报告方面异质性较大。作者认为仍需设计良好、采用标准化
+*   **[Early-Life Polyethylene Microplastic Exposure Exacerbates ADHD-Like Behaviors in Mice via PI3K/AKT1/Nrf2 Signaling: Evidence From the Pilot Cohort and Multi-Omics Analyses.](https://pubmed.ncbi.nlm.nih.gov/42967219/)** (PMID: 42967219)
+    *   
+
+*   **[Claudin-12-Expressing Fibroblasts Facilitate Metastatic Spread of Pancreatic Cancer Through Physical Interactions.](https://pubmed.ncbi.nlm.nih.gov/42967071/)** (PMID: 42967071)
+    *   
+
+*   **[Neutrophils: Heterogeneity, Biology, Diseases, and Therapeutic Strategies.](https://pubmed.ncbi.nlm.nih.gov/42966964/)** (PMID: 42966964)
+    *   **简明总结（约5句）：**
+    *   该综述指出，中性粒细胞是循环中最丰富的白细胞，也是先天免疫的核心细胞，参与宿主防御、炎症、组织重塑和疾病进展。越来越多的证据表明中性粒细胞具有显著异质性和功能可塑性，不同亚群可依组织及疾病背景发挥保护或致病作用。文章系统总结了中性粒细胞的募集、吞噬、氧化反应、胞外诱捕网形成及其与组织微环境的相互作用，并强调其在癌症、炎症性疾病和感染性疾病中的背景依赖性功能。基于这些认识，综述讨论了从广泛调节中性粒细胞到精准靶向、以及利用中性粒细胞进行药物递送的治疗策略。文章还比较了活中性粒细胞载体、中性粒细胞膜包覆纳米颗粒和中性粒细胞来源囊泡在制备
+
+*   **[Engineering xanthophyll esterification: LbXES2 mediates zeaxanthin dipalmitate biosynthesis and remodels fruit flavor metabolism.](https://pubmed.ncbi.nlm.nih.gov/42966962/)** (PMID: 42966962)
+    *   **简明中文总结（约5句）**
+    *   该研究围绕枸杞中标志性叶黄素二酯——玉米
+
+*   **[When are Two-Dimensional Covalent Organic Frameworks Good Electrodes for Lithium Ion Batteries? A Data-Driven Analysis.](https://pubmed.ncbi.nlm.nih.gov/42966910/)** (PMID: 42966910)
+    *   
+
+*   **[Short-Term Pain Outcomes of Trigger Point Injection Versus Dry Needling for Acute Myofascial Low Back Pain in the Emergency Department: A Prospective Randomized Comparative Study.](https://pubmed.ncbi.nlm.nih.gov/42966884/)** (PMID: 42966884)
+    *   
+
+*   **[Defining Core Functions and Forms for the Implementation of Pharmacogenomics Testing in Primary Care.](https://pubmed.ncbi.nlm.nih.gov/42966874/)** (PMID: 42966874)
+    *   **简明总结（约4–6句）**
+    *   该文关注药物基因组学（PGx）检测在初级保健中整合不足的问题，将其视为一种多组件、复杂的健康干预。作者通过早期采纳者工作坊及关键意见领袖定性访谈，识别在初级保健实施PGx指导用药所需的核心功能与可本地化调整的实施形式。工作坊就六项核心功能达成共识：患者识别、检测开具、实验室检测、结果返回、提供用药建议和调整药物治疗；关键意见领袖另提出“领导参与”这一功能。不同地区在实施形式上差异较大，取决于当地情境和可用资源。文章主张应区分不可妥协的“核心功能”与可
+
+*   **[Social and Environmental Exposures and the Developing Gut of Newborns With Congenital Heart Disease.](https://pubmed.ncbi.nlm.nih.gov/42966652/)** (PMID: 42966652)
+    *   
+
+*   **[Efficacy and Safety of Low-Dose Versus Standard-Dose Alteplase to Treat High-Risk Pulmonary Embolism.](https://pubmed.ncbi.nlm.nih.gov/42966650/)** (PMID: 42966650)
+    *   **
+
+*   **[Dysphagia in Patients With High-Flow Nasal Cannulas: Risk and Practice Implications.](https://pubmed.ncbi.nlm.nih.gov/42966646/)** (PMID: 42966646)
+    *   **简明总结（5句）**
+    *   该回顾性病历审计纳入195例接受高流量鼻导管（HFNC）治疗的成人住院患者，旨在识别HFNC期间发生吞咽困难的高风险人群并比较临床结局。研究未发现吞咽困难与HFNC设置（流量、FiO₂或持续时间）之间存在剂量-反应关系。入院期间吞咽困难与死亡率或既往吞咽困难状态无显著关联。但吞咽困难患者ICU住院时间更长，且吞咽困难状态与插管显著相关，插管在吞咽困难患者中最常见。总体而言，HFNC参数不能作为标准化吞咽困难筛查的触发因素，但吞咽困难提示插管和ICU停留延长的风险。
+    *   
+    *   **创新性总结**
+    *   - 聚焦HFNC成人住院患者这一证据有限人群，系统审计HFNC设置与吞咽困难及临床结局的关系。
+    *   - 采用随机抽样病历审计，发现HFNC流量、FiO₂和持续时间与吞咽困难无剂量-反应关系。
+    *   - 未识别出可用于标准化筛查流程的特异性触发因素，但明确吞咽困难与
 
 
 <!-- DAILY_PAPERS_END -->
