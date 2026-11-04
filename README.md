@@ -12,88 +12,91 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-11-03
-*Fetched and summarized 22 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
+### Summary for 2026-11-04
+*Fetched and summarized 24 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Using a Living Lab to Refine an Electronic Prescribing Workflow: Insights From the eRIKA Project.](https://pubmed.ncbi.nlm.nih.gov/42970788/)** (PMID: 42970788)
-    *   
+*   **[Mobile Medical Education Apps as Digital Health Information Resources in China and the United States: Longitudinal App Store Metadata Analysis and Topic Modeling of User Review Narratives.](https://pubmed.ncbi.nlm.nih.gov/42976334/)** (PMID: 42976334)
+    *   **简明中文总结（约5句）**
+    *   该研究对中美467款医学教育App及232,598条用户评论进行纵向应用商店分析，总体“基于
 
-*   **[Topical Esomeprazole for the Prevention and Treatment of Radiation Dermatitis in Patients With Head and Neck Cancer: Protocol for a Phase 2 Randomized Controlled Trial.](https://pubmed.ncbi.nlm.nih.gov/42970785/)** (PMID: 42970785)
-    *   
+*   **[Predictive and Prognostic Role of Neutrophil-to-Lymphocyte Ratio in Diabetic Nephropathy: Protocol for a Systematic Review and Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/42976328/)** (PMID: 42976328)
+    *   ### 简明中文总结（约4–
 
-*   **[Machine Learning-Based Detection of Prophylactic Indication Mentions for Stress-Related Mucosal Disease in Chinese Clinical Progress Notes: Text Classification Study.](https://pubmed.ncbi.nlm.nih.gov/42970760/)** (PMID: 42970760)
-    *   
-
-*   **[A Randomized Factorial Trial of Varenicline, Nicotine Lozenges, and Smartphone Medication Adherence Reminders for Smoking Cessation: Protocol for the COMBO II Study.](https://pubmed.ncbi.nlm.nih.gov/42970756/)** (PMID: 42970756)
-    *   
-
-*   **[Can AI Help Repurpose Drugs to Fight Against Antibiotic Resistance?](https://pubmed.ncbi.nlm.nih.gov/42970746/)** (PMID: 42970746)
-    *   **简明中文总结（5句）**
-    *   1. 面对抗菌药物耐药（AMR）
-
-*   **[Inhibitory effects of Fucoidan on Muscovy duck-origin parvovirus in vitro and in vivo.](https://pubmed.ncbi.nlm.nih.gov/42970702/)** (PMID: 42970702)
-    *   **摘要总结（5句）**
-    *   1. 番鸭源鹅细小病毒（MDGPV）可导致番鸭严重肠道栓塞和高死亡率，对番鸭养殖业威胁重大。
-    *   2. 本研究评估了岩藻多糖（fucoidan）抗MDGPV活性，并解析其作用机制。
-    *   3. 网络药理学筛选出10个核心靶点，其中EGFR被确定为关键候选靶点；实验证实岩藻多糖呈剂量依赖性抑制MDGPV复制，同时下调EGFR表达并抑制MAPK通路核心蛋白磷酸化。
-    *   4. 相反，EGFR过表达可增强MDGPV复制，而岩藻多糖处理可有效消除这一促病毒效应。
-    *   5. 在番鸭攻毒模型中，岩藻多糖显著提高生存率并减轻肠道病理损伤，提示其作为天然抗病毒剂的开发潜力。
-    *   
-    *   **创新性总结**
-    *   - 整合网络药理学与体内外实验，揭示岩藻多糖抗MDGPV的关键
-
-*   **[Paradoxical effects of opioids in suppression of colonic motility.](https://pubmed.ncbi.nlm.nih.gov/42970695/)** (PMID: 42970695)
-    *   
-
-*   **[Active immunotherapy against IL-1β restores tissue repair under chronic inflammation.](https://pubmed.ncbi.nlm.nih.gov/42970687/)** (PMID: 42970687)
-    *   **简明中文总结（5句）**
-    *   该研究指出，持续IL-1β信号驱动的慢性炎症会延长促炎髓系细胞活化、阻碍组织修复由炎症期向修复期转换。作者利用自组装肽纳米纤维Coil29开发了靶向IL-1β的主动免疫疗法，在野生型和糖尿病小鼠中均可诱导强健且特异的抗IL-1
-
-*   **[Kinome profiling enabled development of a LATS1/2 inhibitor with wound healing potential.](https://pubmed.ncbi.nlm.nih.gov/42970682/)** (PMID: 42970682)
-    *   
-
-*   **[Rising temperatures, shifting population: Changes in children's ambient heat exposure in China.](https://pubmed.ncbi.nlm.nih.gov/42970678/)** (PMID: 42970678)
-    *   
-
-*   **[Electroactive Gel-MA hydrogels delivering sustained puerarin for myocardial infarction treatment.](https://pubmed.ncbi.nlm.nih.gov/42970639/)** (PMID: 42970639)
-    *   
-
-*   **[Second-Generation JNK Activity Reporter Illuminates the Mechanism of AT1R-Induced JNK Activation.](https://pubmed.ncbi.nlm.nih.gov/42970613/)** (PMID: 42970613)
-    *   
-
-*   **[A common pathogenic founder variant in Rwandan breast cancer cases.](https://pubmed.ncbi.nlm.nih.gov/42970609/)** (PMID: 42970609)
-    *   **简明中文总结（约5句
-
-*   **[Owning the narrative: Exploring the impact of a creative storytelling intervention on stigma and empowerment among persons affected by leprosy in Pakistan.](https://pubmed.ncbi.nlm.nih.gov/42970608/)** (PMID: 42970608)
+*   **[CuBr·(Me2S)-catalyzed tandem cyclization/[4+5] cycloaddition of 2-(alkynyl)cyclopropylpyridines with imidazolidines: access to indolizine-fused 1,4-diazonanes.](https://pubmed.ncbi.nlm.nih.gov/42976327/)** (PMID: 42976327)
     *   **简明总结（约5句）**
-    *   该研究在巴基斯坦卡拉奇评估了一项针对麻风受影响者的参与式讲故事干预，旨在应对持续存在的麻风相关污名并增强赋权。研究采用定性设计，结合photovoice和深访（n=17），并以社会生态模型进行主题分析。结果显示，干预促使参与者
+    *   九元N-杂环骨架因跨环张力较大而
 
-*   **[Stage-dependent activity of curcumin-rosmarinic acid against Leishmania donovani: Synergy in amastigotes.](https://pubmed.ncbi.nlm.nih.gov/42970607/)** (PMID: 42970607)
+*   **[Toward detection of heart failure: development of a sensitive fluorescent kit for clinical sST2 detection.](https://pubmed.ncbi.nlm.nih.gov/42976326/)** (PMID: 42976326)
+    *   **摘要总结（5句）**
+    *   1. 心衰早期症状隐匿，亟需快速、准确的诊断工具；可溶性ST2（sST2）是预测心血管疾病严重程度和死亡风险的重要生物标志物，适合作为早期心衰检测靶点。
+    *   2. 研究将纳米技术介导的蛋白捕获与CRISPR-Cas12a系统结合，建立了一种基于荧光的sST2快速、灵敏检测方法。
+    *   3. sST2存在时可触发三元复合物形成，激活Cas12a的反式切割活性，切割响应
+
+*   **[Direct light-free cysteine-to-boronoalanine conversion in peptides.](https://pubmed.ncbi.nlm.nih.gov/42976324/)** (PMID: 42976324)
+    *   
+
+*   **[Hepatitis C Treatment Access With Implementation of an Antenatal Linkage-to-Care Bundle.](https://pubmed.ncbi.nlm.nih.gov/42976312/)** (PMID: 42976312)
+    *   
+
+*   **[Optimizing Cancer Care Delivery: Capacity and Cost Benefits of Home-Based Self-Administration of Subcutaneous Trastuzumab.](https://pubmed.ncbi.nlm.nih.gov/42976303/)** (PMID: 42976303)
+    *   **简明中文总结（约4-6句）**
+    *   该研究从社会视角评估肿瘤日间病房给予皮下曲妥珠单抗与家庭自我给药的成本和资源使用。采用横断面、非干预
+
+*   **[Neoadjuvant Apalutamide With or Without Abiraterone Acetate Plus Prednisone and Gonadotropin-Releasing Hormone Agonist Prior to Nerve-Sparing Radical Prostatectomy in High-Risk Prostate Cancer: Protocol for a Randomized Phase 2 Trial.](https://pubmed.ncbi.nlm.nih.gov/42976301/)** (PMID: 42976301)
+    *   
+
+*   **[Health in All Policies in Serbian Sectoral Legislation: A Document Analysis.](https://pubmed.ncbi.nlm.nih.gov/42976238/)** (PMID: 42976238)
+    *   **简明中文总结（约5句）**
+    *   该研究以WHO 2014年HiAP框架为基础，审查塞尔维亚10个具有健康影响潜力的部门和21部关键法律，评估立法对健康结果、跨部门治理、公平、证据使用及监测评估的整合程度。研究发现，HiAP在塞尔维亚法律中被概念性承认，但实践整合呈碎片化，健康结果主要体现在教育、交通安全等传统上与健康相关的部门。跨部门合作很少正式化，心理健康人群、性别不平等、
+
+*   **[The Accuracy and Precision of Gravity-Driven Infusions.](https://pubmed.ncbi.nlm.nih.gov/42976233/)** (PMID: 42976233)
+    *   
+
+*   **[Risk of cardiovascular events and mortality associated with LDL and non-HDL cholesterol levels after statin initiation for primary prevention: A multiregional cohort study.](https://pubmed.ncbi.nlm.nih.gov/42976215/)** (PMID: 42976215)
+    *   
+
+*   **[Aromatic profiles and 15-LOX inhibitory effects of Australian and New Zealand Manuka honeys.](https://pubmed.ncbi.nlm.nih.gov/42976209/)** (PMID: 42976209)
+    *   **简明中文总结（5句）**
+    *   
+    *   1. 该研究指出，传统Folin-Ciocalteu总酚（FC-TPC）法无法检测麦卢卡蜂蜜中许多可能有益健康但非
+
+*   **[Knowledge, attitudes, and organ donor registration among medical and health sciences students: A cross-sectional study in Ras Al Khaimah, UAE.](https://pubmed.ncbi.nlm.nih.gov/42976198/)** (PMID: 42976198)
+    *   
+
+*   **[A retrospective study of smart spot, a Bluetooth low‑energy real‑time location system supporting quality improvement efforts in Uganda.](https://pubmed.ncbi.nlm.nih.gov/42976193/)** (PMID: 42976193)
+    *   
+
+*   **[A split nozzle and two-protein chain-like fibers define the tail architecture of Pseudomonas aeruginosa podophage A1002.](https://pubmed.ncbi.nlm.nih.gov/42976175/)** (PMID: 42976175)
+    *   
+
+*   **[Interlaboratory comparison of a multiplex bead assay against the Chlamydia trachomatis antigen Pgp3 using two monoclonal antibody clones.](https://pubmed.ncbi.nlm.nih.gov/42976167/)** (PMID: 42976167)
+    *   
+
+*   **[Living hi: GBMSM narratives of pleasure, risk, and everyday hi-fun (chemsex) navigation in Thailand.](https://pubmed.ncbi.nlm.nih.gov/42976162/)** (PMID: 42976162)
+    *   
+
+*   **[Sex difference in survival benefits of immune checkpoint inhibitors in advanced non-small cell lung cancer: A meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/42976160/)** (PMID: 42976160)
+    *   
+
+*   **[Programmatic and service delivery determinants of PrEP initiation and 3-month continuation among adolescents and young adults in Eastern Uganda.](https://pubmed.ncbi.nlm.nih.gov/42976154/)** (PMID: 42976154)
+    *   
+
+*   **[Exogenous tryptophan aggravates experimental lung fibrosis through activation of AKT-mTORC1 pathway.](https://pubmed.ncbi.nlm.nih.gov/42976151/)** (PMID: 42976151)
+    *   
+
+*   **[Pain, sensory acceptability, and treatment compliance following cryotherapy and topical anesthetics in children: A randomized clinical trial.](https://pubmed.ncbi.nlm.nih.gov/42976146/)** (PMID: 42976146)
+    *   
+
+*   **[Unveiling the neuroinflammatory potential of aspartame in Alzheimer's disease: A comprehensive network toxicology and experimental validation approach.](https://pubmed.ncbi.nlm.nih.gov/42976132/)** (PMID: 42976132)
     *   **简明中文总结（4–6句）**
-    *   本研究探讨铁螯合酚类化合物通过调控宿主铁代谢和巨噬细胞活化来抑制胞内**杜氏利什曼原虫**。作者在RAW 264.7巨噬细胞模型中筛选姜黄素、迷迭香酸、芹菜素和橙皮苷单药及固定比例联合，发现**姜黄素-迷迭香酸（Cur-Ros）**对前鞭毛体呈相加作用（ƩFICI=0.93），对胞内无鞭毛体呈接近阈值的协同作用（ƩFICI=0.49），选择性指数≥10。机制上，该组合增强促炎性巨噬细胞活化，表现为TNF-α和MCP-1分泌增加、IL-10降低，并提高ROS和亚硝酸
+    *   本研究针对阿斯巴甜潜在神经毒性及其与阿尔茨海默病（AD）的关系，整合网络毒理学、分子对接和体外实验进行系统探讨。网络毒理学分析发现阿斯巴甜与AD共有185个交集靶点，PPI网络进一步识别出KDR、CCNE1、GSK-3β等10个核心枢纽基因；分子对接显示其与GSK-3β（-5.002 kcal/mol）和KDR（-5.613 kcal/mol）等靶点具有较好结合潜力。体外实验表明，阿斯巴甜可剂量依赖性降低BV2小胶质细胞
 
-*   **[Integrative network toxicology and machine learning reveal the potential role of 5-hydroxymethylfurfural in exacerbating pulmonary fibrosis.](https://pubmed.ncbi.nlm.nih.gov/42970606/)** (PMID: 42970606)
-    *   
-
-*   **[A multivariate PCA-based evaluation of betaine, vitamin C, and phytogenic (STRESS-BIOMax) - supplemented drinking water in broilers?](https://pubmed.ncbi.nlm.nih.gov/42970600/)** (PMID: 42970600)
-    *   
-
-*   **[Development and characterization of western corn rootworm (Diabrotica virgifera virgifera LeConte) resistant to non-Cry insecticidal proteins Mpp75Aa1.1 and Vpb4Da2.](https://pubmed.ncbi.nlm.nih.gov/42970589/)** (PMID: 42970589)
-    *   
-
-*   **[Carbapenem-valproic acid derivative drug-drug interactions: Evaluation of a pharmacist-facing OurPractice Advisory.](https://pubmed.ncbi.nlm.nih.gov/42970581/)** (PMID: 42970581)
-    *   
-
-*   **[Epigallocatechin-3-gallate attenuates PAR-2-mediated inflammatory signaling and preserves markers of mitochondrial integrity in osteoarthritic chondrocytes.](https://pubmed.ncbi.nlm.nih.gov/42970575/)** (PMID: 42970575)
-    *   
-
-*   **[Perceptions of psychiatrists toward long-acting injectable antipsychotics: A cross-sectional survey from Fujian, China.](https://pubmed.ncbi.nlm.nih.gov/42970568/)** (PMID: 42970568)
-    *   **简明总结（约4–6句）**
-    *   该研究通过便利抽样对福建省222名精神科医生进行横断面问卷调查，评估其对长效注射抗精神病药（LAIs）的知识、态度及推广意愿。结果显示，绝大多数医生自评对LAIs知识充足（96.4%），认可其治疗价值（80.2%）和应用前景（87.8%），并愿意推广LAIs（82.4%）。高成本被认为是最主要的临床使用障碍（90.5
-
-*   **[Enablers and barriers to human papillomavirus vaccination implementation among key stakeholders in Ethiopia: A qualitative study.](https://pubmed.ncbi.nlm.nih.gov/42970565/)** (PMID: 42970565)
+*   **[Rigorous nested cross-validation and external generalization-gap analysis of a machine-learning classifier for U-251 glioblastoma cytotoxicity.](https://pubmed.ncbi.nlm.nih.gov/42976131/)** (PMID: 42976131)
     *   **简明中文总结（4–6句）**
-    *   该研究聚焦埃塞俄比亚HPV疫苗接种实施，指出HPV疫苗是预防宫颈癌的有效且可挽救生命的手段，但在低资源环境中实现高覆盖、公平和可持续接种仍面临挑战。研究采用解释性描述定性设计，结合焦点小组讨论和关键知情人访谈，并基于CFIR 2.0框架分析社区、卫生系统和政策层面的促进与障碍因素。促进因素包括疫苗感知属性与交付适应性、支持
+    *   1.
+
+*   **[Quantification of drug concentrations in individual living cancer cells using Raman spectroscopy and machine learning.](https://pubmed.ncbi.nlm.nih.gov/42976128/)** (PMID: 42976128)
+    *   
 
 
 <!-- DAILY_PAPERS_END -->
