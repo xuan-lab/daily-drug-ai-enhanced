@@ -12,91 +12,96 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-11-05
+### Summary for 2026-11-06
 *Fetched and summarized 24 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Effects of Verapamil on the Pharmacokinetics and Blood Glucose-Lowering Efficacy of Saxagliptin in Normal and Streptozotocin-Nicotinamide-Induced Type 2 Diabetic Male Rats.](https://pubmed.ncbi.nlm.nih.gov/42981591/)** (PMID: 42981591)
+*   **[Miscarriage Risk Prediction for Women With Polycystic Ovary Syndrome Who Achieve Clinical Pregnancy After Fresh Embryo Transfer: Multicenter Development, Geographic External Validation, and Prospective Temporal Validation Study.](https://pubmed.ncbi.nlm.nih.gov/42987309/)** (PMID: 42987309)
     *   
 
-*   **[SSRIs and SNRIs in Hematology - A Systematic Review and Qualitative Analysis.](https://pubmed.ncbi.nlm.nih.gov/42981590/)** (PMID: 42981590)
-    *   **简明总结**
-    *   该系统综述按PRISMA检索2000年至2025年文献，最终纳入24篇，评估SSRIs/SNRIs在恶性血液病（HM）患者中的疗效、对化疗所致周围神经病变（CIPN）的影响、药物相互作用及临床结局。现有证据主要来自体外研究，提示SSRIs/SNRIs可能增强化疗效果；但临床证据非常有限，仅一项研究显示帕罗西汀可改善HM患者抑郁症状。度洛西汀已确立用于治疗疼痛性CIPN的临床地位，但其预防CIPN的证据仍限于临床前模型，缺乏确定性临床验证。安全性方面需关注5-HT毒性、SSRIs/SNRIs影响血小板功能所致出血风险及其他潜在药物相互作用。总体而言，目前尚不能明确推荐HM患者超注册适应症使用SSRIs/SNRIs，需更多临床研究验证其抗癌/化疗增敏作用及
-
-*   **[Elevated Depressive Symptoms and Reported Mental Health Care Among Middle-Aged and Older Adults in China: A Pooled CHARLS Analysis.](https://pubmed.ncbi.nlm.nih.gov/42981586/)** (PMID: 42981586)
-    *   **简明总结（约5句）**
-    *   该研究基于CHARLS 2011—2018年四轮数据，纳入45岁及以上中老年人共67,472次观察（23,619人），发现加权抑郁症状阳性率高达32.4%。在症状阳性且有结局数据者中，仅3.3%报告医生诊断情绪/神经/精神问题，1.3%报告相关治疗；即便近期有门诊或住院医疗接触，报告诊断和治疗者也仅4.3%和1.8%。2011年症状阳性但无诊断治疗者随访中76.3%仍持续有症状，仅
-
-*   **[Intravenous Thrombolysis for Acute Ischemic Stroke - New Directions.](https://pubmed.ncbi.nlm.nih.gov/42981570/)** (PMID: 42981570)
-    *   **简明中文总结（约4–6句）**
-    *   该综述指出，过去5年急性缺血性卒中静脉溶栓（IVT）的应用发生了显著变化，核心挑战之一是将IVT与可改善大血管闭塞性卒中预后的血管内取栓术有效整合。文章围绕IVT和取栓所针对的血管靶点展开讨论，并强调替奈普酶正日益替代阿替普酶用于IVT。综述还关注IVT适应证不断拓宽
-
-*   **[Plozasiran for Severe Hypertriglyceridemia and Risk of Pancreatitis.](https://pubmed.ncbi.nlm.nih.gov/42981569/)** (PMID: 42981569)
+*   **[Divergent Effects of Caloric Restriction and Endurance Training on Adipose Macrophage-Related Gene Expression in Aged Wistar Rats.](https://pubmed.ncbi.nlm.nih.gov/42987286/)** (PMID: 42987286)
     *   
 
-*   **[The Pharmaceutical Exposome: Micro- and Nanoplastic Leaching From Primary Packaging and Its Toxicological Impact on the Human Gut Microbiota.](https://pubmed.ncbi.nlm.nih.gov/42981568/)** (PMID: 42981568)
+*   **[Development, Usability, and Feasibility of a Pain-Stratified Smartphone-Based Home Intervention System for Patients With Adhesive Capsulitis: Exploratory Feasibility and Usability Trial.](https://pubmed.ncbi.nlm.nih.gov/42987277/)** (PMID: 42987277)
+    *   **简明总结（约4–6句）**
+    *   本研究开发了一款针对冻结肩的个性化、按疼痛分层远程康复App，整合智能手机传感器关节活动度自评、基于疼痛的运动分层、使用记录和提醒，并作为常规照护的附加干预进行探索性、评估者盲法随机对照可行性试验。10例患者随机分为App组和纸质指导组，各5例，均完成4周相同内容的家庭运动干预，脱落率0%。App组系统可用性量表均分87.5（SD 5.86），达“优秀”；28天内
+
+*   **[Practical Recommendations for Implementing Remote Patient Monitoring for Patients Receiving Bispecific Antibodies for Multiple Myeloma.](https://pubmed.ncbi.nlm.nih.gov/42987260/)** (PMID: 42987260)
     *   
 
-*   **[Genome Mining-Driven Discovery of the Sactipeptide Smithiosin in Probiotic, Thermophilic Strain Bacillus smithii.](https://pubmed.ncbi.nlm.nih.gov/42981563/)** (PMID: 42981563)
-    *   **简明总结（4–6句）**
-    *   本文关注核糖体合成并翻译后修饰肽（RiPPs）中的sactipeptides，其环状结构由rSAM酶催化的独特硫醚交联（sactionines）形成。作者通过基因组挖掘从工业重要嗜热菌*Bacillus smithii*中鉴定并提取了新型sactipeptide smithiosin，并表征其为已知sactipeptide subtilosin A的新型同源物。随后，他们将smithiosin前体肽基因异源表达于产subtilosin A的*B. subtilis* 168中，且未敲除天然前体基因，仍成功同时产生
+*   **[Postoperative Neuromuscular Paresis and Overlap Syndrome Related to Immune Checkpoint Inhibitors: A Case Report.](https://pubmed.ncbi.nlm.nih.gov/42987229/)** (PMID: 42987229)
+    *   **简明中文总结：**
+    *   免疫检查点抑制剂（ICI）可导致罕见但严重的免疫相关不良事件；其中肌炎、心肌炎和重症肌无力重叠的“3M综合征”虽不常见，但致残率和死亡率较高。本文
 
-*   **[International Initiative on a Refined Staging System for Medullary Thyroid Cancer: A Multinational Multicenter Study.](https://pubmed.ncbi.nlm.nih.gov/42981561/)** (PMID: 42981561)
+*   **[Verticillium dahliae CAP-containing effectors hijack the β-subunit of the SnRK1 complex to suppress plant immunity.](https://pubmed.ncbi.nlm.nih.gov/42987209/)** (PMID: 42987209)
     *   
 
-*   **[Occupational Exposure to Petroleum-Derived Lubricants and Risk of Multiple Sclerosis.](https://pubmed.ncbi.nlm.nih.gov/42981559/)** (PMID: 42981559)
-    *   **简明中文总结**
-    *   该瑞典全国性病例对照研究纳入2,872例新发多发性硬化（MS）患者和6,122名对照，评估职业性石油基润滑剂暴露与MS风险的关联。结果显示，石油基润滑剂职业暴露与MS风险升高相关（OR 1.38，95% CI 1.16–1.65），并呈
+*   **[Descriptive Observational Study of Trends in Subspecialty Utilization Among the Medicaid and Commercially Insured Pediatric Population in New York City.](https://pubmed.ncbi.nlm.nih.gov/42987195/)** (PMID: 42987195)
+    *   **简明中文总结（4-6句）**
+    *   该研究在1个学术医学中心开展回顾性观察，分析7年内4个阶段（整合前、仅COVID公共卫生紧急状态、两者重叠
 
-*   **[Reproductive Lifespan and Hormonal Therapy in Relation to Later-Life Neurovascular Health in Community-Dwelling Older Women.](https://pubmed.ncbi.nlm.nih.gov/42981558/)** (PMID: 42981558)
+*   **[Exploration of Potential Associations Between Sulfated Polysaccharide Exposure and Retinal Findings.](https://pubmed.ncbi.nlm.nih.gov/42987191/)** (PMID: 42987191)
+    *   
+
+*   **[Biomaterial Platforms for Spatiotemporal Control of mRNA Delivery in Tissue Engineering and Regenerative Medicine: Design Rules, Therapeutic Applications, and Translational Roadmap.](https://pubmed.ncbi.nlm.nih.gov/42987165/)** (PMID: 42987165)
+    *   ###
+
+*   **[Improving asthma care: a call for leadership in health, equity and climate.](https://pubmed.ncbi.nlm.nih.gov/42987139/)** (PMID: 42987139)
+    *   
+
+*   **[Prescription Patterns in Canadian Operational Stress Injury Clinics: An In-Depth Examination of Posttraumatic Stress Disorder Treatment Practices.](https://pubmed.ncbi.nlm.nih.gov/42987126/)** (PMID: 42987126)
     *   ### 简明中文总结
-    *   该研究基于Gothenburg H70-1944出生队列中352名认知未受损女性，在70岁及5年后进行脑MRI，评估终身雌激素暴露（内源性生殖跨度及外源性口服避孕药[OC]、绝经激素治疗[MHT]）与晚年脑血管损伤和AD相关脑萎缩的关系。结果显示，较长生殖跨度与较低脑小血管病（SVD）总负担相关；MHT使用与较少血管周围间隙和脑微出血相关。OC和MHT使用均与更高白质完整性相关，联合使用者的各向异性最高，提示可能存在累积效应。MHT仅在APOE-ε4携带者中与AD易感脑区皮层厚度较大相关；较长雌激素暴露还与皮层厚度和白
+    *   该研究通过两部分全国调查，评估加拿大作战应激损伤（OSI）诊所中精神科医生对PTSD的药物治疗模式及指南一致性。20名精神科医生提供了438例PTSD患者数据，患者平均病程8.2年，精神与躯体共病高，药物治疗暴露广泛。结果显示，98.6%患者至少接受1种PTSD相关药物，平均每人3种；SSRI/SNRI常作为治疗基础，总体符合指南一线推荐。但催眠药、抗肾上腺素能药、抗精神病药和苯二氮䓬类辅助使用常见，多药治疗普遍，且不同诊所间药物选择差异明显。作者认为，尽管一线药物选择与指南基本一致，但慢性复杂PTSD患者中多药和机构间变异突出，提示指南落地存在挑战，需务实且结合临床经验的用药指导及序贯
 
-*   **[Time-of-Day of Initial Immune Checkpoint Inhibitor Administration and Its Impact on Outcomes in Metastatic Non-Small Cell Lung Cancer.](https://pubmed.ncbi.nlm.nih.gov/42981555/)** (PMID: 42981555)
-    *   **简明总结（约4–6句）**
-    *   该回顾性队列纳入778例2021–2024年在Mayo Clinic接受一线含免疫检查点抑制剂（ICI）治疗的转移性非小细胞肺癌（NSCLC）患者，按首次ICI给药时间分为早期（
-
-*   **[Photo-Oxidized Highly Oriented Pyrolytic Graphite as a Reactive Carbon Biointerface for Biomolecule Immobilization.](https://pubmed.ncbi.nlm.nih.gov/42981548/)** (PMID: 42981548)
-    *   **简明总结（约5句）**
-    *   该研究针对高定向热解石墨（HOPG）表面化学惰性、限制生物分子高效固定的问题，采用光活化二氧化氯自由基处理在其表面引入含氧官能团。接触角、FTIR和XPS表征显示，氧化后HOPG亲水性增强，并形成C–O、羰基和羧基类含氧基团。BCA实验表明氧化HOPG固定的蛋白量显著高于未处理表面；荧光标记IgG成像和反复洗涤实验显示固定生物分子荧光强度高且保留性增强。进一步固定β-
-
-*   **[Force-Transmission-Enhanced Dual-Modal Piezoelectric Sensing for Monitoring and Analysis of Cardiovascular Health State.](https://pubmed.ncbi.nlm.nih.gov/42981541/)** (PMID: 42981541)
+*   **[Normalized Raman imaging for studies of tissue physiology of the kidney.](https://pubmed.ncbi.nlm.nih.gov/42987000/)** (PMID: 42987000)
     *   
 
-*   **[Low-Solvent Mechanochemical MOF Carrier Nanoarchitectonics for Targeted Quercetin Delivery for Dual-Mode ROS and Anti-inflammation Protection against LPS-Induced Acute Lung Injury.](https://pubmed.ncbi.nlm.nih.gov/42981537/)** (PMID: 42981537)
-    *   **简明总结（约4–6句）**
-    *   该研究针对急性肺损伤（ALI）酸性、富ROS和高炎症介质的微环境
+*   **[Obesity pharmacotherapies and cognition.](https://pubmed.ncbi.nlm.nih.gov/42986976/)** (PMID: 42986976)
+    *   **简明中文总结（4-6句）**
+    *   1. 肥胖和2型糖尿病药物正日益被评估其对认知和脑健康的影响，临床前模型、观察性队列和临床试验均提示可能存在作用，但结果仍不一致。
+    *   2. 综述指出核心难题在于区分认知效应是药物直接作用于神经回路，还是通过改善心血管代谢健康间接产生，抑或二者兼有。
+    *   3. 文章围绕心血管代谢疾病、衰老和阿尔茨海默病，重点评估GLP-1为基础的治疗及同时作用于GIP、胰高血糖素和amylin通路的联合策略。
+    *   4. 认知结局可能受受体药理学、脑内暴露、代谢背景和疾病阶段共同影响，这些因素决定药物能否在特定人群中获益。
+    *   5. 与药物科学的相关性在于：需将中枢暴露、靶点选择性、联合用药机制和患者分层纳入认知效应评价，而不能
 
-*   **[Serum Aberrant Expression of Long Non-coding RNA LINC00365 and its Diagnostic Value in Alzheimer's Disease.](https://pubmed.ncbi.nlm.nih.gov/42981447/)** (PMID: 42981447)
+*   **[Discovering molecular modulators with nanoswitch screening.](https://pubmed.ncbi.nlm.nih.gov/42986965/)** (PMID: 42986965)
+    *   **简明中文总结（约4–6句）**
+    *   该研究针对蛋白–蛋白相互作用（PPI）调节剂及三元复合物类药物发现困难的问题，建立了FIND平台：将DNA纳米开关介导的核苷酸编码文库筛选与二代测序结合，实现超高通量发现可诱导或增强PPI的分子。FIND可直接功能性筛选多体相互作用，弥补传统筛选通量不足或难以直接检测多体相互作用的局限。作者用FIND成功发现可稳定ACE2与SARS-CoV-2受体结合域（RBD）相互作用的纳米抗体，并从DNA条形码小分子库中发现PPARγ激动剂。研究表明FIND可快速发现诱导/稳定PPI的纳米抗体和小分子调节剂，具有拓展至多种疾病治疗药物发现的潜力。其与
+
+*   **[Targeting hormone conversion through dietary fiber improves polyendocrine metabolic ovarian syndrome.](https://pubmed.ncbi.nlm.nih.gov/42986964/)** (PMID: 42986964)
     *   
 
-*   **[Prediction models for venous thromboembolism in pediatric patients: A protocol for systematic review and critical appraisal.](https://pubmed.ncbi.nlm.nih.gov/42981443/)** (PMID: 42981443)
-    *   **简明中文总结（约5句）**
-    *   该文是一项系统评价方案，而非已完成的研究，因此尚未报告具体结果或关键发现。其目的是系统评估已发表的儿童静脉血栓栓塞症（VTE）预测模型，分析模型特征、预测因子、效能、方法学质量及适用性。儿童VTE是病死率较高的严重疾病，也是住院儿童重要并发症来源，可延长住院、增加死亡和医疗费用；中心静脉导管（CVC）是重要获得性危险因素，占新生儿VTE >90%、儿童VTE约50%。方案按PRISMA-P制定并注册于PROSPERO，计划检索PubMed、Web of Science、Cochrane Library、CNKI和万方五大数据库，由两名研究者独立筛选、提取数据并评估偏倚风险与适用性。
+*   **[Echoes of the Anthropocene: Noise pollution as a global threat.](https://pubmed.ncbi.nlm.nih.gov/42986958/)** (PMID: 42986958)
+    *   **简明中文总结
 
-*   **[Impact of cardiometabolic and renal phenotypes on the prevalence of type 2 diabetes in the geriatric population of Añisok, Equatorial Guinea: A prospective cohort study (2024-2025).](https://pubmed.ncbi.nlm.nih.gov/42981442/)** (PMID: 42981442)
-    *   **摘要总结（约4-6句）**
-    *   1. 该前瞻性队列研究纳入赤道几内亚Añisok地区1,702名60–100岁老年人，评估2型
-
-*   **[A heat-induced HagF-HrcA regulatory loop promotes chlamydial fitness and infectious progeny yield under stress.](https://pubmed.ncbi.nlm.nih.gov/42981436/)** (PMID: 42981436)
+*   **[GLP-1 receptor agonists in addiction therapy.](https://pubmed.ncbi.nlm.nih.gov/42986956/)** (PMID: 42986956)
     *   
 
-*   **[Extended in vivo activity of VRC01 HIV-1 prophylaxis entails initial protective efficacy and subsequent breakthrough infections.](https://pubmed.ncbi.nlm.nih.gov/42981432/)** (PMID: 42981432)
+*   **[Obesity management medications: The way forward.](https://pubmed.ncbi.nlm.nih.gov/42986954/)** (PMID: 42986954)
+    *   **简明中文总结（4-6句）**
+    *   1. 肥胖已被视为一种慢性进展性疾病，其相关生物学机制改变常需长期治疗，包括药物治疗或减重手术。
+    *   2. 近年来对肥胖病理生理学的深入理解，使肥胖管理药物（OMM）的研发能够基于机制进行理性设计。
+    *   3. 外周器官向大脑传递分子信号以调控食物摄入和能量消耗的研究进展，促进了OMM的开发，这类药物似乎能够安全地实现可规模化且持续的体重下降。
+    *   4. 但现有OMM仍受副作用、治疗反应异质性、长期代谢适应和依从性等因素限制。
+    *   5. 因此，仍需开发更多药物，以改善肥胖患者的长期健康管理。
+    *   6. 从药物科学角度看，该摘要强调基于能量稳态分子通路的靶向药物发现，同时提示需重视安全性、个体差异和长期
+
+*   **[Going Beyond GLP-1.](https://pubmed.ncbi.nlm.nih.gov/42986946/)** (PMID: 42986946)
     *   
 
-*   **[A synthetic heparin oligosaccharide decouples anticoagulation from heparin-induced thrombocytopenia risk.](https://pubmed.ncbi.nlm.nih.gov/42981431/)** (PMID: 42981431)
+*   **[GLP-1 therapies and cancer risk.](https://pubmed.ncbi.nlm.nih.gov/42986942/)** (PMID: 42986942)
     *   
 
-*   **[Longitudinal remodeling of the tumor-immune microenvironment during regorafenib, nivolumab, and chemotherapy in advanced gastric cancer.](https://pubmed.ncbi.nlm.nih.gov/42981428/)** (PMID: 42981428)
+*   **[An Electrochemiluminescence Biosensing Platform Based on a Hydrogel-AAO Nanochannel Membrane for GFAP Detection.](https://pubmed.ncbi.nlm.nih.gov/42986928/)** (PMID: 42986928)
     *   
 
-*   **[Clinically derived micro- and nanoplastic uptake drives spatiotemporally confined metabolic stress revealed by bond-selective imaging.](https://pubmed.ncbi.nlm.nih.gov/42981414/)** (PMID: 42981414)
-    *   **摘要总结（5句）**
-    *   1. 该研究针对微/纳米塑料（MPs/NPs）细胞毒性机制不清、损伤时空起点不明的问题，利用化学键选择性受激拉曼散射（SRS）显微和可解耦“持续
-
-*   **[Toxic mercury, aquatic ecosystem collapse, and the ancient Lowland Maya.](https://pubmed.ncbi.nlm.nih.gov/42981413/)** (PMID: 42981413)
+*   **[Formulation and biological evaluation of a bacterial nanocellulose-based nanoemulsion hydrogel loaded with Persea americana Mill. seed extract: An anti-aging assessment.](https://pubmed.ncbi.nlm.nih.gov/42986924/)** (PMID: 42986924)
     *   
 
-*   **[Pancreatic α cells function as MHC class II-dependent antigen-presenting cells in type 1 diabetes.](https://pubmed.ncbi.nlm.nih.gov/42981408/)** (PMID: 42981408)
+*   **[Unveiling Molecular Basis of Terminalia chebula in Modulating the AGE-RAGE-PRKCB Axis in Diabetic Nephropathy: Integrative Network Pharmacology and Computational Study.](https://pubmed.ncbi.nlm.nih.gov/42986908/)** (PMID: 42986908)
+    *   **简明中文总结（5句）**
+    *   本研究采用网络药理学与计算建模整合框架，探讨诃
+
+*   **[Antimicrobial-resistant Salmonella and Escherichia coli in fresh vegetables from Ouagadougou, Burkina Faso: Prevalence, β-lactamase genes, and food safety implications.](https://pubmed.ncbi.nlm.nih.gov/42986907/)** (PMID: 42986907)
     *   
 
 
