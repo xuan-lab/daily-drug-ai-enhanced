@@ -12,97 +12,111 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-11-06
+### Summary for 2026-11-07
 *Fetched and summarized 24 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Miscarriage Risk Prediction for Women With Polycystic Ovary Syndrome Who Achieve Clinical Pregnancy After Fresh Embryo Transfer: Multicenter Development, Geographic External Validation, and Prospective Temporal Validation Study.](https://pubmed.ncbi.nlm.nih.gov/42987309/)** (PMID: 42987309)
+*   **[Molecular Transmission Clustering and Pretreatment Drug Resistance Among Men Infected With HIV-1 Who Have Sex With Men in Baotou, China: A Cross-Sectional Subgroup Analysis.](https://pubmed.ncbi.nlm.nih.gov/42993954/)** (PMID: 42993954)
     *   
 
-*   **[Divergent Effects of Caloric Restriction and Endurance Training on Adipose Macrophage-Related Gene Expression in Aged Wistar Rats.](https://pubmed.ncbi.nlm.nih.gov/42987286/)** (PMID: 42987286)
-    *   
-
-*   **[Development, Usability, and Feasibility of a Pain-Stratified Smartphone-Based Home Intervention System for Patients With Adhesive Capsulitis: Exploratory Feasibility and Usability Trial.](https://pubmed.ncbi.nlm.nih.gov/42987277/)** (PMID: 42987277)
-    *   **简明总结（约4–6句）**
-    *   本研究开发了一款针对冻结肩的个性化、按疼痛分层远程康复App，整合智能手机传感器关节活动度自评、基于疼痛的运动分层、使用记录和提醒，并作为常规照护的附加干预进行探索性、评估者盲法随机对照可行性试验。10例患者随机分为App组和纸质指导组，各5例，均完成4周相同内容的家庭运动干预，脱落率0%。App组系统可用性量表均分87.5（SD 5.86），达“优秀”；28天内
-
-*   **[Practical Recommendations for Implementing Remote Patient Monitoring for Patients Receiving Bispecific Antibodies for Multiple Myeloma.](https://pubmed.ncbi.nlm.nih.gov/42987260/)** (PMID: 42987260)
-    *   
-
-*   **[Postoperative Neuromuscular Paresis and Overlap Syndrome Related to Immune Checkpoint Inhibitors: A Case Report.](https://pubmed.ncbi.nlm.nih.gov/42987229/)** (PMID: 42987229)
-    *   **简明中文总结：**
-    *   免疫检查点抑制剂（ICI）可导致罕见但严重的免疫相关不良事件；其中肌炎、心肌炎和重症肌无力重叠的“3M综合征”虽不常见，但致残率和死亡率较高。本文
-
-*   **[Verticillium dahliae CAP-containing effectors hijack the β-subunit of the SnRK1 complex to suppress plant immunity.](https://pubmed.ncbi.nlm.nih.gov/42987209/)** (PMID: 42987209)
-    *   
-
-*   **[Descriptive Observational Study of Trends in Subspecialty Utilization Among the Medicaid and Commercially Insured Pediatric Population in New York City.](https://pubmed.ncbi.nlm.nih.gov/42987195/)** (PMID: 42987195)
-    *   **简明中文总结（4-6句）**
-    *   该研究在1个学术医学中心开展回顾性观察，分析7年内4个阶段（整合前、仅COVID公共卫生紧急状态、两者重叠
-
-*   **[Exploration of Potential Associations Between Sulfated Polysaccharide Exposure and Retinal Findings.](https://pubmed.ncbi.nlm.nih.gov/42987191/)** (PMID: 42987191)
-    *   
-
-*   **[Biomaterial Platforms for Spatiotemporal Control of mRNA Delivery in Tissue Engineering and Regenerative Medicine: Design Rules, Therapeutic Applications, and Translational Roadmap.](https://pubmed.ncbi.nlm.nih.gov/42987165/)** (PMID: 42987165)
-    *   ###
-
-*   **[Improving asthma care: a call for leadership in health, equity and climate.](https://pubmed.ncbi.nlm.nih.gov/42987139/)** (PMID: 42987139)
-    *   
-
-*   **[Prescription Patterns in Canadian Operational Stress Injury Clinics: An In-Depth Examination of Posttraumatic Stress Disorder Treatment Practices.](https://pubmed.ncbi.nlm.nih.gov/42987126/)** (PMID: 42987126)
+*   **[Large Vision-Language Models for Pediatric Motor Tic Detection: Case-Control Diagnostic Study.](https://pubmed.ncbi.nlm.nih.gov/42993949/)** (PMID: 42993949)
     *   ### 简明中文总结
-    *   该研究通过两部分全国调查，评估加拿大作战应激损伤（OSI）诊所中精神科医生对PTSD的药物治疗模式及指南一致性。20名精神科医生提供了438例PTSD患者数据，患者平均病程8.2年，精神与躯体共病高，药物治疗暴露广泛。结果显示，98.6%患者至少接受1种PTSD相关药物，平均每人3种；SSRI/SNRI常作为治疗基础，总体符合指南一线推荐。但催眠药、抗肾上腺素能药、抗精神病药和苯二氮䓬类辅助使用常见，多药治疗普遍，且不同诊所间药物选择差异明显。作者认为，尽管一线药物选择与指南基本一致，但慢性复杂PTSD患者中多药和机构间变异突出，提示指南落地存在挑战，需务实且结合临床经验的用药指导及序贯
+    *   该多中心研究开发并评估了一个微调的大型视觉-语言模型框架，用于儿童运动性抽动的自动化、可解释检测，以应对抽动障碍症状波动和主观评估导致的诊断延迟。研究纳入168名
 
-*   **[Normalized Raman imaging for studies of tissue physiology of the kidney.](https://pubmed.ncbi.nlm.nih.gov/42987000/)** (PMID: 42987000)
+*   **[Association Between Intradialytic Foot Temperature Gradients and Severe Peripheral Artery Disease in Patients Undergoing Hemodialysis: Prospective Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42993948/)** (PMID: 42993948)
     *   
 
-*   **[Obesity pharmacotherapies and cognition.](https://pubmed.ncbi.nlm.nih.gov/42986976/)** (PMID: 42986976)
-    *   **简明中文总结（4-6句）**
-    *   1. 肥胖和2型糖尿病药物正日益被评估其对认知和脑健康的影响，临床前模型、观察性队列和临床试验均提示可能存在作用，但结果仍不一致。
-    *   2. 综述指出核心难题在于区分认知效应是药物直接作用于神经回路，还是通过改善心血管代谢健康间接产生，抑或二者兼有。
-    *   3. 文章围绕心血管代谢疾病、衰老和阿尔茨海默病，重点评估GLP-1为基础的治疗及同时作用于GIP、胰高血糖素和amylin通路的联合策略。
-    *   4. 认知结局可能受受体药理学、脑内暴露、代谢背景和疾病阶段共同影响，这些因素决定药物能否在特定人群中获益。
-    *   5. 与药物科学的相关性在于：需将中枢暴露、靶点选择性、联合用药机制和患者分层纳入认知效应评价，而不能
-
-*   **[Discovering molecular modulators with nanoswitch screening.](https://pubmed.ncbi.nlm.nih.gov/42986965/)** (PMID: 42986965)
-    *   **简明中文总结（约4–6句）**
-    *   该研究针对蛋白–蛋白相互作用（PPI）调节剂及三元复合物类药物发现困难的问题，建立了FIND平台：将DNA纳米开关介导的核苷酸编码文库筛选与二代测序结合，实现超高通量发现可诱导或增强PPI的分子。FIND可直接功能性筛选多体相互作用，弥补传统筛选通量不足或难以直接检测多体相互作用的局限。作者用FIND成功发现可稳定ACE2与SARS-CoV-2受体结合域（RBD）相互作用的纳米抗体，并从DNA条形码小分子库中发现PPARγ激动剂。研究表明FIND可快速发现诱导/稳定PPI的纳米抗体和小分子调节剂，具有拓展至多种疾病治疗药物发现的潜力。其与
-
-*   **[Targeting hormone conversion through dietary fiber improves polyendocrine metabolic ovarian syndrome.](https://pubmed.ncbi.nlm.nih.gov/42986964/)** (PMID: 42986964)
+*   **[Mobile App for Assisting Patients With Type 1 Diabetes in Insulin Dose Adjustment: Development and Usability Study.](https://pubmed.ncbi.nlm.nih.gov/42993945/)** (PMID: 42993945)
     *   
 
-*   **[Echoes of the Anthropocene: Noise pollution as a global threat.](https://pubmed.ncbi.nlm.nih.gov/42986958/)** (PMID: 42986958)
-    *   **简明中文总结
+*   **[Trends in Intra-Aortic Balloon Pump Technology: Patentometric Analysis.](https://pubmed.ncbi.nlm.nih.gov/42993911/)** (PMID: 42993911)
+    *   **简明总结（4-6句）**
+    *   该研究基于PatSnap数据库
 
-*   **[GLP-1 receptor agonists in addiction therapy.](https://pubmed.ncbi.nlm.nih.gov/42986956/)** (PMID: 42986956)
+*   **[Testicular cancer disparities in the second decade of the 21st century.](https://pubmed.ncbi.nlm.nih.gov/42993909/)** (PMID: 42993909)
     *   
 
-*   **[Obesity management medications: The way forward.](https://pubmed.ncbi.nlm.nih.gov/42986954/)** (PMID: 42986954)
-    *   **简明中文总结（4-6句）**
-    *   1. 肥胖已被视为一种慢性进展性疾病，其相关生物学机制改变常需长期治疗，包括药物治疗或减重手术。
-    *   2. 近年来对肥胖病理生理学的深入理解，使肥胖管理药物（OMM）的研发能够基于机制进行理性设计。
-    *   3. 外周器官向大脑传递分子信号以调控食物摄入和能量消耗的研究进展，促进了OMM的开发，这类药物似乎能够安全地实现可规模化且持续的体重下降。
-    *   4. 但现有OMM仍受副作用、治疗反应异质性、长期代谢适应和依从性等因素限制。
-    *   5. 因此，仍需开发更多药物，以改善肥胖患者的长期健康管理。
-    *   6. 从药物科学角度看，该摘要强调基于能量稳态分子通路的靶向药物发现，同时提示需重视安全性、个体差异和长期
+*   **[BPR-30901649, An Angiotensinogen-Targeting Small Interfering RNA, Achieves Ultra-Durable Target Silencing and Sustained Blood Pressure Reduction Through 20 Weeks in Hypertensive Non-Human Primates.](https://pubmed.ncbi.nlm.nih.gov/42993885/)** (PMID: 42993885)
+    *   **简明总结（5句）**
+    *   1. 该研究开发了肝靶向AGT小干扰RNA（siRNA）BPR-30901649，旨在通过沉默血管紧张素原实现更持久的高血压
 
-*   **[Going Beyond GLP-1.](https://pubmed.ncbi.nlm.nih.gov/42986946/)** (PMID: 42986946)
+*   **[Oral Acarbose Inhibits Baseline Salivary Amylase and Blunts Early Postprandial Glycemia: Randomized Cross-Over Study.](https://pubmed.ncbi.nlm.nih.gov/42993881/)** (PMID: 42993881)
     *   
 
-*   **[GLP-1 therapies and cancer risk.](https://pubmed.ncbi.nlm.nih.gov/42986942/)** (PMID: 42986942)
+*   **[Evaluating current and emerging pharmacological treatment options for men with androgenetic alopecia.](https://pubmed.ncbi.nlm.nih.gov/42993878/)** (PMID: 42993878)
     *   
 
-*   **[An Electrochemiluminescence Biosensing Platform Based on a Hydrogel-AAO Nanochannel Membrane for GFAP Detection.](https://pubmed.ncbi.nlm.nih.gov/42986928/)** (PMID: 42986928)
+*   **[Drugs Associated with Dementia-Related Adverse Event Reports: A Real World Pharmacovigilance Study.](https://pubmed.ncbi.nlm.nih.gov/42993875/)** (PMID: 42993875)
     *   
 
-*   **[Formulation and biological evaluation of a bacterial nanocellulose-based nanoemulsion hydrogel loaded with Persea americana Mill. seed extract: An anti-aging assessment.](https://pubmed.ncbi.nlm.nih.gov/42986924/)** (PMID: 42986924)
-    *   
-
-*   **[Unveiling Molecular Basis of Terminalia chebula in Modulating the AGE-RAGE-PRKCB Axis in Diabetic Nephropathy: Integrative Network Pharmacology and Computational Study.](https://pubmed.ncbi.nlm.nih.gov/42986908/)** (PMID: 42986908)
+*   **[Effectiveness of a Multicomponent Digital Therapeutic Program on Inhaled Medication Adherence in Chronic Obstructive Pulmonary Disease: Pilot Randomized Controlled Trial.](https://pubmed.ncbi.nlm.nih.gov/42993869/)** (PMID: 42993869)
     *   **简明中文总结（5句）**
-    *   本研究采用网络药理学与计算建模整合框架，探讨诃
-
-*   **[Antimicrobial-resistant Salmonella and Escherichia coli in fresh vegetables from Ouagadougou, Burkina Faso: Prevalence, β-lactamase genes, and food safety implications.](https://pubmed.ncbi.nlm.nih.gov/42986907/)** (PMID: 42986907)
     *   
+    *   该前瞻性、开放标签、非盲随机对照试验纳入158例使用压力定量吸入器的COPD患者，按2:1随机分为多组分数字治疗组（106例）和常规照护组（52例），干预24周。数字治疗组在电子吸入器监测（EIM）基础上接受个体化用药提醒、依从性反馈、教育内容和
+
+*   **[The carcinogenic transition: toxicological, metabolic, and microbiome consequences of Westernized high-heat culinary practices in Asian populations.](https://pubmed.ncbi.nlm.nih.gov/42993867/)** (PMID: 42993867)
+    *   
+
+*   **[Photocatalytic Fluoroalkylative Cyclization of o-Alkenylbenzamides Enabled by Fluoroalkylsulfonyl Chlorides.](https://pubmed.ncbi.nlm.nih.gov/42993856/)** (PMID: 42993856)
+    *   
+
+*   **[Scaling up chemical recycling: High-yield polyolefin pyrolysis to liquid hydrocarbons using iron single atom catalysts.](https://pubmed.ncbi.nlm.nih.gov/42993850/)** (PMID: 42993850)
+    *   **简明中文总结（4–6句）**
+    *   该研究开发了Fe催化聚烯烃热解工艺，在ZIF衍生氮掺杂多孔碳负载铁单原子催化剂（Fe1@NC）与温度
+
+*   **[Dual-acting compounds that deliver an acidifying domain via zanamivir to the virus surface are potent influenza inhibitors.](https://pubmed.ncbi.nlm.nih.gov/42993849/)** (PMID: 42993849)
+    *   **简明中文总结（约5句）**
+    *   该研究提出一种不同于传统“锁钥”抑制剂的抗病毒药物设计思路：不直接阻断单一病毒靶点，而是用化合物改变病毒颗粒表面微环境，使其不利于病毒进入细胞。作者以流感病毒为模型，发现这类化合物可在病毒颗粒表面形成富质子层，从而影响病毒血凝素（HA）与细胞受体相互作用及病毒入胞。该类化合物在体外和体内均显示优异抗病毒活性。在雪貂和小鼠模型中，单次给药即可在治疗或预防模式下保护动物免于流感疾病。该策略与药物科学高度相关，因为它为抗病毒药物开发提供了“调控病毒表面微环境”的新范式，并
+
+*   **[Reciprocal control of genome instability and RNA processing in cancer: Mechanisms and therapeutic opportunities.](https://pubmed.ncbi.nlm.nih.gov/42993846/)** (PMID: 42993846)
+    *   ### 简明中文总结
+    *   该文指出，基因组不稳定与RNA加工失调虽分别被视为癌症核心标志，但二者在机制上相互交织而非独立。染色体不稳定、错配修复缺陷和同源重组缺陷可通过基因剂量改变、DNA损伤信号及调控元件变化重塑RNA剪接、3′端形成和RNA监控。反过来，异常剪接、多聚腺苷化和RNA修饰可损害DNA修复、干扰有丝分裂控制并促进复制应激，从而强化基因组不稳定。这种双向环路驱动治疗耐药、免疫调节及DNA中心生物标志物难以捕捉的新脆弱性。作者据此提出“基因组不稳定—RNA加工轴”的统一框架，强调整合DNA-RNA生物标志物和合理联合策略可推动精准肿瘤学超越静态基因组病变。
+    *   
+    *   ### 创新性总结
+    *   - 提出基因组不稳定与RNA加工之间的**双向统一框架**，而非将二者视为独立癌症标志。
+    *   - 强调
+
+*   **[The (amide-)N-methylnicotinamide is a microbe-derived NAD+ precursor that drives gut stem cell renewal.](https://pubmed.ncbi.nlm.nih.gov/42993840/)** (PMID: 42993840)
+    *   
+
+*   **[CD8+ T cells induce RIPK1-regulated brain endothelial cell death in cerebral malaria.](https://pubmed.ncbi.nlm.nih.gov/42993832/)** (PMID: 42993832)
+    *   
+
+*   **[Shape-memory scaffold targets inflammation and fibrosis to restore endometrium and fertility in intrauterine adhesions.](https://pubmed.ncbi.nlm.nih.gov/42993828/)** (PMID: 42993828)
+    *   **简明总结（5句）**
+    *   1. 宫腔粘连（IUA）是导致不孕的重要原因，现有治疗在抗纤维化和恢复功能性子宫内膜方面仍有限。
+    *   2. 作者构建了可生物降解的形状记忆再生支架BiSMR，将E2负载的PLTG骨架与PDA-EGCG@HAMA涂层结合，实现微创植入、屏障保护及EGCG快速释放后E2持续释放的序贯给药。
+    *   3. 基于化学、机械及联合损伤模型的蛋白组学分析，研究揭示了炎症激活、细胞外基质重塑和再生程序受损，为EGCG与17β-E2联合应用提供了分子依据。
+    *   4.
+
+*   **[Combating drug-resistant Aeromonas veronii: Multiomics revealed the antibacterial mechanism of resveratrol.](https://pubmed.ncbi.nlm.nih.gov/42993825/)** (PMID: 42993825)
+    *   **简明总结（5句）**
+    *   1. 鳃杆菌属（Aeromonas）广泛存在于水生环境，是常见鱼类病原，也可通过污染水产品、水体接触或受污染食物感染人类；其耐药性上升亟需天然替代抗菌剂。
+    *   2. 本研究以维罗尼气单胞菌（Aeromonas veronii）为对象，发现白藜
+
+*   **[Electron competition in azobenzene programs infection-adaptive antibacterial therapy.](https://pubmed.ncbi.nlm.nih.gov/42993817/)** (PMID: 42993817)
+    *   
+
+*   **[Evaluation of Volumetric Absorptive Microsampling as an Alternative Matrix for Therapeutic Drug Monitoring of Antiseizure Medications: A Robust Clinical Validation Study.](https://pubmed.ncbi.nlm.nih.gov/42993815/)** (PMID: 42993815)
+    *   **简明总结（约5句）**
+    *   该研究评估了体积吸收微采样（VAMS）用于抗癫痫药物（ASMs）治疗药物监测（TDM）的临床可行性，共纳入159例使用8种ASMs中至少1种的患者，采集配对VAMS、血浆和全血样本。研究对左乙拉西坦（LEV）和丙戊酸（VPA）进行了正式临床验证（>60份阳性样本），对拉莫三嗪（LTG）进行了初步验证（>30份样本），采用Passing-Bablok和Bland-Altman分析。结果显示，3种药物的VAMS浓度与血浆及全血浓度均高度相关（Pearson ρ > 0.98），且VAMS与血浆比较满足EMA和FDA的分析要求。部分情况下，VAMS浓度与全血比较需要进行浓度校正。总体表明VAMS与血浆浓度具有良好等效性，适用于LEV、VPA及可能的LTG的TDM
+
+*   **[Clinical and epidemiological characteristics of invasive non-typhoidal Salmonella disease in Ghana.](https://pubmed.ncbi.nlm.nih.gov/42993796/)** (PMID: 42993796)
+    *   **简明中文总结（4–6句）**
+    *   1. 该研究基于加纳8年发热监测数据，描述侵袭性非伤寒沙门菌（iNTS）病的临床-流行病学特征，以填补疾病负担和临床管理证据缺口。
+    *   2. 在271株血培养病原体中，iNTS占15.5%，是第二常见菌血症病因，且检出呈季节性，高峰与雨季一致。
+    *   3. iNTS感染在5岁以下儿童中负担最高，贫血与iNTS血培养阳性独立相关（aOR=2.41，p=0.030），提示贫血可增加易感性。
+    *   4. 耐药问题突出：23.7%的iNTS分离株为多重耐药，5.3%为广泛耐药，包括对头孢曲松和环丙沙星耐药。
+    *   5. 与药物科学的相关性在于：iNTS是撒哈拉以南非洲重要血流感染病因，其关键抗生素耐药上升将直接影响经验性抗菌治疗选择和感染管理。
+    *   
+    *   **创新性总结**
+    *   - 采用8
+
+*   **[Nurses' Attitudes and Experiences With Generative AI in Clinical Practice: Qualitative Systematic Review.](https://pubmed.ncbi.nlm.nih.gov/42993795/)** (PMID: 42993795)
+    *   ### 简明中文总结
+    *   该系统综述整合了13项定性/混合方法研究、涵盖6个国家234名注册护士，旨在阐明临床护士在真实临床环境中使用生成式人工智能（GenAI）的感知、体验、障碍与需求。研究提炼出三大主题：护士对GenAI的参与从被动观察延伸到主动整合；其感知威胁包括功能可靠性、职业角色被替代及责任归属模糊等多维问题；组织准备度具有调节作用，可影响这些威胁是阻碍还是促进GenAI落地。GRADE-CERQual评价显示总体证据置信度为中至高等。尽管研究对象是临床护理而非药物科学，但其关于GenAI可靠性、问责、培训和组织治理的发现，对药学领域应用AI于用药审核、用药安全、药物警戒和药学服务具有直接借鉴意义。总体而言，GenAI的临床整合不能仅依赖技术效率，还需同步推进培训、工具优化、制度治理和人机协同监督。
+    *   
+    *   ### 创新性总结
+    *   - 系统整合一线护士对GenAI的真实体验，弥补以往多聚焦宏观论述或医生视角
 
 
 <!-- DAILY_PAPERS_END -->
