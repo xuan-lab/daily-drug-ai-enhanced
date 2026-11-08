@@ -12,111 +12,74 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-11-07
-*Fetched and summarized 24 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
+### Summary for 2026-11-08
+*Fetched and summarized 18 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Molecular Transmission Clustering and Pretreatment Drug Resistance Among Men Infected With HIV-1 Who Have Sex With Men in Baotou, China: A Cross-Sectional Subgroup Analysis.](https://pubmed.ncbi.nlm.nih.gov/42993954/)** (PMID: 42993954)
-    *   
-
-*   **[Large Vision-Language Models for Pediatric Motor Tic Detection: Case-Control Diagnostic Study.](https://pubmed.ncbi.nlm.nih.gov/42993949/)** (PMID: 42993949)
-    *   ### 简明中文总结
-    *   该多中心研究开发并评估了一个微调的大型视觉-语言模型框架，用于儿童运动性抽动的自动化、可解释检测，以应对抽动障碍症状波动和主观评估导致的诊断延迟。研究纳入168名
-
-*   **[Association Between Intradialytic Foot Temperature Gradients and Severe Peripheral Artery Disease in Patients Undergoing Hemodialysis: Prospective Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42993948/)** (PMID: 42993948)
-    *   
-
-*   **[Mobile App for Assisting Patients With Type 1 Diabetes in Insulin Dose Adjustment: Development and Usability Study.](https://pubmed.ncbi.nlm.nih.gov/42993945/)** (PMID: 42993945)
-    *   
-
-*   **[Trends in Intra-Aortic Balloon Pump Technology: Patentometric Analysis.](https://pubmed.ncbi.nlm.nih.gov/42993911/)** (PMID: 42993911)
-    *   **简明总结（4-6句）**
-    *   该研究基于PatSnap数据库
-
-*   **[Testicular cancer disparities in the second decade of the 21st century.](https://pubmed.ncbi.nlm.nih.gov/42993909/)** (PMID: 42993909)
-    *   
-
-*   **[BPR-30901649, An Angiotensinogen-Targeting Small Interfering RNA, Achieves Ultra-Durable Target Silencing and Sustained Blood Pressure Reduction Through 20 Weeks in Hypertensive Non-Human Primates.](https://pubmed.ncbi.nlm.nih.gov/42993885/)** (PMID: 42993885)
-    *   **简明总结（5句）**
-    *   1. 该研究开发了肝靶向AGT小干扰RNA（siRNA）BPR-30901649，旨在通过沉默血管紧张素原实现更持久的高血压
-
-*   **[Oral Acarbose Inhibits Baseline Salivary Amylase and Blunts Early Postprandial Glycemia: Randomized Cross-Over Study.](https://pubmed.ncbi.nlm.nih.gov/42993881/)** (PMID: 42993881)
-    *   
-
-*   **[Evaluating current and emerging pharmacological treatment options for men with androgenetic alopecia.](https://pubmed.ncbi.nlm.nih.gov/42993878/)** (PMID: 42993878)
-    *   
-
-*   **[Drugs Associated with Dementia-Related Adverse Event Reports: A Real World Pharmacovigilance Study.](https://pubmed.ncbi.nlm.nih.gov/42993875/)** (PMID: 42993875)
-    *   
-
-*   **[Effectiveness of a Multicomponent Digital Therapeutic Program on Inhaled Medication Adherence in Chronic Obstructive Pulmonary Disease: Pilot Randomized Controlled Trial.](https://pubmed.ncbi.nlm.nih.gov/42993869/)** (PMID: 42993869)
-    *   **简明中文总结（5句）**
-    *   
-    *   该前瞻性、开放标签、非盲随机对照试验纳入158例使用压力定量吸入器的COPD患者，按2:1随机分为多组分数字治疗组（106例）和常规照护组（52例），干预24周。数字治疗组在电子吸入器监测（EIM）基础上接受个体化用药提醒、依从性反馈、教育内容和
-
-*   **[The carcinogenic transition: toxicological, metabolic, and microbiome consequences of Westernized high-heat culinary practices in Asian populations.](https://pubmed.ncbi.nlm.nih.gov/42993867/)** (PMID: 42993867)
-    *   
-
-*   **[Photocatalytic Fluoroalkylative Cyclization of o-Alkenylbenzamides Enabled by Fluoroalkylsulfonyl Chlorides.](https://pubmed.ncbi.nlm.nih.gov/42993856/)** (PMID: 42993856)
-    *   
-
-*   **[Scaling up chemical recycling: High-yield polyolefin pyrolysis to liquid hydrocarbons using iron single atom catalysts.](https://pubmed.ncbi.nlm.nih.gov/42993850/)** (PMID: 42993850)
-    *   **简明中文总结（4–6句）**
-    *   该研究开发了Fe催化聚烯烃热解工艺，在ZIF衍生氮掺杂多孔碳负载铁单原子催化剂（Fe1@NC）与温度
-
-*   **[Dual-acting compounds that deliver an acidifying domain via zanamivir to the virus surface are potent influenza inhibitors.](https://pubmed.ncbi.nlm.nih.gov/42993849/)** (PMID: 42993849)
-    *   **简明中文总结（约5句）**
-    *   该研究提出一种不同于传统“锁钥”抑制剂的抗病毒药物设计思路：不直接阻断单一病毒靶点，而是用化合物改变病毒颗粒表面微环境，使其不利于病毒进入细胞。作者以流感病毒为模型，发现这类化合物可在病毒颗粒表面形成富质子层，从而影响病毒血凝素（HA）与细胞受体相互作用及病毒入胞。该类化合物在体外和体内均显示优异抗病毒活性。在雪貂和小鼠模型中，单次给药即可在治疗或预防模式下保护动物免于流感疾病。该策略与药物科学高度相关，因为它为抗病毒药物开发提供了“调控病毒表面微环境”的新范式，并
-
-*   **[Reciprocal control of genome instability and RNA processing in cancer: Mechanisms and therapeutic opportunities.](https://pubmed.ncbi.nlm.nih.gov/42993846/)** (PMID: 42993846)
-    *   ### 简明中文总结
-    *   该文指出，基因组不稳定与RNA加工失调虽分别被视为癌症核心标志，但二者在机制上相互交织而非独立。染色体不稳定、错配修复缺陷和同源重组缺陷可通过基因剂量改变、DNA损伤信号及调控元件变化重塑RNA剪接、3′端形成和RNA监控。反过来，异常剪接、多聚腺苷化和RNA修饰可损害DNA修复、干扰有丝分裂控制并促进复制应激，从而强化基因组不稳定。这种双向环路驱动治疗耐药、免疫调节及DNA中心生物标志物难以捕捉的新脆弱性。作者据此提出“基因组不稳定—RNA加工轴”的统一框架，强调整合DNA-RNA生物标志物和合理联合策略可推动精准肿瘤学超越静态基因组病变。
-    *   
-    *   ### 创新性总结
-    *   - 提出基因组不稳定与RNA加工之间的**双向统一框架**，而非将二者视为独立癌症标志。
-    *   - 强调
-
-*   **[The (amide-)N-methylnicotinamide is a microbe-derived NAD+ precursor that drives gut stem cell renewal.](https://pubmed.ncbi.nlm.nih.gov/42993840/)** (PMID: 42993840)
-    *   
-
-*   **[CD8+ T cells induce RIPK1-regulated brain endothelial cell death in cerebral malaria.](https://pubmed.ncbi.nlm.nih.gov/42993832/)** (PMID: 42993832)
-    *   
-
-*   **[Shape-memory scaffold targets inflammation and fibrosis to restore endometrium and fertility in intrauterine adhesions.](https://pubmed.ncbi.nlm.nih.gov/42993828/)** (PMID: 42993828)
-    *   **简明总结（5句）**
-    *   1. 宫腔粘连（IUA）是导致不孕的重要原因，现有治疗在抗纤维化和恢复功能性子宫内膜方面仍有限。
-    *   2. 作者构建了可生物降解的形状记忆再生支架BiSMR，将E2负载的PLTG骨架与PDA-EGCG@HAMA涂层结合，实现微创植入、屏障保护及EGCG快速释放后E2持续释放的序贯给药。
-    *   3. 基于化学、机械及联合损伤模型的蛋白组学分析，研究揭示了炎症激活、细胞外基质重塑和再生程序受损，为EGCG与17β-E2联合应用提供了分子依据。
-    *   4.
-
-*   **[Combating drug-resistant Aeromonas veronii: Multiomics revealed the antibacterial mechanism of resveratrol.](https://pubmed.ncbi.nlm.nih.gov/42993825/)** (PMID: 42993825)
-    *   **简明总结（5句）**
-    *   1. 鳃杆菌属（Aeromonas）广泛存在于水生环境，是常见鱼类病原，也可通过污染水产品、水体接触或受污染食物感染人类；其耐药性上升亟需天然替代抗菌剂。
-    *   2. 本研究以维罗尼气单胞菌（Aeromonas veronii）为对象，发现白藜
-
-*   **[Electron competition in azobenzene programs infection-adaptive antibacterial therapy.](https://pubmed.ncbi.nlm.nih.gov/42993817/)** (PMID: 42993817)
-    *   
-
-*   **[Evaluation of Volumetric Absorptive Microsampling as an Alternative Matrix for Therapeutic Drug Monitoring of Antiseizure Medications: A Robust Clinical Validation Study.](https://pubmed.ncbi.nlm.nih.gov/42993815/)** (PMID: 42993815)
+*   **[The impact of maternal cardiovascular risk factors and diseases on offspring cardiovascular health.](https://pubmed.ncbi.nlm.nih.gov/42995003/)** (PMID: 42995003)
     *   **简明总结（约5句）**
-    *   该研究评估了体积吸收微采样（VAMS）用于抗癫痫药物（ASMs）治疗药物监测（TDM）的临床可行性，共纳入159例使用8种ASMs中至少1种的患者，采集配对VAMS、血浆和全血样本。研究对左乙拉西坦（LEV）和丙戊酸（VPA）进行了正式临床验证（>60份阳性样本），对拉莫三嗪（LTG）进行了初步验证（>30份样本），采用Passing-Bablok和Bland-Altman分析。结果显示，3种药物的VAMS浓度与血浆及全血浓度均高度相关（Pearson ρ > 0.98），且VAMS与血浆比较满足EMA和FDA的分析要求。部分情况下，VAMS浓度与全血比较需要进行浓度校正。总体表明VAMS与血浆浓度具有良好等效性，适用于LEV、VPA及可能的LTG的TDM
+    *   该文指出，越来越多存在心血管风险或已患心血管疾病的女性妊娠，已成为影响子代健康的全球性问题。母体心脏病、高血压、糖尿病、肥胖及血脂异常（包括脂蛋白
 
-*   **[Clinical and epidemiological characteristics of invasive non-typhoidal Salmonella disease in Ghana.](https://pubmed.ncbi.nlm.nih.gov/42993796/)** (PMID: 42993796)
+*   **[A Comparison of Two Strategies for Converting to Adalimumab Biosimilarsa.](https://pubmed.ncbi.nlm.nih.gov/42994452/)** (PMID: 42994452)
+    *   
+
+*   **[GW reduced density matrix from iterated linearized Dyson equation.](https://pubmed.ncbi.nlm.nih.gov/42974982/)** (PMID: 42974982)
     *   **简明中文总结（4–6句）**
-    *   1. 该研究基于加纳8年发热监测数据，描述侵袭性非伤寒沙门菌（iNTS）病的临床-流行病学特征，以填补疾病负担和临床管理证据缺口。
-    *   2. 在271株血培养病原体中，iNTS占15.5%，是第二常见菌血症病因，且检出呈季节性，高峰与雨季一致。
-    *   3. iNTS感染在5岁以下儿童中负担最高，贫血与iNTS血培养阳性独立相关（aOR=2.41，p=0.030），提示贫血可增加易感性。
-    *   4. 耐药问题突出：23.7%的iNTS分离株为多重耐药，5.3%为广泛耐药，包括对头孢曲松和环丙沙星耐药。
-    *   5. 与药物科学的相关性在于：iNTS是撒哈拉以南非洲重要血流感染病因，其关键抗生素耐药上升将直接影响经验性抗菌治疗选择和感染管理。
-    *   
-    *   **创新性总结**
-    *   - 采用8
+    *   该论文提出：将Dyson方程与自能的静态部分迭代，可从任意自能近似得到简洁、可能改进的单体约化密度矩阵表达式，并将其应用于Hedin的GW近似。作者证明，基于Dyson方程的做法在Hartree-Fock平均场起点下等价于应用于随机相位近似（RPA）能量泛函的变分Z-vector方法；但若采用广义Kohn-Sham方案，两者不再等价。对34个小分子与耦合簇参考值的基准比较表明，迭代Dyson方程确实能改善分子体系的密度矩阵。研究还发现，参考耦合簇的激发等级影响很大：与CCSD相比，引入三重激发会定量改变
 
-*   **[Nurses' Attitudes and Experiences With Generative AI in Clinical Practice: Qualitative Systematic Review.](https://pubmed.ncbi.nlm.nih.gov/42993795/)** (PMID: 42993795)
-    *   ### 简明中文总结
-    *   该系统综述整合了13项定性/混合方法研究、涵盖6个国家234名注册护士，旨在阐明临床护士在真实临床环境中使用生成式人工智能（GenAI）的感知、体验、障碍与需求。研究提炼出三大主题：护士对GenAI的参与从被动观察延伸到主动整合；其感知威胁包括功能可靠性、职业角色被替代及责任归属模糊等多维问题；组织准备度具有调节作用，可影响这些威胁是阻碍还是促进GenAI落地。GRADE-CERQual评价显示总体证据置信度为中至高等。尽管研究对象是临床护理而非药物科学，但其关于GenAI可靠性、问责、培训和组织治理的发现，对药学领域应用AI于用药审核、用药安全、药物警戒和药学服务具有直接借鉴意义。总体而言，GenAI的临床整合不能仅依赖技术效率，还需同步推进培训、工具优化、制度治理和人机协同监督。
+*   **[[Reappraisal of the value of CD30 testing in the diagnosis and treatment of lymphoma].](https://pubmed.ncbi.nlm.nih.gov/42967623/)** (PMID: 42967623)
+    *   ## 简明中文总结
     *   
-    *   ### 创新性总结
-    *   - 系统整合一线护士对GenAI的真实体验，弥补以往多聚焦宏观论述或医生视角
+    *   该综述指出，CD30不仅是多种淋巴瘤诊断和分类的重要免疫组化标志物，也是指导CD30靶向治疗（如维布妥昔单抗，BV）临床决策的关键生物标志物。随着BV及其联合方案在经典型霍奇金淋巴瘤、外周T细胞淋巴瘤、原发性皮肤CD30阳性T细胞淋巴增殖性疾病及复发/难治性弥漫大
+
+*   **[Ruzaltatug rezetecan versus chemotherapy for EGFR-mutated advanced non-small-cell lung cancer progressing after EGFR tyrosine kinase inhibitor therapy (HERON-Lung01): interim analysis of a randomised, open-label, phase 3 trial in China.](https://pubmed.ncbi.nlm.nih.gov/42933457/)** (PMID: 42933457)
+    *   
+
+*   **[Offline two-dimensional liquid chromatography-electrochemical detection combined with liquid chromatography-high resolution mass spectrometry for comprehensive characterization and antioxidant activity evaluation of Ilex asprella leaves.](https://pubmed.ncbi.nlm.nih.gov/42837960/)** (PMID: 42837960)
+    *   ### 简明中文总结
+    *   该研究针对传统药用兼食用植物梅叶冬青（*Ilex asprella*）叶片研究不足的问题，建立了离线二维液相色谱-电化学检测（LC×LC-ECD）结合LC-HRMS的方法，用于快速筛选和结构鉴定叶片中的抗氧化
+
+*   **[Studies of interactions between humic acid and pharmaceuticals as emerging contaminants using ultrafast affinity extraction and entrapment-based microcolumns.](https://pubmed.ncbi.nlm.nih.gov/42837959/)** (PMID: 42837959)
+    *   ## 简明总结
+    *   
+    *   该研究将超快速亲和萃取（UAE）从蛋白结合研究拓展用于环境中的药物—腐殖酸相互作用分析，考察了环丙沙星和诺氟沙星与Aldrich及Leonardite腐殖酸的结合。研究者制备了多孔硅胶包埋腐殖酸的微型柱
+
+*   **[Expanding environmental monitoring of psychotropic drugs by incorporating human metabolites through tandem solid-phase extraction.](https://pubmed.ncbi.nlm.nih.gov/42833053/)** (PMID: 42833053)
+    *   
+
+*   **[Comprehensive two-dimensional liquid chromatographic profiling reveals distinct phytochemical modifications in soybean meal induced by fermentation and enzymatic hydrolysis.](https://pubmed.ncbi.nlm.nih.gov/42828874/)** (PMID: 42828874)
+    *   **简明中文总结（约4–6句）**
+    *   该研究针对大豆粕（SBM）中异黄酮和大豆皂苷等生物活性成分复杂、传统
+
+*   **[High-capacity polymer-based weak cation exchanger for ion chromatography.](https://pubmed.ncbi.nlm.nih.gov/42826547/)** (PMID: 42826547)
+    *   
+
+*   **[Increasing peak capacity in preparative liquid chromatography for pharmaceutical drug discovery using elevated temperature and column downsizing.](https://pubmed.ncbi.nlm.nih.gov/42826546/)** (PMID: 42826546)
+    *   **简明中文总结：**
+    *   制备型反相液相色谱是小分子药物快速、可放大纯化的重要技术，广泛用于构效关系研究、先导化合物优化和早期可开发性评估。该研究指出，制备流程中温度控制常未被优化，而将柱温和溶剂温度升高与色谱柱缩小至19 mm内径相结合，可使峰容量提高一倍。该策略在保持高达200 mg大上样量的同时，将溶剂消耗降低一半以上，并维持稳健的分离质量。关键操作包括采用动态加热以防止温度梯度、提高重现性。总体而言，该优化为药物发现中的化合物纯化提供了高效、可放大且成本效益好的方法，与药物科学中纯化通量
+
+*   **[From screen to selectivity: bespoke liquid chromatography strategies for separating siRNA phosphorothioate diastereomers across diverse sequences and conjugates.](https://pubmed.ncbi.nlm.nih.gov/42815112/)** (PMID: 42815112)
+    *   **摘要
+
+*   **[Green supramolecular solvent for the liquid phase microextraction of beta-blockers from biological samples: a cationic surfactant-monoterpene system.](https://pubmed.ncbi.nlm.nih.gov/42815111/)** (PMID: 42815111)
+    *   
+
+*   **[Advanced sample preparation methods for LC-MS/MS bioanalysis of naturally derived narcotics in clinical and forensic contexts.](https://pubmed.ncbi.nlm.nih.gov/42815107/)** (PMID: 42815107)
+    *   **简明中文总结（4–6句）**
+    *   该综述聚焦吗啡和可待因等天然阿片类药物的LC-MS/MS生物分析，指出其因耐受、成瘾和过量风险而需要严密监测。由于生物基质复杂，样品前处理会直接影响LC-MS/MS分析的基质效应、离子抑制、回收率和结果可靠性。文章系统分类
+
+*   **[Impact of sulfonium versus ammonium groups in zwitterions on hydrophilic interaction chromatographic separation performance.](https://pubmed.ncbi.nlm.nih.gov/42809999/)** (PMID: 42809999)
+    *   **简明中文总结**
+    *   本研究以整体柱技术系统比较
+
+*   **[Comparison of on-line two-dimensional liquid chromatography modes for the analysis of organic micropollutants in wastewater treatment plant effluents.](https://pubmed.ncbi.nlm.nih.gov/42801829/)** (PMID: 42801829)
+    *   
+
+*   **[TAPB-DHTP functionalized cotton fiber for in-syringe solid-phase extraction and determination of fluoroquinolones in food samples.](https://pubmed.ncbi.nlm.nih.gov/42800289/)** (PMID: 42800289)
+    *   
+
+*   **[Volatile compound changes in dried ginger during sand stir-frying revealed by complementary headspace-based techniques.](https://pubmed.ncbi.nlm.nih.gov/42790382/)** (PMID: 42790382)
+    *   ### 简明总结
+    *   该研究采用GC-IMS与HS-GC-MS双平台结合多变量统计，系统比较干姜及轻、中、重不同炒制程度姜品的挥发性成分变化。随炒制强度增加水分逐步下降，挥发物含量以干重计，避免水分干扰。GC-IMS鉴定85种、HS-GC-MS鉴定101种挥发物，其中萜类相关化合物数量最多（33种）。炒制并非简单线性增减，而是以类别和化合物特异方式重塑挥发谱：中炮制品总挥发物最高并富集部分醛类和萜类，重炮制品则与乙酸、含硫化合物、吡嗪等热反应相关挥发物更密切。HS-GC-MS在各炮制品分别检出55、63、71、65种，中炮最多；PCA/OPLS-DA
 
 
 <!-- DAILY_PAPERS_END -->
