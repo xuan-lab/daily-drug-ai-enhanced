@@ -12,74 +12,66 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-11-08
-*Fetched and summarized 18 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
+### Summary for 2026-11-09
+*Fetched and summarized 16 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[The impact of maternal cardiovascular risk factors and diseases on offspring cardiovascular health.](https://pubmed.ncbi.nlm.nih.gov/42995003/)** (PMID: 42995003)
-    *   **简明总结（约5句）**
-    *   该文指出，越来越多存在心血管风险或已患心血管疾病的女性妊娠，已成为影响子代健康的全球性问题。母体心脏病、高血压、糖尿病、肥胖及血脂异常（包括脂蛋白
-
-*   **[A Comparison of Two Strategies for Converting to Adalimumab Biosimilarsa.](https://pubmed.ncbi.nlm.nih.gov/42994452/)** (PMID: 42994452)
+*   **[Variability of lipoprotein(a) levels in patients with acute myocardial infarction between admission, discharge, and follow-up.](https://pubmed.ncbi.nlm.nih.gov/42999996/)** (PMID: 42999996)
     *   
 
-*   **[GW reduced density matrix from iterated linearized Dyson equation.](https://pubmed.ncbi.nlm.nih.gov/42974982/)** (PMID: 42974982)
-    *   **简明中文总结（4–6句）**
-    *   该论文提出：将Dyson方程与自能的静态部分迭代，可从任意自能近似得到简洁、可能改进的单体约化密度矩阵表达式，并将其应用于Hedin的GW近似。作者证明，基于Dyson方程的做法在Hartree-Fock平均场起点下等价于应用于随机相位近似（RPA）能量泛函的变分Z-vector方法；但若采用广义Kohn-Sham方案，两者不再等价。对34个小分子与耦合簇参考值的基准比较表明，迭代Dyson方程确实能改善分子体系的密度矩阵。研究还发现，参考耦合簇的激发等级影响很大：与CCSD相比，引入三重激发会定量改变
+*   **[Thymectomy Extent, Immune Recovery, and Infectious Burden After Neonatal Cardiac Surgery.](https://pubmed.ncbi.nlm.nih.gov/42999988/)** (PMID: 42999988)
+    *   
+
+*   **[The Transformation of Oncology Drug Development in China: Toward a New Phase of Innovation.](https://pubmed.ncbi.nlm.nih.gov/42999985/)** (PMID: 42999985)
+    *   **简明总结（5句）**
+    *   1. 该综述指出，中国肿瘤药物开发生态正从“管线快速扩张”转向“临床价值驱动创新”，并系统梳理了2015—2025年监管改革及小分子、单抗、多特异性抗体、ADC、细胞与基因治疗的临床开发演变。
+    *   2. 中国的疾病负担和患者入组能力支撑了EGFR突变肺癌、胃肠道肿瘤、肝细胞癌、鼻咽癌及CLDN18.2靶向治疗等具有全球相关性的进展。
+    *   3. 文章
+
+*   **[More than a shot: function over pain with tele-supervised resistance exercise added to hyaluronic acid injection in knee osteoarthritis, a randomized add-on trial.](https://pubmed.ncbi.nlm.nih.gov/42999981/)** (PMID: 42999981)
+    *   **简明中文总结（4-6句）**
+    *   本研究探讨膝骨关节炎（KOA）患者在接受单次关节腔内透明质酸（IAHA）注射后，增加12周远程监督弹力带运动（
+
+*   **[Distinct PXR Inverse Agonism Mechanisms Rely on Differential Ligand-induced Co-Regulator Recruitment.](https://pubmed.ncbi.nlm.nih.gov/42999978/)** (PMID: 42999978)
+    *   **简明总结（4–6句）**
+    *   该研究探讨孕烷X受体（PXR）拮抗作用的分子机制，指出PXR拮抗并非仅由经典AF-2表面共激活因子置换所致，而是具有机制异质性。通过比较咪唑并[1,2-a]吡啶类、MI891和SPA70等拮抗剂，作者发现多种非经典抑制机制可使辅调节因子募集与转录输出“解耦”。其中SPA70在仍兼容共激活因子募集的情况下保持转录失活，提示其同时招募共阻遏物并形成独特的“共激活
+
+*   **[Cognitive disengagement syndrome and alexisomia: examining the moderating role of anxiety-depression symptoms, stress, and insomnia symptoms among a sample of Lebanese adults.](https://pubmed.ncbi.nlm.nih.gov/42999971/)** (PMID: 42999971)
+    *   **简明总结（约4–6句）**
+    *   本研究基于877名18–70岁黎巴嫩成人的横断面调查，探讨认知脱离综合征（CDS）与“躯体感知缺失”（alexisomia）之间的关系，并检验焦虑抑郁、压力和失眠症状
+
+*   **[[The novelties of adult advanced life support and post-resuscitation therapy according to the 2025 European Resuscitation Council guidelines].](https://pubmed.ncbi.nlm.nih.gov/42999961/)** (PMID: 42999961)
+    *   
+
+*   **[[Post-resuscitation care 2025: neurological prognosis of post-cardiac arrest brain injury].](https://pubmed.ncbi.nlm.nih.gov/42999955/)** (PMID: 42999955)
+    *   
+
+*   **[Bacteroides uniformis-generated ornithine alleviates alcohol-associated liver disease via Sirt4-mediated mitochondrial regulation.](https://pubmed.ncbi.nlm.nih.gov/42999038/)** (PMID: 42999038)
+    *   **简明中文总结（5句）**
+    *   该研究聚焦肠道菌群在酒精相关性肝病（ALD）中的作用，发现ALD患者中**Bacteroides uniformis**显著减少，并在NIAAA小鼠模型中验证。补充活**B. uniformis**可减轻小鼠肝脏脂肪变性、炎症和氧化应激，提示该菌株具有保护作用。代谢组学进一步鉴定**鸟氨酸**为其关键保护性代谢物，直接给予鸟氨酸可大部分重现上述获益。机制上，鸟氨酸通过上调肝脏**Sirt4**恢复线粒体稳态，而药理抑制Sirt4可取消保护效应。研究还发现膳食**亚麻籽油**可增加
+
+*   **[Gut microbiome depletion aggravates glial-mediated Alzheimer's disease pathology through inflammatory, metabolic, and proteostatic dysregulation.](https://pubmed.ncbi.nlm.nih.gov/42999037/)** (PMID: 42999037)
+    *   
+
+*   **[The role of carbonic anhydrases IX and XII in hypoxia-driven tumor adaptation and chemoresistance: an underexplored frontier for novel therapeutic strategies in ovarian cancer.](https://pubmed.ncbi.nlm.nih.gov/42999036/)** (PMID: 42999036)
+    *   
+
+*   **[Acidic C─H Functionalization to Access Ketoalkyl-Substituted Quinazolinones by Visible-Light Photoredox Catalysis.](https://pubmed.ncbi.nlm.nih.gov/42995010/)** (PMID: 42995010)
+    *   **简明中文总结（约5句）**
+    *   本文报道了一种可见光介导的自由基级联反应，用于合成酮烷基取代的稠合喹唑啉酮。该方法以易得的铱配合物为光催化剂，并让丙酮同时充当反应介质和C3构建块，通过过氧化苯甲酰（BPO）介导策略活化其α-酸性C─H键。与传统认为亲电氧中心自由基优先夺取氢负性C─H键不同，该策略经独特路径选择性作用于酸性C─H键。反应对多种N-氰基酰胺烯烃、其他酮及
+
+*   **[Procaine and Doxorubicin Coloaded Microspheres for Painless and Potent Transarterial Chemoembolization.](https://pubmed.ncbi.nlm.nih.gov/42994449/)** (PMID: 42994449)
+    *   
+
+*   **[Cervical lymph node image analysis using YOLO11 segmentation model: an application and performance study.](https://pubmed.ncbi.nlm.nih.gov/42993974/)** (PMID: 42993974)
+    *   
 
 *   **[[Reappraisal of the value of CD30 testing in the diagnosis and treatment of lymphoma].](https://pubmed.ncbi.nlm.nih.gov/42967623/)** (PMID: 42967623)
-    *   ## 简明中文总结
-    *   
-    *   该综述指出，CD30不仅是多种淋巴瘤诊断和分类的重要免疫组化标志物，也是指导CD30靶向治疗（如维布妥昔单抗，BV）临床决策的关键生物标志物。随着BV及其联合方案在经典型霍奇金淋巴瘤、外周T细胞淋巴瘤、原发性皮肤CD30阳性T细胞淋巴增殖性疾病及复发/难治性弥漫大
-
-*   **[Ruzaltatug rezetecan versus chemotherapy for EGFR-mutated advanced non-small-cell lung cancer progressing after EGFR tyrosine kinase inhibitor therapy (HERON-Lung01): interim analysis of a randomised, open-label, phase 3 trial in China.](https://pubmed.ncbi.nlm.nih.gov/42933457/)** (PMID: 42933457)
-    *   
+    *   **摘要总结（5句）**
+    *   1. 该
 
 *   **[Offline two-dimensional liquid chromatography-electrochemical detection combined with liquid chromatography-high resolution mass spectrometry for comprehensive characterization and antioxidant activity evaluation of Ilex asprella leaves.](https://pubmed.ncbi.nlm.nih.gov/42837960/)** (PMID: 42837960)
-    *   ### 简明中文总结
-    *   该研究针对传统药用兼食用植物梅叶冬青（*Ilex asprella*）叶片研究不足的问题，建立了离线二维液相色谱-电化学检测（LC×LC-ECD）结合LC-HRMS的方法，用于快速筛选和结构鉴定叶片中的抗氧化
-
-*   **[Studies of interactions between humic acid and pharmaceuticals as emerging contaminants using ultrafast affinity extraction and entrapment-based microcolumns.](https://pubmed.ncbi.nlm.nih.gov/42837959/)** (PMID: 42837959)
-    *   ## 简明总结
-    *   
-    *   该研究将超快速亲和萃取（UAE）从蛋白结合研究拓展用于环境中的药物—腐殖酸相互作用分析，考察了环丙沙星和诺氟沙星与Aldrich及Leonardite腐殖酸的结合。研究者制备了多孔硅胶包埋腐殖酸的微型柱
-
-*   **[Expanding environmental monitoring of psychotropic drugs by incorporating human metabolites through tandem solid-phase extraction.](https://pubmed.ncbi.nlm.nih.gov/42833053/)** (PMID: 42833053)
-    *   
-
-*   **[Comprehensive two-dimensional liquid chromatographic profiling reveals distinct phytochemical modifications in soybean meal induced by fermentation and enzymatic hydrolysis.](https://pubmed.ncbi.nlm.nih.gov/42828874/)** (PMID: 42828874)
-    *   **简明中文总结（约4–6句）**
-    *   该研究针对大豆粕（SBM）中异黄酮和大豆皂苷等生物活性成分复杂、传统
-
-*   **[High-capacity polymer-based weak cation exchanger for ion chromatography.](https://pubmed.ncbi.nlm.nih.gov/42826547/)** (PMID: 42826547)
-    *   
-
-*   **[Increasing peak capacity in preparative liquid chromatography for pharmaceutical drug discovery using elevated temperature and column downsizing.](https://pubmed.ncbi.nlm.nih.gov/42826546/)** (PMID: 42826546)
-    *   **简明中文总结：**
-    *   制备型反相液相色谱是小分子药物快速、可放大纯化的重要技术，广泛用于构效关系研究、先导化合物优化和早期可开发性评估。该研究指出，制备流程中温度控制常未被优化，而将柱温和溶剂温度升高与色谱柱缩小至19 mm内径相结合，可使峰容量提高一倍。该策略在保持高达200 mg大上样量的同时，将溶剂消耗降低一半以上，并维持稳健的分离质量。关键操作包括采用动态加热以防止温度梯度、提高重现性。总体而言，该优化为药物发现中的化合物纯化提供了高效、可放大且成本效益好的方法，与药物科学中纯化通量
-
-*   **[From screen to selectivity: bespoke liquid chromatography strategies for separating siRNA phosphorothioate diastereomers across diverse sequences and conjugates.](https://pubmed.ncbi.nlm.nih.gov/42815112/)** (PMID: 42815112)
-    *   **摘要
-
-*   **[Green supramolecular solvent for the liquid phase microextraction of beta-blockers from biological samples: a cationic surfactant-monoterpene system.](https://pubmed.ncbi.nlm.nih.gov/42815111/)** (PMID: 42815111)
-    *   
-
-*   **[Advanced sample preparation methods for LC-MS/MS bioanalysis of naturally derived narcotics in clinical and forensic contexts.](https://pubmed.ncbi.nlm.nih.gov/42815107/)** (PMID: 42815107)
-    *   **简明中文总结（4–6句）**
-    *   该综述聚焦吗啡和可待因等天然阿片类药物的LC-MS/MS生物分析，指出其因耐受、成瘾和过量风险而需要严密监测。由于生物基质复杂，样品前处理会直接影响LC-MS/MS分析的基质效应、离子抑制、回收率和结果可靠性。文章系统分类
-
-*   **[Impact of sulfonium versus ammonium groups in zwitterions on hydrophilic interaction chromatographic separation performance.](https://pubmed.ncbi.nlm.nih.gov/42809999/)** (PMID: 42809999)
-    *   **简明中文总结**
-    *   本研究以整体柱技术系统比较
-
-*   **[Comparison of on-line two-dimensional liquid chromatography modes for the analysis of organic micropollutants in wastewater treatment plant effluents.](https://pubmed.ncbi.nlm.nih.gov/42801829/)** (PMID: 42801829)
-    *   
-
-*   **[TAPB-DHTP functionalized cotton fiber for in-syringe solid-phase extraction and determination of fluoroquinolones in food samples.](https://pubmed.ncbi.nlm.nih.gov/42800289/)** (PMID: 42800289)
-    *   
-
-*   **[Volatile compound changes in dried ginger during sand stir-frying revealed by complementary headspace-based techniques.](https://pubmed.ncbi.nlm.nih.gov/42790382/)** (PMID: 42790382)
-    *   ### 简明总结
-    *   该研究采用GC-IMS与HS-GC-MS双平台结合多变量统计，系统比较干姜及轻、中、重不同炒制程度姜品的挥发性成分变化。随炒制强度增加水分逐步下降，挥发物含量以干重计，避免水分干扰。GC-IMS鉴定85种、HS-GC-MS鉴定101种挥发物，其中萜类相关化合物数量最多（33种）。炒制并非简单线性增减，而是以类别和化合物特异方式重塑挥发谱：中炮制品总挥发物最高并富集部分醛类和萜类，重炮制品则与乙酸、含硫化合物、吡嗪等热反应相关挥发物更密切。HS-GC-MS在各炮制品分别检出55、63、71、65种，中炮最多；PCA/OPLS-DA
+    *   **简明总结（4–6句）**
+    *   本研究针对传统药食两用植物梅叶冬青（*Ilex asprella*）叶片研究不足的问题，建立了离线全二维液相色谱-电化学检测（LC × LC-ECD）联合LC-HRMS的方法，用于快速筛选和结构鉴定叶片中的抗氧化成分。该方法可有效分离极性范围宽、浓度差异大的复杂组分，共鉴定或注释48个化合物，主要包括羟基肉桂酰奎宁酸类、
 
 
 <!-- DAILY_PAPERS_END -->
