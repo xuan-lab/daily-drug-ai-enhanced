@@ -12,89 +12,93 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-11-10
-*Fetched and summarized 22 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
+### Summary for 2026-11-11
+*Fetched and summarized 24 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Intracranial EWSR1::CREM fusion sarcoma presenting as a paraneoplastic inflammatory syndrome: illustrative case.](https://pubmed.ncbi.nlm.nih.gov/43002769/)** (PMID: 43002769)
+*   **[Severity-Based Triage for Direct Transportation to Nearest Comprehensive Stroke Center: A Systematic Review and Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/43008260/)** (PMID: 43008260)
     *   
 
-*   **[Viability of Public Statistics-Based Synthetic Personas in Small-Area Public Health Surveillance: Sociodemographic Benchmark Consistency Study Using Korea Community Health Survey and Korean Statistical Information Service Data.](https://pubmed.ncbi.nlm.nih.gov/43002762/)** (PMID: 43002762)
+*   **[Factors Associated With Rate of Multiple Sclerosis Onset in a Cohort With Prior Infectious Mononucleosis Identified in Administrative Data.](https://pubmed.ncbi.nlm.nih.gov/43008259/)** (PMID: 43008259)
     *   
 
-*   **[Evaluating City-Cut Geographic Risk Classification for a Pandemic Travel-Record System in Shanghai, China: Retrospective Observational Analysis.](https://pubmed.ncbi.nlm.nih.gov/43002743/)** (PMID: 43002743)
+*   **[Treatment of Recurrent and/or Metastatic Nasopharyngeal Carcinoma: CSCO and ASCO Joint Guideline.](https://pubmed.ncbi.nlm.nih.gov/43008245/)** (PMID: 43008245)
     *   
 
-*   **[Revising Terminology and Phenotype Definitions for AI-Based Decision Support in Fluid Therapy: Call for Consensus.](https://pubmed.ncbi.nlm.nih.gov/43002738/)** (PMID: 43002738)
-    *   **简明
-
-*   **[Thirty-Day Readmission Risk Stratification at Hospital Discharge: Single-Center Temporal Validation and Nursing Implementation Readiness Study.](https://pubmed.ncbi.nlm.nih.gov/43002732/)** (PMID: 43002732)
+*   **[International Cross-Age Consensus Guideline on Measurable Residual Disease Assessment in Acute Lymphoblastic Leukemia.](https://pubmed.ncbi.nlm.nih.gov/43008231/)** (PMID: 43008231)
     *   
 
-*   **[Effects of Supplementation With Genistein on the Progression of Cognitive Decline in Patients With Mild Cognitive Impairment Due to Alzheimer Disease: Protocol for a Randomized Controlled Trial.](https://pubmed.ncbi.nlm.nih.gov/43002725/)** (PMID: 43002725)
+*   **[Pivekimab sunirine and the evolving treatment of blastic plasmacytoid dendritic cell neoplasm.](https://pubmed.ncbi.nlm.nih.gov/43008230/)** (PMID: 43008230)
     *   
 
-*   **[Clinical Reasoning: A 69-Year-Old Female Patient With Rapid-Onset Levodopa-Responsive Rest Tremor, Parkinsonism, and Gait Freezing.](https://pubmed.ncbi.nlm.nih.gov/43002714/)** (PMID: 43002714)
+*   **[Climate, Air Quality, and Emergency Department Use in Northern Germany: Protocol for a Multicenter Register Study.](https://pubmed.ncbi.nlm.nih.gov/43008224/)** (PMID: 43008224)
     *   
 
-*   **[Clinical Outcomes of Multidisciplinary Remote Patient Monitoring for Patients With Poorly Controlled Type 2 Diabetes: Retrospective Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/43002710/)** (PMID: 43002710)
+*   **[Retrospective Mexican experience in the transcatheter closure of atrial septal defects using different devices.](https://pubmed.ncbi.nlm.nih.gov/43008213/)** (PMID: 43008213)
     *   
 
-*   **[Decision-Making About Respiratory Syncytial Virus Immunization for Infants: Qualitative Interview Study.](https://pubmed.ncbi.nlm.nih.gov/43002700/)** (PMID: 43002700)
+*   **[Increased Need for High Levels of Care in Patients with Delirium Superimposed on Dementia and Risk of Malnutrition.](https://pubmed.ncbi.nlm.nih.gov/43008204/)** (PMID: 43008204)
+    *   **简明中文总结（约5句）**
+    *   本研究纳入英国单中心554例连续住院患者（平均85.5岁），评估营养不良风险（MUST≥1）对谵妄叠加痴呆（DSD）患者出院时更高照护需求的影响。与“营养良好、有谵妄但无痴呆”者相比，“DSD且存在营养不良风险
+
+*   **[SilicoTox: interpretable machine learning for molecular hazard prioritization, with analysis of database provenance bias and benchmarking across nine defined toxicity endpoints.](https://pubmed.ncbi.nlm.nih.gov/43008203/)** (PMID: 43008203)
     *   
 
-*   **[Machine Learning-Based Biomechanical and Clinical Assessment of the Five Times Chair Rise Test in Older Adults: Sensor-Based Functional Aging Study.](https://pubmed.ncbi.nlm.nih.gov/43002696/)** (PMID: 43002696)
-    *   **简明总结（约5句）**
-    *   本研究在172名≥70岁社区老年人中，于基线、6个月和24个月进行标准化功能评估，利用力台和深度相机采集5次坐立试验（5CRT）的生物力学时间序列，并以动态时间规整（DTW）结合k-means聚类识别运动模式。研究识别出2种5CRT运动簇：簇1起立更快、稳定化力更低，簇2动作更慢且稳定化需求更高。
+*   **[Tricuspid inflow E-wave velocity for the assessment of severe or greater tricuspid regurgitation: derivation and external validation of threshold values.](https://pubmed.ncbi.nlm.nih.gov/43008201/)** (PMID: 43008201)
+    *   **简明总结（4-6句）**
+    *   该研究评估了指南推荐的三尖瓣流入E波速度>100 cm/s作为严重三尖瓣反流（TR）诊断标准的准确性。研究纳入178例至少轻度TR患者，发现E波速度随TR严重程度升高而增加，但仅3例超过100 cm/s。以多参数超声分级为参考，>100 cm/s诊断严重及以上TR的敏感性仅5.5%、特异性100%，提示该阈值高度不敏感、易漏诊。E波速度作为连续变量具有一定判别能力（AUC 0.81）；较低阈值52 cm/s和47 cm/s分别提高敏感性至81%和90%，但特异性下降。外部验证中47 cm/s阈值敏感性94%、特异性47%。作者认为指南推荐的>100 cm/s不适合
 
-*   **[Host and anatomical filters prevent microbiome convergence in avian scavengers.](https://pubmed.ncbi.nlm.nih.gov/43002692/)** (PMID: 43002692)
-    *   **
-
-*   **[Targeting of STEAP3 by a selenium D-π-A photosensitizer that activates ferroptosis.](https://pubmed.ncbi.nlm.nih.gov/43002678/)** (PMID: 43002678)
+*   **[Visualizing Health in Platform Work by Comparing Freelancers, Couriers, and Taxi Drivers in Sweden: Participatory Photovoice Study.](https://pubmed.ncbi.nlm.nih.gov/43008194/)** (PMID: 43008194)
     *   
 
-*   **[Loss of DUSP2-RPA signaling enhances virtual memory T cell-mediated innate-like antiviral immunity.](https://pubmed.ncbi.nlm.nih.gov/43002673/)** (PMID: 43002673)
-    *   
-
-*   **[Proteogenomic characterization of myxoid liposarcoma reveals molecular features associated with poor prognosis.](https://pubmed.ncbi.nlm.nih.gov/43002662/)** (PMID: 43002662)
-    *   
-
-*   **[Renin Kinetics and Hemodynamic Response During Treatment of Vasoplegic Shock With Angiotensin II (TENSINTEST): Protocol for a Multicenter Observational Study.](https://pubmed.ncbi.nlm.nih.gov/43002653/)** (PMID: 43002653)
-    *   **简明总结（4–6句）**
-    *   该研究是一项研究者发起的多中心观察性临床研究，拟在分布性/血管麻痹性休克且已充分液体复苏的危重患者中，评估开始血管紧张素II（AT II）输注前及6小时后肾素（renin）动力学的变化。AT II是新型升压药，约2/3患者有反应、1/3无反应；肾素是RAAS限速酶，受AT II负反馈调节，可能作为AT II反应性的预测指标。研究核心假设是：AT II治疗后相对肾素比值呈下降趋势者，28天无
-
-*   **[Grand rounds as an educational implementation method for evidence-based age-friendly care: A quality improvement approach.](https://pubmed.ncbi.nlm.nih.gov/43002631/)** (PMID: 43002631)
-    *   **简明中文总结（4-6句）**
-    *   随着人口老龄化，门诊机构开始将“老年友好型健康系统（AFHS）”的4Ms框架（What Matters、Medication、Mentation、Mobility）融入常规照护。研究采用质量改进方法设计并实施12场“Age-Friendly Grand Rounds”继续教育课程，聚焦老年人常见问题及4Ms的临床整合。12场课程共获得1,972次观看；在调查受访者中，88.9%自报对4Ms的知识和应用能力有所提高。另有78.6%提供开放式反馈的受访者描述了至少一项受课程内容启发的潜在实践改变。作者认为该教育模式有望支持AFHS实施，并将课程归档以供持续学习。其与药物科学的相关性在于“Medication”是4Ms核心之一，教育干预可促进老年患者用药管理、多重用药评估和跨专业协作。需注意主要结局为自报知识和能力，尚不能直接证明临床或用药结局改善。
-    *   
-    *   **创新性总结**
-    *   - 将AFHS的4Ms框架通过系列Grand Rounds形式系统嵌入门诊继续教育。
-    *   - 采用质量改进设计，结合观看量、课后自报知识/能力调查
-
-*   **[Evaluation of a therapeutic education program for patients with coronary heart disease in a Tunisian university hospital: A quasi-experimental study.](https://pubmed.ncbi.nlm.nih.gov/43002609/)** (PMID: 43002609)
-    *   
-
-*   **[Expanded Characterization of Ventricular Electrogram in Selective Left Bundle Branch Pacing: A Cohort Study of Patients With/Without LBB Potential.](https://pubmed.ncbi.nlm.nih.gov/43002582/)** (PMID: 43002582)
-    *   
-
-*   **[Comparative cytocompatibility of commercial theobromine- and fluoride-containing topical varnish extracts in human gingival fibroblast-1 cell.](https://pubmed.ncbi.nlm.nih.gov/43002525/)** (PMID: 43002525)
-    *   
-
-*   **[When do missed prompts matter? A simulation and empirical sensitivity study of structured nonresponse in intensive longitudinal assessment.](https://pubmed.ncbi.nlm.nih.gov/43002522/)** (PMID: 43002522)
-    *   
-
-*   **[BRCA1 at the Crossroads of Genome Stability, Mitochondrial Homeostasis, and Tumor Immunity.](https://pubmed.ncbi.nlm.nih.gov/43002516/)** (PMID: 43002516)
+*   **[Radical Anion-Driven, Photocatalyst-Free α-Aminoalkylation of Quinoxalin-2(1H)-ones.](https://pubmed.ncbi.nlm.nih.gov/43008188/)** (PMID: 43008188)
     *   **简明中文总结（5句）**
-    *   1. BRCA1不仅通过同源重组（HR）修复维持基因组稳定，其功能缺陷也是PARP抑制剂（PARPi）疗效的基础，但临床应答仍不充分，提示需寻找DNA修复缺陷之外的脆弱点。
-    *   2. 新证据显示BRCA1还参与线粒体质量控制、代谢稳态、氧化还原调节和先天免疫信号，构成“基因组—线粒体—免疫”整合轴，协调细胞应激适应。
-    *   3. BRCA1功能破坏会加剧基因组不稳定、代谢重编程和炎症信号，并产生超出HR缺陷的治疗脆弱性。
-    *   4. BRCA1缺失所致线粒体功能障碍可通过线粒
+    *   该研究开发了一种胺α位C–H自由基官能化策略，通过1,5-氢原子转移（1,5-HAT）高效生成α-氨基烷基自由基，从而避免传统方法所需的苛刻条件。
 
-*   **[Care home managers' experiences of access to primary healthcare services and medicines-related processes for residents with dementia during the COVID-19 pandemic: a cross-sectional survey study.](https://pubmed.ncbi.nlm.nih.gov/43002491/)** (PMID: 43002491)
-    *   **简明中文总结（4-6句）**
-    *   该研究调查了北爱尔兰养老院管理者在COVID-19大流行期间为痴呆居民获取初级医疗服务的体验及其对药物相关流程的影响。问卷回复率为30.7%（66/215）；大流行第一年，仅48.5%的受访者对全科诊所整体体验良好，而92.4%对社区药房体验良好。电话是最常用的全科医生沟通方式（83.3%），缺乏与医疗专业人员的面对面接触被认为是最大挑战。多数药物相关流程被认为与大流行前相比未变，但40.9%的受访者报告药物审查变差。研究强调养老院与医疗专业人员良好关系对痴呆居民照护的重要性，并提示未来公共卫生应急准备需关注初级医疗可及性和药物审查连续性。
+*   **[Engineered stem cell-derived CD16-enhanced universal NKT cells improve monoclonal antibody-based cancer immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/43008138/)** (PMID: 43008138)
+    *   
+
+*   **[Operationalizing Cardiac Xenotransplantation: An Administrative Playbook.](https://pubmed.ncbi.nlm.nih.gov/43008123/)** (PMID: 43008123)
+    *   **简明总结（约4-6句）**
+    *   本文总结了马里兰大学医学院/医疗中心实施首批2例人体心脏异种移植的非临床规划与执行经验，强调该技术除外科创新外，还高度依赖监管、伦理、财务、法律、行政和运营等多领域协调。作者基于机构实践、事后分析和跨学科协作，提出了FDA授权、员工教育、感染控制、财务安排和沟通规划等关键策略。文章还讨论了患者选择与知情同意中的伦理问题，强调透明、自主和公共卫生保障。总体而言，本文为准备开展异种移植的机构提供了可操作的基础设施与前瞻性规划指南。与药物科学的相关性在于：异种移植离不开免疫抑制治疗、感染与人畜共患病防控、生物制品监管、药物警戒及伦理合规等药学核心环节。
     *   
     *   **创新性总结**
-    *   - 从养老院管理者视角聚焦大流行期间痴呆居民初级医疗可及性及药物相关流程。
+    *   - 基于首批人体心脏异种移植真实机构经验，形成覆盖监管—伦理—运营全流程的实践框架。
+    *   - 将FDA授权、感染控制、财务结构、沟通与患者同意等非临床要素系统整合，超越单纯外科技术报道。
+    *   - 强调
+
+*   **[Impact of Removing the Mandatory Sobriety Period on Waitlist and Posttransplant Outcomes of Patients With and Without Alcohol-associated Liver Disease.](https://pubmed.ncbi.nlm.nih.gov/43008122/)** (PMID: 43008122)
+    *   
+
+*   **[Factors Associated With Dose-Corrected Active Moiety Concentrations of Venlafaxine: A Retrospective Therapeutic Drug Monitoring Study.](https://pubmed.ncbi.nlm.nih.gov/43008121/)** (PMID: 43008121)
+    *   
+
+*   **[MD2-TLR4-IN-1 mitigates synuclein preformed fibril-mediated inflammatory response in microglia: insights from an in vitro and in vivo study.](https://pubmed.ncbi.nlm.nih.gov/43008111/)** (PMID: 43008111)
+    *   **简明总结（约4–6句）：**
+    *   本研究评估小分子MD2-TLR4-IN-1对α-突触核蛋白PFF诱导神经炎症的治疗潜力，模型包括N9小胶质细胞、SH-SY5Y神经元细胞及α-Syn PFF小鼠模型。体外结果显示该化合物对神经元无明显细胞毒性，并能显著调节M1/M2小胶质细胞相关标志物，提示其可影响小胶质细胞极化状态。体内实验中，治疗未显著改善小鼠运动/ locomotor功能，也未显著恢复酪氨酸羟化酶（TH）表达。但其显著下调α-Syn PFF诱导的TLR4信号通路激活，表明其抗神经炎症作用主要体现
+
+*   **[Gq-coupled GPCRs mediate the oncogenic activity of Gαq-Q209L/P mutants in uveal melanoma cells.](https://pubmed.ncbi.nlm.nih.gov/43008099/)** (PMID: 43008099)
+    *   
+
+*   **[SNAT2-mediated amino acid import maintains osmotic balance to restrain macrophage metabolic reprogramming and inflammasome activation.](https://pubmed.ncbi.nlm.nih.gov/43008098/)** (PMID: 43008098)
+    *   
+
+*   **[Timing of Anticoagulant Initiation After Moderate-Severe and Severe Acute Ischemic Strokes (TAMSS).](https://pubmed.ncbi.nlm.nih.gov/43008085/)** (PMID: 43008085)
+    *   **简明中文总结（约5句）**
+    *   1. 该回顾性单中心研究比较了中重度/重度急性缺血性卒中患者早期（≤7天）与晚期（>7天）启动抗凝的安全性和有效性。
+    *   2. 共纳入143例
+
+*   **[Effects of Benralizumab on Clinical Outcomes and Small Airway Function in Patients with Severe Eosinophilic Asthma: A Real-World Study.](https://pubmed.ncbi.nlm.nih.gov/43008069/)** (PMID: 43008069)
+    *   
+
+*   **[Glycyrrhizinic Acid and Isatidis folium extracts combined with Bacillus subtilis protect against dextran sulfate sodi-um-induced colitis in Hu sheep.](https://pubmed.ncbi.nlm.nih.gov/43008067/)** (PMID: 43008067)
+    *   
+
+*   **[Associations of palmar surface lactic acid with hand scaling and in vitro pathogen inactivation: A cross-sectional study.](https://pubmed.ncbi.nlm.nih.gov/43008055/)** (PMID: 43008055)
+    *   **简明总结（约5句）**
+    *   该横断面研究在49名健康成人中，于标准化洗手及环境适应后，评估手掌脱
+
+*   **[Effects of crude oil on the somatic and immune development of juvenile threespine stickleback.](https://pubmed.ncbi.nlm.nih.gov/43008054/)** (PMID: 43008054)
+    *   
 
 
 <!-- DAILY_PAPERS_END -->
