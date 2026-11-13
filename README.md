@@ -12,92 +12,96 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-11-12
+### Summary for 2026-11-13
 *Fetched and summarized 25 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Preventing Malaria Infections and Moving toward Malaria Elimination.](https://pubmed.ncbi.nlm.nih.gov/43013819/)** (PMID: 43013819)
+*   **[OpenPrescribing Hospitals, an Open Access Analytics Platform for Hospital Medicines Use in England: Development and Implementation Study.](https://pubmed.ncbi.nlm.nih.gov/43019546/)** (PMID: 43019546)
     *   
 
-*   **[Prevention of Venous Thromboembolism after Total Hip or Knee Replacement.](https://pubmed.ncbi.nlm.nih.gov/43013818/)** (PMID: 43013818)
-    *   
-
-*   **[Depression Management: Daily Practice in Dutch and Flemish Nursing Homes.](https://pubmed.ncbi.nlm.nih.gov/43013811/)** (PMID: 43013811)
-    *   
-
-*   **[Development and internal validation of a multimodal deep learning model for screening-level lower-limb alignment using plantar 3D foot scans.](https://pubmed.ncbi.nlm.nih.gov/43013808/)** (PMID: 43013808)
-    *   **简明中文总结：**
-    *   该研究探讨负重3D足底扫描能否作为近端下肢对线的计算筛查特征，并构建了融合足底扫描图像与16项几何形态特征、采用特征级注意力的多模态深度学习框架。研究纳入167名6–
-
-*   **[Newborn Screening for Duchenne Muscular Dystrophy: Contemporary Considerations for Implementation of an Early Diagnostic Paradigm.](https://pubmed.ncbi.nlm.nih.gov/43013792/)** (PMID: 43013792)
-    *   
-
-*   **[Clinical Risk Factors for Suicide in Persons With Epilepsy: A Nationwide Population-Based Case-Control Study.](https://pubmed.ncbi.nlm.nih.gov/43013790/)** (PMID: 43013790)
-    *   **简明中文总结（5句）**
-    *   该研究基于瑞典全国登记与病历/尸检验证，开展癫痫患者自杀死亡（2006–2011年）的病例对照研究，纳入111例自杀死亡者和1147例对照。结果显示，酒精滥用（OR 11.81）和其他物质滥用（OR 10.71）与自杀风险的关联强于抑郁（OR 2.94）和焦虑障碍（OR
-
-*   **[Canal Filling Ratio Predicts Hearing Decline After Standardized Gamma Knife Radiosurgery for Vestibular Schwannoma.](https://pubmed.ncbi.nlm.nih.gov/43013783/)** (PMID: 43013783)
-    *   
-
-*   **[Gefitinib in breast cancer: molecular rationale, clinical evidence, resistance mechanisms and future perspectives.](https://pubmed.ncbi.nlm.nih.gov/43013781/)** (PMID: 43013781)
-    *   
-
-*   **[Depression Screening Positivity, Treatment-Seeking Intention, and Willingness to Take Antidepressants in a Self-Selected Online Sample of Korean Adults: Cross-Sectional Questionnaire Study.](https://pubmed.ncbi.nlm.nih.gov/43013773/)** (PMID: 43013773)
+*   **[System Architecture and Operational Principles for a Configurable Clinical Decision Support System for Model-Informed Precision Dosing: Development, Verification, and Validation Study.](https://pubmed.ncbi.nlm.nih.gov/43019536/)** (PMID: 43019536)
     *   **简明中文总结（约5句）**
-    *   1. 该研究旨在了解韩国成人抑郁筛查阳性情况、寻求专业治疗
+    *   TDM可支持个体化用药，但受操作条件、数据质量和专家解读需求限制；MIPD通过群体药动学建模和贝叶斯预测部分解决这些问题，但临床落地仍需TDM专家。本文介绍Tucuxi-CDSS——一个可配置、开源、面向安全标准化自动化MIPD剂量个体化的临床决策支持系统，重点防范前分析误差和数据录入错误。系统通过XML药物文件、语言文件和报告模板实现高度配置，并经历单元测试、系统测试、随机输入模糊测试及与人类TDM专家的仿真验证。在60例虚拟患者中，CDSS与专家错误检测能力相当，敏感性更高（53% vs 45%）但特异性更低（83% vs 100%），治疗目标达标率更高（55% vs 37%，P=.046），但CDSS组出现4次有害干预而专家组为0
 
-*   **[Digital Behavioral Risk Stratification Tool Integrated With HIV Online Self-Testing for HIV Positivity Among Men Who Have Sex With Men: Retrospective Observational Study.](https://pubmed.ncbi.nlm.nih.gov/43013772/)** (PMID: 43013772)
-    *   **简明总结（4–6句）**
-    *   该研究基于“Easy Test Know”在线HIV自检平台2023年11月至2025年2月的9961名中高风险MSM数据，评估数字化HIV行为风险分层工具的实际预测表现。结果显示，平台原有分类输出的判别能力几乎等同于随机（AUC 0.512），虽然敏感性达93.1%，但特异性仅9.2%；连续平台评分的AUC为0.646。高危场所多样性每增加1类，观察到HIV阳性的 odds 增加约2.04倍（95% CI 1.53–2.
+*   **[Design of a Multifaceted Transitional Care Digital Intervention: Double Diamond Approach.](https://pubmed.ncbi.nlm.nih.gov/43019531/)** (PMID: 43019531)
+    *   **简明中文总结（约6句）**
+    *   该研究聚焦患者从医院出院转向社区医疗时药物信息传递的安全风险，指出数字基础设施不足会加剧交接风险，而药物信息传递的及时性和准确性是保障患者安全的核心。研究在澳大利亚昆士兰州多家医疗服务机构中，采用英国设计委员会“双钻石”框架，通过工作坊、50余小时委员会/工作组会议、系统走查和可行性评估，汇集患者、医院及基层临床人员、技术/政策/数字健康专家等多方意见。利益相关者识别的主要挑战包括跨诊疗场景数字系统碎片
 
-*   **[Safety and Effectiveness of Motherwort Injection for Hemostasis and Menstrual Regulation: Protocol for a Prospective, Observational, Multicenter Real-World Study.](https://pubmed.ncbi.nlm.nih.gov/43013768/)** (PMID: 43013768)
-    *   **中文总结（约5句）**
-    *   该研究是一项前瞻性、观察性、多中心真实世界注册研究，旨在评估益母草注射液（MI）在中国获批妇产科适应症常规临床使用中的安全性和有效性。计划入组20,000例接受MI治疗的患者，治疗决策、剂量、疗程及合并用药均由临床医生自主决定，重点反映真实用药模式。安全性终点包括不良
-
-*   **[From consent forms to social media: a proposed framework for digital nocebo responses in chronic pain management with emphasis on headache.](https://pubmed.ncbi.nlm.nih.gov/43013765/)** (PMID: 43013765)
+*   **[CDK4/6-Mediated Growth Arrest Enhances Cell Stiffness and Contractility in RB-Proficient Triple-Negative Breast Cancer Cells in 3D Hydrogels.](https://pubmed.ncbi.nlm.nih.gov/43019508/)** (PMID: 43019508)
     *   
 
-*   **[Current perspectives on the pharmacotherapeutic management of rheumatoid arthritis-associated lung disease.](https://pubmed.ncbi.nlm.nih.gov/43013763/)** (PMID: 43013763)
-    *   
-
-*   **[Synthesis of Phenyl Sulfoxides via a Domino Electrophilic Sulfenylation/[2,3]-Sigmatropic Rearrangement/Aromatization Sequence of para-Quinols.](https://pubmed.ncbi.nlm.nih.gov/43013755/)** (PMID: 43013755)
-    *   
-
-*   **[Asymmetric Construction of Chiral β-Aminoketone Derivatives via Enantioselective Mannich/Retro-Claisen Cascade Reaction.](https://pubmed.ncbi.nlm.nih.gov/43013754/)** (PMID: 43013754)
-    *   **中文总结（约5句）**
-    *   本文报道了一种有机催化的不对称Mannich加成/逆Claisen级联反应，可在不对称1,3-二酮与原位生成的N-Boc保护炔基亚胺之间进行。该反应以良好产率和高对映选择性构建手性β-氨基酮衍生物。所得手性β-
-
-*   **[Skeletal Clipping of 4-Hydroxycoumarin toward Functionalized 2-Aminofluorenyl-2'-Hydroxyphenone Derivatives.](https://pubmed.ncbi.nlm.nih.gov/43013752/)** (PMID: 43013752)
-    *   
-
-*   **[Impaired IFN-γ/STAT1-associated immune regulation contributes to 4-nonylphenol-aggravated allergic rhinitis.](https://pubmed.ncbi.nlm.nih.gov/43013747/)** (PMID: 43013747)
-    *   
-
-*   **[Deprescribing in psychopharmacology: what is the risk versus reward?](https://pubmed.ncbi.nlm.nih.gov/43013745/)** (PMID: 43013745)
-    *   
-
-*   **[Effect of albumin in patients receiving hemodialysis on β2-microglobulin amyloid fibril formation.](https://pubmed.ncbi.nlm.nih.gov/43013744/)** (PMID: 43013744)
-    *   
-
-*   **[Bacteroidetes promote hepatocellular carcinoma progression and resistance to immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/43013741/)** (PMID: 43013741)
+*   **[Biomarker Synergy in Relapsing Multiple Sclerosis: Neurofilament Light Chain and B Cells in Relation to Disease Outcomes.](https://pubmed.ncbi.nlm.nih.gov/43019492/)** (PMID: 43019492)
     *   **简明中文总结（约5句）**
-    *   1. 该研究通过跨队列粪便16S rRNA测序发现，肝细胞癌（HCC）免疫检查点阻断（ICB）非应答者基线及治疗中富集拟杆菌门（Bacteroidetes），提示其可能是ICB耐药的潜在微生物标志物。
-    *   2. 作者构建了模拟HCC常见遗传改变并具免疫原性的MYC-lucOS;CTNNB1小鼠模型，发现抗生素诱导的菌群失调可促瘤，并通过Parabacteroides distasonis扩增减少树突状细胞、重塑肿瘤免疫微环境。
+    *   1. 本研究基于OPERA I/II和ORATORIO三项III期试验，纳入2,370例MS患者、15,025份血样，分析ocrelizumab治疗前后循环B细胞及亚群与疾病结局的关系。
+    *   2. Ocrelizumab可快速、深度
 
-*   **[Variability in non-invasive tests: Challenges and implications for monitoring liver disease.](https://pubmed.ncbi.nlm.nih.gov/43013739/)** (PMID: 43013739)
-    *   **简明总结（约4-6句）**
-    *   该研究系统评估了非侵入性肝纤维化检测（NITs）用于肝病监测时的重复性和最小可检测变化（MDC）。在6个队列中，多数NIT
-
-*   **[Phytochemistry and multi-target pharmacological mechanisms of Abelmoschus manihot (L.) Medicus in diabetic nephropathy.](https://pubmed.ncbi.nlm.nih.gov/43013736/)** (PMID: 43013736)
+*   **[HPV knowledge and willingness to vaccinate among unvaccinated female college students: A cross-sectional comparison between a comprehensive university and a health vocational college in Fujian, China.](https://pubmed.ncbi.nlm.nih.gov/43019491/)** (PMID: 43019491)
     *   
 
-*   **[Green development of Cefuroxime-Loaded Chitosan Nanoparticle Microneedles using citric acid crosslinker: A New Approach for targeted Ocular Infection.](https://pubmed.ncbi.nlm.nih.gov/43013720/)** (PMID: 43013720)
+*   **[The "ever-vaccinated" stock-flow bias in adult RSV vaccine policy evaluation: A methodological caution and a flow-based remedy.](https://pubmed.ncbi.nlm.nih.gov/43019489/)** (PMID: 43019489)
     *   
 
-*   **[Engineered Peptide Nanoparticle Targeting Both Bacterial Load Reduction and Bone Repair for the Treatment of Bone Infections.](https://pubmed.ncbi.nlm.nih.gov/43013719/)** (PMID: 43013719)
+*   **[Strategic Evolution toward Synthesis of the Isosteroidal Alkaloids Veratramine and Cyclopamine.](https://pubmed.ncbi.nlm.nih.gov/43019474/)** (PMID: 43019474)
+    *   该论文系统报道了两种结构复杂的
+
+*   **[Rapidly Evolving Insulin Landscape: Ultrashort Acting and Ultralong Acting.](https://pubmed.ncbi.nlm.nih.gov/43019456/)** (PMID: 43019456)
+    *   **简明中文总结（约4–6句）**
+    *   1. 该综述回顾了自1921年胰岛素发现以来胰岛素治疗的演进，指出现代胰岛素类似物依赖高度工程化的重组技术。
+    *   2
+
+*   **[Budding without an ESCRT.](https://pubmed.ncbi.nlm.nih.gov/43019444/)** (PMID: 43019444)
     *   
 
-*   **[Effects of COVID-19 vaccination type and vaccination-infection interval on viral clearance dynamics in Omicron BA.5 patients at Guangzhou Fangcang shelter hospitals: A propensity score matched multicenter retrospective cohort study.](https://pubmed.ncbi.nlm.nih.gov/43013717/)** (PMID: 43013717)
+*   **[Differentiation of stem-like CD4+ T cells modulates early effector responses in colorectal cancer.](https://pubmed.ncbi.nlm.nih.gov/43019438/)** (PMID: 43019438)
+    *   **简明总结（5句）：**
+    *   该研究利用成像质谱流式分析结直肠癌（CRC）患者，发现错配修复缺陷（dMMR）肿瘤具有TH1样免疫结构，并与抗PD-1治疗应答相关；而错配修复正常（pMMR）肿瘤则呈现调节性T细胞主导的空间互作。克隆分析显示，PD-1阻断后干样CD4+ T细胞可分化为TH1样细胞。在pMMR CRC小鼠模型中，OX40激动剂联合PD-1阻断可通过扩增肿瘤引流淋巴结中的Il7r+早期
+
+*   **[ESCRT-0 condensation and cargo clustering drive extracellular vesicle budding from cilia.](https://pubmed.ncbi.nlm.nih.gov/43019433/)** (PMID: 43019433)
     *   
+
+*   **[A trapped catalytic product acts as molecular glue for innate immune signalosome assembly.](https://pubmed.ncbi.nlm.nih.gov/43019419/)** (PMID: 43019419)
+    *   
+
+*   **[Novel gene therapy lets drug dampen brain cell activity, reducing seizures.](https://pubmed.ncbi.nlm.nih.gov/43019411/)** (PMID: 43019411)
+    *   
+
+*   **[Synergy between Gq and Gi proteins for the antipsychotic-like effects of mGlu2 receptors.](https://pubmed.ncbi.nlm.nih.gov/43019400/)** (PMID: 43019400)
+    *   
+
+*   **[The p38α MAPK-MK2 axis drives chemotherapy-mediated nuclear actin remodeling to promote ovarian cancer progression.](https://pubmed.ncbi.nlm.nih.gov/43019397/)** (PMID: 43019397)
+    *   
+
+*   **[Emergency Treatment of Deep Bleeding: A Study on Multifunctional SA/c-PC/PDA@TEMPO Algae Mucilage.](https://pubmed.ncbi.nlm.nih.gov/43019386/)** (PMID: 43019386)
+    *   
+
+*   **[Distinct transcriptional, cytokine, and γ-protocadherin responses to TLR1/2, TLR3, and TLR7/8 agonists in human cardiac endothelial cells.](https://pubmed.ncbi.nlm.nih.gov/43019378/)** (PMID: 43019378)
+    *   
+
+*   **[Quantitative facial phenotyping and age-associated differences in Sickle cell disease using interpretable machine learning.](https://pubmed.ncbi.nlm.nih.gov/43019377/)** (PMID: 43019377)
+    *   
+
+*   **[Anti-inflammatory effects of metformin in gestational diabetes: Systematic review and meta-analysis of randomized trials and preclinical animal pregnancy models study protocol.](https://pubmed.ncbi.nlm.nih.gov/43019369/)** (PMID: 43019369)
+    *   
+
+*   **[Relaxin-2 reverses diastolic dysfunction and suppresses sustained arrhythmias in a rat model of Heart Failure with preserved Ejection Fraction (HFpEF).](https://pubmed.ncbi.nlm.nih.gov/43019361/)** (PMID: 43019361)
+    *   
+
+*   **[Generation and in vitro functional characterization of anti-CD22 chimeric antigen receptor T cells derived from newly generated monoclonal antibody clones.](https://pubmed.ncbi.nlm.nih.gov/43019359/)** (PMID: 43019359)
+    *   **简明中文总结（4–6句）**
+    *   该研究针对CD19 CAR-T治疗后因CD19丢失/下调导致的复发问题，开发并体外评价了新型抗CD22 CAR-T构建体。研究者从4株抗CD22单抗中筛选出24A7G6和29H9C8两个克隆，并构建含4-1BB或CD28共刺激域的二代CAR，导入原代人类T细胞。结果显示，两类CAR-T均高效扩增，以CD8+及naïve/
+
+*   **[A cell line model for the study of CD4-negative HIV-1 infection and latent virus reservoirs.](https://pubmed.ncbi.nlm.nih.gov/43019336/)** (PMID: 43019336)
+    *   **简明中文总结（约5句）**
+    *   该研究针对HIV-1能否感染CD4阴性细胞这一争议，建立并系统表征了商业可得的CD4阴性人骨肉瘤HOS细胞模型。研究确认HOS细胞不表达CD4；仅表达CCR5或CXCR4的HOS细胞可被R5或X4嗜性HIV-1感染，但感染效率显著
+
+*   **[Risk factors associated with in-hospital mortality and a composite of major complications following paediatric congenital cardiac surgery: A systematic review protocol.](https://pubmed.ncbi.nlm.nih.gov/43019335/)** (PMID: 43019335)
+    *   **简明总结（约4–6句）**
+    *   该文是一项系统评价与Meta分析的研究方案，旨在评估接受先天性心脏病手术的儿童（≤18岁）院内全因死亡率和主要术后并发症的发生率及其风险因素。研究将系统检索2000–2026年英文文献，纳入队列、病例对照、干预及注册数据库研究，并按PRISMA和PEO框架进行筛选、数据提取和偏倚评估。方案计划在数据允许时进行随机效应Meta分析，并比较低收入/中等收入国家（LMIC）与高收入国家（HIC）的风险因素差异。文章强调，先心手术后的院内死亡和主要并发症与患者、手术及围术期多因素相关，识别这些因素有助于早期风险分层和优化可干预因素。该研究尚为方案，未报告实际结果；其药物科学相关性主要在于为围术期药物管理、可干预风险因素优化及资源有限环境下的合理资源配置提供证据框架。
+    *   
+    *   **创新性总结**
+
+*   **[A prospective longitudinal population-based cohort study of non-communicable diseases (NCDs) in Ghana, India, and Nepal (The GIN NCDs Study): A study protocol.](https://pubmed.ncbi.nlm.nih.gov/43019331/)** (PMID: 43019331)
+    *   **简明总结（约5句）**
+    *   该研究拟在加纳、印度和尼泊尔建立覆盖城乡的纵向NCD队列，以弥补现有国家数据多为横断面、难以反映疾病进展和代际健康模式的不足。研究将在基线、第2年和第4年采用与WHO STEPS工具对接的统一量表，收集社会人口学、气候相关暴露、生活方式、就医行为、身心疾病、痴呆、多病共存及体格/人体测量数据。主要结局包括高血压、糖尿病、慢性呼吸系统疾病、精神障碍、痴呆和多病共存；样本量按血压患病率±3%精度设计，三国基线各约2,100–2,300人，城乡分层后各约6,400–6,800人。研究采用两阶段整群抽样和家庭入户招募，并以多变量混合效应模型及DAG框架分析。该队列预期产出关于LMIC中NCD危险因素、多病共存和精神健康的纵向
 
 
 <!-- DAILY_PAPERS_END -->
