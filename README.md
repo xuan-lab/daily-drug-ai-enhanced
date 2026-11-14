@@ -12,96 +12,98 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-11-13
+### Summary for 2026-11-14
 *Fetched and summarized 25 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[OpenPrescribing Hospitals, an Open Access Analytics Platform for Hospital Medicines Use in England: Development and Implementation Study.](https://pubmed.ncbi.nlm.nih.gov/43019546/)** (PMID: 43019546)
+*   **[Interpretable Recalibration of a Sequential Organ Failure Assessment-Derived Score Using Machine Learning-Guided Optimization: Multicenter Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/43024933/)** (PMID: 43024933)
     *   
 
-*   **[System Architecture and Operational Principles for a Configurable Clinical Decision Support System for Model-Informed Precision Dosing: Development, Verification, and Validation Study.](https://pubmed.ncbi.nlm.nih.gov/43019536/)** (PMID: 43019536)
-    *   **简明中文总结（约5句）**
-    *   TDM可支持个体化用药，但受操作条件、数据质量和专家解读需求限制；MIPD通过群体药动学建模和贝叶斯预测部分解决这些问题，但临床落地仍需TDM专家。本文介绍Tucuxi-CDSS——一个可配置、开源、面向安全标准化自动化MIPD剂量个体化的临床决策支持系统，重点防范前分析误差和数据录入错误。系统通过XML药物文件、语言文件和报告模板实现高度配置，并经历单元测试、系统测试、随机输入模糊测试及与人类TDM专家的仿真验证。在60例虚拟患者中，CDSS与专家错误检测能力相当，敏感性更高（53% vs 45%）但特异性更低（83% vs 100%），治疗目标达标率更高（55% vs 37%，P=.046），但CDSS组出现4次有害干预而专家组为0
-
-*   **[Design of a Multifaceted Transitional Care Digital Intervention: Double Diamond Approach.](https://pubmed.ncbi.nlm.nih.gov/43019531/)** (PMID: 43019531)
-    *   **简明中文总结（约6句）**
-    *   该研究聚焦患者从医院出院转向社区医疗时药物信息传递的安全风险，指出数字基础设施不足会加剧交接风险，而药物信息传递的及时性和准确性是保障患者安全的核心。研究在澳大利亚昆士兰州多家医疗服务机构中，采用英国设计委员会“双钻石”框架，通过工作坊、50余小时委员会/工作组会议、系统走查和可行性评估，汇集患者、医院及基层临床人员、技术/政策/数字健康专家等多方意见。利益相关者识别的主要挑战包括跨诊疗场景数字系统碎片
-
-*   **[CDK4/6-Mediated Growth Arrest Enhances Cell Stiffness and Contractility in RB-Proficient Triple-Negative Breast Cancer Cells in 3D Hydrogels.](https://pubmed.ncbi.nlm.nih.gov/43019508/)** (PMID: 43019508)
+*   **[Hallucinated Evidence and Real-World Risk-Physicians' Intent to Act on AI-Generated Abstracts in Emergency Medicine and Trauma Surgery: Cross-Sectional, Vignette-Based Diagnostic Accuracy Study.](https://pubmed.ncbi.nlm.nih.gov/43024882/)** (PMID: 43024882)
     *   
 
-*   **[Biomarker Synergy in Relapsing Multiple Sclerosis: Neurofilament Light Chain and B Cells in Relation to Disease Outcomes.](https://pubmed.ncbi.nlm.nih.gov/43019492/)** (PMID: 43019492)
-    *   **简明中文总结（约5句）**
-    *   1. 本研究基于OPERA I/II和ORATORIO三项III期试验，纳入2,370例MS患者、15,025份血样，分析ocrelizumab治疗前后循环B细胞及亚群与疾病结局的关系。
-    *   2. Ocrelizumab可快速、深度
-
-*   **[HPV knowledge and willingness to vaccinate among unvaccinated female college students: A cross-sectional comparison between a comprehensive university and a health vocational college in Fujian, China.](https://pubmed.ncbi.nlm.nih.gov/43019491/)** (PMID: 43019491)
-    *   
-
-*   **[The "ever-vaccinated" stock-flow bias in adult RSV vaccine policy evaluation: A methodological caution and a flow-based remedy.](https://pubmed.ncbi.nlm.nih.gov/43019489/)** (PMID: 43019489)
-    *   
-
-*   **[Strategic Evolution toward Synthesis of the Isosteroidal Alkaloids Veratramine and Cyclopamine.](https://pubmed.ncbi.nlm.nih.gov/43019474/)** (PMID: 43019474)
-    *   该论文系统报道了两种结构复杂的
-
-*   **[Rapidly Evolving Insulin Landscape: Ultrashort Acting and Ultralong Acting.](https://pubmed.ncbi.nlm.nih.gov/43019456/)** (PMID: 43019456)
-    *   **简明中文总结（约4–6句）**
-    *   1. 该综述回顾了自1921年胰岛素发现以来胰岛素治疗的演进，指出现代胰岛素类似物依赖高度工程化的重组技术。
-    *   2
-
-*   **[Budding without an ESCRT.](https://pubmed.ncbi.nlm.nih.gov/43019444/)** (PMID: 43019444)
-    *   
-
-*   **[Differentiation of stem-like CD4+ T cells modulates early effector responses in colorectal cancer.](https://pubmed.ncbi.nlm.nih.gov/43019438/)** (PMID: 43019438)
-    *   **简明总结（5句）：**
-    *   该研究利用成像质谱流式分析结直肠癌（CRC）患者，发现错配修复缺陷（dMMR）肿瘤具有TH1样免疫结构，并与抗PD-1治疗应答相关；而错配修复正常（pMMR）肿瘤则呈现调节性T细胞主导的空间互作。克隆分析显示，PD-1阻断后干样CD4+ T细胞可分化为TH1样细胞。在pMMR CRC小鼠模型中，OX40激动剂联合PD-1阻断可通过扩增肿瘤引流淋巴结中的Il7r+早期
-
-*   **[ESCRT-0 condensation and cargo clustering drive extracellular vesicle budding from cilia.](https://pubmed.ncbi.nlm.nih.gov/43019433/)** (PMID: 43019433)
-    *   
-
-*   **[A trapped catalytic product acts as molecular glue for innate immune signalosome assembly.](https://pubmed.ncbi.nlm.nih.gov/43019419/)** (PMID: 43019419)
-    *   
-
-*   **[Novel gene therapy lets drug dampen brain cell activity, reducing seizures.](https://pubmed.ncbi.nlm.nih.gov/43019411/)** (PMID: 43019411)
-    *   
-
-*   **[Synergy between Gq and Gi proteins for the antipsychotic-like effects of mGlu2 receptors.](https://pubmed.ncbi.nlm.nih.gov/43019400/)** (PMID: 43019400)
-    *   
-
-*   **[The p38α MAPK-MK2 axis drives chemotherapy-mediated nuclear actin remodeling to promote ovarian cancer progression.](https://pubmed.ncbi.nlm.nih.gov/43019397/)** (PMID: 43019397)
-    *   
-
-*   **[Emergency Treatment of Deep Bleeding: A Study on Multifunctional SA/c-PC/PDA@TEMPO Algae Mucilage.](https://pubmed.ncbi.nlm.nih.gov/43019386/)** (PMID: 43019386)
-    *   
-
-*   **[Distinct transcriptional, cytokine, and γ-protocadherin responses to TLR1/2, TLR3, and TLR7/8 agonists in human cardiac endothelial cells.](https://pubmed.ncbi.nlm.nih.gov/43019378/)** (PMID: 43019378)
-    *   
-
-*   **[Quantitative facial phenotyping and age-associated differences in Sickle cell disease using interpretable machine learning.](https://pubmed.ncbi.nlm.nih.gov/43019377/)** (PMID: 43019377)
-    *   
-
-*   **[Anti-inflammatory effects of metformin in gestational diabetes: Systematic review and meta-analysis of randomized trials and preclinical animal pregnancy models study protocol.](https://pubmed.ncbi.nlm.nih.gov/43019369/)** (PMID: 43019369)
-    *   
-
-*   **[Relaxin-2 reverses diastolic dysfunction and suppresses sustained arrhythmias in a rat model of Heart Failure with preserved Ejection Fraction (HFpEF).](https://pubmed.ncbi.nlm.nih.gov/43019361/)** (PMID: 43019361)
-    *   
-
-*   **[Generation and in vitro functional characterization of anti-CD22 chimeric antigen receptor T cells derived from newly generated monoclonal antibody clones.](https://pubmed.ncbi.nlm.nih.gov/43019359/)** (PMID: 43019359)
+*   **[Safety of responsive neurostimulation in pediatric and young adult patients with drug-resistant epilepsy: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/43024880/)** (PMID: 43024880)
     *   **简明中文总结（4–6句）**
-    *   该研究针对CD19 CAR-T治疗后因CD19丢失/下调导致的复发问题，开发并体外评价了新型抗CD22 CAR-T构建体。研究者从4株抗CD22单抗中筛选出24A7G6和29H9C8两个克隆，并构建含4-1BB或CD28共刺激域的二代CAR，导入原代人类T细胞。结果显示，两类CAR-T均高效扩增，以CD8+及naïve/
+    *   该研究通过PRISMA系统综述与荟萃分析，汇总了35项观察性研究、共358例≤21岁接受响应性神经刺激（RNS）植入的儿科耐药性癫痫患者，平均植入年龄14.8岁、平均随访20.3个月。结果显示，38例患者至少发生1次并发症，随机效应模型合并总并发症发生率为10.3%（95%CI 7.0%–14.9%，I²=0.0%）；限制≤18岁的敏感性分析合并发生率为8%（95%CI 4%–16%）。
 
-*   **[A cell line model for the study of CD4-negative HIV-1 infection and latent virus reservoirs.](https://pubmed.ncbi.nlm.nih.gov/43019336/)** (PMID: 43019336)
-    *   **简明中文总结（约5句）**
-    *   该研究针对HIV-1能否感染CD4阴性细胞这一争议，建立并系统表征了商业可得的CD4阴性人骨肉瘤HOS细胞模型。研究确认HOS细胞不表达CD4；仅表达CCR5或CXCR4的HOS细胞可被R5或X4嗜性HIV-1感染，但感染效率显著
+*   **[Rethinking Meningioma Biology: Integrating Molecular and Microenvironmental Insights for Mechanism-Guided Therapy.](https://pubmed.ncbi.nlm.nih.gov/43024871/)** (PMID: 43024871)
+    *   **中文总结（4-6句）**
+    *   1. 脑膜瘤是最常见的原发性颅内肿瘤，占中枢神经系统肿瘤的42.6%，多数虽呈惰性，
 
-*   **[Risk factors associated with in-hospital mortality and a composite of major complications following paediatric congenital cardiac surgery: A systematic review protocol.](https://pubmed.ncbi.nlm.nih.gov/43019335/)** (PMID: 43019335)
-    *   **简明总结（约4–6句）**
-    *   该文是一项系统评价与Meta分析的研究方案，旨在评估接受先天性心脏病手术的儿童（≤18岁）院内全因死亡率和主要术后并发症的发生率及其风险因素。研究将系统检索2000–2026年英文文献，纳入队列、病例对照、干预及注册数据库研究，并按PRISMA和PEO框架进行筛选、数据提取和偏倚评估。方案计划在数据允许时进行随机效应Meta分析，并比较低收入/中等收入国家（LMIC）与高收入国家（HIC）的风险因素差异。文章强调，先心手术后的院内死亡和主要并发症与患者、手术及围术期多因素相关，识别这些因素有助于早期风险分层和优化可干预因素。该研究尚为方案，未报告实际结果；其药物科学相关性主要在于为围术期药物管理、可干预风险因素优化及资源有限环境下的合理资源配置提供证据框架。
+*   **[Large Language Model-Assisted Discharge Instructions for Diabetic Kidney Disease: Comparative Evaluation Study.](https://pubmed.ncbi.nlm.nih.gov/43024853/)** (PMID: 43024853)
     *   
-    *   **创新性总结**
 
-*   **[A prospective longitudinal population-based cohort study of non-communicable diseases (NCDs) in Ghana, India, and Nepal (The GIN NCDs Study): A study protocol.](https://pubmed.ncbi.nlm.nih.gov/43019331/)** (PMID: 43019331)
-    *   **简明总结（约5句）**
-    *   该研究拟在加纳、印度和尼泊尔建立覆盖城乡的纵向NCD队列，以弥补现有国家数据多为横断面、难以反映疾病进展和代际健康模式的不足。研究将在基线、第2年和第4年采用与WHO STEPS工具对接的统一量表，收集社会人口学、气候相关暴露、生活方式、就医行为、身心疾病、痴呆、多病共存及体格/人体测量数据。主要结局包括高血压、糖尿病、慢性呼吸系统疾病、精神障碍、痴呆和多病共存；样本量按血压患病率±3%精度设计，三国基线各约2,100–2,300人，城乡分层后各约6,400–6,800人。研究采用两阶段整群抽样和家庭入户招募，并以多变量混合效应模型及DAG框架分析。该队列预期产出关于LMIC中NCD危险因素、多病共存和精神健康的纵向
+*   **[A CDISC Implementation Maturity Model: Viewpoint on Moving Beyond Isolated Technical Fixes in Regulatory Submissions.](https://pubmed.ncbi.nlm.nih.gov/43024851/)** (PMID: 43024851)
+    *   **简明中文总结（4–6句）**
+    *   该文指出，CDISC已成为全球药企和生物技术公司监管数据提交框架的基石，FDA和日本PMDA均要求标准化研究数据，但临床数据团队仍面临受控术语误用、方案特定数据映射不清、验证自动化不足及符合性问题导致额外审评周期等持续障碍。作者认为，CDISC提交质量的可持续改善不能依赖孤立技术修补，而应采用分阶段、
+
+*   **[Dasatinib Dose Optimization With Weekend Drug Holiday for Improved Tolerability in Chronic Myeloid Leukemia (DasaHIT): A German Chronic Myeloid Leukemia Alliance Randomized Trial.](https://pubmed.ncbi.nlm.nih.gov/43024850/)** (PMID: 43024850)
+    *   **简明总结（4-6句）**
+    *   该III期随机多中心 trial 比较了慢性期CML患者接受标准达沙替尼100 mg每日一次与“周末停药”间歇方案（服5天、停2天）的疗效与耐受性。主要终点为24个月主要分子学缓解（MMR）和新开发的累积毒性评分。一线治疗患者中，标准组24
+
+*   **[Clinician Competencies for Self-Management Support in Cancer: Expert Consensus Recommendations From the Multinational Association of Supportive Care in Cancer.](https://pubmed.ncbi.nlm.nih.gov/43024835/)** (PMID: 43024835)
+    *   
+
+*   **[Task Force 11: Additional Cardiac Conditions and Considerations in Competitive Athletes.](https://pubmed.ncbi.nlm.nih.gov/43024820/)** (PMID: 43024820)
+    *   
+
+*   **[Comparing the Effectiveness of Atropine Sulfate and Acacia Catechu in Reducing Salivary Secretion During Dental Procedures: Protocol for a Randomized Controlled Trial.](https://pubmed.ncbi.nlm.nih.gov/43024802/)** (PMID: 43024802)
+    *   **简明中文总结（约4—6句）**
+    *   该文是一项随机对照试验方案，拟在160例接受牙体修复治疗的患者中比较硫酸阿托品与儿茶（*Acacia catechu*）减少唾液分泌的效果。研究将
+
+*   **[Personalized dynamic dose-finding for longitudinal observational data: an application to glucose intolerance in VLBW infants.](https://pubmed.ncbi.nlm.nih.gov/43024787/)** (PMID: 43024787)
+    *   **简明中文总结（约5句）**
+    *   该研究针对极低出生体重（VLBW，出生体重<1500 g）婴儿葡萄糖输注剂量选择问题，指出统一剂量难以适用，因为婴儿葡萄糖代谢异质性大，且临床需在促进体重增长与避免高血糖之间平衡。作者采用灵活的纵向混合模型，结合经验贝叶斯随机效应预测，为新婴儿动态估计患者特异的最优剂量，并随新数据积累不断调整个体剂量敏感性。为支持高风险NICU环境中的临床决策，研究提出用隐式值delta法量化预测最优剂量的
+
+*   **[A new anti-inflammatory ellagic acid glycoside from Juglans cathayensis.](https://pubmed.ncbi.nlm.nih.gov/43024784/)** (PMID: 43024784)
+    *   **简明中文总结（约4–6句）**
+    *   本研究从胡桃属植物 *Juglans cathayensis* 根皮中分离得到1个新鞣花酸糖苷类化合物 **jugcathglycoside A（1）** 及3个已知类似物；通过1D/2D NMR、HRESIMS和单晶X射线衍射完成结构鉴定，确定化合物1为 **3,4'-di-O-methylellagic acid-3'-O-α-L-rhamnopyranoside**。体外活性显示，化合物1可显著抑制LPS诱导的RAW264.7巨噬细胞NO生成（IC50 = 13.2 μM），并呈剂量依赖性抑制IL-6和TNF-α分泌（IC50分别为13.0和25.0 μM）。此外，化合物1对α-葡萄糖苷酶仅表现出较弱抑制作用。该研究提示该新
+
+*   **[IFN-γ-driven MHC class II on gut epithelium induces cytolytic TH1 cell differentiation and stem cell loss in graft-versus-host disease.](https://pubmed.ncbi.nlm.nih.gov/43024737/)** (PMID: 43024737)
+    *   
+
+*   **[Developmental Aspects of Language Mapping with Stereoelectroencephalography.](https://pubmed.ncbi.nlm.nih.gov/43024735/)** (PMID: 43024735)
+    *   
+
+*   **[NIR-enzymatic dual-engine nanomotors overcome cartilage matrix barriers and reprogram the osteoarthritic microenvironment.](https://pubmed.ncbi.nlm.nih.gov/43024729/)** (PMID: 43024729)
+    *   
+
+*   **[Structural and biochemical insight into allosteric regulation of the human 2-aminoadipic semialdehyde synthase.](https://pubmed.ncbi.nlm.nih.gov/43024728/)** (PMID: 43024728)
+    *   
+
+*   **[Identification of gamma-hydroxybutyrate (GHB)-β-ribose as a promising biomarker enabling prolonged detection of GHB intake.](https://pubmed.ncbi.nlm.nih.gov/43024715/)** (PMID: 43024715)
+    *   **简明总结（约4–6句）**
+    *   该研究旨在寻找可延长γ-羟基丁酸（GHB）检测窗口的生物标志物，以应对其在药物辅助性侵中难以检测的问题。研究纳入30名双盲、安慰剂对照试验参与者，随机接受安慰剂或单次口服50 mg/kg羟丁酸钠，并在5天内采集全血和尿液进行非靶向代谢组学分析。研究将此前疑似为GHB-戊糖的特征物通过化学合成和LC-MS/MS确认为GHB-β-核糖。定量结果显示，GHB摄入后血中GHB-β-核糖水平可升高至48小时，尿中可升高至24小时，且高于安慰剂组内源水平和真实法医案例中的内源水平。作者因此提出GHB-β-核糖是极具前景的GHB摄入生物标志物，有望延长GHB检测窗口。该发现对法医毒理学、药物辅助性犯罪
+
+*   **[Battery-free ingestible electronic capsule with programmable high-output soft actuation for active gastrointestinal interventions.](https://pubmed.ncbi.nlm.nih.gov/43024711/)** (PMID: 43024711)
+    *   
+
+*   **[Decoding cancer therapy resistance through advanced 3D organoid systems.](https://pubmed.ncbi.nlm.nih.gov/43024708/)** (PMID: 43024708)
+    *   **简明总结（4–6句）**
+    *   该文指出，精准肿瘤学临床转化率低，主要受限于传统二维（2D）培养无法重现肿瘤异质性和微环境应激。作者系统综述了三维（3D）癌症模型，包括无支架球体、患者来源类器官（PDOs）生物库和微生理系统（MPSs），在耐药建模与个体化治疗中的应用。这些平台可模拟肿瘤微环境（TME）中的代谢梯度、谱系可塑性和免疫学特征，从而桥接基因型与表型之间的差距。它们还能再现物理免疫排斥、T细胞耗竭
+
+*   **[Ketogenic diets induce proinflammatory macrophage accumulation through long-chain saturated fatty acids driving cGAS-STING signaling.](https://pubmed.ncbi.nlm.nih.gov/43024707/)** (PMID: 43024707)
+    *   ### 简明中文总结
+    *   该研究探讨生酮饮食（KD）促炎与抗炎双重效应背后的机制，发现KD可促进小鼠多个组织中促炎巨噬细胞积聚。体外小鼠和人巨噬细胞实验显示，长链饱和脂肪酸（LC-SFA）促进M1样极化，而中链脂肪酸和不饱和脂肪酸无此作用。KD小鼠原代巨噬细胞的代谢组分析显示促炎性神经酰胺和己糖神经酰胺富集，转录组显示炎症小体活化及cGAS-STING等
+
+*   **[Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune activation.](https://pubmed.ncbi.nlm.nih.gov/43024705/)** (PMID: 43024705)
+    *   **简明总结（5句）**
+    *   该研究构建了无载体的核酸递送系统Arg-CpG，由聚L-精氨酸（Arg）与免疫佐剂CpG寡核苷酸通过电荷驱动自组装形成，兼具递送载体和治疗剂功能，可避免传统载体相关毒性。Arg的胍基既促进细胞摄取，又作为iNOS介导NO生成的氮源，NO与CpG协同驱动巨噬细胞向抗肿瘤表型重编程。Arg-CpG还表现出细胞类型依赖的自噬调控：破坏4T1肿瘤细胞自噬机器，但保留RAW264.7巨噬细胞的功能性自噬，从而选择性杀伤肿瘤细胞而不损害正常免疫细胞。体内实验显示其可激发强抗肿瘤免疫反应。该模块化平台还可与anti-miR、si
+
+*   **[The persistent multidomain health effects of the early-life exposome.](https://pubmed.ncbi.nlm.nih.gov/43024696/)** (PMID: 43024696)
+    *   **简明中文总结（约5句）**
+    *   该研究基于欧洲HELIX队列中586对母婴、近200种产前和儿童期暴露
+
+*   **[Modelling the excess mortality associated with heat waves in Hong Kong: 2014-2023.](https://pubmed.ncbi.nlm.nih.gov/43024687/)** (PMID: 43024687)
+    *   **简明中文总结（约5句）**
+    *   本研究估算香港2014—2023年热浪相关超额死亡负担，基于年龄/性别死亡率、气象数据和本地相对风险，并采用蒙特卡洛模拟及多种热浪定义。结果显示，十年累计热浪归因超额死亡为1,455—3,238例，具体估计随热浪定义而变化；2023年年龄标化年超额死亡率为2.95—5.09/10万。热浪频率和强度变化与死亡负担波动相关，男性及65岁及以上老年人超额死亡明显更高。若将
+
+*   **[Handshake: Partner-specific protein-protein binding site prediction at scale using ProstT5 and cross-chain attention.](https://pubmed.ncbi.nlm.nih.gov/43024684/)** (PMID: 43024684)
+    *   **简明总结（4–6句）**
+    *   该研究提出 HandShake——一种仅基于序列、伙伴特异性的蛋白质-蛋白质相互作用界面预测器，用于判断某蛋白在与特定伙伴结合时哪些残基构成界面。模型整合了在结构数据上预训练的蛋白语言模型 ProstT5、LoRA 微调、跨链注意力机制和接触监督头，可同时预测结合界面和成对接触矩阵。作者利用迄今较全面的结构蛋白-蛋白数据库 PPInterface 构建大规模非冗余蛋白对训练集，并在30%–90%四个序列冗余
+
+*   **[Prevalence, patterns of cytopenia, and its associated risk factors among HIV-positive adults on HAART at ART follow-up clinics in Dawuro Zone public hospitals, Dawuro, Ethiopia, 2025. Multi-center-based cross-sectional study.](https://pubmed.ncbi.nlm.nih.gov/43024677/)** (PMID: 43024677)
+    *   ### 简明中文总结
+    *   该研究在埃塞俄比亚Dawuro Zone三家公立医院开展多中心横断面研究，纳入231名接受HAART的HIV阳性成人，评估血细胞减少的患病率、类型及危险因素。结果显示血细胞减少总体患病率为27.8%，其中单系血细胞减少14.8%、双系10%、全血细胞减少3%。多因素分析发现，年龄>50岁、男性、卧床、机会性感染、以LPV/r为基础的ART方案、用药依从性差以及CD4计数<499 cells/mm³与血细胞减少显著相关。研究提示HIV感染者中血细胞减少负担中等，且与宿主状态、感染并发症及特定HAART方案和依从性密切相关
 
 
 <!-- DAILY_PAPERS_END -->
