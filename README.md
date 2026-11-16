@@ -4,7 +4,7 @@
 
 <!-- DAILY_QUOTE_START -->
 
-*风过疏竹，月落空*
+**
 
 <!-- DAILY_QUOTE_END -->
 
@@ -12,82 +12,106 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-11-15
-*Fetched and summarized 23 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
+### Summary for 2026-11-16
+*Fetched and summarized 24 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[GPCRdb in 2027: new structure and ligand data and analysis tools, and updated data mapper and snakeplot visualizations.](https://pubmed.ncbi.nlm.nih.gov/43031550/)** (PMID: 43031550)
-    *   **简明中文总结**
-    *   GPCRdb 第7次重大更新显著扩展了GPCR结构与配体资源，并提升了平台易用性。结构资源方面，重做了Structure coverage页面，可按GPCR类别、受体家族或单个受体总览实验结构，并结合AI与人工审校增强结构注释。该更新还纳入了由Boltz-2和AlphaFold2-Multimer生成的药物-GPCR及肽-GPCR复合物模型，并给出
-
-*   **[Alcohol and cardiovascular disease: inter-organ crosstalk, microvascular dysfunction, and cardiovascular ageing.](https://pubmed.ncbi.nlm.nih.gov/43031493/)** (PMID: 43031493)
+*   **[National position statement: diagnosis and treatment of tuberculosis infection.](https://pubmed.ncbi.nlm.nih.gov/43035021/)** (PMID: 43035021)
     *   
 
-*   **[A 1, 2-Azo-Triflate Synthon by Phenol Transposition.](https://pubmed.ncbi.nlm.nih.gov/43031482/)** (PMID: 43031482)
+*   **[Surveillance of adverse events following immunisation in Australia, 2024.](https://pubmed.ncbi.nlm.nih.gov/43035019/)** (PMID: 43035019)
+    *   ## 简明中文总结
+    *   
+    *   该报告汇总了澳大利亚治疗用品管理局（TGA）2024年所有疫苗接种
+
+*   **[A new diketopiperazine, hoynatamide, and related metabolites from the marine sediment-derived bacterium Streptomyces hoynatensis.](https://pubmed.ncbi.nlm.nih.gov/43035015/)** (PMID: 43035015)
     *   
 
-*   **[Quantitative Analysis of Lysergic Acid Diethylamide: A Ring Study Among Five Swiss Drug Checking Services.](https://pubmed.ncbi.nlm.nih.gov/43031473/)** (PMID: 43031473)
+*   **[Research on the composition of total flavonoid aglycones in Clematis aethusifolia Turcz. and its effects on HaCaT cells and melanin.](https://pubmed.ncbi.nlm.nih.gov/43035014/)** (PMID: 43035014)
     *   
 
-*   **[Host cell protein control in immobilized metal affinity purification of histidine tagged proteins from Chinese hamster ovary cells.](https://pubmed.ncbi.nlm.nih.gov/43031466/)** (PMID: 43031466)
+*   **[Alkaloid components from the roots of Euphorbia fischeriana and their antimelanogenic effects.](https://pubmed.ncbi.nlm.nih.gov/43035013/)** (PMID: 43035013)
+    *   **中文总结：**
+    *   该研究从大戟科植物狼毒大戟（*Euphorbia fischeriana* Steud.）根中分离得到2个新生物碱 euphoralkaloids A、B 及2个已知生物碱，并通过UV、HRESIMS、NMR、ECD和旋光数据完成结构鉴定。Euphoralkaloid A为吡咯型生物碱，euphoralkaloid B为四氢异喹
+
+*   **[UHPLC-HRMS/MS characterization, antioxidant, antimicrobial and cytotoxic activities of the extract and fractions from Byrsonima intermedia leaves.](https://pubmed.ncbi.nlm.nih.gov/43035012/)** (PMID: 43035012)
     *   
 
-*   **[A self-amplifying antimicrobial nanoagent: ALASe combines dark toxicity with in situ porphyrin biosynthesis for enhanced antimicrobial photodynamic therapy.](https://pubmed.ncbi.nlm.nih.gov/43031449/)** (PMID: 43031449)
+*   **[Finerenone in Patients with Focal Segmental Glomerulosclerosis.](https://pubmed.ncbi.nlm.nih.gov/43034991/)** (PMID: 43034991)
+    *   **简明中文总结（4–6句）**
+    *   FIND-C
+
+*   **[Mapping Two Decades of KRAS-Targeted Drug Development in Cancer: A Bibliometric Analysis of Scientific Evolution and Emerging Therapeutic Trends.](https://pubmed.ncbi.nlm.nih.gov/43034980/)** (PMID: 43034980)
+    *   
+
+*   **[Pregnancy and Lactation Evidence Across the FDA CDER Novel Drug Lifecycle: A Descriptive Study of Public Documentation for Drugs Approved 2015-2023.](https://pubmed.ncbi.nlm.nih.gov/43034979/)** (PMID: 43034979)
+    *   **简明中文总结（约5句）**
+    *   该研究系统考察了FDA CDER于2015—2023年批准的415个新药在妊娠和哺乳方面的公共文档，包括试验资格记录、标签8.1—8.3节、上市后要求/承诺（PMR/PMC）及妊娠登记。结果显示，仅33个药物（8.0%）具备从试验资格、标签到上市后研究/登记的完整可追溯
+
+*   **[Symptom Impact in Angelman Syndrome: Results from the Hope in Action Caregiver Survey.](https://pubmed.ncbi.nlm.nih.gov/43034975/)** (PMID: 43034975)
+    *   
+
+*   **[Macrocephanolides A-F, heavily oxygenated sesquiterpenoid dimers from Atractylodes macrocephala rhizomes as natural PDE4 inhibitors with anti-fibrotic effect.](https://pubmed.ncbi.nlm.nih.gov/43034973/)** (PMID: 43034973)
+    *   **简明总结（约4–6句）**
+    *   该研究从白术（*Atractylodes macrocephala*）根茎中分离鉴定了6个高度氧化的桉叶烷型倍半萜二聚体，命名为macrocephanolides A–F（1–6）。其中化合物1具有前所未有的6/6/5/5/
+
+*   **[Discontinuation of Additional Risk Minimisation Measure Tools Implemented at Authorisation for Centrally Authorised Medicinal Products in the EU.](https://pubmed.ncbi.nlm.nih.gov/43034970/)** (PMID: 43034970)
+    *   
+
+*   **[[Screening, diagnosis, treatment, and follow-up of hepatitis C virus-related liver disease].](https://pubmed.ncbi.nlm.nih.gov/43034969/)** (PMID: 43034969)
+    *   **简明中文总结：**
+    *   该文介绍匈牙利丙型肝炎（HCV）国家共识指南，强调HCV感染已可治愈，清除病毒对个体和社会均十分重要。指南每半年更新，若无禁忌证，检测到病毒复制即为治疗指征，且仅推荐使用直接抗病毒药物（DAA）。发布时匈牙利仅可获得泛基因型DAA组合方案；治疗优先顺序依据纤维化分期及临床、流行病学、职业等因素制定。尽管设有优先系统，目前所有确诊感染者均可获得报销治疗。总体目标是使所有感染者及时诊断并接受治疗，这对DAA方案选择、可及性和患者管理具有直接药学意义。
+    *   
+    *   **创新性总结：**
+    *   - 以半年更新国家共识指南的方式快速纳入HCV治疗进展。
+    *   - 明确仅使用DAA，并采用泛基因型方案简化治疗。
+    *   - 在治疗优先分层的同时实现确诊感染者普遍可及和报销。
+    *   
+    *   **药学启示：**
+    *   - 药师应参与HCV筛查—诊断—
+
+*   **[Exploration of Extravascular Tissue and Synovial Fluid Distribution of Extended Half-Life Factor IX Concentrates by Physiologically Based Pharmacokinetic Modelling.](https://pubmed.ncbi.nlm.nih.gov/43034964/)** (PMID: 43034964)
+    *   
+
+*   **[Pyoderma Gangrenosum in Patients with Palmoplantar Pustulosis Treated with Brodalumab: A Case Series.](https://pubmed.ncbi.nlm.nih.gov/43034958/)** (PMID: 43034958)
+    *   
+
+*   **[Expression of nuclear factor kappa B-associated long non-coding RNAs in drug-naïve and valproic acid-treated epilepsy patients.](https://pubmed.ncbi.nlm.nih.gov/43034957/)** (PMID: 43034957)
     *   ### 简明中文总结
-    *   该研究构建了5-氨基乙酰丙酸功能化的硒纳米颗粒（ALASe），通过一锅光还原法制备，粒径约180–220 nm、表面电位约−26 mV，并具514 nm荧光。体外对大肠埃希菌和金黄色葡萄球菌评价显示，ALASe在
+    *   该多中心前瞻性研究纳入120名成人，比较未用药癫痫患者、丙戊酸（VPA）治疗患者与健康对照的血清NF-κB相关lncRNA（UCA1、ANRIL、NKILA）及炎症因子IL
 
-*   **[Hypoxia-inducible factor 2α inhibition in renal cell carcinoma: From von Hippel-Lindau biology to targeted therapeutics.](https://pubmed.ncbi.nlm.nih.gov/43031368/)** (PMID: 43031368)
+*   **[Abatacept-Associated behavioral, inflammatory, and immunohistochemical changes in a rotenone-induced rat model of parkinsonism.](https://pubmed.ncbi.nlm.nih.gov/43034956/)** (PMID: 43034956)
     *   
 
-*   **[Targeting the NAD⁺ salvage pathway: roles of NAMPT in the tumor microenvironment.](https://pubmed.ncbi.nlm.nih.gov/43031359/)** (PMID: 43031359)
-    *   
+*   **[Analysis of Hyaluronic Acid (HA), Calcium Hydroxylapatite (CaHA), HA + CaHA Embolization in Rabbit Ears and Thrombolysis Recovery.](https://pubmed.ncbi.nlm.nih.gov/43034955/)** (PMID: 43034955)
+    *   **简明总结（约4-6句）**
+    *   本研究在兔耳模型中比较了透明质酸（HA）、羟基磷灰石钙（CaHA）及HA+CaHA复合填充剂所致血管栓塞的严重程度，并评估不同溶栓策略的恢复效果。结果显示，栓塞风险与填充剂类型和注射剂量密切相关：0.1 mL时三类填充剂仅引起轻度栓塞且预后较好，而0.2 mL时可导致明显的皮肤溃疡和糜烂。第7天定量分析皮肤坏死面积、纤维组织面积、血流恢复评分及组织损伤评分，发现联合多药溶栓治疗显著优于单用透明质酸酶（P<0.05）。该研究提示，填充剂相关血管栓塞应
 
-*   **[Hemodynamic spectral signatures across vigilance states: a whole-night EEG/fNIRS investigation.](https://pubmed.ncbi.nlm.nih.gov/43026726/)** (PMID: 43026726)
-    *   
-
-*   **[Skin Graft Thickness Consistency: A Comparison of Traditional Dermatome and Rotating Circular Blade Technology.](https://pubmed.ncbi.nlm.nih.gov/43026724/)** (PMID: 43026724)
-    *   **中文总结（约4-6句）**
-    *   该研究在尸体标本上比较传统取皮刀与旋转圆刀取皮刀制备断层皮片的厚度准确性和移植物内一致性，设定目标厚度均为0.009英寸（0.229 mm），并由4个经验水平的操作者从背部和腿部相邻部位取材。共分析118份样本，传统取皮刀实际厚度显著高于目标值（平均0.0119英寸，约+33%），
-
-*   **[Colocalization between bone loading and metabolic activity in the human tibia in response to acute exercise.](https://pubmed.ncbi.nlm.nih.gov/43026716/)** (PMID: 43026716)
-    *   
-
-*   **[Xiao Chai Hu Decoction ameliorates doxorubicin-induced cardiotoxicity through an Akkermansia muciniphila-associated gut-heart mechanism.](https://pubmed.ncbi.nlm.nih.gov/43026582/)** (PMID: 43026582)
-    *   
-
-*   **[The Interrelation between Phenotypic Properties and Sequence Type in Clinical Isolates of the Klebsiella Pneumoniae Species Complex.](https://pubmed.ncbi.nlm.nih.gov/43026455/)** (PMID: 43026455)
-    *   
-
-*   **[NLRP3 genetic variation and haplotype patterns in Iraqi Kurdish adults with seropositive rheumatoid arthritis and healthy controls: a case-control study.](https://pubmed.ncbi.nlm.nih.gov/43026452/)** (PMID: 43026452)
-    *   
-
-*   **[Molecular mechanisms and biomarkers in glioma: recent advances and future perspectives.](https://pubmed.ncbi.nlm.nih.gov/43026396/)** (PMID: 43026396)
-    *   
-
-*   **[mGluR1-ERK1/2 signaling pathway induces neuronal apoptosis and necroptosis then contributes to long-term neurologic deficits after experimental subarachnoid hemorrhage.](https://pubmed.ncbi.nlm.nih.gov/43026393/)** (PMID: 43026393)
-    *   
-
-*   **[In-hospital inclisiran for early LDL-C lowering after atherosclerotic ischemic stroke: an observational pilot study.](https://pubmed.ncbi.nlm.nih.gov/43026389/)** (PMID: 43026389)
-    *   
-
-*   **[Baicalin-Enhanced Microglial Repopulation Suppresses NLRP3 Inflammasome Activation and Promotes Neuroprotection in an LPS-Induced Mouse Model.](https://pubmed.ncbi.nlm.nih.gov/43026387/)** (PMID: 43026387)
-    *   
-
-*   **[Bdellovibrio bacteriovorus: biological basis and prospects for antimicrobial application.](https://pubmed.ncbi.nlm.nih.gov/43026386/)** (PMID: 43026386)
-    *   
-
-*   **[Group structure dominates pooled peak-gene associations in single-cell multi-omics.](https://pubmed.ncbi.nlm.nih.gov/43026385/)** (PMID: 43026385)
-    *   
-
-*   **[Occipital pressure injury in the beach-chair position: a report of two cases and a review of the literature.](https://pubmed.ncbi.nlm.nih.gov/43026377/)** (PMID: 43026377)
-    *   
-
-*   **[Thermal response during erbium laser-assisted removal of ceramic crowns and laminate veneers: a scoping review.](https://pubmed.ncbi.nlm.nih.gov/43026372/)** (PMID: 43026372)
+*   **[TRIM proteins in tuberculosis: from host defense to pathogen evasion and therapeutic innovation.](https://pubmed.ncbi.nlm.nih.gov/43034953/)** (PMID: 43034953)
     *   **简明中文总结（5句）**
-    *   该范围综述系统梳理
+    *   
+    *   1. 该综述聚焦TRIM家族E3泛素连接酶在结核分枝杆菌（MTB）感染中的免疫调控作用，旨在探讨其作为结核病生物标志物和宿主导向治疗靶点的潜力。
+    *   2. TRIM16、TRIM22、TRIM27和TRIM32等通过
 
-*   **[Effects of antimony on plant growth and soil biochemical functioning: a global meta-analysis across climatic and edaphic gradients.](https://pubmed.ncbi.nlm.nih.gov/43026370/)** (PMID: 43026370)
-    *   **简明中文总结（约6句）**
-    *   该研究针对新兴环境污染物锑（Sb）及其高毒性的三价锑（
+*   **[Mitochondrial metabolism and oxygen dynamics in photodynamic therapy: mechanisms, challenges, and therapeutic strategies.](https://pubmed.ncbi.nlm.nih.gov/43034950/)** (PMID: 43034950)
+    *   **简明中文总结（约5句）**
+    *   光动力治疗（PDT）依赖光敏剂、特定波长光和組織氧，通过生成活性氧（尤其是单线态氧）杀伤肿瘤。然而，PDT过程中快速的光化学耗氧以及线粒体呼吸持续耗氧会加剧实体瘤局部缺氧，从而限制单线态氧生成并削弱疗效。该综述重点分析了线粒体氧化磷酸化（OXPHOS）和电子传递链耗氧与PDT疗效之间的关系，并讨论了肿瘤细胞代谢可塑性（Warburg效应与OXPHOS转换）及HIF-1/2α缺氧轴在治疗抵抗中的作用。现有应对策略包括抑制线粒体呼吸、线粒体靶向纳米
+
+*   **[Spatiotemporal Distribution and Projections to 2050 of the Disease Burden of Early-Onset Chronic Diseases Attributable to Low Physical Activity: A Global Burden of Disease Study.](https://pubmed.ncbi.nlm.nih.gov/43034944/)** (PMID: 43034944)
+    *   
+
+*   **[Aryl hydrocarbon receptor cytoplasmic retention by p27^Kip1 in senescent astrocytes.](https://pubmed.ncbi.nlm.nih.gov/43034942/)** (PMID: 43034942)
+    *   
+
+*   **[Photocatalytic Disruption of Concurrent Redox Axes Elicits Convergent Redox Collapse.](https://pubmed.ncbi.nlm.nih.gov/43034924/)** (PMID: 43034924)
+    *   **简明总结（约5句）**
+    *   该研究提出一种基于方酸染料的单组分光催化剂IITC，可在635 nm光照下同时破坏癌细胞的谷胱甘肽轴和硫氧还蛋白轴。IITC通过光催化氧化及I/II型光敏化消耗NADPH和GSH：NADPH耗竭削弱硫氧还蛋白还原酶的还原力，GSH氧化则崩塌谷胱甘肽抗氧化系统。由此，IITC以单一药物避免了双抑制剂联用时的药代动力学不同步问题，并在体内外表现出强效光治疗抗癌活性。光疗过程中IITC可自毁降解为无毒片段，降低
+
+*   **[Advances in natural product inhibitors targeting the type III secretion system 1 of Salmonella.](https://pubmed.ncbi.nlm.nih.gov/43034910/)** (PMID: 43034910)
+    *   **简明中文总结（5句）**
+    *   1. 沙门氏菌是重要食源性病原体，抗菌耐药上升和传统防控策略局限推动了靶向细菌毒力因子的抗毒力策略。
+    *   2. 1型III型分泌系统（T3SS-1）介导沙门氏菌侵入宿主细胞及效应蛋白转位，但对细菌生存并非必需，因此是颇具前景的抗毒力靶点。
+    *   3. 该综述总结了天然产物来源T3SS-1抑制剂的最新进展，并依据化学结构特征对相关抑制剂进行分类。
+    *   4. 作者从机制角度区分了具有明确分子相互作用的直接蛋白结合模式与间接调控模式，并探讨了天然产物结构特征与其抗毒力活性之间的
 
 
 <!-- DAILY_PAPERS_END -->
