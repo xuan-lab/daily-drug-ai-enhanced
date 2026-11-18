@@ -12,88 +12,82 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-11-17
-*Fetched and summarized 24 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
+### Summary for 2026-11-18
+*Fetched and summarized 23 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Eliciting Reader Preferences for Automated Systematic Gray Literature Reviews: Best-Worst Scaling Study.](https://pubmed.ncbi.nlm.nih.gov/43038517/)** (PMID: 43038517)
+*   **[Developing a Stakeholder-Informed Quality Use of Medicines Analytics Dashboard for Acute Mental Health Care: Protocol for a Cross-Country Study.](https://pubmed.ncbi.nlm.nih.gov/43044115/)** (PMID: 43044115)
     *   
 
-*   **[Frequency-Specific Thalamocortical Network Dynamics During Focal Seizures in Humans.](https://pubmed.ncbi.nlm.nih.gov/43038493/)** (PMID: 43038493)
+*   **[Detecting Invisible Triangular Citations in Biomedical Research Using a Dual-Threshold Framework Based on Textual Similarity and Bibliographic Coupling Strength: Method Development and Validation Study.](https://pubmed.ncbi.nlm.nih.gov/43044108/)** (PMID: 43044108)
+    *   **中文总结（约5句）**
+    *   该研究针对“隐形三角引用”（ITC）——即追随文献C通过未致谢的中介文献B间接使用奠基文献A内容——建立并实证验证了一个双阈值检测框架，结合文本相似度与文献耦合强度，用于生物医学文献中的引用溯源识别。研究以抗体偶联药物（ADC）领域为对象，分析2948篇源论文、20,801篇引用文献和37,542条引用句，在超过208万对记录中检测出6165条ITC记录（0.296%）。最佳阈值为余弦相似度≥0.60且文献耦合强度≥10；专家盲审确认率达85.00%。ITC主要集中在引言（49.1%）和讨论（47.5
+
+*   **[Using a Large Language Model Chatbot for Allergen Avoidance Counseling in Contact Dermatitis: Quantitative Evaluation Study.](https://pubmed.ncbi.nlm.nih.gov/43044101/)** (PMID: 43044101)
+    *   **简明总结：**
+    *   该研究评估了GPT-4在接触性皮炎过敏原回避咨询中推荐“无过敏原产品”的可行性，覆盖国际标准斑贴试验中的30个过敏
+
+*   **[Social Media Insights Into the Human Papillomavirus Vaccination Catch-Up Campaign for Young Adults in the Netherlands, 2023-2024: Qualitative Study.](https://pubmed.ncbi.nlm.nih.gov/43044099/)** (PMID: 43044099)
     *   
 
-*   **[Expanding Amyotrophic Lateral Sclerosis Genetic Spectrum via Systematic Screening of Adult-Onset Neurologic Disease Genes.](https://pubmed.ncbi.nlm.nih.gov/43038492/)** (PMID: 43038492)
+*   **[Validation of the BASED Score as a Prognostic Biomarker for Refractory Epilepsy Following Treatment of Infantile Epileptic Spasms Syndrome.](https://pubmed.ncbi.nlm.nih.gov/43044079/)** (PMID: 43044079)
     *   
 
-*   **[Robustness of Plasma P-Tau217 Diagnostic Thresholds for Alzheimer Disease Across Various Clinical Populations and Laboratory Environments.](https://pubmed.ncbi.nlm.nih.gov/43038487/)** (PMID: 43038487)
+*   **[Optimizing use of GLP-1 receptor agonists: safety, tolerability, adherence, and patient selection in cardiovascular practice.](https://pubmed.ncbi.nlm.nih.gov/43044077/)** (PMID: 43044077)
     *   
 
-*   **[Consensus Statements on the Clinical Practice for Patients With Fontan-Associated Liver Disease.](https://pubmed.ncbi.nlm.nih.gov/43038485/)** (PMID: 43038485)
+*   **[A functional TIGIT-associated transcriptional program identifies circulating tumor-reactive CD8⁺ T cells in melanoma patients.](https://pubmed.ncbi.nlm.nih.gov/43044075/)** (PMID: 43044075)
     *   
 
-*   **[Gaplinc regulates myeloid metabolic pathways in trans in endotoxic shock.](https://pubmed.ncbi.nlm.nih.gov/43038470/)** (PMID: 43038470)
+*   **[Usability and Perceived Acceptability of the "MedSMA℞T: Adventures in PharmaCity" Opioid Safety Serious Game Among County-Based Extension Agents in Kentucky: Single-Group Pretest-Posttest Formative Stakeholder Evaluation.](https://pubmed.ncbi.nlm.nih.gov/43044071/)** (PMID: 43044071)
     *   
 
-*   **[Distinct nanoscale architectures of GABAergic inhibitory synapses predict diverse synaptic output.](https://pubmed.ncbi.nlm.nih.gov/43038469/)** (PMID: 43038469)
+*   **[Rapid detection of beta-lactamase genes in Klebsiella pneumoniae and Escherichia coli from positive blood cultures using nanopore sequencing.](https://pubmed.ncbi.nlm.nih.gov/43044070/)** (PMID: 43044070)
     *   
 
-*   **[The evolution and function of eukaryote-to-cyanobacteria horizontal gene transfer.](https://pubmed.ncbi.nlm.nih.gov/43038458/)** (PMID: 43038458)
-    *   **简明中文总结（4–6句
-
-*   **[The broad-spectrum RumC1 bacteriocin targets a transient peptidoglycan intermediate of the nascent cell wall.](https://pubmed.ncbi.nlm.nih.gov/43038451/)** (PMID: 43038451)
+*   **[An Integrated Approach for Early In Vitro Sedation Prediction Utilizing hiPSC Neurons and Human Ion Channel Assays.](https://pubmed.ncbi.nlm.nih.gov/43044067/)** (PMID: 43044067)
     *   
 
-*   **[The Impact of Glucagon-Like Peptide-1 Receptor Agonist Use on Clinical Outcomes After Spinal Surgery: A Systematic Review and Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/43038446/)** (PMID: 43038446)
+*   **[Inhibitors of Gut Bacterial l-Dopa Decarboxylation with Reduced Susceptibility to Host Metabolism.](https://pubmed.ncbi.nlm.nih.gov/43044065/)** (PMID: 43044065)
     *   
 
-*   **[Vessel noise pollution offsets marine mammal energy budgets.](https://pubmed.ncbi.nlm.nih.gov/43038443/)** (PMID: 43038443)
-    *   **简明中文总结（4–6句）**
-    *   该研究利用28只野生港湾鼠海豚的高分辨率声音与运动标签，以行为代理指标估算能量获取与支出。结果显示，在高噪声船舶暴露期间，鼠海豚能量获取平均下降20%（范围1%–36%），而能量支出基本不变。由于每日高噪声船舶暴露中位数达11次，推算其日均净能量预算平均短缺4.6%。长期持续的这种噪声诱导能量赤字可能损害个体适合度，并进一步影响工业化沿海地区鼠海豚种群动态和功能容纳量。研究建立了“行为干扰—能量后果—种群适合度”的直接机制联系，为预测噪声污染的种群级影响和界定可接受的船舶噪声暴露水平提供了生物学
-
-*   **[A Neandertal-derived genetic variant reduces occipital brain volume in present-day humans.](https://pubmed.ncbi.nlm.nih.gov/43038442/)** (PMID: 43038442)
-    *   **简明总结（4–6句）**
-
-*   **[Transapical Beating-Heart Septal Myectomy for Symptomatic Nonobstructive Hypertrophic Cardiomyopathy: Initial Clinical Experience.](https://pubmed.ncbi.nlm.nih.gov/43038431/)** (PMID: 43038431)
+*   **[Artificial Intelligence in Clinical Hepatology: Emerging Opportunities and Translational Challenges.](https://pubmed.ncbi.nlm.nih.gov/43044054/)** (PMID: 43044054)
     *   
 
-*   **[Biatrial Versus Left Atrial Maze Ablation During Cardiac Valve Surgery for Persistent Atrial Fibrillation: The ABLATION Trial.](https://pubmed.ncbi.nlm.nih.gov/43038430/)** (PMID: 43038430)
-    *   **简明中文总结（5句）**
-    *   1. 该多中心、随机、单盲试验纳入323例接受风湿性二
-
-*   **[Degenerative Mitral Regurgitation: From Prolapse to Precision Therapy.](https://pubmed.ncbi.nlm.nih.gov/43038428/)** (PMID: 43038428)
+*   **[Safety and Feasibility of the Lung Volume Reduction Reverser System in Patients with Severe Emphysema: A First-in-Human Pilot Study.](https://pubmed.ncbi.nlm.nih.gov/43044044/)** (PMID: 43044044)
     *   
 
-*   **[Transapical Beating-Heart Septal Myectomy for Obstructive Hypertrophic Cardiomyopathy.](https://pubmed.ncbi.nlm.nih.gov/43038427/)** (PMID: 43038427)
+*   **[Sex-Based Comparison of Remission in Patients with Severe Type 2 Asthma Treated with Biologics: A Real-World Analysis from the "Southern Italy Network on Severe Asthma Therapy".](https://pubmed.ncbi.nlm.nih.gov/43044042/)** (PMID: 43044042)
+    *   ### 简明中文总结
+    *   该真实世界回顾性研究纳入370例接受美泊利珠单抗、贝那利珠单抗或度普利尤单抗治疗的严重嗜酸性哮喘患者，其中女性235例、男性135例，女性患病比例更高（男女比约1:1.7）。研究显示，男女在基线特征上存在差异：女性肥胖和骨质疏松更常见，男性吸烟暴露、FeNO升高和鼻息肉更常见。治疗24个月后，男性FeNO下降更明显、停止急性发作的比例更高，女性FEF25-75%改善和IgE下降更明显；但12个月和24个月临床缓解率在男女间均无显著差异。性别特异的缓解预测因素不同
+
+*   **[The Montafon Proposal: New Insights and Emerging Concepts in Pulmonary Rehabilitation.](https://pubmed.ncbi.nlm.nih.gov/43044040/)** (PMID: 43044040)
     *   
 
-*   **[Surgical Treatment of Atrial Fibrillation.](https://pubmed.ncbi.nlm.nih.gov/43038425/)** (PMID: 43038425)
-    *   **简明总结（约4–6句）**
-    *   1. 房颤是最常见的持续性心律失常，与卒中、心衰、死亡和生活质量下降相关；导管消融是非阵发性房颤和左房较大患者中疗效有限。
-    *   2. 本综述聚焦微创外科消融、心外膜-心内膜杂交消融、左心耳排除及术后抗凝管理的最新证据，以指导临床决策。
-    *   3. 关键发现是：独立微创Cox-Maze IV和杂交消融的长期无房性快速心律失常生存优于胸腔镜心外膜消融或单纯导管消融，5年无心律失常生存分别约85%–95%和60%–70%，而胸腔镜消融和单次导管消融仅约35%
-
-*   **[Antifungal Diterpenoids and Triterpenoids from the Twigs and Leaves of Casearia velutina.](https://pubmed.ncbi.nlm.nih.gov/43038423/)** (PMID: 43038423)
+*   **[Early Loop-Diuretic Administration and Subsequent Kidney Deterioration in Hospitalized Patients with Heart Failure: A MIMIC-IV Landmark Study.](https://pubmed.ncbi.nlm.nih.gov/43044035/)** (PMID: 43044035)
     *   
 
-*   **[Implementation of a spinal-induced hypotension management bundle for elective cesarean delivery.](https://pubmed.ncbi.nlm.nih.gov/43038418/)** (PMID: 43038418)
+*   **[Secondary polysaccharide recovery from Astragalus residue after hot water extraction: stream-resolved ultrafiltration mass balance and wash recovery.](https://pubmed.ncbi.nlm.nih.gov/43044033/)** (PMID: 43044033)
     *   
 
-*   **[Pitfalls and pearls of geriatric trauma care.](https://pubmed.ncbi.nlm.nih.gov/43038410/)** (PMID: 43038410)
-    *   **简明中文总结（4-6句）**
-    *   1. 老年创伤是随着65岁以上人口增长而日益突出的公共卫生问题，创伤是该人群第五大死因，并伴更高的并发症、死亡率和医疗费用。
-    *   2. 老年人生理变化、合并症负担、多重用药及药代动力学改变使评估和处理复杂化，易导致分诊不足和危及生命损伤的延迟识别。
-    *   3. 低能量机制（尤其平地跌倒
+*   **[Sex-stratified associations between the triglyceride-glucose index and urinary AD7c-NTP levels in adults: a cross-sectional study.](https://pubmed.ncbi.nlm.nih.gov/43044029/)** (PMID: 43044029)
+    *   **简明总结（4-6句）**
+    *   该横断面研究纳入2020—2023年接受健康体检的4,879名成人，探讨胰岛素抵抗替代指标TyG指数与尿AD7c-NTP（阿尔茨海默病相关神经元损伤的潜在无创生物标志物）之间的关系。结果显示，女性尿AD7c-NTP水平高于男性，但其TyG指数较低；未调整分析中，TyG指数仅与女性尿AD7c-NTP呈弱正相关，男性无相关。多变量调整年龄、平均动脉压、BMI、腰围、
 
-*   **[RNA Therapeutics in Cardiovascular Medicine: From Molecular Mechanisms to Clinical Practice.](https://pubmed.ncbi.nlm.nih.gov/43038382/)** (PMID: 43038382)
-    *   **简明中文总结（约5句）**
-    *   该综述聚焦靶向RNA或本身由RNA构成的RNA治疗药物，指出目前已获批临床使用的多为反义寡核苷酸（ASO）和小干扰RNA（siRNA）。迄今已有8款与心血管相关的RNA疗法获FDA批准，但其中并非全部具有明确的心血管疾病适应证。处于后期研发管线的候选药物主要靶向脂蛋白(a)、ANGPTL3和血管紧张素原，显示心血管RNA治疗仍具较大发展潜力。为提升成药性，治疗性核酸需通过化学修饰增强核酸酶抗性并降低体内免疫刺激，同时可借助GalNAc偶联或脂质纳米颗粒改善递送。新兴方向包括立体纯寡核苷酸化学、环状RNA、腺苷至肌苷RNA碱基编辑及非肝脏靶向递送；综述系统梳理了各
+*   **[Cranial Injuries due to Misuse of Infant Carriers.](https://pubmed.ncbi.nlm.nih.gov/43043998/)** (PMID: 43043998)
+    *   **简明总结（4-6句）**
+    *   该研究基于美国宾夕法尼亚州创伤结局数据库2001—2022年数据，分析0—24月龄婴儿因婴儿载具（如汽车安全座椅、摇椅）相关伤害就诊的562例患儿，年均约23例，平均年龄仅3.3个月。多数伤害为从高处跌落：82.7%从 elevated
 
-*   **[Presence of Kaposi Sarcoma-Associated Herpesvirus tissue reservoirs in seronegative postmortem cases from Zambia.](https://pubmed.ncbi.nlm.nih.gov/43038355/)** (PMID: 43038355)
+*   **[An Intelligent Pharmacy Dispensing Model for Outpatient Services Established Based on Data Mining Techniques.](https://pubmed.ncbi.nlm.nih.gov/43043993/)** (PMID: 43043993)
     *   
 
-*   **[GLP-1R Agonists in PMOS: Network Meta-Analysis and Drug-Target MR.](https://pubmed.ncbi.nlm.nih.gov/43038352/)** (PMID: 43038352)
+*   **[Alcohol use reduces the efficacy of anti-PD1 immunotherapy by disrupting antitumor immunity.](https://pubmed.ncbi.nlm.nih.gov/43043991/)** (PMID: 43043991)
     *   
 
-*   **[Genetic architecture of skeletal maturity and pleiotropic links with adiposity.](https://pubmed.ncbi.nlm.nih.gov/43038348/)** (PMID: 43038348)
+*   **[Endothelial cells and interstitial macrophages determine tissue-specific responses to type I IFNs in mice expressing humanized IFNARs.](https://pubmed.ncbi.nlm.nih.gov/43043990/)** (PMID: 43043990)
+    *   **中文总结（约5句）**
+    *   该研究比较了临床使用的I型干扰素IFN-α2与IFN-β在体外THP-1细胞及人源化IFNAR（HuIFNAR）小鼠中的免疫调节差异。体外结果显示，IFN-β诱导早期干扰素刺激基因（ISG）反应更快更强，而IFN-α2的反应更持久。体内则呈现显著的组织特异性：在IFN-β或IFN-α2诱导的1752个ISG中仅81个为二者共同诱导，且与体外相反，IFN-α2在多种组织中诱导更广泛、更强的ISG反应。单细胞RNA测序表明，肺内皮细胞主要塑造组织特异性ISG图谱，而免疫细胞尤其是间质巨噬细胞驱动IFN亚型特异性差异。研究结论是，IFN-I亚型的体内活性由
+
+*   **[The 32nd Annual Prostate Cancer Foundation Scientific Retreat Report.](https://pubmed.ncbi.nlm.nih.gov/43043976/)** (PMID: 43043976)
     *   
 
 
