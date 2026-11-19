@@ -12,83 +12,105 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-11-18
-*Fetched and summarized 23 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
+### Summary for 2026-11-19
+*Fetched and summarized 25 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Developing a Stakeholder-Informed Quality Use of Medicines Analytics Dashboard for Acute Mental Health Care: Protocol for a Cross-Country Study.](https://pubmed.ncbi.nlm.nih.gov/43044115/)** (PMID: 43044115)
+*   **[A Mobile Diabetes Prevention Intervention Among Chinese Americans at Risk for Diabetes: Qualitative Analysis of Barriers and Facilitators to Intervention Engagement.](https://pubmed.ncbi.nlm.nih.gov/43050680/)** (PMID: 43050680)
     *   
 
-*   **[Detecting Invisible Triangular Citations in Biomedical Research Using a Dual-Threshold Framework Based on Textual Similarity and Bibliographic Coupling Strength: Method Development and Validation Study.](https://pubmed.ncbi.nlm.nih.gov/43044108/)** (PMID: 43044108)
-    *   **中文总结（约5句）**
-    *   该研究针对“隐形三角引用”（ITC）——即追随文献C通过未致谢的中介文献B间接使用奠基文献A内容——建立并实证验证了一个双阈值检测框架，结合文本相似度与文献耦合强度，用于生物医学文献中的引用溯源识别。研究以抗体偶联药物（ADC）领域为对象，分析2948篇源论文、20,801篇引用文献和37,542条引用句，在超过208万对记录中检测出6165条ITC记录（0.296%）。最佳阈值为余弦相似度≥0.60且文献耦合强度≥10；专家盲审确认率达85.00%。ITC主要集中在引言（49.1%）和讨论（47.5
-
-*   **[Using a Large Language Model Chatbot for Allergen Avoidance Counseling in Contact Dermatitis: Quantitative Evaluation Study.](https://pubmed.ncbi.nlm.nih.gov/43044101/)** (PMID: 43044101)
-    *   **简明总结：**
-    *   该研究评估了GPT-4在接触性皮炎过敏原回避咨询中推荐“无过敏原产品”的可行性，覆盖国际标准斑贴试验中的30个过敏
-
-*   **[Social Media Insights Into the Human Papillomavirus Vaccination Catch-Up Campaign for Young Adults in the Netherlands, 2023-2024: Qualitative Study.](https://pubmed.ncbi.nlm.nih.gov/43044099/)** (PMID: 43044099)
+*   **[Development of PRECISE, a Data-Driven Personalized Suicide Prevention Intervention: Protocol for an Intervention Refinement Pilot and Randomized Controlled Trial.](https://pubmed.ncbi.nlm.nih.gov/43050679/)** (PMID: 43050679)
     *   
 
-*   **[Validation of the BASED Score as a Prognostic Biomarker for Refractory Epilepsy Following Treatment of Infantile Epileptic Spasms Syndrome.](https://pubmed.ncbi.nlm.nih.gov/43044079/)** (PMID: 43044079)
+*   **[Development and Validation of a Scale to Measure Attitudes and Confidence Toward Oral Care Among Pharmacy Students in Japan: Protocol for a Preliminary Content Validation.](https://pubmed.ncbi.nlm.nih.gov/43050678/)** (PMID: 43050678)
+    *   **简明中文总结（约5句）**
+    *   该研究旨在开发全球首个专门评估药学学生对患者口腔护理态度与信心的日文版量表ACORP，系将护理学生版ACORN改编为药师视角。专家小组将口腔护理态度与信心界定为以药师沟通为核心的角色，包括药物相关管理、患者教育、口腔健康问题识别及牙科转诊。初步量表的全部条目均
+
+*   **[Correction: Identification of a Susceptible and High-Risk Population for Postoperative Systemic Inflammatory Response Syndrome in Older Adults: Machine Learning-Based Predictive Model.](https://pubmed.ncbi.nlm.nih.gov/43050677/)** (PMID: 43050677)
     *   
 
-*   **[Optimizing use of GLP-1 receptor agonists: safety, tolerability, adherence, and patient selection in cardiovascular practice.](https://pubmed.ncbi.nlm.nih.gov/43044077/)** (PMID: 43044077)
+*   **[Population-scale analysis reveals conserved architecture and extracellular specialization of proteases in Brachyspira hyodysenteriae.](https://pubmed.ncbi.nlm.nih.gov/43050675/)** (PMID: 43050675)
+    *   **简明中文总结（约5句）**
+    *   本研究以猪痢疾病原体 *Brachyspira hyodysenteriae* 为对象，对
+
+*   **[Acute Respiratory Distress Syndrome.](https://pubmed.ncbi.nlm.nih.gov/43050661/)** (PMID: 43050661)
+    *   **简明总结（约4–6句）**
+    *   ARDS是肺炎、脓毒症、胃内容物误吸、严重创伤等常见诱因导致的急性低氧性呼吸衰竭。其定义虽不断演变，但核心仍为急性起病、低氧血症和双肺影像学渗出影。管理关键在于识别并治疗基础病因，同时避免呼吸机相关肺损伤和容量过负荷。无创呼吸支持最佳策略、PEEP个体化、创新通气策略及糖皮质激素应用仍存在争议。新研究提示，基于生物学、影像学或生理学亚表型的精准医学管理可能改善结局，相关前瞻性试验正在进行。其与药物科学的相关性在于：糖皮质激素等药物证据需结合ARDS亚表型重新评估，病因治疗和液体管理也直接影响药物疗效与安全性。
+    *   
+    *   **创新性总结**
+    *   - 提出以离散的生物学、影像学或生理学亚表型对ARDS进行精准分型管理，而非“一刀切”治疗。
+    *   - 强调将精准医学理念引入ARDS通气和药物/辅助治疗决策，并推进前瞻性验证。
+    *   
+    *   **药学启示**
+    *   - 糖皮质激素等药物在ARDS中的使用仍存争议，
+
+*   **[Pearls & Oy-sters: Reversible Rapidly Progressive Dementia Associated With ASIA Syndrome Secondary to Silicone Implants.](https://pubmed.ncbi.nlm.nih.gov/43050643/)** (PMID: 43050643)
     *   
 
-*   **[A functional TIGIT-associated transcriptional program identifies circulating tumor-reactive CD8⁺ T cells in melanoma patients.](https://pubmed.ncbi.nlm.nih.gov/43044075/)** (PMID: 43044075)
+*   **[The Combined Effect of Migraine and Smoking on Premature Stroke and All-Cause Mortality in Parous Women: A Population-Based Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/43050638/)** (PMID: 43050638)
     *   
 
-*   **[Usability and Perceived Acceptability of the "MedSMA℞T: Adventures in PharmaCity" Opioid Safety Serious Game Among County-Based Extension Agents in Kentucky: Single-Group Pretest-Posttest Formative Stakeholder Evaluation.](https://pubmed.ncbi.nlm.nih.gov/43044071/)** (PMID: 43044071)
+*   **[Factors Associated With Worse Performance on Oswestry Disability Index in Neurologically Intact Patients Treated for Thoracolumbar Burst Fractures: A Sub-Analysis From a Prospective Multicenter Study.](https://pubmed.ncbi.nlm.nih.gov/43050632/)** (PMID: 43050632)
+    *   **简明中文总结（4–6句）**
+    *   该前瞻性多中心队列研究（NCT02827214）纳入198例急性闭合性胸腰段爆裂骨折（A3/A4，T10–L2）成人患者，其中122例手术治疗，旨在识别治疗1年后Oswestry功能障碍指数（ODI）较差的预测因素。研究发现，女性、北美地区治疗、较高Charlson合并症指数、低能量创伤、受伤至治疗时间较长、后韧带复合体（PLC）损伤程度由“完整”向“疑似/不确定”及“损伤”进展、以及较高
+
+*   **[Conformational Plasticity of Orthosteric Pocket Enables the Discovery of a Novel PAD4-Selective Inhibitor.](https://pubmed.ncbi.nlm.nih.gov/43050607/)** (PMID: 43050607)
+    *   **简明中文总结：**
+    *   PAD家族酶催化底物蛋白中精氨酸瓜氨酸化，瓜氨酸化蛋白升高与类风湿关节炎、神经退行性疾病和癌症密切相关，因此PAD是重要治疗靶点。该研究通过基于结构的虚拟筛选发现了一类PAD4选择性抑制剂，其结合位点不同于已知PAD4抑制剂。生化与生物物理表征显示，该抑制剂在低钙浓度下优先靶向正构位点，并对PAD4的选择性优于PAD1/PAD2/PAD3。共
+
+*   **[Establishing an Enhanced Mental Healthcare Service in an Acute General Hospital: The Experience of Nurses in a Large Teaching Hospital in England.](https://pubmed.ncbi.nlm.nih.gov/43050595/)** (PMID: 43050595)
     *   
 
-*   **[Rapid detection of beta-lactamase genes in Klebsiella pneumoniae and Escherichia coli from positive blood cultures using nanopore sequencing.](https://pubmed.ncbi.nlm.nih.gov/43044070/)** (PMID: 43044070)
+*   **[Clinical and operational practices to facilitate safe medication use in the care of hospitalized patients with pulmonary arterial hypertension.](https://pubmed.ncbi.nlm.nih.gov/43050590/)** (PMID: 43050590)
+    *   **简明中文总结（约5句）**
+    *   该文综述了住院患者肺动脉高压（PAH）靶向药物安全使用的循证实践及护理过渡策略。PAH患者可因PAH相关病情、无关急性疾病或靶向药物并发症入院，需快速分诊并评估医院是否具备PAH专科医师
+
+*   **[Reducing inappropriate pneumatic tube transport of restricted medications through an EHR-integrated safeguard.](https://pubmed.ncbi.nlm.nih.gov/43050582/)** (PMID: 43050582)
     *   
 
-*   **[An Integrated Approach for Early In Vitro Sedation Prediction Utilizing hiPSC Neurons and Human Ion Channel Assays.](https://pubmed.ncbi.nlm.nih.gov/43044067/)** (PMID: 43044067)
-    *   
-
-*   **[Inhibitors of Gut Bacterial l-Dopa Decarboxylation with Reduced Susceptibility to Host Metabolism.](https://pubmed.ncbi.nlm.nih.gov/43044065/)** (PMID: 43044065)
-    *   
-
-*   **[Artificial Intelligence in Clinical Hepatology: Emerging Opportunities and Translational Challenges.](https://pubmed.ncbi.nlm.nih.gov/43044054/)** (PMID: 43044054)
-    *   
-
-*   **[Safety and Feasibility of the Lung Volume Reduction Reverser System in Patients with Severe Emphysema: A First-in-Human Pilot Study.](https://pubmed.ncbi.nlm.nih.gov/43044044/)** (PMID: 43044044)
-    *   
-
-*   **[Sex-Based Comparison of Remission in Patients with Severe Type 2 Asthma Treated with Biologics: A Real-World Analysis from the "Southern Italy Network on Severe Asthma Therapy".](https://pubmed.ncbi.nlm.nih.gov/43044042/)** (PMID: 43044042)
+*   **[Rethinking sterility in pituitary surgery: evidence for a microbiological continuum along the transsphenoidal corridor.](https://pubmed.ncbi.nlm.nih.gov/43050563/)** (PMID: 43050563)
     *   ### 简明中文总结
-    *   该真实世界回顾性研究纳入370例接受美泊利珠单抗、贝那利珠单抗或度普利尤单抗治疗的严重嗜酸性哮喘患者，其中女性235例、男性135例，女性患病比例更高（男女比约1:1.7）。研究显示，男女在基线特征上存在差异：女性肥胖和骨质疏松更常见，男性吸烟暴露、FeNO升高和鼻息肉更常见。治疗24个月后，男性FeNO下降更明显、停止急性发作的比例更高，女性FEF25-75%改善和IgE下降更明显；但12个月和24个月临床缓解率在男女间均无显著差异。性别特异的缓解预测因素不同
+    *   该前瞻性研究纳入34例接受内镜经蝶手术的患者，对术前鼻咽拭子及术中蝶窦黏膜和垂体肿瘤标本进行需氧和厌氧培养，以刻画经蝶手术通道的微生物谱。结果显示，蝶窦与肿瘤细菌结果完全一致（相同细菌或均无菌）者占64.71%，且79.31%的患者至少有一种肿瘤分离菌同时见于蝶窦。蝶窦中的病原菌与肿瘤组织中的病原菌高度相关（OR=16.0，95%CI 2.16–118.0，p=0.005），提示二者存在局部微生物学关联，但需排除手术操作导致的标本携带污染。肿瘤细菌状态与术后结局无显著关联，所有术后脑膜炎均发生于脑脊液漏患者。研究说明经蝶手术通道并非微生物无菌区，这对围手术期感染风险评估
 
-*   **[The Montafon Proposal: New Insights and Emerging Concepts in Pulmonary Rehabilitation.](https://pubmed.ncbi.nlm.nih.gov/43044040/)** (PMID: 43044040)
+*   **[Membrane-confined self-assembly enables localized bioorthogonal prodrug activation and selective cancer therapy.](https://pubmed.ncbi.nlm.nih.gov/43050537/)** (PMID: 43050537)
+    *   **简明总结（4–6句）**
+    *   本文报道一种双靶向肽TzFFYpHH，利用癌细胞膜上过表达的碱性磷酸酶（ALP）和PD-L1，实现选择性膜锚定与酶指导自组装（EISA），并在
+
+*   **[An integrative single-cell long noncoding RNA atlas reveals regulatory programs in the pan-cancer tumor microenvironment.](https://pubmed.ncbi.nlm.nih.gov/43050536/)** (PMID: 43050536)
+    *   **简明中文总结（约5句）**
+    *   该研究构建了一个覆盖18种癌症类型、超过37万个细胞的整合性lncRNA图谱，系统描绘了肿瘤微环境中的lncRNA表达特征。研究不仅识别出与谱系身份及细胞状态转变相关的lncRNA，还发现部分lncRNA嵌入细胞类型特异性调控子（regulon）中，提示其与细胞类型富集的转录程序密切相关。通过整合CRISPR功能基因组筛选与临床数据，作者优先筛选出与肿瘤细胞适应度、免疫细胞状态特征相关的候选lncRNA。研究进一步鉴定了与患者生存及免疫治疗反应相关的特定lncRNA特征。总体而言，该工作将lncRNA图谱、功能筛选和临床关联相结合，为癌症相关lncRNA的功能解读和转化研究提供了重要资源。
+    *   
+    *   **创新性总结**
+
+*   **[TRIM28-mediated SUMOylation of ERG at K389 conveys PARP inhibitor resistance by inhibiting 53BP1 expression in CRPC.](https://pubmed.ncbi.nlm.nih.gov/43050535/)** (PMID: 43050535)
     *   
 
-*   **[Early Loop-Diuretic Administration and Subsequent Kidney Deterioration in Hospitalized Patients with Heart Failure: A MIMIC-IV Landmark Study.](https://pubmed.ncbi.nlm.nih.gov/43044035/)** (PMID: 43044035)
+*   **[Environment-adaptive molecular neural networks enabled by heterogeneous threshold DNA neuron.](https://pubmed.ncbi.nlm.nih.gov/43050533/)** (PMID: 43050533)
+    *   **简明中文总结（约5句）**
+    *   该研究针对现有DNA神经网络组装后连接固定、难以适应环境变化的问题，构建了一种环境自适应分子神经网络。其核心是序列编程、具有异质激活阈值的DNA神经元，并整合可调pH响应窗口的三链体质子门控DNA开关，
+
+*   **[Hydrogen radical-participating spatiotemporal sequential therapy via hypoxia aggravation for hypoxia-amplified immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/43050532/)** (PMID: 43050532)
+    *   ### 简明中文总结
+    *   该研究针对肿瘤微环境缺氧及内源性抗氧化防御削弱耗氧氧化治疗的问题，提出以无氧依赖的还原应激作为肿瘤治疗新范式。作者构建了一种可由近红外光和硫醇协同激活的氢自由基（H•）发生器，并首次阐明光催化H•
+
+*   **[GenNA: Conditional generation of nucleotide sequences guided by natural language annotations.](https://pubmed.ncbi.nlm.nih.gov/43050525/)** (PMID: 43050525)
+    *   **简明总结：**
+    *   GenNA 是一个由自然语言注释引导的生成式核苷酸基础模型，旨在解决现有核苷酸生成模型缺乏基因相关生物学语义、难以进行语义引导设计的问题。该模型在覆盖2221个真核物种、约4160亿字符的多模态核苷酸-文本语料上预训练，并在统一自回归框架中学习序列语法与功能语义之间的关系。关键发现是：无需显式规则监督，GenNA 对序列-注释不
+
+*   **[TLR5 drives metabolic dysfunction-associated steatohepatitis through lipid- and flagellin-induced hepatocyte injury signaling.](https://pubmed.ncbi.nlm.nih.gov/43050520/)** (PMID: 43050520)
     *   
 
-*   **[Secondary polysaccharide recovery from Astragalus residue after hot water extraction: stream-resolved ultrafiltration mass balance and wash recovery.](https://pubmed.ncbi.nlm.nih.gov/43044033/)** (PMID: 43044033)
+*   **[Non-invasive, high-precision, and independently controllable neuromodulation via optimized multiple temporal interference stimulation.](https://pubmed.ncbi.nlm.nih.gov/43050519/)** (PMID: 43050519)
+    *   **简明中文总结（4–6句）**
+
+*   **[Intestinal BMP SMADs impart the mid-villus pattern through a transcription factor cascade mechanism.](https://pubmed.ncbi.nlm.nih.gov/43050518/)** (PMID: 43050518)
     *   
 
-*   **[Sex-stratified associations between the triglyceride-glucose index and urinary AD7c-NTP levels in adults: a cross-sectional study.](https://pubmed.ncbi.nlm.nih.gov/43044029/)** (PMID: 43044029)
-    *   **简明总结（4-6句）**
-    *   该横断面研究纳入2020—2023年接受健康体检的4,879名成人，探讨胰岛素抵抗替代指标TyG指数与尿AD7c-NTP（阿尔茨海默病相关神经元损伤的潜在无创生物标志物）之间的关系。结果显示，女性尿AD7c-NTP水平高于男性，但其TyG指数较低；未调整分析中，TyG指数仅与女性尿AD7c-NTP呈弱正相关，男性无相关。多变量调整年龄、平均动脉压、BMI、腰围、
-
-*   **[Cranial Injuries due to Misuse of Infant Carriers.](https://pubmed.ncbi.nlm.nih.gov/43043998/)** (PMID: 43043998)
-    *   **简明总结（4-6句）**
-    *   该研究基于美国宾夕法尼亚州创伤结局数据库2001—2022年数据，分析0—24月龄婴儿因婴儿载具（如汽车安全座椅、摇椅）相关伤害就诊的562例患儿，年均约23例，平均年龄仅3.3个月。多数伤害为从高处跌落：82.7%从 elevated
-
-*   **[An Intelligent Pharmacy Dispensing Model for Outpatient Services Established Based on Data Mining Techniques.](https://pubmed.ncbi.nlm.nih.gov/43043993/)** (PMID: 43043993)
+*   **[Nanoparticle-enabled gene delivery for pediatric brain tumors.](https://pubmed.ncbi.nlm.nih.gov/43050510/)** (PMID: 43050510)
     *   
 
-*   **[Alcohol use reduces the efficacy of anti-PD1 immunotherapy by disrupting antitumor immunity.](https://pubmed.ncbi.nlm.nih.gov/43043991/)** (PMID: 43043991)
-    *   
-
-*   **[Endothelial cells and interstitial macrophages determine tissue-specific responses to type I IFNs in mice expressing humanized IFNARs.](https://pubmed.ncbi.nlm.nih.gov/43043990/)** (PMID: 43043990)
-    *   **中文总结（约5句）**
-    *   该研究比较了临床使用的I型干扰素IFN-α2与IFN-β在体外THP-1细胞及人源化IFNAR（HuIFNAR）小鼠中的免疫调节差异。体外结果显示，IFN-β诱导早期干扰素刺激基因（ISG）反应更快更强，而IFN-α2的反应更持久。体内则呈现显著的组织特异性：在IFN-β或IFN-α2诱导的1752个ISG中仅81个为二者共同诱导，且与体外相反，IFN-α2在多种组织中诱导更广泛、更强的ISG反应。单细胞RNA测序表明，肺内皮细胞主要塑造组织特异性ISG图谱，而免疫细胞尤其是间质巨噬细胞驱动IFN亚型特异性差异。研究结论是，IFN-I亚型的体内活性由
-
-*   **[The 32nd Annual Prostate Cancer Foundation Scientific Retreat Report.](https://pubmed.ncbi.nlm.nih.gov/43043976/)** (PMID: 43043976)
-    *   
+*   **[Rescue of glutaric aciduria type I by GalNAc-conjugated siRNA against aminoadipate semialdehyde synthase.](https://pubmed.ncbi.nlm.nih.gov/43050505/)** (PMID: 43050505)
+    *   **简明总结：**
+    *   GA-1是由GCDH缺陷导致的严重代谢病，
 
 
 <!-- DAILY_PAPERS_END -->
