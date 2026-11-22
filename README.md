@@ -12,105 +12,97 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-11-21
-*Fetched and summarized 25 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
+### Summary for 2026-11-22
+*Fetched and summarized 23 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Safety and effectiveness of surgery for medically refractory insular epilepsy in children: a systematic review and individual participant data meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/43063469/)** (PMID: 43063469)
-    *   
-
-*   **[Alectinib as Neoadjuvant Treatment in Potentially Resectable Stage III Anaplastic Lymphoma Kinase-Positive Non-Small Cell Lung Cancer: ALNEO Phase II Trial (GOIRC-01-2020-ML42316).](https://pubmed.ncbi.nlm.nih.gov/43063368/)** (PMID: 43063368)
-    *   
-
-*   **[Survival Outcomes of Sequential Therapies in Malignant Pleural Mesothelioma: A Real-World Analysis of Second-Line Treatment With Nivolumab or Carboplatin-Pemetrexed.](https://pubmed.ncbi.nlm.nih.gov/43063366/)** (PMID: 43063366)
-    *   
-
-*   **[Fe3O4@NA@MIPs-based molecularly imprinted nanozyme colorimetric platform with smartphone-assisted RGB readout for BPA detection.](https://pubmed.ncbi.nlm.nih.gov/43063363/)** (PMID: 43063363)
-    *   
-
-*   **[Predicting early treatment termination in opioid use disorder: a machine learning model for risk stratification.](https://pubmed.ncbi.nlm.nih.gov/43063324/)** (PMID: 43063324)
-    *   
-
-*   **[Total Synthesis of the Saponin Vaccine Adjuvant Chiococcasaponin I via a Sequential One-Pot Tetrasaccharide Assembly.](https://pubmed.ncbi.nlm.nih.gov/43063321/)** (PMID: 43063321)
-    *   
-
-*   **[Effects of Exercise on Symptom Burden During Cancer Treatment: Real-World Evidence from a Statewide Exercise Oncology Program.](https://pubmed.ncbi.nlm.nih.gov/43063318/)** (PMID: 43063318)
-    *   
-
-*   **[Association of Social Determinants of Health with Periprosthetic Joint Infection Following Total Hip and Knee Arthroplasty: A Systematic Review.](https://pubmed.ncbi.nlm.nih.gov/43063309/)** (PMID: 43063309)
-    *   
-
-*   **[Bacterial Cellulose-Reinforced PMMA Bone Cement with Enhanced Drug Release and Osteoconductive Performance.](https://pubmed.ncbi.nlm.nih.gov/43063304/)** (PMID: 43063304)
-    *   
-
-*   **[Elevated blood lead levels among pregnant women in Amran, Yemen: Socio-demographic correlates and associations with a history of spontaneous abortion.](https://pubmed.ncbi.nlm.nih.gov/43063296/)** (PMID: 43063296)
+*   **[Addressing medication adherence in lung transplantation patients: a narrative review on interventions.](https://pubmed.ncbi.nlm.nih.gov/43065329/)** (PMID: 43065329)
     *   **简明中文总结（约4–6句）**
-    *   本研究在也门Amran开展多中心横断面调查，纳入150名20–41岁孕妇，评估其血铅水平及环境、行为和社会人口学相关健康风险。结果显示铅暴露极为严重：82.7
+    *   该叙述性综述通过检索PubMed、Embase和CINAHL，评估肺移植后改善免疫抑制药物依从性的干预措施，涵盖数字干预、行为干预及治疗相关干预。结果显示，各类干预均能显著改善用药依从性，但尚无干预被证实可改善临床结局。文章指出，肺移植患者需终身服用免疫抑制药，而复杂方案和副作用使依从性管理具有挑战，非依从与移植物失败和患者生存不良密切相关。作者建议将用药依从性常规评估纳入肺移植患者临床实践和队列研究。由于患者异质性强，干预不应“一刀切”，而应采用多因素、个体化策略，结合数字、行为和治疗相关措施
 
-*   **[Platelet glycoprotein Ib shapes the immune response during lung injury.](https://pubmed.ncbi.nlm.nih.gov/43063288/)** (PMID: 43063288)
-    *   **简明总结（约4–6句）**
-    *   本研究探讨血小板糖蛋白GPⅠb在ARDS急性肺损伤中的作用，发现功能性缺失GPⅠb或使用抗GPⅠb阻断抗体的小鼠在LPS吸入后，肺泡中性粒细胞浸润减少，血小板-中性粒细胞相互作用及复合物形成下降，并抑制中性粒细胞胞外诱捕网（NETs）形成。然而，这种抗炎效应伴随宿主防御受损：GPⅠb功能缺陷小鼠在肺炎克雷伯菌感染后细菌负荷增加、生存率下降。临床转化分析显示，ARDS患者血浆中脱落的GPⅠbα胞外域（glycocalicin）水平较低者死亡率和不良结局更高。作者据此认为，GPⅠb是中性粒细胞迁移入肺泡及抵御病原体入侵的关键介质。该研究提示，靶向GPⅠb/血小板-中性粒细胞轴可能减轻ARDS炎症，但需警惕感染风险，并支持glycocal
-
-*   **[Subclonal evolution can shape the transition toward a sarcomatoid phenotype in pleural mesothelioma.](https://pubmed.ncbi.nlm.nih.gov/43063279/)** (PMID: 43063279)
-    *   **简明中文总结**
-    *   该研究利用单细胞RNA测序分析胸膜间皮瘤（PM）肿瘤样本及其原代细胞系，定义了四种与大队列总生存相关的肿瘤细胞表型：上皮样、肉瘤样、中间型和未分化型。部分肿瘤存在瘤内表型异质性，并与亚克隆进化相关；中间型亲本细胞在获得拷贝数变异后可产生肉瘤样细胞。亚克隆在细胞系中得以保留并维持特定表型，提示表型具有较高遗传性。空间转录组进一步显示亚克隆细胞在肿瘤组织中共定位并呈现特定形态，
-
-*   **[PEG-free tunable poly(2-oxazoline) lipids modulate mRNA-LNP biodistribution and expression in vivo.](https://pubmed.ncbi.nlm.nih.gov/43063278/)** (PMID: 43063278)
-    *   **简明中文总结（约4–6句）**
-    *   该研究针对当前脂质纳米颗粒（LNP）依赖PEG脂质稳定、而人群中抗PEG抗体普遍可导致过敏反应和加速血液清除的问题，开发了聚(2-噁唑啉)（POx）脂质作为PEG脂质的替代方案。作者通过调节POx聚合物的亲水性和分子量，在多细胞系中筛选转染效率，并在体内评价优选候选物。关键发现是：含短亲水噁唑啉链的POx脂质可增强靶细胞转染，同时降低肝脏表达，并提高淋巴结、脾等肝外组织的表达。POx聚合物免疫原性较低，并可减轻
-
-*   **[Light-guided photophosphorylation nanorobot rescues injured cardiomyocytes via in situ bioenergetic restoration.](https://pubmed.ncbi.nlm.nih.gov/43063273/)** (PMID: 43063273)
+*   **[Past, present and future of Estetrol (E4); a natural fetal estrogen for human use.](https://pubmed.ncbi.nlm.nih.gov/43065308/)** (PMID: 43065308)
     *   
 
-*   **[Immune infiltrate predicts response to αPD1/αCTLA4 but not αPD1 and distinguishes programs of primary resistance in metastatic melanoma.](https://pubmed.ncbi.nlm.nih.gov/43063269/)** (PMID: 43063269)
+*   **[Medication-Related Osteonecrosis of the Jaw at the Site of a Presumed Pre-Existing Mandibular Dense Bone Island: A Longitudinal Cone-Beam Computed Tomography Case Report.](https://pubmed.ncbi.nlm.nih.gov/43065169/)** (PMID: 43065169)
     *   
 
-*   **[Targeting METTL3 protects against acetaminophen-induced liver injury through HAPTOGLOBIN/CD163 macrophage axis.](https://pubmed.ncbi.nlm.nih.gov/43063263/)** (PMID: 43063263)
-    *   ### 简明中文总结
-    *   1. 对乙酰氨基酚（APAP）过量是药物性肝损伤（DILI）最常见原因，但治疗选择有限；本研究聚焦RNA m6A修饰及其核心甲基转移酶METTL3在DILI中的作用。
-    *   2. 研究发现DILI患者及小鼠模型中肝内METTL3表达升高；肝细胞特异性敲除METTL3可显著减轻雄性和雌性小鼠的APAP肝毒性。
-    *   3. 机制上，肝细胞METTL3缺失降低急性期蛋白触珠蛋白（Hp）转录本的m6A沉积，促进Hp转录和翻译，增加HP分泌。
-    *   4. 分泌的HP与巨噬细胞特异性受体CD163结合，诱导巨噬细胞高吞噬、抗炎极化，从而减轻APAP诱导的肝损伤。
-    *   5. 两种METTL3抑制剂JNJ64619178和STM2457均能有效缓解APAP肝损伤，提示靶向METTL3是APAP过量潜在治疗策略。
-    *   
-    *   ### 创新性总结
-    *   - 揭示m6A/METTL3在APAP诱导DILI中的关键致病作用，拓展了DILI的表观转录
-
-*   **[LONP-1 deficiency causes dysregulated protein synthesis within mitochondria that is suppressed by mitoribosomal mutations.](https://pubmed.ncbi.nlm.nih.gov/43063261/)** (PMID: 43063261)
+*   **[Deep learning-based CT segmentation of mandibular bone invasion in oral squamous cell carcinoma.](https://pubmed.ncbi.nlm.nih.gov/43065017/)** (PMID: 43065017)
     *   
 
-*   **[Psychedelics shift decision strategies and reconfigure orbitofrontal dynamics.](https://pubmed.ncbi.nlm.nih.gov/43063260/)** (PMID: 43063260)
-    *   **简明中文总结（4–6句）**
-    *   该研究在小鼠自由反应知觉决策任务中比较了裸盖菇素和氯胺酮急性给药对决策计算的影响，该任务可区分偏倚驱动与感觉证据引导策略。结果显示，两种致幻剂均延长决策时间但提高准确率。结合漂移扩散模型和GLM-HMM的行为建模表明，这一效应主要由决策阈值升高及向“感觉参与”状态转变所驱动。全脑c-Fos映射发现包括眶额皮层（OFC）在内的分布式任务相关网络受到调制；OFC钙成像进一步显示其群体动力学被重组，任务选择性保留但时间结构和群体
-
-*   **[Dynamic nuclear pores dictate the emergence of lamina-associated domains and UV protection during embryogenesis.](https://pubmed.ncbi.nlm.nih.gov/43063259/)** (PMID: 43063259)
+*   **[Jujuboside A from Ziziphus: Chemistry, mechanistic pharmacology, pharmacokinetics, and formulation roadmap toward neuroactive translation.](https://pubmed.ncbi.nlm.nih.gov/43064897/)** (PMID: 43064897)
     *   
 
-*   **[Disulfiram inhibits pyroptosis and apoptosis through multiple complementary mechanisms.](https://pubmed.ncbi.nlm.nih.gov/43063249/)** (PMID: 43063249)
+*   **[Losartan use, left ventricular function and remodeling in hypertensive patients with aortic stenosis: the HYTAS prospective comparative cohort study.](https://pubmed.ncbi.nlm.nih.gov/43064892/)** (PMID: 43064892)
+    *   **简明总结（4-6句）**
+    *   1. 该前瞻性配对队列研究纳入高血压合并轻至中度主动脉瓣狭窄（AS）患者，比较接受氯沙坦治疗的18例与
+
+*   **[Recognition and management of semaglutide overdose and intoxi​cation: a narrative review for clinicians.](https://pubmed.ncbi.nlm.nih.gov/43064885/)** (PMID: 43064885)
+    *   
+
+*   **[A pilot randomized feasibility trial of perioperative melatonin for cardiac arrhythmias during CPB weaning, sedative and analgesic medication use, and mechanical ventilation following CABG.](https://pubmed.ncbi.nlm.nih.gov/43064884/)** (PMID: 43064884)
+    *   **简明中文总结（4-6句）**
+    *   该研究是一项试点随机、双盲、安慰剂对照可行性试验，纳入22例择期体外循环下冠状动脉旁路移植术（CABG）成人，评估围术期口服褪黑素（3 mg，术前3晚至术后3晚每晚服用）的可行性及初步临床效应。结果显示招募率68.75%，保留率、方案依从性和结局评估完整性均为100%，未观察到治疗相关
+
+*   **[BGN4-derived intestinal metabolite 6-hydroxynicotinic acid alleviates hepatocytes ferroptosis in MAFLD via Nrf2/SREBP1/CYP2E1 axis.](https://pubmed.ncbi.nlm.nih.gov/43064882/)** (PMID: 43064882)
+    *   ## 简明中文总结
+    *   
+    *   该研究围绕代谢功能障碍相关脂肪性肝病（MAFLD）中肠道菌群失调与肝细胞铁死亡的关系，发现双歧杆菌BGN4可显著减轻高脂饮食MAFLD小鼠的肝损伤、氧化应激和肝细胞铁死亡，并提高肠道代谢物6-羟基烟酸（6
+
+*   **[Small extracellular vesicle-associated miRNAs in lung cancer: therapeutic potential, drug delivery applications, and translational perspectives.](https://pubmed.ncbi.nlm.nih.gov/43064880/)** (PMID: 43064880)
+    *   **简明中文总结（约6句）**
+    *   该综述系统评估了肺癌中小细胞外囊泡（EV）相关及
+
+*   **[Alternative multiport robotic platforms versus da Vinci in colorectal cancer surgery: a systematic review and platform-stratified meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/43064876/)** (PMID: 43064876)
+    *   
+
+*   **[Treatment burden and long-term morbidity after transoral robotic vs. nonrobotic surgery for oropharyngeal cancer.](https://pubmed.ncbi.nlm.nih.gov/43064870/)** (PMID: 43064870)
+    *   
+
+*   **[Chronopharmaceutics of In Situ Gel-Based Drug Delivery Systems in the Treatment of Nocturnal Asthma: Recent Advances, Challenges, and Future Perspectives.](https://pubmed.ncbi.nlm.nih.gov/43064869/)** (PMID: 43064869)
     *   **简明中文总结（约5句）**
-    *   该研究系统揭示，已上市戒酒药双硫仑可通过多个互补机制抑制焦亡。首先，双硫仑抑制procaspase-1加工为caspase-1，并抑制caspase对GSDMD的切割，从而减少促膜孔N端片段GSDMD^Nterm的释放。其次，双硫仑还可对GSDMD^Nterm进行结构性修饰，并分配进入细胞膜、稳定嵌入膜内，改变
+    *   夜间哮喘的气道阻力与炎症在02:00–06:00达峰，受迷走张力、皮质醇和炎症介质的昼夜节律驱动；传统ICS/LABA及口服治疗因依从性、肺部沉积异质性和口服暴露变异，难以稳定覆盖该时间窗。原位凝胶（ISG）是给药后成胶、可望实现鼻/肺持续释放的平台。该叙述性综述整合
 
-*   **[Dissecting the molecular triggers of early and late long-term potentiation.](https://pubmed.ncbi.nlm.nih.gov/43063247/)** (PMID: 43063247)
-    *   **简明总结（约5句）**
-    *   该研究利用光遗传学在CA1神经元诱导tLTP时激活或抑制CaMKII，以
+*   **[Reusable paper-based analytical device integrated with Ce-POM/NMF nanozyme for point-of-care monitoring of total antioxidant capacity.](https://pubmed.ncbi.nlm.nih.gov/43064867/)** (PMID: 43064867)
+    *   **简明总结（约4–
 
-*   **[Bifunctional Pt/CeO2 Nanozyme-Mediated Metabolic Regulation Promotes NAD+ Regeneration and ROS Clearance to Ameliorate Age-Related Osteoporosis.](https://pubmed.ncbi.nlm.nih.gov/43063245/)** (PMID: 43063245)
-    *   ### 简明中文总结
-    *   该研究针对年龄相关骨质疏松中慢性炎症、氧化还原失衡、线粒体功能障碍和成骨细胞衰老导致的骨形成—骨吸收耦联失衡，提出恢复NAD+氧化还原稳态的治疗思路。作者构建了在CeO₂纳米棒上原位生长铂纳米颗粒的双功能纳米酶Pt/CeO₂，可同时清除ROS并通过氧化NADH促进NAD+再生。在衰老成骨细胞中，Pt/CeO₂降低ROS、恢复线粒体完整性、减轻细胞衰老并促进成骨分化。体内实验显示，全身给予Pt/CeO₂可保留自然衰老小鼠的骨小梁结构并提高骨密度。研究因此表明，将ROS清除与NAD+ redox稳态恢复耦合，是延缓成骨细胞衰老和年龄相关骨质疏松进展的有前景策略。
-    *   
-    *   ### 创新性总结
-    *   - 将**ROS清除**与**NAD+再生**整合于单一双功能纳米酶Pt/CeO₂
+*   **[Communicating dermatologic drug safety: a comparative evaluation of United States and United Kingdom pharmacovigilance systems using dapsone as a model medication.](https://pubmed.ncbi.nlm.nih.gov/43064863/)** (PMID: 43064863)
+    *   **简明总结（4–6句）**
+    *   该研究以皮肤科药物氨苯砜（dapsone）为代表，横断面比较了美国FDA AEMS公共仪表盘与英国MHRA黄卡系统iDAP在上市后药物警戒信息的组织、可及性和临床沟通方式。FDA识别到4,793份报告，其中76.9%为严重报告、5.8%报告死亡；MHRA识别到699份报告、1,701个不良反应，其中80.0%为严重报告、3.6%为致命结局。两系统报告的不良反应模式总体重叠，但信息沟通策略差异明显：FDA强调
 
-*   **[Urinary transferrin/creatinine ratio as a biomarker of reduced allograft function and rapid renal function decline in kidney transplant recipients.](https://pubmed.ncbi.nlm.nih.gov/43063241/)** (PMID: 43063241)
+*   **[Effects of Dietary Supplements on Resolution Biology.](https://pubmed.ncbi.nlm.nih.gov/43064859/)** (PMID: 43064859)
+    *   **简明中文总结（约4-6句）**
+    *   膳食补充剂在美國人群中消费率高达50%-75%，其中omega-3多不饱和脂肪酸（PUFAs）是最常用者之一，并对炎症消退具有多种潜在生物学益处。炎症消退是主动、精细调控的过程，部分由内源性合成的专门促消退介质（SPMs）介导，而EPA和DHA是SPM生物合成的主要底物。但膳食omega-3转化为活性SPM受酶促瓶颈、代谢性疾病、遗传变异、性别差异及竞争性脂质通路等因素限制。新兴证据（多为临床前
+
+*   **[Five-compartment restriction spectrum imaging for noninvasive assessment of liver fibrosis in chronic liver disease.](https://pubmed.ncbi.nlm.nih.gov/43064857/)** (PMID: 43064857)
+    *   **简明总结（4–6句）**
+    *   该回顾性研究纳入100例接受肝活检的慢性肝病患者，比较基于多b值DWI的多室限制谱成像（RSI）与磁共振弹性成像（MRE）对肝纤维化分期的无创诊断价值。研究以贝叶斯信息准则选出五室RSI模型，并基于各室分数构建RSI肝纤维化指数（RSI-LF）；其中第2、4室分数与
+
+*   **[Multimodal lifestyle strategies for ADT-induced osteosarcopenia and metabolic dysfunction in prostate cancer.](https://pubmed.ncbi.nlm.nih.gov/43064850/)** (PMID: 43064850)
     *   **简明中文总结（4–6句）**
-    *   该观察性研究纳入50例成人肾移植受者，评估尿转铁蛋白/肌酐比值（uTf/Cr）与移植肾功能及快速下降的关系。结果显示，uTf/Cr与采样时血清肌酐正
+    *   1. 雄激素剥夺治疗（ADT）可显著改变体成分，导致骨与肌肉丢失，增加骨肌减少症（osteosarcopenia）风险，进而诱发跌倒、骨折、功能自主性下降和心血管风险升高，并可能影响肿瘤结局与生活质量。
+    *   2. 该叙述性综述汇总近15年证据，评估运动、营养及药物疗法在预防和管理ADT诱导骨肌减少症中的作用及未来整合管理方向。
+    *   3. 关键发现是抗阻训练作为非药物策略可保存瘦体重、潜在减缓骨丢失并改善体能；抗骨吸收
 
-*   **[Analysis of factors hindering the prevention of perioperative hypothermia in elderly patients undergoing total hip arthroplasty: A qualitative study.](https://pubmed.ncbi.nlm.nih.gov/43063231/)** (PMID: 43063231)
-    *   **简明总结（约4-6句）**
-    *   本研究采用质性访谈方法，聚焦老年全髋关节置换术（THA）患者围手术期低体温预防的障碍，访谈了麻醉医生、麻醉护士和手术室护士共15名专业人员。研究识别出3个主题、5个亚主题：系统与流程层面存在“温暖链”管理流程不完善及关键加温资源配置不足；人力资源与
+*   **[Inhaled cannabis and oral alcohol: driving performance and subjective driving confidence in a human laboratory study.](https://pubmed.ncbi.nlm.nih.gov/43064849/)** (PMID: 43064849)
+    *   
 
-*   **[Exploring barriers and facilitators to Hepatitis C virus treatment access in Los Angeles County: A mixed-methods study.](https://pubmed.ncbi.nlm.nih.gov/43063228/)** (PMID: 43063228)
-    *   **简明总结（约5句）**
-    *   该研究聚焦洛杉矶县已确诊但未治疗的慢性丙型肝炎患者，指出该问题在弱势和少数族裔人群中尤为突出。研究采用混合方法，分析344名“ linkage-to-cure”项目患者的项目数据，并对10人进行半结构化访谈，发现54%的患者报告存在治疗障碍。具体障碍中，个人因素最常见（43%），其次为提供者相关因素（31%）、保险因素（13%）和医疗可及性不足（13%）；访谈进一步揭示无家可归、监禁、成瘾、语言障碍
+*   **[Investigating the potential anti-arthritic effect of ethanol extract of Ziziphus nummularia in rats through suppression of oxidative stress and cytokine production.](https://pubmed.ncbi.nlm.nih.gov/43064841/)** (PMID: 43064841)
+    *   
+
+*   **[Long-acting targeted delivery of TNF-α-derived peptide for enhanced anti-renal fibrosis treatment via activation of the mitochondrial apoptosis pathway.](https://pubmed.ncbi.nlm.nih.gov/43064836/)** (PMID: 43064836)
+    *   **简明总结（4–6句）**
+    *   肾纤维化由损伤后细胞外基质过度沉积导致肾功能丧失，临床缺乏有效药物。作者构建了多功能融合蛋白 **Z-IgBD-P16**：IgBD用于延长血清半衰期，ZPDGFRβ affibody用于靶向PDGFRβ并增强纤维
+
+*   **[Market analysis of chondroitin and glucosamine as dietary supplements.](https://pubmed.ncbi.nlm.nih.gov/43064835/)** (PMID: 43064835)
+    *   **简明中文总结：**
+    *   该研究结合110种市售软骨素/氨基葡萄糖膳食补充剂的横断面市场分析与口服制剂治疗骨关节炎（OA）的临床研究结构化综述，评估其成分、剂量、价格、标签和营销策略。市场分析发现产品价格差异很大，且价格与临床有效性之间无明确关联；营销常通过包装和展示暗示“科学验证”，但缺乏充分证据支持。临床证据总体不能一致、稳健地确认软骨素和氨基葡萄糖对OA的疗效，其有效性存疑，主要问题包括生物利用度差。总体而言，该领域科学证据质量不足，市售声称与科学数据之间存在明显差距。对药物科学而言，这提示需关注补充剂的制剂质量、生物利用度、标签真实性和监管缺口。
+    *   
+    *   **创新性总结：**
+    *   - 将市售补充剂的市场特征分析与临床证据综述结合，揭示“产品—营销—证据”之间的脱节。
+    *   - 系统关注价格、包装暗示和标签声称，而不仅是疗效证据。
+
+*   **[Streptomyces qujingensis sp. nov., a novel actinobacterium with broad-spectrum antifungal potential isolated from tobacco rhizosphere soil.](https://pubmed.ncbi.nlm.nih.gov/43064829/)** (PMID: 43064829)
+    *   **简明中文总结（4-6句）**
+    *   本研究从中国云南曲靖烟草根际分离到一株革兰阳性放线菌144^T，并通过多相分类学方法对其进行了系统鉴定。16S rRNA基因系统发育和基因组树分析显示，该菌株属于链霉菌属，并与多个已知链霉菌模式种形成独立分支。其基因组草图为10.1 Mbp，G+C含量71.2%，与近缘种的dDDH、
 
 
 <!-- DAILY_PAPERS_END -->
