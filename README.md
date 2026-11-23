@@ -12,97 +12,91 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-11-22
+### Summary for 2026-11-23
 *Fetched and summarized 23 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Addressing medication adherence in lung transplantation patients: a narrative review on interventions.](https://pubmed.ncbi.nlm.nih.gov/43065329/)** (PMID: 43065329)
+*   **[DepFix: a multitask machine learning framework for joint prediction of monoamine transporter activity and selectivity.](https://pubmed.ncbi.nlm.nih.gov/43068423/)** (PMID: 43068423)
+    *   ### 简明中文总结
+    *   该研究开发了DepFix框架，用于预测化合物对5-羟色胺（SERT）、多巴胺（DAT）和去甲肾上腺素（NET）转运体的活性，并基于活性差异推导相对选择性。DepFix结合多任务有向消息传递神经网络与靶点特异性Morgan指纹随机森林，在6,679个化合物上训练，支架测试的宏平均R²为活性0.560、选择性0.553。模型融合两个分支带来最明显提升，而门控任务适配器和辅助损失在随机划分下增益较小；真实标签性能优于全部100次Y随机化结果。研究还筛选了24,385个HERB独特结构，优先获得S
+
+*   **[Emerging Therapeutic Strategies Targeting Ferroptosis in Cardiomyocyte Injury: Molecular Mechanisms and Future Perspectives.](https://pubmed.ncbi.nlm.nih.gov/43068421/)** (PMID: 43068421)
+    *   
+
+*   **[The impact of social support on quality of life in patients with osteoporotic vertebral compression fractures after surgery in China: a longitudinal study with mental resilience as a mediator.](https://pubmed.ncbi.nlm.nih.gov/43068418/)** (PMID: 43068418)
     *   **简明中文总结（约4–6句）**
-    *   该叙述性综述通过检索PubMed、Embase和CINAHL，评估肺移植后改善免疫抑制药物依从性的干预措施，涵盖数字干预、行为干预及治疗相关干预。结果显示，各类干预均能显著改善用药依从性，但尚无干预被证实可改善临床结局。文章指出，肺移植患者需终身服用免疫抑制药，而复杂方案和副作用使依从性管理具有挑战，非依从与移植物失败和患者生存不良密切相关。作者建议将用药依从性常规评估纳入肺移植患者临床实践和队列研究。由于患者异质性强，干预不应“一刀切”，而应采用多因素、个体化策略，结合数字、行为和治疗相关措施
+    *   1. 该研究在中国对155例骨质疏松性椎体压缩骨折（OVCF）术后患者进行纵向随访，评估术后1天、3个月
 
-*   **[Past, present and future of Estetrol (E4); a natural fetal estrogen for human use.](https://pubmed.ncbi.nlm.nih.gov/43065308/)** (PMID: 43065308)
+*   **[Development and preliminary psychometric evaluation of a short form of the weight-specific youth quality of life instrument.](https://pubmed.ncbi.nlm.nih.gov/43068416/)** (PMID: 43068416)
     *   
 
-*   **[Medication-Related Osteonecrosis of the Jaw at the Site of a Presumed Pre-Existing Mandibular Dense Bone Island: A Longitudinal Cone-Beam Computed Tomography Case Report.](https://pubmed.ncbi.nlm.nih.gov/43065169/)** (PMID: 43065169)
-    *   
+*   **[[Acute coronary syndromes after transcatheter aortic valve implantation].](https://pubmed.ncbi.nlm.nih.gov/43068412/)** (PMID: 43068412)
+    *   **简明中文总结（5句）**
+    *   1. 接受经导管主动脉瓣植入（TAVI）的患者中近半数合并显著冠状动脉疾病，而严重主动脉瓣狭窄合并阻塞性冠心病时，诊断评估、治疗策略（外科、经皮或保守）、血运重建指征与范围以及PCI时机仍存争议。
+    *   2. 该文强调，TAVI术后部分患者选择性冠状动脉插管可能困难；随着TA
 
-*   **[Deep learning-based CT segmentation of mandibular bone invasion in oral squamous cell carcinoma.](https://pubmed.ncbi.nlm.nih.gov/43065017/)** (PMID: 43065017)
-    *   
-
-*   **[Jujuboside A from Ziziphus: Chemistry, mechanistic pharmacology, pharmacokinetics, and formulation roadmap toward neuroactive translation.](https://pubmed.ncbi.nlm.nih.gov/43064897/)** (PMID: 43064897)
-    *   
-
-*   **[Losartan use, left ventricular function and remodeling in hypertensive patients with aortic stenosis: the HYTAS prospective comparative cohort study.](https://pubmed.ncbi.nlm.nih.gov/43064892/)** (PMID: 43064892)
-    *   **简明总结（4-6句）**
-    *   1. 该前瞻性配对队列研究纳入高血压合并轻至中度主动脉瓣狭窄（AS）患者，比较接受氯沙坦治疗的18例与
-
-*   **[Recognition and management of semaglutide overdose and intoxi​cation: a narrative review for clinicians.](https://pubmed.ncbi.nlm.nih.gov/43064885/)** (PMID: 43064885)
-    *   
-
-*   **[A pilot randomized feasibility trial of perioperative melatonin for cardiac arrhythmias during CPB weaning, sedative and analgesic medication use, and mechanical ventilation following CABG.](https://pubmed.ncbi.nlm.nih.gov/43064884/)** (PMID: 43064884)
-    *   **简明中文总结（4-6句）**
-    *   该研究是一项试点随机、双盲、安慰剂对照可行性试验，纳入22例择期体外循环下冠状动脉旁路移植术（CABG）成人，评估围术期口服褪黑素（3 mg，术前3晚至术后3晚每晚服用）的可行性及初步临床效应。结果显示招募率68.75%，保留率、方案依从性和结局评估完整性均为100%，未观察到治疗相关
-
-*   **[BGN4-derived intestinal metabolite 6-hydroxynicotinic acid alleviates hepatocytes ferroptosis in MAFLD via Nrf2/SREBP1/CYP2E1 axis.](https://pubmed.ncbi.nlm.nih.gov/43064882/)** (PMID: 43064882)
-    *   ## 简明中文总结
-    *   
-    *   该研究围绕代谢功能障碍相关脂肪性肝病（MAFLD）中肠道菌群失调与肝细胞铁死亡的关系，发现双歧杆菌BGN4可显著减轻高脂饮食MAFLD小鼠的肝损伤、氧化应激和肝细胞铁死亡，并提高肠道代谢物6-羟基烟酸（6
-
-*   **[Small extracellular vesicle-associated miRNAs in lung cancer: therapeutic potential, drug delivery applications, and translational perspectives.](https://pubmed.ncbi.nlm.nih.gov/43064880/)** (PMID: 43064880)
-    *   **简明中文总结（约6句）**
-    *   该综述系统评估了肺癌中小细胞外囊泡（EV）相关及
-
-*   **[Alternative multiport robotic platforms versus da Vinci in colorectal cancer surgery: a systematic review and platform-stratified meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/43064876/)** (PMID: 43064876)
-    *   
-
-*   **[Treatment burden and long-term morbidity after transoral robotic vs. nonrobotic surgery for oropharyngeal cancer.](https://pubmed.ncbi.nlm.nih.gov/43064870/)** (PMID: 43064870)
-    *   
-
-*   **[Chronopharmaceutics of In Situ Gel-Based Drug Delivery Systems in the Treatment of Nocturnal Asthma: Recent Advances, Challenges, and Future Perspectives.](https://pubmed.ncbi.nlm.nih.gov/43064869/)** (PMID: 43064869)
+*   **[Health-related quality of life with PD-1/PD-L1 inhibitors added to standard therapy for endometrial and cervical cancer: a systematic review and meta-analysis of randomized controlled trials.](https://pubmed.ncbi.nlm.nih.gov/43068409/)** (PMID: 43068409)
     *   **简明中文总结（约5句）**
-    *   夜间哮喘的气道阻力与炎症在02:00–06:00达峰，受迷走张力、皮质醇和炎症介质的昼夜节律驱动；传统ICS/LABA及口服治疗因依从性、肺部沉积异质性和口服暴露变异，难以稳定覆盖该时间窗。原位凝胶（ISG）是给药后成胶、可望实现鼻/肺持续释放的平台。该叙述性综述整合
+    *   该系统评价与荟萃分析评估了在子宫内膜癌或宫颈癌标准治疗基础上联合PD-1/PD-L1抑制剂对健康相关生活质量（HRQoL）的影响。共纳入9项RCT、5,933例患者，其中7项RCT、4,995例患者进入荟萃分析。结果显示，联合PD-1/PD-L1抑制剂未显著改变E
 
-*   **[Reusable paper-based analytical device integrated with Ce-POM/NMF nanozyme for point-of-care monitoring of total antioxidant capacity.](https://pubmed.ncbi.nlm.nih.gov/43064867/)** (PMID: 43064867)
-    *   **简明总结（约4–
+*   **[Exploring the potential of machine learning for mapping FACT‑L to EQ‑5D‑5 L in early-stage lung cancer.](https://pubmed.ncbi.nlm.nih.gov/43068408/)** (PMID: 43068408)
+    *   
 
-*   **[Communicating dermatologic drug safety: a comparative evaluation of United States and United Kingdom pharmacovigilance systems using dapsone as a model medication.](https://pubmed.ncbi.nlm.nih.gov/43064863/)** (PMID: 43064863)
-    *   **简明总结（4–6句）**
-    *   该研究以皮肤科药物氨苯砜（dapsone）为代表，横断面比较了美国FDA AEMS公共仪表盘与英国MHRA黄卡系统iDAP在上市后药物警戒信息的组织、可及性和临床沟通方式。FDA识别到4,793份报告，其中76.9%为严重报告、5.8%报告死亡；MHRA识别到699份报告、1,701个不良反应，其中80.0%为严重报告、3.6%为致命结局。两系统报告的不良反应模式总体重叠，但信息沟通策略差异明显：FDA强调
+*   **[Machine learning and cheminformatics-driven identification of potential histone deacetylase 1 inhibitor candidates.](https://pubmed.ncbi.nlm.nih.gov/43068406/)** (PMID: 43068406)
+    *   ### 简明中文总结
+    *   该研究针对癌症相关表观遗传靶点HDAC1，指出传统高通量筛选资源消耗大、现有临床抑制剂存在药代动力学不佳和脱靶副作用等问题。作者构建了机器学习驱动的虚拟筛选流程，从大型化合物库中识别结构可行的新型HDAC1抑制剂骨架。模型比较后，XGBoost结合高分辨率ECFP6拓扑指纹表现最佳；SHAP分析显示模型高权重指纹与经典Cap-Linker-ZBG药效团高度相关，并据此实现骨架跃迁，获得羧酸盐类CX-2及异羟肟酸类HX-1、HX-2
 
-*   **[Effects of Dietary Supplements on Resolution Biology.](https://pubmed.ncbi.nlm.nih.gov/43064859/)** (PMID: 43064859)
-    *   **简明中文总结（约4-6句）**
-    *   膳食补充剂在美國人群中消费率高达50%-75%，其中omega-3多不饱和脂肪酸（PUFAs）是最常用者之一，并对炎症消退具有多种潜在生物学益处。炎症消退是主动、精细调控的过程，部分由内源性合成的专门促消退介质（SPMs）介导，而EPA和DHA是SPM生物合成的主要底物。但膳食omega-3转化为活性SPM受酶促瓶颈、代谢性疾病、遗传变异、性别差异及竞争性脂质通路等因素限制。新兴证据（多为临床前
-
-*   **[Five-compartment restriction spectrum imaging for noninvasive assessment of liver fibrosis in chronic liver disease.](https://pubmed.ncbi.nlm.nih.gov/43064857/)** (PMID: 43064857)
-    *   **简明总结（4–6句）**
-    *   该回顾性研究纳入100例接受肝活检的慢性肝病患者，比较基于多b值DWI的多室限制谱成像（RSI）与磁共振弹性成像（MRE）对肝纤维化分期的无创诊断价值。研究以贝叶斯信息准则选出五室RSI模型，并基于各室分数构建RSI肝纤维化指数（RSI-LF）；其中第2、4室分数与
-
-*   **[Multimodal lifestyle strategies for ADT-induced osteosarcopenia and metabolic dysfunction in prostate cancer.](https://pubmed.ncbi.nlm.nih.gov/43064850/)** (PMID: 43064850)
+*   **[A dynamic network analysis of anxiety-related distress within a quality-of-life framework among adults undergoing chemotherapy.](https://pubmed.ncbi.nlm.nih.gov/43068405/)** (PMID: 43068405)
     *   **简明中文总结（4–6句）**
-    *   1. 雄激素剥夺治疗（ADT）可显著改变体成分，导致骨与肌肉丢失，增加骨肌减少症（osteosarcopenia）风险，进而诱发跌倒、骨折、功能自主性下降和心血管风险升高，并可能影响肿瘤结局与生活质量。
-    *   2. 该叙述性综述汇总近15年证据，评估运动、营养及药物疗法在预防和管理ADT诱导骨肌减少症中的作用及未来整合管理方向。
-    *   3. 关键发现是抗阻训练作为非药物策略可保存瘦体重、潜在减缓骨丢失并改善体能；抗骨吸收
+    *   
+    *   该研究基于随机对照试验数据的二次分析，纳入390名≥50岁接受化疗的成人，在化疗前及化疗期间共6个时间点评估生活质量。研究者采用纵向网络分析，在EORTC QLQ框架中定位以“担忧（worry）”和“紧张（tension）”表示的焦虑相关痛苦。基线网络显示，担忧在生活质量框架中处于中心性桥接位置，连接情绪、认知、睡眠和经济等多个领域。缩减纵向网络显示，同期担忧和紧张与抑郁情绪、睡眠困难、易怒、注意力困难及经济困难呈正相关；
 
-*   **[Inhaled cannabis and oral alcohol: driving performance and subjective driving confidence in a human laboratory study.](https://pubmed.ncbi.nlm.nih.gov/43064849/)** (PMID: 43064849)
+*   **[Basophil Activation Testing: From Diagnostic Adjunct to Precision Allergy Management.](https://pubmed.ncbi.nlm.nih.gov/43068402/)** (PMID: 43068402)
     *   
 
-*   **[Investigating the potential anti-arthritic effect of ethanol extract of Ziziphus nummularia in rats through suppression of oxidative stress and cytokine production.](https://pubmed.ncbi.nlm.nih.gov/43064841/)** (PMID: 43064841)
+*   **[Beyond direct dopamine D2 receptor modulation: muscarinic-targeting antipsychotics for the treatment of schizophrenia.](https://pubmed.ncbi.nlm.nih.gov/43068394/)** (PMID: 43068394)
+    *   ## 简明中文总结
+    *   2024年，xanomeline-trospium获FDA批准用于成人精神分裂症治疗
+
+*   **[Predictors of sustained partial remission in acute-onset type 1 diabetes: Prospective longitudinal study in Japanese type 1 diabetes (TIDE-J).](https://pubmed.ncbi.nlm.nih.gov/43068393/)** (PMID: 43068393)
     *   
 
-*   **[Long-acting targeted delivery of TNF-α-derived peptide for enhanced anti-renal fibrosis treatment via activation of the mitochondrial apoptosis pathway.](https://pubmed.ncbi.nlm.nih.gov/43064836/)** (PMID: 43064836)
-    *   **简明总结（4–6句）**
-    *   肾纤维化由损伤后细胞外基质过度沉积导致肾功能丧失，临床缺乏有效药物。作者构建了多功能融合蛋白 **Z-IgBD-P16**：IgBD用于延长血清半衰期，ZPDGFRβ affibody用于靶向PDGFRβ并增强纤维
-
-*   **[Market analysis of chondroitin and glucosamine as dietary supplements.](https://pubmed.ncbi.nlm.nih.gov/43064835/)** (PMID: 43064835)
-    *   **简明中文总结：**
-    *   该研究结合110种市售软骨素/氨基葡萄糖膳食补充剂的横断面市场分析与口服制剂治疗骨关节炎（OA）的临床研究结构化综述，评估其成分、剂量、价格、标签和营销策略。市场分析发现产品价格差异很大，且价格与临床有效性之间无明确关联；营销常通过包装和展示暗示“科学验证”，但缺乏充分证据支持。临床证据总体不能一致、稳健地确认软骨素和氨基葡萄糖对OA的疗效，其有效性存疑，主要问题包括生物利用度差。总体而言，该领域科学证据质量不足，市售声称与科学数据之间存在明显差距。对药物科学而言，这提示需关注补充剂的制剂质量、生物利用度、标签真实性和监管缺口。
-    *   
-    *   **创新性总结：**
-    *   - 将市售补充剂的市场特征分析与临床证据综述结合，揭示“产品—营销—证据”之间的脱节。
-    *   - 系统关注价格、包装暗示和标签声称，而不仅是疗效证据。
-
-*   **[Streptomyces qujingensis sp. nov., a novel actinobacterium with broad-spectrum antifungal potential isolated from tobacco rhizosphere soil.](https://pubmed.ncbi.nlm.nih.gov/43064829/)** (PMID: 43064829)
+*   **[The association of triglyceride-glucose-weight-adjusted waist index with cardiovascular disease risk in a population with operationalized cardiovascular-kidney-metabolic syndrome stages 0-3: Insights from CHARLS.](https://pubmed.ncbi.nlm.nih.gov/43068392/)** (PMID: 43068392)
     *   **简明中文总结（4-6句）**
-    *   本研究从中国云南曲靖烟草根际分离到一株革兰阳性放线菌144^T，并通过多相分类学方法对其进行了系统鉴定。16S rRNA基因系统发育和基因组树分析显示，该菌株属于链霉菌属，并与多个已知链霉菌模式种形成独立分支。其基因组草图为10.1 Mbp，G+C含量71.2%，与近缘种的dDDH、
+    *   本研究基于CHARLS 2011—2020年5788
+
+*   **[Integrative Mendelian Randomization and Single-Cell Transcriptomic Analysis of Aging-Related Genes Associated With Stroke Risk.](https://pubmed.ncbi.nlm.nih.gov/43068388/)** (PMID: 43068388)
+    *   
+
+*   **[Adjunctive oral butyrate supplementation in chronic spontaneous urticaria: A randomized, double-blind, placebo-controlled trial.](https://pubmed.ncbi.nlm.nih.gov/43068374/)** (PMID: 43068374)
+    *   **摘要总结（约4-6
+
+*   **[Association Between Triglyceride-Glucose Index and Airflow Limitation Severity in Older Adult Nondiabetic Inpatients With Normoxemic COPD.](https://pubmed.ncbi.nlm.nih.gov/43067697/)** (PMID: 43067697)
+    *   
+
+*   **[NAMPT and NAD+ in health and disease: emerging perspectives from molecular mechanisms to therapeutic strategies.](https://pubmed.ncbi.nlm.nih.gov/43067627/)** (PMID: 43067627)
+    *   
+
+*   **[From prophylaxis to precision immunotherapy via engineering vaccine platforms.](https://pubmed.ncbi.nlm.nih.gov/43067622/)** (PMID: 43067622)
+    *   **简明总结（约5句）**
+    *   该综述指出，疫苗正从单纯“抗原递送产品”演变为可模块化设计、以诱导特定免疫功能为目标的技术体系。疫苗诱导的免疫程序由抗原结构、固有免疫感知、抗原呈递细胞靶向、平台设计和给药途径共同决定，因此预防性疫苗与治疗性疫苗的要求显著不同：后者需在持续抗原、免疫抑制或病理组织重塑背景下重定向免疫。文章重点比较了
+
+*   **[A Blended Micro-Learning and Simulation Approach for Peripheral Intravenous Catheter Insertion: A Quality Improvement Project.](https://pubmed.ncbi.nlm.nih.gov/43064664/)** (PMID: 43064664)
+    *   
+
+*   **[Performance of Neurocritical Care Nurse Practitioners and Physician Assistants in Cardiac Arrest Scenarios After Simulation Training.](https://pubmed.ncbi.nlm.nih.gov/43064659/)** (PMID: 43064659)
+    *   **简明总结（约4-6句）：**
+    *   本研究旨在评估简短模拟培训能否
+
+*   **[Mesenchymal Stem Cell-Mediated Uptake and Delivery of Indocyanine Green/Doxorubicin-Loaded Stimuli-Responsive Dendrimers to Tumors.](https://pubmed.ncbi.nlm.nih.gov/43064365/)** (PMID: 43064365)
+    *   **简明总结（约4–6句）**
+    *   该研究评估皮肤来源间充质干细胞（S-MSCs）作为PEG化聚酰胺胺树状大分子纳米簇（DNCs）的细胞载体，共
+
+*   **[Heparin-Decorated Hydrogel Microspheres Enable Bioactive Islet Encapsulation and Sustained Glycemic Control in Diabetic Mice.](https://pubmed.ncbi.nlm.nih.gov/43063494/)** (PMID: 43063494)
+    *   **简明总结（5句）**
+
+*   **[Plasma D- and L-2-hydroxyglutarate during vorasidenib treatment of isocitrate dehydrogenase-mutant glioma: development and validation of an enantioselective LC-MS/MS assay.](https://pubmed.ncbi.nlm.nih.gov/43059463/)** (PMID: 43059463)
+    *   **简明总结（约5句）**
+    *   该研究建立了对映选择性LC-MS/MS方法，可同时定量血浆中的D-2-HG和L-2-HG，采用蛋白沉淀、二乙酰-L-酒石酸酐衍生化、反相分离及同位素内标，分析范围6.75–2,030 nmol/L，
 
 
 <!-- DAILY_PAPERS_END -->
