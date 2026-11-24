@@ -12,91 +12,103 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-11-23
-*Fetched and summarized 23 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
+### Summary for 2026-11-24
+*Fetched and summarized 18 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[DepFix: a multitask machine learning framework for joint prediction of monoamine transporter activity and selectivity.](https://pubmed.ncbi.nlm.nih.gov/43068423/)** (PMID: 43068423)
-    *   ### 简明中文总结
-    *   该研究开发了DepFix框架，用于预测化合物对5-羟色胺（SERT）、多巴胺（DAT）和去甲肾上腺素（NET）转运体的活性，并基于活性差异推导相对选择性。DepFix结合多任务有向消息传递神经网络与靶点特异性Morgan指纹随机森林，在6,679个化合物上训练，支架测试的宏平均R²为活性0.560、选择性0.553。模型融合两个分支带来最明显提升，而门控任务适配器和辅助损失在随机划分下增益较小；真实标签性能优于全部100次Y随机化结果。研究还筛选了24,385个HERB独特结构，优先获得S
-
-*   **[Emerging Therapeutic Strategies Targeting Ferroptosis in Cardiomyocyte Injury: Molecular Mechanisms and Future Perspectives.](https://pubmed.ncbi.nlm.nih.gov/43068421/)** (PMID: 43068421)
+*   **[Photothermal Agents Based on Natural Polyphenol-Fe Networks for Inhibition of Coronaviruses.](https://pubmed.ncbi.nlm.nih.gov/43073221/)** (PMID: 43073221)
     *   
 
-*   **[The impact of social support on quality of life in patients with osteoporotic vertebral compression fractures after surgery in China: a longitudinal study with mental resilience as a mediator.](https://pubmed.ncbi.nlm.nih.gov/43068418/)** (PMID: 43068418)
-    *   **简明中文总结（约4–6句）**
-    *   1. 该研究在中国对155例骨质疏松性椎体压缩骨折（OVCF）术后患者进行纵向随访，评估术后1天、3个月
-
-*   **[Development and preliminary psychometric evaluation of a short form of the weight-specific youth quality of life instrument.](https://pubmed.ncbi.nlm.nih.gov/43068416/)** (PMID: 43068416)
+*   **[Evaluation of dupilumab for the treatment of bullous pemphigoid.](https://pubmed.ncbi.nlm.nih.gov/43073214/)** (PMID: 43073214)
     *   
 
-*   **[[Acute coronary syndromes after transcatheter aortic valve implantation].](https://pubmed.ncbi.nlm.nih.gov/43068412/)** (PMID: 43068412)
-    *   **简明中文总结（5句）**
-    *   1. 接受经导管主动脉瓣植入（TAVI）的患者中近半数合并显著冠状动脉疾病，而严重主动脉瓣狭窄合并阻塞性冠心病时，诊断评估、治疗策略（外科、经皮或保守）、血运重建指征与范围以及PCI时机仍存争议。
-    *   2. 该文强调，TAVI术后部分患者选择性冠状动脉插管可能困难；随着TA
-
-*   **[Health-related quality of life with PD-1/PD-L1 inhibitors added to standard therapy for endometrial and cervical cancer: a systematic review and meta-analysis of randomized controlled trials.](https://pubmed.ncbi.nlm.nih.gov/43068409/)** (PMID: 43068409)
-    *   **简明中文总结（约5句）**
-    *   该系统评价与荟萃分析评估了在子宫内膜癌或宫颈癌标准治疗基础上联合PD-1/PD-L1抑制剂对健康相关生活质量（HRQoL）的影响。共纳入9项RCT、5,933例患者，其中7项RCT、4,995例患者进入荟萃分析。结果显示，联合PD-1/PD-L1抑制剂未显著改变E
-
-*   **[Exploring the potential of machine learning for mapping FACT‑L to EQ‑5D‑5 L in early-stage lung cancer.](https://pubmed.ncbi.nlm.nih.gov/43068408/)** (PMID: 43068408)
-    *   
-
-*   **[Machine learning and cheminformatics-driven identification of potential histone deacetylase 1 inhibitor candidates.](https://pubmed.ncbi.nlm.nih.gov/43068406/)** (PMID: 43068406)
-    *   ### 简明中文总结
-    *   该研究针对癌症相关表观遗传靶点HDAC1，指出传统高通量筛选资源消耗大、现有临床抑制剂存在药代动力学不佳和脱靶副作用等问题。作者构建了机器学习驱动的虚拟筛选流程，从大型化合物库中识别结构可行的新型HDAC1抑制剂骨架。模型比较后，XGBoost结合高分辨率ECFP6拓扑指纹表现最佳；SHAP分析显示模型高权重指纹与经典Cap-Linker-ZBG药效团高度相关，并据此实现骨架跃迁，获得羧酸盐类CX-2及异羟肟酸类HX-1、HX-2
-
-*   **[A dynamic network analysis of anxiety-related distress within a quality-of-life framework among adults undergoing chemotherapy.](https://pubmed.ncbi.nlm.nih.gov/43068405/)** (PMID: 43068405)
-    *   **简明中文总结（4–6句）**
-    *   
-    *   该研究基于随机对照试验数据的二次分析，纳入390名≥50岁接受化疗的成人，在化疗前及化疗期间共6个时间点评估生活质量。研究者采用纵向网络分析，在EORTC QLQ框架中定位以“担忧（worry）”和“紧张（tension）”表示的焦虑相关痛苦。基线网络显示，担忧在生活质量框架中处于中心性桥接位置，连接情绪、认知、睡眠和经济等多个领域。缩减纵向网络显示，同期担忧和紧张与抑郁情绪、睡眠困难、易怒、注意力困难及经济困难呈正相关；
-
-*   **[Basophil Activation Testing: From Diagnostic Adjunct to Precision Allergy Management.](https://pubmed.ncbi.nlm.nih.gov/43068402/)** (PMID: 43068402)
-    *   
-
-*   **[Beyond direct dopamine D2 receptor modulation: muscarinic-targeting antipsychotics for the treatment of schizophrenia.](https://pubmed.ncbi.nlm.nih.gov/43068394/)** (PMID: 43068394)
-    *   ## 简明中文总结
-    *   2024年，xanomeline-trospium获FDA批准用于成人精神分裂症治疗
-
-*   **[Predictors of sustained partial remission in acute-onset type 1 diabetes: Prospective longitudinal study in Japanese type 1 diabetes (TIDE-J).](https://pubmed.ncbi.nlm.nih.gov/43068393/)** (PMID: 43068393)
-    *   
-
-*   **[The association of triglyceride-glucose-weight-adjusted waist index with cardiovascular disease risk in a population with operationalized cardiovascular-kidney-metabolic syndrome stages 0-3: Insights from CHARLS.](https://pubmed.ncbi.nlm.nih.gov/43068392/)** (PMID: 43068392)
+*   **[Diversified Synthesis of Nonclassical C-Glycosides Through Cooperative N‑Heterocyclic Carbene and Photoredox Catalytic Acylation.](https://pubmed.ncbi.nlm.nih.gov/43073203/)** (PMID: 43073203)
     *   **简明中文总结（4-6句）**
-    *   本研究基于CHARLS 2011—2020年5788
+    *   C-糖苷因代谢稳定性高和生物活性多样而受关注，但其合成多样性仍远不及O-糖苷和N-糖苷，非经典C-糖苷的多样化构建尤其困难。作者发展了NHC/光氧化还原双催化策略，可在糖的非端基位置引入近端和远端酰基，获得结构独特的非经典C-糖苷。所引入酰基可作为合成枢纽，进一步转化为烯基、羟烷基和烯丙基等多种苷元官能团。该方法实现了多样性导向合成，包括含吲哚、喹啉的C-糖苷以及核糖基Z-/E-他莫
 
-*   **[Integrative Mendelian Randomization and Single-Cell Transcriptomic Analysis of Aging-Related Genes Associated With Stroke Risk.](https://pubmed.ncbi.nlm.nih.gov/43068388/)** (PMID: 43068388)
+*   **[Postnatal Diagnosis of Mosaic Trisomy 20: A Report of 3 New Individuals and Review of the Literature.](https://pubmed.ncbi.nlm.nih.gov/43073196/)** (PMID: 43073196)
     *   
 
-*   **[Adjunctive oral butyrate supplementation in chronic spontaneous urticaria: A randomized, double-blind, placebo-controlled trial.](https://pubmed.ncbi.nlm.nih.gov/43068374/)** (PMID: 43068374)
-    *   **摘要总结（约4-6
+*   **[Enterochromaffin cells as sensory hubs of the gut-brain axis.](https://pubmed.ncbi.nlm.nih.gov/43073178/)** (PMID: 43073178)
+    *   **简明中文总结（4–6句）**
+    *   该综述聚焦胃肠道黏膜上皮中的肠嗜铬细胞（ECCs）——占肠上皮细胞不足1%的罕见肠内分泌细胞亚型。ECCs是可兴奋细胞，表达多种离子通道和受体，能感受化学和机械刺激，是胃肠道上皮感知的重要参与者。近期研究表明，ECCs及其释放的外周5-羟色胺（5-HT）参与调控分泌、胃肠动力、感觉传入神经超敏、饱腹感、恶心和内脏痛等多种生理及病理状态。综述还强调ECCs与神经的相互作用及其多效功能。对药物科学而言，ECCs位于环境刺激、5-HT信号和神经反射的交汇点，是功能性胃肠病、恶心/呕吐、内脏痛和动力障碍等潜在药物靶点相关的重要细胞界面。
+    *   
+    *   **创新性总结**
+    *   - 将罕见ECCs置于胃肠道上皮感知整合的核心，强调其化学/机械刺激感受与神经-5-HT调控网络。
+    *   - 系统连接ECCs功能与外周5-HT释放、神经相互作用及多种胃肠病理生理状态。
+    *   
+    *   **药学启示**
+    *   - ECCs及外周5-HT通路可作为功能性胃肠病、恶心、
 
-*   **[Association Between Triglyceride-Glucose Index and Airflow Limitation Severity in Older Adult Nondiabetic Inpatients With Normoxemic COPD.](https://pubmed.ncbi.nlm.nih.gov/43067697/)** (PMID: 43067697)
+*   **[Causal effect of metabolic syndrome on colorectal cancer: A cross-ancestry genomic SEM and mendelian randomization study.](https://pubmed.ncbi.nlm.nih.gov/43073165/)** (PMID: 43073165)
+    *   **简明中文总结**
+    *   该研究利用台湾生物库、日本生物库、UK Biobank 和 NCBI 的跨祖先遗传数据，将代谢综合征（MetS）作为一个整合的遗传实体，采用基因组结构方程建模构建遗传工具，并通过两样本孟德尔随机化评估其对结直肠癌（CRC）的因果效应。主要分析显示，遗传预测
+
+*   **[Remimazolam versus midazolam for ileocolonoscopy sedation in inflammatory bowel disease: a prospective, patient-blinded, non-inferiority study with weekly time-block allocation.](https://pubmed.ncbi.nlm.nih.gov/43073137/)** (PMID: 43073137)
     *   
 
-*   **[NAMPT and NAD+ in health and disease: emerging perspectives from molecular mechanisms to therapeutic strategies.](https://pubmed.ncbi.nlm.nih.gov/43067627/)** (PMID: 43067627)
-    *   
-
-*   **[From prophylaxis to precision immunotherapy via engineering vaccine platforms.](https://pubmed.ncbi.nlm.nih.gov/43067622/)** (PMID: 43067622)
+*   **[A NET gain for cancer: limiting antibody-drug conjugate access.](https://pubmed.ncbi.nlm.nih.gov/43073119/)** (PMID: 43073119)
     *   **简明总结（约5句）**
-    *   该综述指出，疫苗正从单纯“抗原递送产品”演变为可模块化设计、以诱导特定免疫功能为目标的技术体系。疫苗诱导的免疫程序由抗原结构、固有免疫感知、抗原呈递细胞靶向、平台设计和给药途径共同决定，因此预防性疫苗与治疗性疫苗的要求显著不同：后者需在持续抗原、免疫抑制或病理组织重塑背景下重定向免疫。文章重点比较了
+    *   Yan等报告，雌激素可重定向肿瘤细胞内在的STING信号通路，促进中性粒细胞胞外诱捕网（NET）形成。NET形成后会限制抗体接近肿瘤细胞表面的抗原，从而削弱抗体类抗肿瘤药物的作用。该研究说明，肿瘤抗原“表达”并不等同于抗体治疗时抗原“可及”。研究因此提出了一种由免疫来源的胞外机制介导的抗体治疗耐药模式。其与药物科学的相关性在于：抗体药疗效不仅取决于靶点表达，还受肿瘤微环境、激素信号和胞外屏障影响，提示需联合干预NET/STING/雌激素通路以提高抗体可及性和疗效。
+    *   
+    *   **创新性总结**
+    *   - 将雌激素信号、肿瘤内在STING
 
-*   **[A Blended Micro-Learning and Simulation Approach for Peripheral Intravenous Catheter Insertion: A Quality Improvement Project.](https://pubmed.ncbi.nlm.nih.gov/43064664/)** (PMID: 43064664)
+*   **[Disproportionate orphan drug costs limit equitable access to therapy.](https://pubmed.ncbi.nlm.nih.gov/43073118/)** (PMID: 43073118)
+    *   **简明中文总结（4–6句）**
+    *   1. 药物开发进步显著改善了罕见病治疗，但高价格仍严重限制患者可及性，尤其在发展中国家。
+    *   2. 补体治疗药物是这一矛盾的典型例子：创新疗法已出现，但支付与准入障碍突出。
+    *   3. 作者认为需要监管改革，而非仅依靠市场机制来解决孤儿药可及性问题。
+    *   4. 改革应包括动态定价，并认可公共研究对药物开发的贡献。
+    *   5. 激励机制应与临床获益相匹配，并随药物使用和证据变化进行定期再评估。
+    *   6. 同时，政策制定应优先保障患者公平可及，这与药物科学中的价值评估、真实世界证据和卫生政策密切相关。
+    *   
+    *   **创新性总结**
+    *   - 提出“动态定价+公共研究贡献认可”的孤儿药定价思路。
+    *   - 强调激励设计与临床获益挂钩，而非仅鼓励上市。
+    *   - 引入随药物使用演变的周期性再评估机制。
+    *   - 将公平可及性置于监管改革核心。
+    *   
+    *   **药学启示**
+    *   - 药物科学家和药师应参与价值评估、真实世界证据生成与用药监测。
+    *   - 孤儿药政策需兼顾创新激励
+
+*   **[Development and Biomechanical Study of Micro Anatomic Universal Locking Plate for Talus Fractures.](https://pubmed.ncbi.nlm.nih.gov/43073088/)** (PMID: 43073088)
     *   
 
-*   **[Performance of Neurocritical Care Nurse Practitioners and Physician Assistants in Cardiac Arrest Scenarios After Simulation Training.](https://pubmed.ncbi.nlm.nih.gov/43064659/)** (PMID: 43064659)
-    *   **简明总结（约4-6句）：**
-    *   本研究旨在评估简短模拟培训能否
+*   **[Intrinsic Catalyst Reactivity-not Matched Surfactant Polarity-Drives Yield Differences in Aqueous Cross-Coupling.](https://pubmed.ncbi.nlm.nih.gov/43073083/)** (PMID: 43073083)
+    *   
 
-*   **[Mesenchymal Stem Cell-Mediated Uptake and Delivery of Indocyanine Green/Doxorubicin-Loaded Stimuli-Responsive Dendrimers to Tumors.](https://pubmed.ncbi.nlm.nih.gov/43064365/)** (PMID: 43064365)
-    *   **简明总结（约4–6句）**
-    *   该研究评估皮肤来源间充质干细胞（S-MSCs）作为PEG化聚酰胺胺树状大分子纳米簇（DNCs）的细胞载体，共
+*   **[Association of Estimated Insulin Sensitivity With Cardiovascular Disease in Individuals Without Diabetes: Use of Traditional and Machine Learning.](https://pubmed.ncbi.nlm.nih.gov/43073073/)** (PMID: 43073073)
+    *   
 
-*   **[Heparin-Decorated Hydrogel Microspheres Enable Bioactive Islet Encapsulation and Sustained Glycemic Control in Diabetic Mice.](https://pubmed.ncbi.nlm.nih.gov/43063494/)** (PMID: 43063494)
-    *   **简明总结（5句）**
+*   **[Aligned Evidence, Aligned Guidance: 2026-2027 Respiratory Virus Immunization Recommendations from The AAFP, AAP, ACOG, AND IDSA.](https://pubmed.ncbi.nlm.nih.gov/43073070/)** (PMID: 43073070)
+    *   **摘要总结（中文）**
+    *   1. 联邦疫苗咨询流程中断后，明尼苏达大学CIDRAP的“疫苗完整性项目（VIP）”联合美国医学会等，采用社会主导的协调方式制定2026–2027年呼吸道病毒免疫指南。
+    *   2. 该项目系统综述了流感、COVID-19和RSV免疫相关299项研究，确认疫苗对住院和死亡具有保护作用，且比较研究未发现新的安全性问题。
+    *   3
 
-*   **[Plasma D- and L-2-hydroxyglutarate during vorasidenib treatment of isocitrate dehydrogenase-mutant glioma: development and validation of an enantioselective LC-MS/MS assay.](https://pubmed.ncbi.nlm.nih.gov/43059463/)** (PMID: 43059463)
-    *   **简明总结（约5句）**
-    *   该研究建立了对映选择性LC-MS/MS方法，可同时定量血浆中的D-2-HG和L-2-HG，采用蛋白沉淀、二乙酰-L-酒石酸酐衍生化、反相分离及同位素内标，分析范围6.75–2,030 nmol/L，
+*   **[Effect of Ambulatory Antimicrobial Stewardship Intervention on Respiratory Antibiotic Prescribing in Primary Care Clinics.](https://pubmed.ncbi.nlm.nih.gov/43073062/)** (PMID: 43073062)
+    *   
+
+*   **[Primary Care Clinicians' Perspectives on Treatment for Alcohol Use Disorder: A Qualitative Study.](https://pubmed.ncbi.nlm.nih.gov/43073054/)** (PMID: 43073054)
+    *   
+
+*   **[Trait Self-Objectification Modulates Attractiveness-Regulating Neural Activity in Sexual Objectification Processing: An ERP Study.](https://pubmed.ncbi.nlm.nih.gov/43073043/)** (PMID: 43073043)
+    *   **简明中文总结（约5句）**
+    *   1. 该研究探讨特质自我客体化如何调节个体对性化女性图片的行为与神经电生理反应，以理解性客体化相关心理痛苦的神经认知机制。
+    *   2. 行为结果显示，性化女性图片会提高吸引力评分，且该效应受个体特质自我客体化水平调节。
+    *   3. 神经层面，性化图片诱发N170、EPN、P200、顶中央LPP及额部LPP（f-LPP）等多个ERP成分，分别涉及知觉、注意、情绪和调节过程。
+    *   4. 关键在于，仅调节相关的f-LPP受特质自我客体化调节；且特质
+
+*   **[Effects of exogenous nitric oxide gas on Mycobacterium tuberculosis in vitro and in mice.](https://pubmed.ncbi.nlm.nih.gov/43073021/)** (PMID: 43073021)
+    *   **简明中文总结：**
+    *   该研究模拟近期高剂量吸入一氧化氮（iNO）的人体暴露条件，评估NO气体对结核分枝杆菌（Mtb）的体外和小鼠体内作用。结果发现，NO气体对在浅层、弱酸性液体中孵育的Mtb具有显著杀菌作用。Mtb感染小鼠总体耐受iNO，但在相同暴露水平下比人更易出现高铁血红蛋白血症。在肺部浸润通气不良的感染小鼠中，iNO表现出抗炎作用，却未降低细菌负荷。研究提示，iNO是否可作为结核辅助治疗、以及适用人群和治疗目标，需结合暴露条件、肺部病变状态和安全性进一步确定。
+    *   
+    *   **
+
+*   **[Treatment sequencing and thrombopoietin receptor agonist responsiveness in adult immune thrombocytopenia: switching, re-exposure, and combination strategies.](https://pubmed.ncbi.nlm.nih.gov/43073016/)** (PMID: 43073016)
+    *   **简明中文总结（约4–6句）**
+    *   成人免疫性血小板减少症（ITP）越来越多需要血小板生成素受体激动剂（TPO-RA）序贯治疗，但既往TPO-RA反应或失败对后续治疗选择的影响尚不明确。该文系统综述了跨药物转换、反应丢失与再捕获、同药再暴露、联合治疗及计划停药后再挑战等证据。观察性转换研究提示，既往一种TPO-RA失败后对另一种药物仍可能有效，但既往暴露、转换指征、反应定义及耐久性差异限制了结果解读；同药
 
 
 <!-- DAILY_PAPERS_END -->
