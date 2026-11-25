@@ -12,103 +12,107 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-11-24
-*Fetched and summarized 18 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
+### Summary for 2026-11-25
+*Fetched and summarized 25 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Photothermal Agents Based on Natural Polyphenol-Fe Networks for Inhibition of Coronaviruses.](https://pubmed.ncbi.nlm.nih.gov/43073221/)** (PMID: 43073221)
+*   **[Preclinical and First-in-Human Phase I Evaluation of HH-101, an Fc-Afucosylated Anti-TIGIT Monoclonal Antibody with Enhanced Effector Function.](https://pubmed.ncbi.nlm.nih.gov/43077684/)** (PMID: 43077684)
+    *   **简明总结（4-6句）**
+    *   HH-101是一种Fc去
+
+*   **[Illness Identity Portraits of Adolescents With Epilepsy: A Qualitative Study.](https://pubmed.ncbi.nlm.nih.gov/43077682/)** (PMID: 43077682)
     *   
 
-*   **[Evaluation of dupilumab for the treatment of bullous pemphigoid.](https://pubmed.ncbi.nlm.nih.gov/43073214/)** (PMID: 43073214)
+*   **[Resolving Chlorine Sites in Pharmaceuticals by Integrated Site-Resolved Zeeman-Perturbed NQR, Solid-State NMR, and Electron Diffraction Crystallography.](https://pubmed.ncbi.nlm.nih.gov/43077670/)** (PMID: 43077670)
     *   
 
-*   **[Diversified Synthesis of Nonclassical C-Glycosides Through Cooperative N‑Heterocyclic Carbene and Photoredox Catalytic Acylation.](https://pubmed.ncbi.nlm.nih.gov/43073203/)** (PMID: 43073203)
-    *   **简明中文总结（4-6句）**
-    *   C-糖苷因代谢稳定性高和生物活性多样而受关注，但其合成多样性仍远不及O-糖苷和N-糖苷，非经典C-糖苷的多样化构建尤其困难。作者发展了NHC/光氧化还原双催化策略，可在糖的非端基位置引入近端和远端酰基，获得结构独特的非经典C-糖苷。所引入酰基可作为合成枢纽，进一步转化为烯基、羟烷基和烯丙基等多种苷元官能团。该方法实现了多样性导向合成，包括含吲哚、喹啉的C-糖苷以及核糖基Z-/E-他莫
-
-*   **[Postnatal Diagnosis of Mosaic Trisomy 20: A Report of 3 New Individuals and Review of the Literature.](https://pubmed.ncbi.nlm.nih.gov/43073196/)** (PMID: 43073196)
-    *   
-
-*   **[Enterochromaffin cells as sensory hubs of the gut-brain axis.](https://pubmed.ncbi.nlm.nih.gov/43073178/)** (PMID: 43073178)
-    *   **简明中文总结（4–6句）**
-    *   该综述聚焦胃肠道黏膜上皮中的肠嗜铬细胞（ECCs）——占肠上皮细胞不足1%的罕见肠内分泌细胞亚型。ECCs是可兴奋细胞，表达多种离子通道和受体，能感受化学和机械刺激，是胃肠道上皮感知的重要参与者。近期研究表明，ECCs及其释放的外周5-羟色胺（5-HT）参与调控分泌、胃肠动力、感觉传入神经超敏、饱腹感、恶心和内脏痛等多种生理及病理状态。综述还强调ECCs与神经的相互作用及其多效功能。对药物科学而言，ECCs位于环境刺激、5-HT信号和神经反射的交汇点，是功能性胃肠病、恶心/呕吐、内脏痛和动力障碍等潜在药物靶点相关的重要细胞界面。
-    *   
-    *   **创新性总结**
-    *   - 将罕见ECCs置于胃肠道上皮感知整合的核心，强调其化学/机械刺激感受与神经-5-HT调控网络。
-    *   - 系统连接ECCs功能与外周5-HT释放、神经相互作用及多种胃肠病理生理状态。
-    *   
-    *   **药学启示**
-    *   - ECCs及外周5-HT通路可作为功能性胃肠病、恶心、
-
-*   **[Causal effect of metabolic syndrome on colorectal cancer: A cross-ancestry genomic SEM and mendelian randomization study.](https://pubmed.ncbi.nlm.nih.gov/43073165/)** (PMID: 43073165)
-    *   **简明中文总结**
-    *   该研究利用台湾生物库、日本生物库、UK Biobank 和 NCBI 的跨祖先遗传数据，将代谢综合征（MetS）作为一个整合的遗传实体，采用基因组结构方程建模构建遗传工具，并通过两样本孟德尔随机化评估其对结直肠癌（CRC）的因果效应。主要分析显示，遗传预测
-
-*   **[Remimazolam versus midazolam for ileocolonoscopy sedation in inflammatory bowel disease: a prospective, patient-blinded, non-inferiority study with weekly time-block allocation.](https://pubmed.ncbi.nlm.nih.gov/43073137/)** (PMID: 43073137)
-    *   
-
-*   **[A NET gain for cancer: limiting antibody-drug conjugate access.](https://pubmed.ncbi.nlm.nih.gov/43073119/)** (PMID: 43073119)
-    *   **简明总结（约5句）**
-    *   Yan等报告，雌激素可重定向肿瘤细胞内在的STING信号通路，促进中性粒细胞胞外诱捕网（NET）形成。NET形成后会限制抗体接近肿瘤细胞表面的抗原，从而削弱抗体类抗肿瘤药物的作用。该研究说明，肿瘤抗原“表达”并不等同于抗体治疗时抗原“可及”。研究因此提出了一种由免疫来源的胞外机制介导的抗体治疗耐药模式。其与药物科学的相关性在于：抗体药疗效不仅取决于靶点表达，还受肿瘤微环境、激素信号和胞外屏障影响，提示需联合干预NET/STING/雌激素通路以提高抗体可及性和疗效。
-    *   
-    *   **创新性总结**
-    *   - 将雌激素信号、肿瘤内在STING
-
-*   **[Disproportionate orphan drug costs limit equitable access to therapy.](https://pubmed.ncbi.nlm.nih.gov/43073118/)** (PMID: 43073118)
-    *   **简明中文总结（4–6句）**
-    *   1. 药物开发进步显著改善了罕见病治疗，但高价格仍严重限制患者可及性，尤其在发展中国家。
-    *   2. 补体治疗药物是这一矛盾的典型例子：创新疗法已出现，但支付与准入障碍突出。
-    *   3. 作者认为需要监管改革，而非仅依靠市场机制来解决孤儿药可及性问题。
-    *   4. 改革应包括动态定价，并认可公共研究对药物开发的贡献。
-    *   5. 激励机制应与临床获益相匹配，并随药物使用和证据变化进行定期再评估。
-    *   6. 同时，政策制定应优先保障患者公平可及，这与药物科学中的价值评估、真实世界证据和卫生政策密切相关。
-    *   
-    *   **创新性总结**
-    *   - 提出“动态定价+公共研究贡献认可”的孤儿药定价思路。
-    *   - 强调激励设计与临床获益挂钩，而非仅鼓励上市。
-    *   - 引入随药物使用演变的周期性再评估机制。
-    *   - 将公平可及性置于监管改革核心。
-    *   
-    *   **药学启示**
-    *   - 药物科学家和药师应参与价值评估、真实世界证据生成与用药监测。
-    *   - 孤儿药政策需兼顾创新激励
-
-*   **[Development and Biomechanical Study of Micro Anatomic Universal Locking Plate for Talus Fractures.](https://pubmed.ncbi.nlm.nih.gov/43073088/)** (PMID: 43073088)
-    *   
-
-*   **[Intrinsic Catalyst Reactivity-not Matched Surfactant Polarity-Drives Yield Differences in Aqueous Cross-Coupling.](https://pubmed.ncbi.nlm.nih.gov/43073083/)** (PMID: 43073083)
-    *   
-
-*   **[Association of Estimated Insulin Sensitivity With Cardiovascular Disease in Individuals Without Diabetes: Use of Traditional and Machine Learning.](https://pubmed.ncbi.nlm.nih.gov/43073073/)** (PMID: 43073073)
-    *   
-
-*   **[Aligned Evidence, Aligned Guidance: 2026-2027 Respiratory Virus Immunization Recommendations from The AAFP, AAP, ACOG, AND IDSA.](https://pubmed.ncbi.nlm.nih.gov/43073070/)** (PMID: 43073070)
-    *   **摘要总结（中文）**
-    *   1. 联邦疫苗咨询流程中断后，明尼苏达大学CIDRAP的“疫苗完整性项目（VIP）”联合美国医学会等，采用社会主导的协调方式制定2026–2027年呼吸道病毒免疫指南。
-    *   2. 该项目系统综述了流感、COVID-19和RSV免疫相关299项研究，确认疫苗对住院和死亡具有保护作用，且比较研究未发现新的安全性问题。
-    *   3
-
-*   **[Effect of Ambulatory Antimicrobial Stewardship Intervention on Respiratory Antibiotic Prescribing in Primary Care Clinics.](https://pubmed.ncbi.nlm.nih.gov/43073062/)** (PMID: 43073062)
-    *   
-
-*   **[Primary Care Clinicians' Perspectives on Treatment for Alcohol Use Disorder: A Qualitative Study.](https://pubmed.ncbi.nlm.nih.gov/43073054/)** (PMID: 43073054)
-    *   
-
-*   **[Trait Self-Objectification Modulates Attractiveness-Regulating Neural Activity in Sexual Objectification Processing: An ERP Study.](https://pubmed.ncbi.nlm.nih.gov/43073043/)** (PMID: 43073043)
-    *   **简明中文总结（约5句）**
-    *   1. 该研究探讨特质自我客体化如何调节个体对性化女性图片的行为与神经电生理反应，以理解性客体化相关心理痛苦的神经认知机制。
-    *   2. 行为结果显示，性化女性图片会提高吸引力评分，且该效应受个体特质自我客体化水平调节。
-    *   3. 神经层面，性化图片诱发N170、EPN、P200、顶中央LPP及额部LPP（f-LPP）等多个ERP成分，分别涉及知觉、注意、情绪和调节过程。
-    *   4. 关键在于，仅调节相关的f-LPP受特质自我客体化调节；且特质
-
-*   **[Effects of exogenous nitric oxide gas on Mycobacterium tuberculosis in vitro and in mice.](https://pubmed.ncbi.nlm.nih.gov/43073021/)** (PMID: 43073021)
-    *   **简明中文总结：**
-    *   该研究模拟近期高剂量吸入一氧化氮（iNO）的人体暴露条件，评估NO气体对结核分枝杆菌（Mtb）的体外和小鼠体内作用。结果发现，NO气体对在浅层、弱酸性液体中孵育的Mtb具有显著杀菌作用。Mtb感染小鼠总体耐受iNO，但在相同暴露水平下比人更易出现高铁血红蛋白血症。在肺部浸润通气不良的感染小鼠中，iNO表现出抗炎作用，却未降低细菌负荷。研究提示，iNO是否可作为结核辅助治疗、以及适用人群和治疗目标，需结合暴露条件、肺部病变状态和安全性进一步确定。
-    *   
-    *   **
-
-*   **[Treatment sequencing and thrombopoietin receptor agonist responsiveness in adult immune thrombocytopenia: switching, re-exposure, and combination strategies.](https://pubmed.ncbi.nlm.nih.gov/43073016/)** (PMID: 43073016)
+*   **[Cancer Incidence After Parkinson Disease: A Nationwide Multi-Cohort Study With Genetic Analyses.](https://pubmed.ncbi.nlm.nih.gov/43077655/)** (PMID: 43077655)
     *   **简明中文总结（约4–6句）**
-    *   成人免疫性血小板减少症（ITP）越来越多需要血小板生成素受体激动剂（TPO-RA）序贯治疗，但既往TPO-RA反应或失败对后续治疗选择的影响尚不明确。该文系统综述了跨药物转换、反应丢失与再捕获、同药再暴露、联合治疗及计划停药后再挑战等证据。观察性转换研究提示，既往一种TPO-RA失败后对另一种药物仍可能有效，但既往暴露、转换指征、反应定义及耐久性差异限制了结果解读；同药
+    *   该研究整合芬兰三个队列（FinnGen、FINPARK、Turku医院队列），量化帕金森病（PD）诊断后的癌症风险，并结合孟德尔随机化、LDSC、多基因风险评分和GWAS探讨吸烟及共享遗传机制。结果显示，PD患者总体癌症风险降低约31%–41%，其中呼吸系统癌和胃肠道癌下降最显著，且在调整吸烟后仍持续存在。遗传分析提示PD遗传易感性与呼吸系统、胃肠道及皮肤癌风险呈负相关，但与黑色素瘤和乳腺癌存在正向遗传相关，提示存在癌症特异性的共享遗传通路。研究认为，PD与多数癌症风险降低的关联不能仅由吸烟解释，部分可能源于共享遗传易感性；但残余混杂、检测偏倚及欧洲人群外推限制仍需考虑。
+    *   与药物科学的相关性在于：该研究提示PD相关基因通路可能成为癌症风险分层和药物靶点探索的线索，并支持在PD患者药物管理与精准医疗中关注癌症特异性风险差异，尤其是乳腺癌和黑色素瘤等正向信号。
+    *   
+    *   **创新性总结**
+    *   - 联合全国登记队列
+
+*   **[Stage-Dependent Associations of Amyloid Pathology and White Matter Hyperintensities With Cognitive Decline Across the Clinical Continuum.](https://pubmed.ncbi.nlm.nih.gov/43077653/)** (PMID: 43077653)
+    *   **简明总结（4–6句）**
+    *   本研究基于Harmonization队列（448人）和ADNI队列（1245人）的纵向数据，评估淀粉样病理生物标志物（血浆p-tau217或amyloid PET）与白质高信号（WMHs）对认知下降的独立及交互关联，并按临床阶段分层分析。结果显示，在认知正常（CN）人群中，淀粉样标志物与WMHs存在显著统计交互，二者联合关联超过各自效应之和，涉及整体认知、记忆及执行功能等。轻度认知障碍（M
+
+*   **[A Stage-Based Clinical Framework for Addressing Family Building Across the Cancer Survivorship Continuum.](https://pubmed.ncbi.nlm.nih.gov/43077644/)** (PMID: 43077644)
+    *   
+
+*   **[Hydroxychloroquine dose reduction or withdrawal and the risk of disease flare in systemic lupus erythematosus: A systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/43077639/)** (PMID: 43077639)
+    *   
+
+*   **[Advances in the utilization of dual-purpose medicinal and edible fungi for bidirectional fermentation in traditional Chinese medicine: a review.](https://pubmed.ncbi.nlm.nih.gov/43077630/)** (PMID: 43077630)
+    *   **简明总结（5句）**
+    *   该综述聚焦药食两用真菌在中药双向发酵中的应用潜力，系统梳理了其资源与生物学特性。文章重点探讨双向发酵的核心机制，即真菌如何通过生物转化增强中药疗效。综述进一步阐明了毒性中药成分的结构修饰、转化机制及新活性成分生成等关键过程。将真菌—草药相互作用机制与技术创新相结合，可为双向发酵技术的产业化提供理论支撑。总体而言，该文为精准中药和功能食品开发提供新方向，并推动中药现代化与国际化。
+    *   
+    *   **创新性总结**
+    *   - 系统整合药食真菌资源、双向发酵机制与中药减毒增效/新活性成分生成。
+    *   - 强调“真菌—草药互作机制＋技术创新”，为双发酵技术产业化提供理论框架。
+    *   - 将双向发酵拓展至精准中药与功能食品创新方向。
+    *   
+    *   **药学启示**
+    *   - 双向发酵可作为中药减毒增效、结构修饰和新活性成分
+
+*   **[Pathway specific regulation of epithelial mitochondrial dysfunction influences polyp formation in chronic rhinosinusitis with nasal polyps.](https://pubmed.ncbi.nlm.nih.gov/43077609/)** (PMID: 43077609)
+    *   
+
+*   **[Association of menopause age with blood pressure trajectories and cognitive decline in older women.](https://pubmed.ncbi.nlm.nih.gov/43077599/)** (PMID: 43077599)
+    *   
+
+*   **[Conservative management: diagnostic error after suspected CSF leak.](https://pubmed.ncbi.nlm.nih.gov/43077598/)** (PMID: 43077598)
+    *   
+
+*   **[Comparative study of the anti-inflammatory activity of hyperoside and its isomer in the treatment of diabetic retinopathy: From network pharmacology and bioinformatics analysis to experimental verification.](https://pubmed.ncbi.nlm.nih.gov/43077595/)** (PMID: 43077595)
+    *   
+
+*   **[Impact of dapagliflozin on renal function and serum uric acid: An updated meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/43077594/)** (PMID: 43077594)
+    *   **简明中文总结（4–6句）**
+    *   本研究通过系统评价和荟萃分析纳入19项随机对照试验，评估达格列净对患者肾功能指标及血尿酸水平的影响。结果显示，达格列净可显著降低血尿酸水平
+
+*   **[Solvent Engineering and MOF Nanoconfinement for Amplified Ratiometric Fluorescence Sensing of Fe3.](https://pubmed.ncbi.nlm.nih.gov/43077588/)** (PMID: 43077588)
+    *   
+
+*   **[The current standard and developing pipeline of peritonitis therapies in patients undergoing peritoneal dialysis.](https://pubmed.ncbi.nlm.nih.gov/43077586/)** (PMID: 43077586)
+    *   **简明总结（约4-6句）**
+    *   腹膜透析相关腹膜炎仍是PD的主要并发症，全球发生率约0.26–0.40次/患者年，尽管抗菌治疗进步，治愈率仍仅约65%，并显著增加死亡和转血透风险。该综述总结了其诊断、预防和治疗的最新进展，强调需要更有效的防治策略。诊断正从传统实验室检测和经验性抗生素治疗，扩展到床旁/家庭检测、测序与分子诊断及AI辅助工具，可实现更早、更准确识别，但多数尚待验证。预防策略正转向识别易感患者、加强生物膜控制及患者个体化考虑，而非统一方案。治疗方面，生物膜靶向药物、新型抗菌药和抗生素浸渍导管等前景较好，但目前多为早期证据。未来需通过技术创新和严格临床试验证明临床获益，推动个体化、微生物学指导及以生物膜为核心的诊疗模式。
+    *   
+    *   **创新性总结
+
+*   **[Divergence between historical disease burden and future prevention opportunities in COPD and lung cancer.](https://pubmed.ncbi.nlm.nih.gov/43077577/)** (PMID: 43077577)
+    *   
+
+*   **[Dynamic single-molecule binding of carbamazepine explains diffuse cryo-EM density in the SUR1 drug-binding pocket.](https://pubmed.ncbi.nlm.nih.gov/43077573/)** (PMID: 43077573)
+    *   
+
+*   **[Physiological rewiring by plastic particles.](https://pubmed.ncbi.nlm.nih.gov/43077531/)** (PMID: 43077531)
+    *   
+
+*   **[Endothelial lipase facilitates antiviral responses by promoting the lysine-63-linked ubiquitylation of IRF7 by TRIM28.](https://pubmed.ncbi.nlm.nih.gov/43077529/)** (PMID: 43077529)
+    *   **简明中文总结（约5句）**
+    *   1. 该研究鉴定脂代谢酶内皮脂肪酶（LIPG）为一种广谱抗病毒宿主限制因子，其抗病毒作用依赖催化结构域。
+    *   2. 机制上，LIPG与关键抗病毒转录因子IRF
+
+*   **[Sleep Characteristics and Sleep Problems in Vietnamese Toddlers with Autism Spectrum Disorder.](https://pubmed.ncbi.nlm.nih.gov/43077526/)** (PMID: 43077526)
+    *   **简明中文总结（4-6句）**
+    *   该横断面研究纳入78名18–36月龄越南孤独症谱系障碍（ASD）幼儿，使用越南版 Brief Infant Sleep Questionnaire（BISQ）评估睡眠特征，并以 CARS2-ST 评估ASD严重程度。研究发现屏幕暴露（85.9%）、睡前进食（82.1%）和同睡（93.6%）比例
+
+*   **[The Construction of Cinnamic Acid Derivative-Peptide Conjugates via a Catellani Strategy.](https://pubmed.ncbi.nlm.nih.gov/43077522/)** (PMID: 43077522)
+    *   
+
+*   **[Fosfomycin in acute and chronic bacterial prostatitis and prostate biopsy prophylaxis: a narrative review in the era of antimicrobial resistance.](https://pubmed.ncbi.nlm.nih.gov/43077521/)** (PMID: 43077521)
+    *   
+
+*   **[Antimetastatic Sulfonate-Functionalized Mesoporous Silica Nanoparticles Enhance Irinotecan Stability and Delivery for Colorectal Cancer Treatment.](https://pubmed.ncbi.nlm.nih.gov/43077519/)** (PMID: 43077519)
+    *   
+
+*   **[Light-Programmable Broad-Spectrum CPC-like Surfactants as Environmentally Benign Alternatives to Cationic Antimicrobial Agents.](https://pubmed.ncbi.nlm.nih.gov/43077518/)** (PMID: 43077518)
+    *   **简明总结（4–6句）**
+    *   该文针对季铵盐类化合物（QACs，尤其西吡氯铵CPC）广泛使用导致微生物耐药及其化学稳定性造成环境持久性问题，设计了一类新型光活性CPC类似物（2a–l），引入硫醚连接等结构。最有效的2b和2k对革兰阳性菌和革兰阴性菌均具广谱抗菌活性，包括变形链球菌、金黄色葡萄球菌、铜绿假单胞菌、肺炎克雷伯菌和大肠埃希菌，MIC约为1–8 μg/mL。这些表面活性剂在光化学活化后可产生II型活性氧（ROS），并补充吡啶鎓部分产生的I型ROS，从而增强抗菌作用。其临界胶束浓度平均比CPC
+
+*   **[Immunometabolic basis of glutamine supplementation as a potential host-directed therapy for tuberculosis.](https://pubmed.ncbi.nlm.nih.gov/43077510/)** (PMID: 43077510)
+    *   
 
 
 <!-- DAILY_PAPERS_END -->
