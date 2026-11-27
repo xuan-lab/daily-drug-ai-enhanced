@@ -12,115 +12,97 @@
 
 <!-- DAILY_PAPERS_START -->
 
-### Summary for 2026-11-26
-*Fetched and summarized 25 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
+### Summary for 2026-11-27
+*Fetched and summarized 24 papers matching 'network pharmacology OR pharmacy OR pharmaceutical sciences OR drug discovery OR drug development OR clinical pharmacy OR pharmacogenomics OR nanomedicine OR biotechnology drugs OR personalized medicine OR drug interactions OR traditional Chinese medicine OR pharmacokinetics OR pharmacodynamics OR drug delivery OR drug formulation OR drug metabolism OR drug safety OR drug efficacy OR drug design OR drug repurposing OR drug resistance OR drug toxicity OR drug side effects OR drug therapy OR drug monitoring OR drug regulation OR drug policy'.*
 
-*   **[Optimizing Eculizumab and Ravulizumab Initiation in Myasthenia Gravis: Infection Risk, Vaccination Timing, and Antibiotic Prophylaxis.](https://pubmed.ncbi.nlm.nih.gov/43084818/)** (PMID: 43084818)
-    *   **简明中文总结（约5句）**
-    *   该文综述了补体C5抑制剂（如eculizumab、ravulizumab）用于全身型重症肌无力（gMG）时的脑膜炎球菌感染风险管理。C5抑制剂起效快、可改善gMG疾病负担，但会增加脑膜炎球菌感染风险，因此启动治疗时需在感染防控与及时治疗之间取得平衡。2024年美国脑膜炎球菌疫苗接种政策将完成时间由2个月延长至6个月，并允许临床判断提前启动C5抑制剂；但作者认为支持该调整的血清
+*   **[Real-World Deployment of a Web-Based Bone Health Self-Assessment Tool in Thailand: Descriptive Cross-Sectional Study.](https://pubmed.ncbi.nlm.nih.gov/43097723/)** (PMID: 43097723)
+    *   **摘要总结（约5
 
-*   **[Immune Checkpoint Inhibitor Hypersensitivity Reactions: Outcomes in 82 Patients With 461 Rapid Drug Desensitizations.](https://pubmed.ncbi.nlm.nih.gov/43084812/)** (PMID: 43084812)
+*   **[In Vivo Fate and Nanoparticle-induced Toxicity: A Comprehensive Review on Organ Distribution, Oxidative Stress, and Mechanistic Insights.](https://pubmed.ncbi.nlm.nih.gov/43097713/)** (PMID: 43097713)
     *   
 
-*   **[Implications of EASO's New Obesity Definition Across Aging Cohorts: Prevalence and Associations With Dementia and All-Cause Mortality.](https://pubmed.ncbi.nlm.nih.gov/43084810/)** (PMID: 43084810)
-    *   **简明总结**
-    *   该研究利用英国ELSA和中国CHARLS两个老年队列（共18,944人），比较EASO肥胖框架与传统BMI标准对肥胖的分类及其与痴呆和全因死亡的关系。EASO框架整合BMI、腰高比和肥胖相关合并症，使相当比例老年人被重新归类为肥胖（CHARLS
-
-*   **[A Phenotype-Guided Approach to Pharmacological Management of Postural Orthostatic Tachycardia Syndrome: A Practical Review for the Frontline Clinician.](https://pubmed.ncbi.nlm.nih.gov/43084807/)** (PMID: 43084807)
+*   **[SETDB1 Gene Dysregulation in Recurrent Spontaneous Abortion: Associations with Environmental Exposure, Hormonal Imbalance, Metabolic Dysfunction, and Epigenetic Alterations.](https://pubmed.ncbi.nlm.nih.gov/43097704/)** (PMID: 43097704)
     *   
 
-*   **[Giant-Cell Arteritis.](https://pubmed.ncbi.nlm.nih.gov/43084788/)** (PMID: 43084788)
-    *   **简明中文总结（约4–6句）**
-    *   该文综述巨细胞动脉炎（GCA）——一种几乎仅见于老年人的大中型动脉肉芽肿性血管炎——的发病机制、临床表现、诊断和管理。疑似GCA需紧急诊断评估；当缺血风险高时，应在确诊前立即开始治疗。糖皮质激素仍是治疗基石，但常需长期使用，毒副作用明显且复发常见。血管影像学进展及对疾病免疫发病机制的认识深化，揭示了GCA的异质性，并推动了靶向治疗发展，尤其是IL-6受体抑制剂和JAK抑制剂。文章同时指出当前证据的不确定性，提示需进一步研究以优化分层诊疗和药物选择。与药物科学相关的是，GCA治疗正从单一激素模式向“早期控制+激素减量+靶向维持/复发管理”转变，对药物选择、安全性监测和个体化用药提出更高要求。
-    *   
-    *   **创新性总结**
-    *   - 强调GCA并非均一疾病，影像学和免疫机制进展支持疾病异质
-
-*   **[Blood-Pressure-Lowering Treatment across the Cardiovascular Risk Spectrum.](https://pubmed.ncbi.nlm.nih.gov/43084787/)** (PMID: 43084787)
+*   **[A new sesquiterpene and its antibacterial activity.](https://pubmed.ncbi.nlm.nih.gov/43097691/)** (PMID: 43097691)
     *   
 
-*   **[A Phase 1 Study of FHD-286, a Dual SMARCA4/SMARCA2 Inhibitor, In Patients With Metastatic Uveal Melanoma.](https://pubmed.ncbi.nlm.nih.gov/43084780/)** (PMID: 43084780)
-    *   
-
-*   **[Spermine-Enabled Mg2 +-Free DNA Nanoplatform for Inflammation-Ferroptosis Co-Regulation in Acute Respiratory Distress Syndrome.](https://pubmed.ncbi.nlm.nih.gov/43084774/)** (PMID: 43084774)
-    *   ### 简明中文总结（约5句）
-    *   该研究针对急性呼吸窘迫综合征（ARDS）中巨噬细胞炎症激活与铁死亡相关脂质过氧化并存的病理特点，构建了精胺介导的无镁四面体框架核酸纳米平台 **Spm-tFNA-A-siT**，以实现炎症与铁死亡的双重调控。平台中精胺既作为DNA纳米结构组装介导物，使tFNA在无Mg²⁺条件下形成并提高生理稳定性，又作为具有抗炎、抗铁死亡活性的功能分子。该平台整合TLR4适配体和TREM-1 siRNA，增强活化巨噬细胞摄取并实现TREM-1基因沉默。机制上，Spm-tFNA-A-siT抑制TREM-1/NF-κB炎症信号并恢复GPX4/SLC7A11铁死亡防御轴，从而同时减轻炎症反应和脂
-
-*   **[Blood-Spinal Cord Barrier Repair and Axonal Regeneration Based on Redox-Triggered PL-NGF Release Semi-Convertible Hydrogel.](https://pubmed.ncbi.nlm.nih.gov/43084772/)** (PMID: 43084772)
-    *   **简明总结（4–6句）**
-    *   该研究针对脊髓损伤（SCI）后血-脊髓屏障（BSCB）破坏、神经元再生能力有限及ROS过高导致氧化应激微环境的问题，开发了负载PL-NGF的氧化还原响应型半可转化水凝胶递送系统（RSCH/PL-NGF）。该系统可经ROS-GSH介导发生状态转变：在急性氧化应激阶段实现药物突释，随着ROS水平下降转为控释。PL主要促进BSCB修复，富集的NGF促进内源性神经干细胞定向分化。在大鼠SCI模型中，RSCH/PL-NGF促进BSCB修复和轴突再生，并改善运动功能恢复。总体表明，该氧化还原响应递送策略可实现神经-血管协同修复，为SCI治疗提供了有前景的药物递送方案。
-    *   
-    *   **创新性总结**
-    *   - 将SCI的氧化应激
-
-*   **[Interaction-Rich Odorant Receptor Neighborhoods and Olfaction-Dependent Subsocial Behavior in a Parasitoid Wasp.](https://pubmed.ncbi.nlm.nih.gov/43084771/)** (PMID: 43084771)
-    *   
-
-*   **[Vitamin C Synergy With the BCL-2 Inhibitor APG-2575 Induces Concurrent Apoptosis and HMOX1-Dependent Ferroptosis in Acute Myeloid Leukemia.](https://pubmed.ncbi.nlm.nih.gov/43084763/)** (PMID: 43084763)
-    *   **简明中文总结（5句）**
-    *   该研究通过CRISPR-Cas9药物靶点筛选发现，BCL-2是急性髓系白血病（AML）细胞对高剂量维生素C最敏感的增敏靶点。维生素C与BCL-2抑制剂lisaftoclax（APG-2575）联合具有协同抗白血病作用，并同时触发两种药理学
-
-*   **[VPMDA: Cold-Start Drug-Microbe Association Prediction via Contrastive Representation Learning and Collaborative Propagation.](https://pubmed.ncbi.nlm.nih.gov/43084752/)** (PMID: 43084752)
-    *   **简明中文总结（约5句）**
-    *   1. 药物-微生物关联（MDA）预测有助于药微生物组研究、抗菌药物发现和药物重定位，但现有方法多在转导式设置下评估，面对训练中未
-
-*   **[Patient- and Family-centred Nursing Communication in the Intensive Care Unit: A Bibliometric Analysis.](https://pubmed.ncbi.nlm.nih.gov/43084737/)** (PMID: 43084737)
-    *   **简明中文总结（约4-6句）**
-    *   1. 该研究以文献计量学方法分析2006—2025年ICU以患者和家庭为中心的护理沟通研究，共纳入925篇文献、4048位作者和1651个机构，年发文量呈波动上升趋势。
-    *   2. 研究热点集中在沟通的影响、沟通管理以及情境特异性沟通。
-    *   3. 未来趋势可能包括ICU幸存者的长期沟通需求，以及增强与替代沟通（AAC）工具的研发与应用。
-    *   4. 研究为理解过去20年该领域的研究格局、热点和未来路径提供了可视化证据和参考。
-    *   5. 该主题虽非直接药物研究，但其“沟通管理—患者家庭参与—工具支持”框架与药学服务高度相关，可启发ICU用药信息传递、用药决策参与和用药安全管理。
-    *   
-    *   **创新性总结**
-    *   - 采用CiteSpace和VOSviewer对ICU患者/家庭中心护理沟通进行长期文献计量与可视化分析。
-    *   - 系统识别研究热点，并提出ICU幸存者长期沟通需求和A
-
-*   **[Effect of Chlorhexidine Oral Care on Ventilator-Associated Events in 4 ICU Populations: A Retrospective Study.](https://pubmed.ncbi.nlm.nih.gov/43084731/)** (PMID: 43084731)
+*   **[Structural and energetic determinants of 15-PGDH small-molecule inhibition.](https://pubmed.ncbi.nlm.nih.gov/43097690/)** (PMID: 43097690)
     *   **简明中文总结（4–6句）**
-    *   该研究基于美国佛罗里达州一家四级医院的电子健康记录，纳入1567例机械通气患者，评估每日两次0.12%葡萄糖酸氯己定（CHG）口腔护理
-
-*   **[Say No to Catheter-Associated Urinary Tract Infections: A Sustained Quality Improvement Initiative in the Neuro Intensive Care Unit.](https://pubmed.ncbi.nlm.nih.gov/43084729/)** (PMID: 43084729)
-    *   **简明总结（约5句）**
-    *   该质量改进项目针对神经重症监护室2022—2023年CAUTI报告数升至12例的问题，系统审查了导尿管使用、尿培养采集流程
-
-*   **[4-Mercaptoethyl-Pyridine-Functionalized EAK Peptide Hydrogel Prolongs Intra-Articular Retention of Infliximab and Modulates Cartilage Fibrosis-Related Readouts in Osteoarthritis.](https://pubmed.ncbi.nlm.nih.gov/43084727/)** (PMID: 43084727)
-    *   
-
-*   **[Click-derived phenothiazine-triazole fluorophores: solvent-dependent emission and alkyl-chain effects on cellular imaging.](https://pubmed.ncbi.nlm.nih.gov/43084714/)** (PMID: 43084714)
-    *   
-
-*   **[Stereoelectronic effects in glycan conformation.](https://pubmed.ncbi.nlm.nih.gov/43084704/)** (PMID: 43084704)
-    *   **简明中文总结（约4-6句）**
-    *   该文是一篇教程综述，系统阐述聚糖因低能垒可在多个构象状态间转换，这种结构可塑性既是其生物功能和化学反应性的基础，也给结构分析带来挑战。文章重点总结决定聚糖构象的立体电子效应，涵盖互变异构、异头化、环折叠、侧链旋转异构及糖苷键偏好等关键方面。作者还梳理了探测聚糖构象的分析方法，并强调特定构象在碳水化合物化学和生物识别中的重要性。特别地，文章讨论了通过化学策略调控聚糖构象，说明如何利用立体电子效应调节聚糖结构与功能。其内容对化学生物学、
-
-*   **[A divergent bat orthopneumovirus with zoonotic potential constrained by RSV adaptive immunity and broad-spectrum treatment.](https://pubmed.ncbi.nlm.nih.gov/43084697/)** (PMID: 43084697)
-    *   
-
-*   **[Stress unmasks disconnected endocrine coordination of glucose metabolism in Duchenne muscular dystrophy.](https://pubmed.ncbi.nlm.nih.gov/43084694/)** (PMID: 43084694)
-    *   **简明中文总结**
-    *   该研究在杜氏肌营养不良（DMD
-
-*   **[A programmable cell-free biosensor device for on-demand detection of pathogens and antibiotics.](https://pubmed.ncbi.nlm.nih.gov/43084693/)** (PMID: 43084693)
-    *   
-
-*   **[Tuning microswimmer motility by liposome encapsulation: A membrane clutch enables controlled swimming and cargo transport.](https://pubmed.ncbi.nlm.nih.gov/43084684/)** (PMID: 43084684)
-    *   **简明总结（4–6句）**
-    *   该研究以“莱茵衣藻包裹于巨型脂质体中”的生物杂化系统chlamylipo为模型，探讨脂质体包裹如何调控微游动体的运动。作者从流体力学角度建立了包含脂质体半径、鞭毛拍动频率和膜突出程度的“形变—速度”关系，解释了包裹对运动能力的调节机制。研究发现，引入光响应脂质可实现运动能力的可逆开关，脂质体膜类似“离合器”调控膜突出与游动。该系统还能完成货物装载、携带和触发释放，表明脂质体包裹可将运动微生物转化为可控运输载体。整体上，该工作为生物杂化微机器人运动控制与货物递送提供了机制基础和概念验证，对智能药物递送系统设计具有相关性。
+    *   该论文报道了人15-前列腺素脱氢酶（15-PGDH）与小分子抑制剂复合物的1.9 Å高分辨率晶体结构。结构分析在原子层面揭示了有序水分子在高亲和力抑制15-PGDH中的作用。作者还结合多项计算分析，加深了对已知15-PGDH抑制剂高效力的理解。该工作为靶向这一治疗相关酶的结构导向药物设计提供了新机会。15-PGDH参与组织再生和炎症调控，因此该研究对相关疾病药物开发具有药物科学意义。
     *   
     *   **创新性总结**
-    *   - 从流体力学角度提出脂质体半径、拍动频率与膜突出相关的形变—速度表达式，弥补运动机制解释不足。
-    *   - 将脂质体膜设计为光控“离合器”，实现微游动体运动的可逆开关与速度调控。
+    *   - 获得15-PGDH–小分子抑制剂复合物的高分辨率结构，突出“有序水分子网络”在抑制中的作用。
+    *   - 将晶体结构与计算分析结合，解释已知抑制剂的高效力来源。
+    *   - 为15-PGDH的结构导向药物设计提供原子级模板
 
-*   **[Aclarubicin disrupts RNA polymerase II progression at replication-coupled histone genes.](https://pubmed.ncbi.nlm.nih.gov/43084682/)** (PMID: 43084682)
+*   **[Structure-driven thrombolysis after stenting: a particle-scale simulation of geometry and thrombus evolution.](https://pubmed.ncbi.nlm.nih.gov/43097689/)** (PMID: 43097689)
+    *   **简明中文总结（5句）**
+    *   该研究利用二维颗粒尺度模型，整合血小板输运、黏附及药物介导溶栓，考察支架植入后血栓形成与溶解过程。结果表明，圆形支柱和非偏移堆叠配置具有更优的溶栓效果。支柱间距呈非单调影响：0L间距效果最佳，1L间距最差，原因涉及血小板滞留和药物输运受限。已有血栓会显著削弱溶栓效果，并促进继发性血栓生长。研究为支架几何设计优化及早期抗血栓干预提供了机制性依据，对改善局部溶栓药物递送和抗血栓治疗策略具有药学相关性。
+    *   
+    *   **创新性总结**
+    *   - 构建二维颗粒尺度模型，同时纳入血小板输运、黏附与药物介导溶栓过程。
+    *   - 系统评估支柱几何、支柱间距、堆叠配置及初始血栓状态对溶
+
+*   **[Association of Participation in a Community-Based Activity Program With Quality of Life in Independently Living Older Adults: A Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/43097668/)** (PMID: 43097668)
+    *   **论文摘要总结（中文）**
+    *   该研究评估了社区健康生活项目（HLP）与独立生活老年人健康相关生活质量（HRQOL-4）的关系，随访18个月、纳入177人，并比较暴露组与非暴露组。两组社会人口学特征无显著差异；双变量分析显示，暴露组自评健康和健康天数显著更高。各随访时点的回归分析均表明，HLP暴露与健康天数显著相关；在6个月和12个月随访时，HLP暴露还与更高的健康评分显著相关。暴露者报告有“属于共享兴趣和生命经历社区”的感受。结果表明，采用定制化、团体式并促进社区建设的项目，是改善独立生活老年人HRQOL的有效途径。该研究并非药物干预研究，但其社区健康促进和社会支持模式可为药物科学中的慢病管理、用药依从性和健康结局改善提供参考。
+    *   
+    *   **创新性总结**
+    *   -
+
+*   **[Programmable Nanostructured Polymer Electrolytes for Lithium-Metal Batteries via Photopolymerization-Induced Microphase Separation.](https://pubmed.ncbi.nlm.nih.gov/43097662/)** (PMID: 43097662)
     *   
 
-*   **[Skeletal muscle proteomics reveals metabolic phenotype-specific adaptations to exercise training in health, obesity, and type 2 diabetes.](https://pubmed.ncbi.nlm.nih.gov/43084678/)** (PMID: 43084678)
-    *   ## 简明总结
+*   **[Are T cell engagers the next big thing in autoimmune disease treatment?](https://pubmed.ncbi.nlm.nih.gov/43097646/)** (PMID: 43097646)
     *   
-    *   该研究对瘦人、肥胖者及2型糖尿病（T2D）男性的骨骼肌活检进行蛋白质组学和磷酸化蛋白质组学分析，比较8周高强度间歇训练（HIIT）前后在基础及胰岛素刺激条件下的分子变化。结果显示，HIIT前蛋白质表达从瘦人到肥胖再到T2D呈逐步变化；HIIT在肥胖和T2D中诱导更明显的蛋白质组重塑，表现为线粒体蛋白增加、蛋白酶体蛋白减少。磷酸化蛋白质组反应具有诊断依赖性，揭示不同表型下胰岛素信号适应的差异。机制上，AMPKγ2是HIIT调控的突出蛋白，其在所有表型中掺入AMPKα2β2复合物的程度增加；在人肌管中过表达AMPKγ2可增加基础葡萄糖氧化。研究阐明了运动诱导胰岛素增敏的
 
-*   **[The circSRSF5-FUS-EIF4A3 regulatory circuitry protects Ewing sarcoma cells from EWS::FLI1 small-molecule inhibition.](https://pubmed.ncbi.nlm.nih.gov/43084670/)** (PMID: 43084670)
+*   **[Advancing undergraduates' skills for communicating science with the public.](https://pubmed.ncbi.nlm.nih.gov/43097626/)** (PMID: 43097626)
+    *   
+
+*   **[Binding kinetics enable tumor-selective MAPK and growth suppression by a Type 1 RAF inhibitor.](https://pubmed.ncbi.nlm.nih.gov/43097612/)** (PMID: 43097612)
+    *   
+
+*   **[Can oral L-citrulline or L-citrulline malate augment the post-exercise hypotension response? A systematic review and meta-analysis of randomized controlled trials.](https://pubmed.ncbi.nlm.nih.gov/43097609/)** (PMID: 43097609)
+    *   **简明
+
+*   **[Multicomponent Synthesis of Aspartyl Hydrazide- and Hydroxamate-Containing Peptidomimetics.](https://pubmed.ncbi.nlm.nih.gov/43097603/)** (PMID: 43097603)
+    *   
+
+*   **[Toward a Pill-Free Future: Sustained-Release Silk Fibroin Microneedles as an Alternative Delivery Platform for Levothyroxine.](https://pubmed.ncbi.nlm.nih.gov/43097600/)** (PMID: 43097600)
+    *   
+
+*   **[Phloroglucinol derivatives from the aerial parts of Pogostemon auricularius and their antiproliferative activity.](https://pubmed.ncbi.nlm.nih.gov/43097582/)** (PMID: 43097582)
+    *   **简明总结（约5句）**
+    *   本研究从 *Pogostemon auricularius* 地上组织中分离鉴定了6个间苯三酚类次生代谢物。化合物1被命名为pogostemonol A，是此前未描述的新天然产物，其化学骨架和绝对构型通过光谱分析与单晶X射线衍射确定。化合物2此前仅作为专利中的合成化合物报道，本研究首次从天然来源获得。化合物2对多种肺癌细胞系具有时间依赖性抗增殖活性，并在NCI-H460细胞中抑制迁移和克隆形成。机制上，化合物2诱导浓度依赖性、caspase非依赖性细胞死亡，伴随Bax/Bcl-2比值升高，主要与Bcl-2下调相关，提示其通过MOMP相关促死亡信号而非经典caspase-3依赖性
+
+*   **[New dammarane-type triterpenoid saponins from the steamed roots of Panax notoginseng.](https://pubmed.ncbi.nlm.nih.gov/43097549/)** (PMID: 43097549)
+    *   
+
+*   **[Exercise-Mimetic Irisin Nanoplatforms Orchestrate Mitochondrial Integrity and Neuroinflammatory Modulation in Cerebral Ischemic-Reperfusion Injury.](https://pubmed.ncbi.nlm.nih.gov/43097535/)** (PMID: 43097535)
+    *   ### 简明中文总结
+    *   该研究针对缺血性卒中治疗窗窄、神经保护剂难以透过血脑屏障（BBB）的问题，构建了一种仿生纳米平台 **Ang-PPPC@irisin**，将“运动模拟”策略与线粒体精准保护相结合。该平台通过 Angiopep-2 增强 BBB 穿透，并利用苯硼酸修饰实现病灶部位
+
+*   **[Conducting Boronate-Substituted Polyaniline Nanostructures for Sub-Picomolar Avidity Binding of Glycoproteins.](https://pubmed.ncbi.nlm.nih.gov/43097514/)** (PMID: 43097514)
+    *   
+
+*   **[Inhibition of H2S Production Reduces Portal Pressure and Attenuates Liver Fibrosis in Bile Duct-Ligated Rats.](https://pubmed.ncbi.nlm.nih.gov/43097512/)** (PMID: 43097512)
+    *   
+
+*   **[Expression of Circulating MicroRNA before and after Abdominal Aneurysm Repair.](https://pubmed.ncbi.nlm.nih.gov/43097511/)** (PMID: 43097511)
+    *   
+
+*   **[Hydrostatic Pressure Overrides Matrix Stiffness in Regulating Cancer Cell Morphology and Proliferation in 3D Gelatin Microtissues.](https://pubmed.ncbi.nlm.nih.gov/43097488/)** (PMID: 43097488)
+    *   
+
+*   **[Optimized Activatable Fluorescent and Photoacoustic Imaging Platform toward Precision Detection of Multi-stage Liver Disease.](https://pubmed.ncbi.nlm.nih.gov/43097487/)** (PMID: 43097487)
+    *   **简明总结（5句）**
+    *   1. 该研究针对多阶段肝病高灵敏、精准、多模式成像探针缺乏
+
+*   **[Wild Silks Tune Gelation and Properties of Silk Hydrogels.](https://pubmed.ncbi.nlm.nih.gov/43097485/)** (PMID: 43097485)
+    *   
+
+*   **[Smart Colorimetric Hydrogel Patches with AI-Driven Rational Design for Continuous Temperature Monitoring.](https://pubmed.ncbi.nlm.nih.gov/43097480/)** (PMID: 43097480)
     *   
 
 
